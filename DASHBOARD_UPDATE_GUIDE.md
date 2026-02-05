@@ -84,9 +84,10 @@ The GitHub Pages repo has a **flat structure** (dashboard contents at root + dat
 
 # 1. Create temp deploy directory
 mkdir _deploy
-cp -r dashboard/index.html dashboard/css dashboard/js dashboard/views _deploy/
+cp index.html _deploy/              # CRITICAL: Use ROOT index.html (not dashboard/index.html)
+cp -r dashboard _deploy/            # Copy entire dashboard folder
 cp -r data _deploy/data
-touch _deploy/.nojekyll    # REQUIRED: prevents Jekyll from ignoring _meta.json files
+touch _deploy/.nojekyll             # REQUIRED: prevents Jekyll from ignoring _meta.json files
 
 # 2. Init, commit, push
 cd _deploy
@@ -164,6 +165,32 @@ When updating Mission Control homepage content:
 
 **Future Prevention**:
 Consider consolidating to a single index.html with smart path detection, or document this clearly in session handoffs.
+
+### CRITICAL: Deployment Uses Root index.html
+
+**Issue**: The deployment process requires using the **root `index.html`** file, not `dashboard/index.html`. Using the wrong file causes 404 errors on GitHub Pages.
+
+**Symptoms**:
+- Homepage 404s after deployment
+- All dashboard views return 404
+- CSS and JS files fail to load
+
+**Root Cause**: The root `index.html` has paths like `dashboard/css/styles.css` for GitHub Pages' flat structure, while `dashboard/index.html` has paths like `css/styles.css` for local development.
+
+**Solution**: Always deploy with:
+```bash
+cp index.html _deploy/              # Use ROOT index.html
+cp -r dashboard _deploy/            # Copy entire dashboard folder
+```
+
+**NOT**:
+```bash
+cp -r dashboard/index.html dashboard/css dashboard/js ... _deploy/  # WRONG!
+```
+
+**2026-02-05 Example**:
+- Deployed using `dashboard/index.html` → entire site 404'd
+- Fixed by redeploying with root `index.html` → site loaded correctly
 
 ### Jekyll Processing & Underscore Files
 
