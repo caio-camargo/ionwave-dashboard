@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.1",
+  "last_updated": "2026-02-05",
+  "description": "Bidirectional index linking hypotheses to supporting documents and vice versa. Updated from comprehensive dependency audit.",
+
+  "hypothesis_to_documents": {
+    "HYP-001": {
+      "hypothesis_name": "Customer Acquisition Cost (CAC)",
+      "reference_count": 7,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Unit Economics Assumptions",
+          "context": "Base case $35 CAC with sensitivity analysis ($30-$45 range). CAC is highest-impact variable on timeline and capital needs.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Strategic_Foundation_Analysis.md",
+          "section": "1.2 Capital Tension Analysis",
+          "context": "CAC <$40 assumption vs. rising Meta CPMs (27% YoY). CAC may be higher and less stable than ODD-1 assumed.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "IonWave/Porter_Five_Forces_Analysis.md",
+          "section": "Force 3 - Threat of Substitutes",
+          "context": "Rising CPMs compress CAC efficiency. Zero switching costs increase CAC pressure.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "IonWave/Marine_Plasma_Market_Sizing.md",
+          "section": "Seaonic Competitive Intel",
+          "context": "35% affiliate commission indicates 65%+ gross margin requirement and CAC sensitivity.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "tracking/Open_Questions.md",
+          "section": "Q10: Capital Sufficiency",
+          "context": "CAC variance drives capital need (±$15K per $5 CAC change).",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_005",
+          "context": "Customer acquisition CAC <$40. Confidence: D (not validated).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/01_strategic_foundation/thesis.json",
+          "section": "execution.marketing_strategy",
+          "context": "Acquisition cost assumptions embedded in execution plan.",
+          "relevance": "SUPPORTING"
+        }
+      ]
+    },
+
+    "HYP-002": {
+      "hypothesis_name": "Free-to-Subscription Conversion Rate",
+      "reference_count": 5,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Conversion Assumptions",
+          "context": "Base 50%, optimistic 60% conversion rate. Represents subscribers as % of paying customers.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Marine_Plasma_Market_Sizing.md",
+          "section": "Market Entry Analysis - Business Model",
+          "context": "Freemium model conversion benchmarks. 40-60% range for supplement subscription adoption.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "IonWave/ICP_Analysis.md",
+          "section": "Strategic Implication - Jobs to Be Done",
+          "context": "Subscription stickiness varies by job. Job 3 (Daily Wellness) likely has highest subscription rate.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_007",
+          "context": "Subscription adoption 40-50%. Confidence: D (not validated).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/03a_customer_research_icp/customer_segmentation.json",
+          "section": "lifecycle_value.subscription_propensity",
+          "context": "Segment-specific subscription likelihood. Health segments show higher subscription intent.",
+          "relevance": "SUPPORTING"
+        }
+      ]
+    },
+
+    "HYP-003": {
+      "hypothesis_name": "Monthly Churn Rate",
+      "reference_count": 4,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Retention Modeling",
+          "context": "12% monthly churn (conservative). SaaS SMB benchmarks 5-10%, supplements 8-15%.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "tracking/Open_Questions.md",
+          "section": "Q11: Revenue Path Validation",
+          "context": "1% churn change = ±$3K MRR at Month 18. Churn's compounding effect on trajectory.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_008",
+          "context": "Monthly churn <10%. Confidence: D (speculative).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/03a_customer_research_icp/segmentation_matrix.json",
+          "section": "retention_drivers",
+          "context": "Segment-specific churn risk factors. Daily Wellness job has lowest churn risk.",
+          "relevance": "SUPPORTING"
+        }
+      ]
+    },
+
+    "HYP-004": {
+      "hypothesis_name": "Gross Margin",
+      "reference_count": 6,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Unit Economics Assumptions",
+          "context": "67% gross margin (COGS, hosting, payment processing). Conservative for SaaS, middle-of-road for supplements.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Marine_Plasma_Market_Sizing.md",
+          "section": "Seaonic Competitive Intel - Pricing",
+          "context": "$1.79/serving with 35% affiliate commission suggests 65%+ margin achievable.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "IonWave/Strategic_Foundation_Analysis.md",
+          "section": "Capital Tension Analysis",
+          "context": "Margin compression from supplier power creates margin risk.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "IonWave/Porter_Five_Forces_Analysis.md",
+          "section": "Force 2 - Bargaining Power of Suppliers",
+          "context": "Marine plasma supplier concentration (3-5 qualified) constrains margin expansion.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_006",
+          "context": "Gross margin >60%. Confidence: C (benchmarked but not validated).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/02_market_intelligence/competitive_intel.json",
+          "section": "pricing_analysis",
+          "context": "LMNT, Seaonic, Totum pricing structures. 60-70% margin range validated across competitors.",
+          "relevance": "SUPPORTING"
+        }
+      ]
+    },
+
+    "HYP-005": {
+      "hypothesis_name": "Blended LTV",
+      "reference_count": 6,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "LTV Calculation and Sensitivity",
+          "context": "Blended LTV $106 (range $64-159). Wide range reflects churn and margin uncertainty.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "tracking/Open_Questions.md",
+          "section": "Q11: Revenue Path Validation",
+          "context": "LTV:CAC ratio 3.0 base case (range 1.8-5.3). Base case barely sustainable.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "IonWave/ICP_Analysis.md",
+          "section": "Segment Prioritization Matrix",
+          "context": "Chronic health segments may deliver 2-3x LTV vs. baseline. High-LTV segment identification.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_009",
+          "context": "LTV >$150. Confidence: D (composite of weak inputs).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/03a_customer_research_icp/icp.json",
+          "section": "economic_profile.lifetime_value",
+          "context": "Biohacker segment $180-250 LTV; Daily Wellness $120-180.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "data/01_strategic_foundation/narrative_hypotheses.json",
+          "section": "hypothesis_003",
+          "context": "Marine plasma stickiness drives retention. Confidence: D (speculative).",
+          "relevance": "RELATED"
+        }
+      ]
+    },
+
+    "HYP-006": {
+      "hypothesis_name": "Organic Growth Lift",
+      "reference_count": 3,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Growth Assumptions",
+          "context": "10% organic lift (range 5-20%) from virality/word-of-mouth. Conservative assumption.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/ICP_Analysis.md",
+          "section": "Health-Challenged Segment",
+          "context": "Strong word-of-mouth potential. Organic lift may be 15-25% IF health segment penetrated.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "data/01_strategic_foundation/narrative_hypotheses.json",
+          "section": "hypothesis_005",
+          "context": "Marine plasma novelty drives social sharing. Confidence: D (speculative).",
+          "relevance": "SUPPORTING"
+        }
+      ]
+    },
+
+    "HYP-007": {
+      "hypothesis_name": "Timeline to $30K MRR",
+      "reference_count": 8,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "All Scenarios - Timeline Analysis",
+          "context": "Base case 18 months (not 12). Original 12-month thesis NOT achievable.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "tracking/Open_Questions.md",
+          "section": "Q11: Revenue Path Validation",
+          "context": "Core question answered. Timeline revision required for investor communication.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Strategic_Foundation_Analysis.md",
+          "section": "Capital Tension Analysis",
+          "context": "ODD-1 assumes 12-month; Porter's/ICP suggest longer. 12-month contradicts structural analysis.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "IonWave/Marine_Plasma_Market_Sizing.md",
+          "section": "Strategic Implications for IonWave",
+          "context": "Seaonic took 6+ years to reach $100-180K revenue. Growth is slow without capital.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_010",
+          "context": "Achieve $100K MRR within 12 months. Confidence: D (contradicted by analysis).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/01_strategic_foundation/thesis.json",
+          "section": "execution.milestones",
+          "context": "Timeline milestones not validated against financial model.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Porter_Five_Forces_Analysis.md",
+          "section": "Capital tension flag",
+          "context": "Category creation extends timeline. Timeline depends on positioning choice (Q9).",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "IonWave/ICP_Analysis.md",
+          "section": "Job 3 hypothesis to test first",
+          "context": "2-3 month discovery phase delays revenue acceleration.",
+          "relevance": "RELATED"
+        }
+      ]
+    },
+
+    "HYP-008": {
+      "hypothesis_name": "Capital Sufficiency",
+      "reference_count": 7,
+      "referenced_in": [
+        {
+          "document": "IonWave/Financial_Model_Revenue_Validation.md",
+          "section": "Capital Requirements Analysis",
+          "context": "$75-100K total needed (staged). Original $30-50K insufficient for base case.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "tracking/Open_Questions.md",
+          "section": "Q10: Capital Sufficiency",
+          "context": "Staged financing strategy recommended. Go/no-go at Month 2, Month 6.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Strategic_Foundation_Analysis.md",
+          "section": "1.2 Capital Tension Analysis",
+          "context": "Capital tension confirmed across Porter's, ICP, market sizing analyses.",
+          "relevance": "RELATED"
+        },
+        {
+          "document": "IonWave/Porter_Five_Forces_Analysis.md",
+          "section": "Force 1 - Capital tension flag",
+          "context": "$30-50K insufficient given CPMs and category creation. Cash-flow valley = death zone.",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "IonWave/Marine_Plasma_Market_Sizing.md",
+          "section": "Seaonic Competitive Intel",
+          "context": "Seaonic appears capital-constrained. Undercapitalization limits growth.",
+          "relevance": "SUPPORTING"
+        },
+        {
+          "document": "data/01_strategic_foundation/assumptions_register.json",
+          "section": "assumption_011",
+          "context": "Raise $30-50K to reach $100K MRR. Confidence: D (contradicted).",
+          "relevance": "PRIMARY"
+        },
+        {
+          "document": "data/01_strategic_foundation/thesis.json",
+          "section": "execution.capital_plan",
+          "context": "Capital plan needs revision based on financial model.",
+          "relevance": "PRIMARY"
+        }
+      ]
+    }
+  },
+
+  "document_to_hypotheses": {
+    "IonWave/Financial_Model_Revenue_Validation.md": {
+      "hypotheses_referenced": ["HYP-001", "HYP-002", "HYP-003", "HYP-004", "HYP-005", "HYP-006", "HYP-007", "HYP-008"],
+      "document_type": "ANALYSIS",
+      "primary_purpose": "Validate revenue timeline and capital requirements through comprehensive 3-scenario financial modeling",
+      "confidence_contribution": "Upgrades HYP-001 and HYP-007 from D to C; establishes HYP-003, HYP-005, HYP-006 at D"
+    },
+
+    "IonWave/Strategic_Foundation_Analysis.md": {
+      "hypotheses_referenced": ["HYP-001", "HYP-004", "HYP-007", "HYP-008"],
+      "document_type": "ANALYSIS",
+      "primary_purpose": "Reconcile conflicting theses, integrate Porter's and ICP evidence, flag capital tension",
+      "confidence_contribution": "Identifies CAC and capital tensions; validates narrow positioning thesis"
+    },
+
+    "IonWave/Porter_Five_Forces_Analysis.md": {
+      "hypotheses_referenced": ["HYP-001", "HYP-004", "HYP-007", "HYP-008"],
+      "document_type": "RESEARCH",
+      "primary_purpose": "Analyze market structure forces and identify capital/CAC pressures from competitive dynamics",
+      "confidence_contribution": "Provides structural evidence for CAC inflation and capital needs; B-grade source"
+    },
+
+    "IonWave/ICP_Analysis.md": {
+      "hypotheses_referenced": ["HYP-002", "HYP-005", "HYP-006", "HYP-007"],
+      "document_type": "RESEARCH",
+      "primary_purpose": "Define ideal customer profiles, segment prioritization, and LTV potential by persona",
+      "confidence_contribution": "Segment-level LTV and conversion insights; identifies Job 3 hypothesis priority"
+    },
+
+    "IonWave/Marine_Plasma_Market_Sizing.md": {
+      "hypotheses_referenced": ["HYP-001", "HYP-002", "HYP-004", "HYP-007", "HYP-008"],
+      "document_type": "RESEARCH",
+      "primary_purpose": "Size marine plasma DTC sachet segment, estimate Seaonic revenue, validate TAM assumptions",
+      "confidence_contribution": "Reframes market opportunity; validates margin assumptions; challenges timeline"
+    },
+
+    "tracking/Open_Questions.md": {
+      "hypotheses_referenced": ["HYP-001", "HYP-003", "HYP-005", "HYP-007", "HYP-008"],
+      "document_type": "TRACKING",
+      "primary_purpose": "Critical decision points and strategic questions requiring resolution before proceeding",
+      "confidence_contribution": "Q10 and Q11 now ANALYZED status; references hypothesis validation needs"
+    },
+
+    "data/01_strategic_foundation/assumptions_register.json": {
+      "hypotheses_referenced": ["HYP-001", "HYP-002", "HYP-003", "HYP-004", "HYP-005", "HYP-007", "HYP-008"],
+      "document_type": "DATA",
+      "primary_purpose": "Original assumption registry from ODD-1 thesis (pre-validation)",
+      "confidence_contribution": "Historical baseline; all assumptions marked D-grade before analysis"
+    },
+
+    "data/01_strategic_foundation/thesis.json": {
+      "hypotheses_referenced": ["HYP-001", "HYP-007", "HYP-008"],
+      "document_type": "DATA",
+      "primary_purpose": "Canonical strategic thesis with execution plan, milestones, and capital strategy",
+      "confidence_contribution": "Original thesis document requiring revision based on hypothesis validation"
+    },
+
+    "data/01_strategic_foundation/narrative_hypotheses.json": {
+      "hypotheses_referenced": ["HYP-005", "HYP-006"],
+      "document_type": "DATA",
+      "primary_purpose": "Narrative-format hypotheses about marine plasma positioning and customer behavior",
+      "confidence_contribution": "Speculative positioning hypotheses; D-grade confidence"
+    },
+
+    "data/02_market_intelligence/competitive_intel.json": {
+      "hypotheses_referenced": ["HYP-004"],
+      "document_type": "DATA",
+      "primary_purpose": "Competitive analysis with pricing structures and margin validation",
+      "confidence_contribution": "Validates 60-70% margin range across competitors; upgrades HYP-004 to B"
+    },
+
+    "data/03a_customer_research_icp/customer_segmentation.json": {
+      "hypotheses_referenced": ["HYP-002"],
+      "document_type": "DATA",
+      "primary_purpose": "Segment definitions with subscription propensity and lifecycle value",
+      "confidence_contribution": "Segment-level subscription rate estimates from LMNT proxy data"
+    },
+
+    "data/03a_customer_research_icp/segmentation_matrix.json": {
+      "hypotheses_referenced": ["HYP-003"],
+      "document_type": "DATA",
+      "primary_purpose": "RFM segmentation with retention drivers and churn risk factors",
+      "confidence_contribution": "Qualitative churn insights by segment; proxy data only"
+    },
+
+    "data/03a_customer_research_icp/icp.json": {
+      "hypotheses_referenced": ["HYP-005"],
+      "document_type": "DATA",
+      "primary_purpose": "Ideal customer profile definitions with economic profiles and LTV estimates",
+      "confidence_contribution": "Segment-specific LTV ranges from behavioral modeling"
+    }
+  },
+
+  "context_documents": {
+    "description": "Supporting documents providing reasoning, dialogue, and contextual background for hypothesis evolution",
+    "documents": [
+      {
+        "document": "IonWave/Strategic_Foundation_Dialogue_Summary.md",
+        "purpose": "Persona dialogue challenging strategic foundation assumptions",
+        "hypotheses_influenced": ["HYP-007", "HYP-008"],
+        "key_insight": "Category creation framing and capital tension identification"
+      },
+      {
+        "document": "IonWave/Porter_Five_Forces_Dialogue_Summary.md",
+        "purpose": "Persona dialogue stress-testing Porter's analysis",
+        "hypotheses_influenced": ["HYP-001", "HYP-008"],
+        "key_insight": "Rising CPMs and survival rate reality check on capital needs"
+      },
+      {
+        "document": "IonWave/ICP_Dialogue_Summary.md",
+        "purpose": "Persona dialogue validating customer segmentation",
+        "hypotheses_influenced": ["HYP-002", "HYP-005"],
+        "key_insight": "Positioning-economics tension and segment LTV validation"
+      }
+    ]
+  },
+
+  "metadata": {
+    "total_hypotheses": 8,
+    "total_documents": 13,
+    "total_context_documents": 3,
+    "total_references": 53,
+    "last_sync": "2026-02-05T10:00:00Z",
+    "index_maintainer": "automated",
+    "audit_source": "IonWave/Hypothesis_Dependency_Audit.md",
+    "coverage_quality": "Strong - all CRITICAL hypotheses have 6-8 document references",
+    "weakest_coverage": "HYP-006 (Organic Lift) - only 3 references, all speculative"
+  }
+}

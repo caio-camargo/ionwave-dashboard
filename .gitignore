@@ -1,0 +1,25 @@
+# XLSX files (archived, not version controlled)
+*.xlsx
+
+# Archive directory
+archive/
+
+# Claude Code internal
+.claude/
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python script (not needed in deployed dashboard)
+update_excel.py
+
+# Temp files
+*.tmp
+*~
