@@ -108,10 +108,11 @@ dashboard/
 ```
 IonWave/        → Analysis deliverables (Strategic Foundation, Porter's, ICP, Market Sizing, Financial Model, etc.)
 core/           → Required reading (02_Glossary, 03_What_We_Did, 04_Working_Principles)
-standards/      → Standards & guidelines (metadata, versioning, deliverable structure)
+standards/      → Standards & guidelines (metadata, versioning, deliverable structure, architecture)
 systems/        → System overviews (CM, ODD, School, TUP, Trade, etc.)
 tracking/       → 42 live tracking logs (append-only, not versioned) + Open_Questions.md
 processes/      → Process docs (Dependency_Map, JSON_Migration_Guide, demos)
+protocols/      → Formal Meta-Control protocols (CSP-001 Constraint Scenarios, case studies)
 ci-protocol/    → Competitive Intelligence Protocol (10-file workflow)
 archive/        → Deprecated/historical files (including migrated XLSX files)
 ```
@@ -200,6 +201,8 @@ See `standards/Document_Metadata_Standards.md` for complete requirements.
   - **State Machine**: ASSUMED → TESTING → VALIDATED/INVALIDATED
   - **Grading**: A/B/C/D confidence grades with transparent weak link detection
   - **Dependencies**: feeds_into/depends_on relationships showing hypothesis chains
+  - **Sub-Hypotheses**: Arbitrarily nestable (HYP-XXX.Y.Z), weighted composite scoring, created via CSP-001
+  - **Constraint Scenario Protocol**: `protocols/CSP-001_Constraint_Scenario_Protocol.md` — stress-test hypotheses to surface hidden assumptions
   - **View**: https://caio-camargo.github.io/ionwave-dashboard/views/hypotheses-tracker.html
 
 - **Deliverable Structure**: Three mandatory sections
@@ -310,6 +313,8 @@ The system's formal entities (full definitions in `standards/Systems_Architectur
 - **Creating a document?** → standards/Document_Metadata_Standards.md
 - **Structuring a deliverable?** → standards/Deliverable_Structure_Standards.md
 - **Migrating a file to JSON?** → processes/JSON_Migration_Guide.md
+- **Stress-testing hypotheses?** → `protocols/CSP-001_Constraint_Scenario_Protocol.md` (10-step constraint scenario process)
+- **Seeing a CSP case study?** → `protocols/case_studies/CSP-001_HYP-006_2026-02-06.md` (first worked example)
 - **Running competitive intelligence?** → ci-protocol/00_INDEX.md (full CI workflow)
 - **Applying expert frameworks?** → ci-protocol/07_FRAMEWORKS.md (worked examples)
 

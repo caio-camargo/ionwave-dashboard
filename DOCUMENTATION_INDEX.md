@@ -210,6 +210,19 @@ archive/        → Deprecated/historical files (including migrated XLSX)
 
 ---
 
+## CATEGORY 6B: FORMAL PROTOCOLS — `protocols/`
+
+**Meta-Control protocols that operate on the system itself (not on business operations).**
+
+| File | Status | Purpose | When to Use |
+|------|--------|---------|-------------|
+| **protocols/CSP-001_Constraint_Scenario_Protocol.md** | ✅ | 10-step protocol for stress-testing hypotheses through extreme constraints | Before validation spending, quarterly review, new hypothesis created |
+| protocols/case_studies/CSP-001_HYP-006_2026-02-06.md | ✅ | First CSP case study: HYP-006 Organic & Referral Lift decomposed into 5 sub-hypotheses | Reference for running CSP on other hypotheses |
+
+**Note**: Protocols directory contains formal Meta-Control protocols per `standards/Systems_Architecture_Standards.md`. Case studies document each protocol execution for institutional memory.
+
+---
+
 ## CATEGORY 7: COMPETITIVE INTELLIGENCE PROTOCOL — `ci-protocol/`
 
 | File | Status | Purpose | When to Use |

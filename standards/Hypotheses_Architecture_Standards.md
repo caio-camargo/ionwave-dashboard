@@ -1,12 +1,12 @@
 # Hypotheses Architecture Standards
-**Version**: v1.0.0
+**Version**: v1.1.0
 **Author**: Caio, Claude (collaborative)
 **Date Created**: 2026-02-05
-**Last Updated**: 2026-02-05
-**AI Model**: claude-sonnet-4-20250514
-**Purpose**: Document the hypotheses architecture system - how to add, update, validate, and maintain business hypotheses as ontological primitives
+**Last Updated**: 2026-02-06
+**AI Model**: claude-sonnet-4-5-20250929
+**Purpose**: Document the hypotheses architecture system - how to add, update, validate, and maintain business hypotheses as ontological primitives, including sub-hypothesis decomposition and composite scoring
 **Status**: Final
-**Related Files**: data/hypotheses/registry.json, data/hypotheses/index.json, data/hypotheses/validation_log.json, IonWave/Hypothesis_Dependency_Audit.md
+**Related Files**: data/hypotheses/registry.json, data/hypotheses/index.json, data/hypotheses/validation_log.json, IonWave/Hypothesis_Dependency_Audit.md, protocols/CSP-001_Constraint_Scenario_Protocol.md
 
 ---
 
@@ -778,6 +778,109 @@ Blended LTV = (Monthly ARPU × Gross Margin) / Monthly Churn Rate
 
 ---
 
+## Sub-Hypothesis System
+
+Hypotheses can be decomposed into arbitrarily nestable sub-hypotheses through the Constraint Scenario Protocol (CSP-001). Sub-hypotheses enable:
+- **Precision**: know exactly which component is weak vs. strong
+- **Targeted validation**: spend money testing the right sub-component
+- **Composite scoring**: parent grade computed from weighted sub-hypothesis grades
+- **Incremental progress**: upgrade individual sub-hypotheses as evidence arrives
+
+### Sub-Hypothesis Schema
+
+Sub-hypotheses extend the standard hypothesis schema with additional fields:
+
+```json
+{
+  "id": "HYP-006.1",
+  "name": "Referral Program Contribution",
+  "parent_id": "HYP-006",
+  "weight": 0.35,
+  "constraint_scenario_origin": "CSP-001 applied to HYP-006, Scenario 3",
+  "decomposition_rationale": "Referral is a distinct mechanism requiring its own program design and measurement",
+
+  "category": "growth",
+  "description": "Referral program will contribute 3-4% of total customer volume",
+  "impact_severity": "MEDIUM",
+  "current_state": "ASSUMED",
+  "current_grade": "D",
+  "revisions": [],
+  "validation_plan": {},
+  "feeds_into": [],
+  "depends_on": [],
+  "risk_if_wrong": {}
+}
+```
+
+**Additional Fields**:
+- `parent_id` — links to parent hypothesis (e.g., `"HYP-006"`)
+- `weight` — contribution to parent composite score (all sibling weights must sum to 1.0)
+- `constraint_scenario_origin` — which CSP run created this sub-hypothesis
+- `decomposition_rationale` — why this warrants a separate sub-hypothesis
+
+**Naming Convention**: `HYP-XXX.Y` for sub-hypotheses, `HYP-XXX.Y.Z` for nested sub-sub-hypotheses. Nesting is arbitrarily deep.
+
+### Parent Hypothesis Updates
+
+When a hypothesis is decomposed, add to the parent:
+
+```json
+{
+  "id": "HYP-006",
+  "has_children": ["HYP-006.1", "HYP-006.2", "HYP-006.3", "HYP-006.4", "HYP-006.5"],
+  "composite_scoring": {
+    "method": "weighted",
+    "weights_sum_to": 1.0
+  }
+}
+```
+
+### Composite Scoring
+
+Parent hypothesis grades are computed as weighted composites of sub-hypothesis grades:
+
+```
+Grade numeric values:
+  A = 4, B = 3, C = 2, D = 1
+
+Composite Score = Σ(weight_i × grade_score_i)
+
+Score → Grade:
+  3.5 - 4.0 → A
+  2.5 - 3.4 → B
+  1.5 - 2.4 → C
+  1.0 - 1.4 → D
+```
+
+**Weak Link Rule**: The composite score CANNOT exceed the grade of the highest-weighted sub-hypothesis if that sub-hypothesis is D-grade. A critical component at D undermines the whole.
+
+**Example**:
+```
+HYP-006 Organic & Referral Lift
+├── HYP-006.1 Referral    (weight: 0.35, grade: B) → 1.05
+├── HYP-006.2 SEO         (weight: 0.25, grade: C) → 0.50
+├── HYP-006.3 Influencer  (weight: 0.20, grade: D) → 0.20
+├── HYP-006.4 PR          (weight: 0.10, grade: D) → 0.10
+└── HYP-006.5 WOM         (weight: 0.10, grade: C) → 0.20
+
+Composite = 1.05 + 0.50 + 0.20 + 0.10 + 0.20 = 2.05 → Grade C
+```
+
+### Decomposition Rules
+
+1. **Each sub-hypothesis must be independently testable** — if you can't define a validation method, it's not a hypothesis
+2. **Sub-hypotheses must be exhaustive** — together they account for the parent value
+3. **Sub-hypotheses should be as independent as possible** — minimize overlap
+4. **Weights are estimates** — refined through Meta-Control as validation data arrives
+
+### Creating Sub-Hypotheses
+
+Sub-hypotheses are created through the Constraint Scenario Protocol (`protocols/CSP-001_Constraint_Scenario_Protocol.md`). The protocol applies extreme constraints to surface hidden assumptions that become sub-hypotheses.
+
+**Do not decompose ad-hoc**. Always use the CSP process to ensure decomposition is driven by diagnostic evidence rather than arbitrary splitting.
+
+---
+
 ## Dependency Chain Management
 
 Some hypotheses depend on others - track these relationships explicitly.
@@ -958,6 +1061,13 @@ Example:
 ---
 
 ## Version History
+
+**v1.1.0 (2026-02-06)**:
+- Added Sub-Hypothesis System section with schema, composite scoring, decomposition rules
+- Integrated Constraint Scenario Protocol (CSP-001) as the mechanism for sub-hypothesis creation
+- Added `parent_id`, `weight`, `has_children`, `composite_scoring`, `constraint_scenario_origin`, `decomposition_rationale` fields
+- Added `CONSTRAINT_SCENARIO_APPLIED` event type for validation log
+- Updated Related Files to include protocols directory
 
 **v1.0.0 (2026-02-05)**:
 - Initial standards document
