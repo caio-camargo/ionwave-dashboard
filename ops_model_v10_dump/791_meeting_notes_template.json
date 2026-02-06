@@ -1,0 +1,16 @@
+{
+  "headers": [
+    "MEETING NOTES TEMPLATE"
+  ],
+  "rows": [
+    {
+      "MEETING NOTES TEMPLATE": "Standard format for all meetings"
+    },
+    {
+      "MEETING NOTES TEMPLATE": "═══════════════════════════════════\nMEETING NOTES\n═══════════════════════════════════\nDate: [DATE]\nType: [Weekly Sync / Review Gate / Ad Hoc]\nAttendees: [Names]\nDuration: [X] minutes\n\n═══════════════════════════════════\nAGENDA\n═══════════════════════════════════\n1. [Topic 1]\n2. [Topic 2]\n3. [Topic 3]\n\n═══════════════════════════════════\nDISCUSSION NOTES\n═══════════════════════════════════\n[Key points discussed]\n\n═══════════════════════════════════\nDECISIONS MADE\n═══════════════════════════════════\n1. [Decision] - Owner: [Name]\n2. [Decision] - Owner: [Name]\n\n═══════════════════════════════════\nACTION ITEMS\n═══════════════════════════════════\n☐ [Action] - Owner: [Name] - Due: [Date]\n☐ [Action] - Owner: [Name] - Due: [Date]\n☐ [Action] - Owner: [Name] - Due: [Date]\n\n═══════════════════════════════════\nNEXT MEETING\n═══════════════════════════════════\nDate: [DATE]\nTopics to cover: [Topics]\n\n═══════════════════════════════════\nNotes taken by: [Name]\nDistributed to: [Names]"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Meeting Notes Template",
+  "sheet_index": 791
+}

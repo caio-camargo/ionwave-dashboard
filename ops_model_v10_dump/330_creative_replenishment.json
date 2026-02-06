@@ -1,0 +1,56 @@
+{
+  "headers": [
+    "Week",
+    "New Creatives",
+    "Focus",
+    "Testing Approach",
+    "Notes"
+  ],
+  "rows": [
+    {
+      "Week": "Week 1-2",
+      "New Creatives": "20 images, 5 videos",
+      "Focus": "Hooks testing - which angles grab attention",
+      "Testing Approach": "Test 5 hook categories × 4 variations each",
+      "Notes": "Establish baseline winners"
+    },
+    {
+      "Week": "Week 3-4",
+      "New Creatives": "15 images, 3 videos",
+      "Focus": "Double down on winning hooks, test body copy",
+      "Testing Approach": "Iterate top 3 hooks with new visuals",
+      "Notes": "Kill losers ruthlessly"
+    },
+    {
+      "Week": "Week 5-6",
+      "New Creatives": "10 images, 5 UGC videos",
+      "Focus": "UGC collection + testimonial ads",
+      "Testing Approach": "Real customer content, authenticity test",
+      "Notes": "Collect 10+ UGC submissions"
+    },
+    {
+      "Week": "Week 7-8",
+      "New Creatives": "15 images, 3 videos",
+      "Focus": "Seasonal/timely angles (New Year, summer, etc)",
+      "Testing Approach": "Test relevance vs evergreen",
+      "Notes": "Prepare seasonal calendar"
+    },
+    {
+      "Week": "Monthly Ongoing",
+      "New Creatives": "20 images, 5 videos",
+      "Focus": "Refresh winners, test new angles, combat fatigue",
+      "Testing Approach": "Replace bottom 20% of portfolio monthly",
+      "Notes": "Never stop testing"
+    },
+    {
+      "Week": "Quarterly",
+      "New Creatives": "Full creative audit",
+      "Focus": "Analyze all-time winners, refresh brand guidelines",
+      "Testing Approach": "Deep dive on what works and why",
+      "Notes": "Document learnings"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Creative Replenishment",
+  "sheet_index": 330
+}

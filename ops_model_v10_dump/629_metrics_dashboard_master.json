@@ -1,0 +1,349 @@
+{
+  "headers": [
+    "METRICS DASHBOARD - MASTER VIEW",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Single view of all KPIs - update daily/weekly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "💰 REVENUE & GROWTH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Metric",
+      "col_2": "Today",
+      "col_3": "WTD",
+      "col_4": "MTD",
+      "col_5": "Target",
+      "col_6": "vs Target",
+      "col_7": "Trend"
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "$[X]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Orders",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "[X]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "AOV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "$49",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "$[X]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "MoM Growth",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "20%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "📈 ACQUISITION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Metric",
+      "col_2": "Today",
+      "col_3": "WTD",
+      "col_4": "MTD",
+      "col_5": "Target",
+      "col_6": "vs Target",
+      "col_7": "Trend"
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Ad Spend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "$[X]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "ROAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "2.5x",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "<$40",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "CTR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">1%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "CVR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">2.5%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "New Customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "[X]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "🔄 RETENTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Metric",
+      "col_2": "Today",
+      "col_3": "WTD",
+      "col_4": "MTD",
+      "col_5": "Target",
+      "col_6": "vs Target",
+      "col_7": "Trend"
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Subscription Rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">50%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Monthly Churn",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "<8%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "LTV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">$120",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "LTV:CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">3x",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Email Revenue %",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">25%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Repeat Purchase Rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">30%",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "📦 OPERATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Metric",
+      "col_2": "Today",
+      "col_3": "WTD",
+      "col_4": "MTD",
+      "col_5": "Target",
+      "col_6": "vs Target",
+      "col_7": "Trend"
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Inventory Days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "30-45",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Ship Time (avg)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "<3 days",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Support Tickets",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Response Time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "<4 hrs",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "CSAT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">4.5",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "💵 FINANCIAL HEALTH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Cash on Hand",
+      "col_2": "$[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Runway (days)",
+      "col_2": "[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Gross Margin",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Contribution Margin",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "METRICS DASHBOARD - MASTER VIEW": "Burn Rate (monthly)",
+      "col_2": "$[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Metrics Dashboard Master",
+  "sheet_index": 629
+}

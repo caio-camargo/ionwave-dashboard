@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "CAPABILITIES MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CAPABILITIES MAP": "Capability",
+      "col_2": "Owner",
+      "col_3": "Backup",
+      "col_4": "Documentation"
+    },
+    {
+      "CAPABILITIES MAP": "Media buying",
+      "col_2": "Operator",
+      "col_3": "CM (basic)",
+      "col_4": "Ad SOPs"
+    },
+    {
+      "CAPABILITIES MAP": "Creative production",
+      "col_2": "Operator",
+      "col_3": "External",
+      "col_4": "Brand guide"
+    },
+    {
+      "CAPABILITIES MAP": "Email marketing",
+      "col_2": "Operator",
+      "col_3": "CM",
+      "col_4": "Email playbook"
+    },
+    {
+      "CAPABILITIES MAP": "Inventory management",
+      "col_2": "CM",
+      "col_3": "Operator",
+      "col_4": "Inventory SOP"
+    },
+    {
+      "CAPABILITIES MAP": "Customer support",
+      "col_2": "CM",
+      "col_3": "Operator",
+      "col_4": "Support scripts"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Capabilities Map",
+  "sheet_index": 833
+}

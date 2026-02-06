@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "CM CAPACITY MODEL",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CM CAPACITY MODEL": "How many operators per CM, workload math, scaling triggers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "TIME PER OPERATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Activity",
+      "col_2": "Frequency",
+      "col_3": "Time",
+      "col_4": "Monthly Total"
+    },
+    {
+      "CM CAPACITY MODEL": "Daily report review",
+      "col_2": "Daily (22 days)",
+      "col_3": "15 min",
+      "col_4": "5.5 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Compliance logging",
+      "col_2": "Daily",
+      "col_3": "10 min",
+      "col_4": "3.7 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Issue follow-up",
+      "col_2": "~5x/month",
+      "col_3": "20 min",
+      "col_4": "1.7 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Weekly summary",
+      "col_2": "Weekly (4x)",
+      "col_3": "30 min",
+      "col_4": "2 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Monthly grade assessment",
+      "col_2": "Monthly",
+      "col_3": "2 hrs",
+      "col_4": "2 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Escalation calls",
+      "col_2": "~2x/month",
+      "col_3": "30 min",
+      "col_4": "1 hr"
+    },
+    {
+      "CM CAPACITY MODEL": "TOTAL PER OPERATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "~16 hrs/month"
+    },
+    {
+      "CM CAPACITY MODEL": "CAPACITY CALCULATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Part-time CM (~20 hrs/week = 80 hrs/month)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Time per operator: ~16 hrs/month",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Buffer for admin/overhead: 20%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Capacity: 80 hrs × 0.8 / 16 hrs = 4 operators max",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Recommended: 3-4 operators per part-time CM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "At 5+ operators: Hire second CM or increase hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "SCALING TRIGGERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Add CM capacity when:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Current CM at 4 operators and 5th launching",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• CM response times slipping (missing SLAs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Compliance log quality declining",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• CM reports being overwhelmed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Options:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Increase current CM hours (if available)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Hire second part-time CM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Promote to full-time CM (if 8+ operators)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "CM Capacity Model1",
+  "sheet_index": 732
+}

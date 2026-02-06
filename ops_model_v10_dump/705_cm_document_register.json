@@ -1,0 +1,106 @@
+{
+  "headers": [
+    "DOCUMENT REGISTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "DOCUMENT REGISTER": "All documents reviewed and findings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Document",
+      "col_2": "Date Received",
+      "col_3": "Date Reviewed",
+      "col_4": "Reviewer",
+      "col_5": "Status",
+      "col_6": "Key Findings",
+      "col_7": "Follow-up"
+    },
+    {
+      "DOCUMENT REGISTER": "Weekly Report - W1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Weekly Report - W2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Weekly Report - W3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Weekly Report - W4",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Monthly Financials",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Bank Statement",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Ad Account Export",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DOCUMENT REGISTER": "Shopify Export",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Pending",
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "CM Document Register",
+  "sheet_index": 705
+}

@@ -1,0 +1,28 @@
+{
+  "headers": [
+    "RESEARCH vs DECISION INVENTORY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "RESEARCH vs DECISION INVENTORY": "Track what needs more research vs what's decided",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RESEARCH vs DECISION INVENTORY": "Topic",
+      "col_2": "Status",
+      "col_3": "Research Needed",
+      "col_4": "Decision Made",
+      "col_5": "Owner"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "R vs D Inventory",
+  "sheet_index": 773
+}

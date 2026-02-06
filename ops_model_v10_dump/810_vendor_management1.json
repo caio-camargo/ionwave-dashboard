@@ -1,0 +1,150 @@
+{
+  "headers": [
+    "VENDOR MANAGEMENT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "VENDOR MANAGEMENT": "VENDOR CATEGORIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Category",
+      "col_2": "Vendors Needed",
+      "col_3": "Evaluation Criteria",
+      "col_4": "Contract Type",
+      "col_5": "Review Cadence",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Manufacturer",
+      "col_2": "Electrolyte production + packaging",
+      "col_3": "MOQ, lead time, quality certs, pricing, location",
+      "col_4": "Master supply agreement",
+      "col_5": "Monthly quality + quarterly pricing",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "3PL / Fulfillment",
+      "col_2": "Warehousing + shipping",
+      "col_3": "Cost per order, delivery speed, error rate, integrations",
+      "col_4": "Service agreement",
+      "col_5": "Monthly performance",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Shopify/Tech",
+      "col_2": "E-commerce platform + apps",
+      "col_3": "Uptime, features, support, cost",
+      "col_4": "SaaS subscription",
+      "col_5": "Quarterly",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Email (Klaviyo)",
+      "col_2": "Email marketing platform",
+      "col_3": "Deliverability, features, pricing tiers",
+      "col_4": "SaaS subscription",
+      "col_5": "Monthly performance",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Payment Processor",
+      "col_2": "Stripe/Shopify Payments",
+      "col_3": "Fees, chargebacks, reporting",
+      "col_4": "Service agreement",
+      "col_5": "Monthly",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Creative Freelancers",
+      "col_2": "Designers, editors, photographers",
+      "col_3": "Quality, turnaround, rate, reliability",
+      "col_4": "Per-project or retainer",
+      "col_5": "Per project",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Accounting",
+      "col_2": "Bookkeeping, tax prep",
+      "col_3": "Cost, responsiveness, e-commerce experience",
+      "col_4": "Monthly retainer",
+      "col_5": "Monthly",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Legal",
+      "col_2": "Contracts, compliance, IP",
+      "col_3": "Cost, speed, e-commerce expertise",
+      "col_4": "As-needed",
+      "col_5": "As-needed",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "VENDOR TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VENDOR MANAGEMENT": "Vendor",
+      "col_2": "Category",
+      "col_3": "Contact",
+      "col_4": "Status",
+      "col_5": "Contract Start",
+      "col_6": "Monthly Cost",
+      "col_7": "Performance",
+      "col_8": "Next Review",
+      "col_9": "Notes"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Vendor Management1",
+  "sheet_index": 810
+}

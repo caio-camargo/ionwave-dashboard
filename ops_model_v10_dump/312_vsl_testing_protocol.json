@@ -1,0 +1,329 @@
+{
+  "headers": [
+    "VSL TESTING PROTOCOL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL TESTING PROTOCOL": "Statistical rigor for creative testing — no guessing, no vibes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "TESTING HIERARCHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Test in this order. Never test lower-level variables before higher-level winners are found.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Level 1: ANGLE (which story/mechanism) — biggest impact, test first",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Level 2: HOOK (first 3-5 seconds) — second biggest, test within winning angle",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Level 3: BODY (proof/mechanism section) — test within winning hook",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Level 4: OFFER (pricing/bonuses/guarantee) — test within winning body",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Level 5: CTA (button text, urgency) — smallest impact, test last",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Each level requires its own test cycle before moving down.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "TEST PARAMETERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Parameter",
+      "col_2": "Minimum",
+      "col_3": "Target",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Budget per variant",
+      "col_2": "$50",
+      "col_3": "$150-250",
+      "col_4": "Must reach statistical significance",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Impressions per variant",
+      "col_2": "1,000",
+      "col_3": "3,000-5,000",
+      "col_4": "Minimum for reliable CPA data",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Test duration",
+      "col_2": "48 hrs",
+      "col_3": "5-7 days",
+      "col_4": "Account for day-of-week variance",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Variants per test",
+      "col_2": "2",
+      "col_3": "3-5",
+      "col_4": "One control + variations",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Statistical confidence",
+      "col_2": "85%",
+      "col_3": "95%",
+      "col_4": "85% acceptable for early tests",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Audience",
+      "col_2": "Broad (1% LAL max)",
+      "col_3": "Broad",
+      "col_4": "Don't narrow audience during creative testing",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "WINNER CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Metric",
+      "col_2": "Kill Threshold",
+      "col_3": "Continue Testing",
+      "col_4": "Winner",
+      "col_5": "Champion"
+    },
+    {
+      "VSL TESTING PROTOCOL": "CPA",
+      "col_2": "> 3x target",
+      "col_3": "1.5-3x target",
+      "col_4": "< 1.5x target",
+      "col_5": "< target CPA"
+    },
+    {
+      "VSL TESTING PROTOCOL": "Hook Rate (3-sec view)",
+      "col_2": "< 20%",
+      "col_3": "20-30%",
+      "col_4": "30-40%",
+      "col_5": "> 40%"
+    },
+    {
+      "VSL TESTING PROTOCOL": "Hold Rate (completed view)",
+      "col_2": "< 10%",
+      "col_3": "10-20%",
+      "col_4": "20-30%",
+      "col_5": "> 30%"
+    },
+    {
+      "VSL TESTING PROTOCOL": "CTR",
+      "col_2": "< 0.5%",
+      "col_3": "0.5-1.0%",
+      "col_4": "1.0-2.0%",
+      "col_5": "> 2.0%"
+    },
+    {
+      "VSL TESTING PROTOCOL": "ROAS",
+      "col_2": "< 0.5x",
+      "col_3": "0.5-1.0x",
+      "col_4": "1.0-2.0x",
+      "col_5": "> 2.0x"
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "HARD KILLS (stop immediately, no exceptions):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• CPA > 3x target after $150 spend — angle is wrong",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• Hook rate < 15% after 2,000 impressions — hook doesn't stop scroll",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• Zero purchases after $250 spend — fundamental mismatch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "SOFT KILLS (evaluate, likely kill):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• CPA 2-3x target after $250 — may iterate hook but angle suspect",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• High CTR but zero conversions — landing page or offer problem, not VSL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• CPA declining but still above target — extend test 48 hrs max",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "NEVER KILL:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• Before minimum impressions reached (false signal)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• Based on single-day data (variance too high)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "• Because of 'gut feeling' — data only",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "SCALING PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Phase",
+      "col_2": "Daily Budget",
+      "col_3": "Action",
+      "col_4": "Watch For",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Test",
+      "col_2": "$25-50/variant",
+      "col_3": "Run test, collect data",
+      "col_4": "Statistical significance",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Validate",
+      "col_2": "$100-200/day",
+      "col_3": "Run winner at 2x budget for 5 days",
+      "col_4": "CPA stability, not just one good day",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Scale 1",
+      "col_2": "$300-500/day",
+      "col_3": "Increase 20% every 48 hrs if CPA holds",
+      "col_4": "CPA creep > 15%",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Scale 2",
+      "col_2": "$500-1000/day",
+      "col_3": "Duplicate to new ad sets, new audiences",
+      "col_4": "Audience saturation, frequency > 2.5",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Scale 3",
+      "col_2": "$1000+/day",
+      "col_3": "Launch on additional platforms, create derivative content",
+      "col_4": "Creative fatigue (declining CTR over 7 days)",
+      "col_5": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Refresh",
+      "col_2": "Maintain",
+      "col_3": "New hooks on winning angle, new proof points",
+      "col_4": "When CPA rises 20%+ from peak",
+      "col_5": null
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "VSL Testing Protocol",
+  "sheet_index": 312
+}

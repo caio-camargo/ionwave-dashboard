@@ -1,0 +1,307 @@
+{
+  "headers": [
+    "COMPANY TRANSCRIPT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "COMPANY TRANSCRIPT": "Running record of all courses taken, grades earned, across all semesters",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "SEMESTER 1: FOUNDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "Course ID",
+      "col_2": "Course",
+      "col_3": "Program",
+      "col_4": "Student",
+      "col_5": "Midterm Grade",
+      "col_6": "Final Grade",
+      "col_7": "Status",
+      "col_8": "Notes"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-PS-101",
+      "col_2": "Launch Product",
+      "col_3": "Product & Supply",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "In Progress",
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-PS-102",
+      "col_2": "Establish Supply Chain",
+      "col_3": "Product & Supply",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: PS-101"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-GA-101",
+      "col_2": "Build Storefront",
+      "col_3": "Growth & Acquisition",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: PS-101"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-GA-102",
+      "col_2": "First VSL",
+      "col_3": "Growth & Acquisition",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: GA-101"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-GA-103",
+      "col_2": "Launch Paid Ads",
+      "col_3": "Growth & Acquisition",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: GA-102"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-RR-101",
+      "col_2": "Email Foundation",
+      "col_3": "Retention & Revenue",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: GA-101"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-FL-101",
+      "col_2": "Entity & Banking",
+      "col_3": "Finance & Legal",
+      "col_4": "Studio",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-FL-102",
+      "col_2": "Bookkeeping Setup",
+      "col_3": "Finance & Legal",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": "Prereq: FL-101"
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-PC-101",
+      "col_2": "Hire Operator",
+      "col_3": "People & Culture",
+      "col_4": "Studio/CoS",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "In Progress",
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1-SI-101",
+      "col_2": "Competitive Analysis",
+      "col_3": "Strategy & Intelligence",
+      "col_4": "Operator",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Not Started",
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "GPA CALCULATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "Grade",
+      "col_2": "Points",
+      "col_3": "Meaning",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "A",
+      "col_2": "4.0",
+      "col_3": "Exceptional — could be a playbook for next Trade",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "A-",
+      "col_2": "3.7",
+      "col_3": "Excellent — minor improvements possible",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "B+",
+      "col_2": "3.3",
+      "col_3": "Strong — meets all requirements",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "B",
+      "col_2": "3.0",
+      "col_3": "Good — functional, room for improvement",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "B-",
+      "col_2": "2.7",
+      "col_3": "Acceptable — works but needs attention",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "C",
+      "col_2": "2.0",
+      "col_3": "Below standard — requires remediation",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "D",
+      "col_2": "1.0",
+      "col_3": "Failing — major issues",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "F",
+      "col_2": "0.0",
+      "col_3": "Failed — course must be retaken or killed",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "SEMESTER GPA TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "Semester",
+      "col_2": "Courses",
+      "col_3": "GPA",
+      "col_4": "Dean's List?",
+      "col_5": "Key Wins",
+      "col_6": "Key Failures",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S1: Foundation",
+      "col_2": "10",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S2: Traction",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S3: Scale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPANY TRANSCRIPT": "S4: Optimization",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Transcript",
+  "sheet_index": 677
+}

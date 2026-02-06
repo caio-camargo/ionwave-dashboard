@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "CONFLICT OF INTEREST REGISTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONFLICT OF INTEREST REGISTER": "Disclosed relationships and potential conflicts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "CM DISCLOSURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "I, _______________ (CM Name), certify that I have disclosed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "all potential conflicts of interest below:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Relationship to Operator: ☐ None  ☐ Disclosed below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Relationship to Investors: ☐ None  ☐ Disclosed below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Financial interest in venture: ☐ None  ☐ Disclosed below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Financial interest in competitors: ☐ None  ☐ Disclosed below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Other potential conflicts: ☐ None  ☐ Disclosed below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Signature: _______________  Date: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "DISCLOSED CONFLICTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "Date Disclosed",
+      "col_2": "Nature of Conflict",
+      "col_3": "Parties Involved",
+      "col_4": "Mitigation",
+      "col_5": "Approved By"
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "CONFLICT TYPES REQUIRING DISCLOSURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Family relationship with Operator or key stakeholders",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Financial interest in the venture (direct or indirect)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Financial interest in competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Prior business relationship with Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Ongoing business relationship outside this engagement",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONFLICT OF INTEREST REGISTER": "• Any relationship that could bias assessment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "CM Conflict of Interest",
+  "sheet_index": 727
+}

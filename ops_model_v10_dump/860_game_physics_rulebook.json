@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "GAME PHYSICS RULEBOOK",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "GAME PHYSICS RULEBOOK": "The actual rules of how decisions and work operate in this trade",
+      "col_2": null
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "CORE PHYSICS",
+      "col_2": null
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Information flows",
+      "col_2": "All decisions captured in permanent records. No verbal-only decisions."
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Decision rights",
+      "col_2": "Operator decides day-to-day. CM validates. Studio approves strategy."
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Resource allocation",
+      "col_2": "Fixed sprint budget. No scope creep without approval."
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Time dynamics",
+      "col_2": "7-week sprints. Week 1-2 imagination. Week 3-7 implementation."
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Feedback loops",
+      "col_2": "Daily metrics. Weekly review. Monthly strategy."
+    },
+    {
+      "GAME PHYSICS RULEBOOK": "Failure modes",
+      "col_2": "Miss 2 milestones = intervention. Miss 3 = pause trade."
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Game Physics Rulebook",
+  "sheet_index": 860
+}

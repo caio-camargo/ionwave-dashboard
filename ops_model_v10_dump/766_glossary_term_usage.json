@@ -1,0 +1,132 @@
+{
+  "headers": [
+    "GLOSSARY TERM USAGE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "GLOSSARY TERM USAGE": "Terms from Grand Unifying Dictionary used across tabs",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "HOW TO USE DEFINED TERMS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "1. Always use terms exactly as defined in Grand Unifying Dictionary",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "2. If you need a new term, add it to Dictionary first",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "3. Never use synonyms - one word, one meaning",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "4. When in doubt, check the Dictionary",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "5. Flag any ambiguous terms to Studio for clarification",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "CRITICAL TERMS (Use exactly as defined)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "Term",
+      "col_2": "Defined As",
+      "col_3": "NOT This"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Trade",
+      "col_2": "Single business venture in Studio",
+      "col_3": "Deal, project, company"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Sprint",
+      "col_2": "7-week execution period",
+      "col_3": "Phase, cycle, period"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Operator",
+      "col_2": "Person running trade day-to-day",
+      "col_3": "Manager, founder, owner"
+    },
+    {
+      "GLOSSARY TERM USAGE": "CM",
+      "col_2": "Compliance Manager",
+      "col_3": "Auditor, reviewer, checker"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Win",
+      "col_2": "Hitting defined success criteria",
+      "col_3": "Profit, success, growth"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Kill",
+      "col_2": "Stopping trade due to failed criteria",
+      "col_3": "Pause, pivot, stop"
+    },
+    {
+      "GLOSSARY TERM USAGE": "Deliverable",
+      "col_2": "Output with acceptance criteria",
+      "col_3": "Task, work, output"
+    },
+    {
+      "GLOSSARY TERM USAGE": "EBITDA",
+      "col_2": "Earnings before interest, taxes, depreciation, amortization",
+      "col_3": "Profit, revenue"
+    },
+    {
+      "GLOSSARY TERM USAGE": "CAC",
+      "col_2": "Customer Acquisition Cost",
+      "col_3": "Marketing cost, ad spend"
+    },
+    {
+      "GLOSSARY TERM USAGE": "LTV",
+      "col_2": "Lifetime Value",
+      "col_3": "Revenue, customer value"
+    },
+    {
+      "GLOSSARY TERM USAGE": "TABS THAT DEFINE TERMS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "Grand Unifying Dictionary",
+      "col_2": "Core business/Studio terms",
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "Glossary",
+      "col_2": "Industry/technical terms (CAC, LTV, ROAS, etc.)",
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "The Equations",
+      "col_2": "Financial formulas and variables",
+      "col_3": null
+    },
+    {
+      "GLOSSARY TERM USAGE": "Symbol Grounding Protocol",
+      "col_2": "How terms get meaning",
+      "col_3": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Glossary Term Usage",
+  "sheet_index": 766
+}

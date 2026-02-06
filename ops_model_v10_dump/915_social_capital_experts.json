@@ -1,0 +1,62 @@
+{
+  "headers": [
+    "SOCIAL CAPITAL & EXPERTS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Specific people we need.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "TIER 1: EQUITY-WORTHY (1-5%):",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Name/Type",
+      "col_2": "Why",
+      "col_3": "Equity"
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Andrew Huberman type",
+      "col_2": "Instant credibility",
+      "col_3": "2-5%"
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Peter Attia type",
+      "col_2": "Longevity authority",
+      "col_3": "2-5%"
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "D2C operator who exited",
+      "col_2": "Playbook + intros",
+      "col_3": "1-2%"
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "TIER 2: PAID PARTNERSHIPS:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Category",
+      "col_2": "Cost",
+      "col_3": null
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "Biohacker micro-influencers",
+      "col_2": "$500-2K/post",
+      "col_3": null
+    },
+    {
+      "SOCIAL CAPITAL & EXPERTS": "UGC creators",
+      "col_2": "$100-300/video",
+      "col_3": null
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Social Capital & Experts",
+  "sheet_index": 915
+}

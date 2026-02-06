@@ -1,0 +1,202 @@
+{
+  "headers": [
+    "EXPERT REVIEWER — FULL SPEC",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Not a 30-minute call. A real review engagement. 10-20 hours per cluster.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "WHAT THE EXPERT ACTUALLY DOES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Phase 1: ORIENTATION (2-3 hrs)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• MC records a conversation with the expert about their domain (general knowledge capture)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert reads the Planning tab and Industry Perspectives tab for each model in their cluster",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert flags obvious gaps before AI draft is produced",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Phase 2: REVIEW (5-10 hrs)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert reads through every tab in every model in their cluster",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert marks: CORRECT / WRONG / INCOMPLETE / MISLEADING on each tab",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert provides specific corrections (not just 'this is wrong' but 'it should say X')",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• MC records a follow-up conversation: 'What did you find? What surprised you? What's wrong?'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Phase 3: VERIFICATION (3-5 hrs)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert reviews revised models after Claude incorporates feedback",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert signs off on V-tab (Verification sheet) for each model",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• Expert grades overall cluster quality: A/B/C/D/F",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "• MC records final conversation: 'Are we good? What would you change? What grade do you give?'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Total: 10-20 hours spread over 2-4 weeks.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "This is NOT a phone call. This is a professional engagement.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "COMPENSATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Options (expert chooses):",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "A. FLAT FEE: $200-500 per model reviewed (total $800-4,000 per cluster)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Best for: consultants who value cash, practitioners with day jobs",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "B. EQUITY: 0.5-1% per cluster reviewed",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Best for: people who believe in the project, want long-term upside",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "C. HYBRID: Reduced flat fee + equity",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Best for: most people",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "D. ATTRIBUTION ONLY: No cash, no equity. Name on published models + MC interview content.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Best for: people building personal brands who value the credibility artifact",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "This is the zero-budget option. It works for people who are already paid well",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "and want the portfolio piece, not the money.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Note: At $0 budget, we lead with D and C. After raise, we can retroactively compensate.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "EXPERT GRADING RUBRIC",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "Grade",
+      "col_2": "Meaning",
+      "col_3": "What Happens Next"
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "A",
+      "col_2": "Production-ready. Minor edits only. Expert would put their name on this today.",
+      "col_3": "Lock the model. V-tab goes green."
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "B",
+      "col_2": "Good but needs work. 80% right. Specific improvements identified.",
+      "col_3": "Claude revises. Expert re-reviews. One more cycle."
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "C",
+      "col_2": "Mediocre. Framework is right but details are wrong or missing.",
+      "col_3": "Major revision. Claude + PM co-founder rework. Expert re-reviews."
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "D",
+      "col_2": "Poor. Fundamental misunderstandings. Needs significant rework.",
+      "col_3": "Flag to Nilo. May need different expert or different approach."
+    },
+    {
+      "EXPERT REVIEWER — FULL SPEC": "F",
+      "col_2": "Wrong. Dangerous if used. Would embarrass the project.",
+      "col_3": "Delete and restart. Expert helps rebuild from scratch."
+    }
+  ],
+  "row_count": 38,
+  "sheet_name": "Expert Reviewer Spec",
+  "sheet_index": 89
+}

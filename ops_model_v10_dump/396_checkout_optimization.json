@@ -1,0 +1,121 @@
+{
+  "headers": [
+    "CHECKOUT OPTIMIZATION"
+  ],
+  "rows": [
+    {
+      "CHECKOUT OPTIMIZATION": "Reduce cart abandonment, increase AOV at checkout"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CART ABANDONMENT CAUSES"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Why people abandon carts:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Unexpected shipping costs (55%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Required account creation (34%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Complex checkout process (26%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Website errors (17%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Didn't trust site with payment (17%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Slow delivery (16%)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CHECKOUT CHECKLIST"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "REDUCE FRICTION:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Guest checkout option (don't force account)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Minimal form fields (only what's needed)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Auto-fill enabled"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Clear progress indicator"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Mobile optimized"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "BUILD TRUST:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Trust badges (secure checkout, SSL)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Money-back guarantee visible"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Customer reviews visible"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Clear return policy link"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "NO SURPRISES:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Shipping costs shown early (or free shipping)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Total clearly displayed"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Delivery time estimate"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "RECOVER ABANDONERS:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Exit intent popup"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Abandoned cart email (within 1 hour)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Abandoned cart SMS (if opted in)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "AOV BOOSTERS"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "INCREASE AVERAGE ORDER VALUE:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Free shipping threshold ('Add $X for free shipping')"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Bundle offers ('Save 20% with the starter kit')"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Upsells ('Add another for 25% off')"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Cross-sells ('Customers also bought...')"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Quantity discounts ('Buy 2+, save 15%')"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Subscribe & save option"
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Checkout Optimization",
+  "sheet_index": 396
+}

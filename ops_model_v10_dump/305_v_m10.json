@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "VERIFICATION — M10: PRICING & OFFER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Trust: Strategic=Nilo | Domain=[TBD — pricing] | Execution=PM co-founder | Vibes=Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Tab Name",
+      "col_2": "Verified By",
+      "col_3": "Trust Level",
+      "col_4": "What They Check",
+      "col_5": "Status",
+      "col_6": "Date",
+      "col_7": "Notes"
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Offer Strategy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Price Testing Log",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Product Customization",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "SKU Architecture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Product Roadmap",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "Upsell Page Copy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "STATUS KEY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "NOT STARTED",
+      "col_2": "Tab not yet produced or reviewed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "AI DRAFT",
+      "col_2": "Claude generated first draft",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "IN REVIEW",
+      "col_2": "Sent to verifier, awaiting feedback",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "REVISION",
+      "col_2": "Feedback received, Claude revising",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "VERIFIED",
+      "col_2": "Verifier approved. Locked.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M10: PRICING & OFFER": "BLOCKED",
+      "col_2": "Cannot verify — trust gap (no verifier assigned)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "V-M10",
+  "sheet_index": 305
+}

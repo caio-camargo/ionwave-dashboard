@@ -1,0 +1,205 @@
+{
+  "headers": [
+    "SHOPIFY STORE SETUP CHECKLIST"
+  ],
+  "rows": [
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "Complete before launching ads. Every checkbox matters."
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "ACCOUNT & DOMAIN"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Shopify account created (use business email)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Plan selected (Basic is fine to start)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Domain connected and SSL working"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Store name set correctly"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Store timezone set"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Currency set to USD"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "THEME & DESIGN"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Theme selected (Dawn free theme is fine)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Logo uploaded (header + favicon)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Brand colors set in theme settings"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Mobile preview checked on real phone"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Homepage built (hero, benefits, social proof, CTA)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Footer links working (privacy, terms, contact)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "PRODUCT SETUP"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Product created with all variants"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Product title optimized for search"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Product description complete (see Product Page Copy sheet)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ High-quality product images (5+ images)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Price set correctly"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Compare-at price set for anchoring (optional)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Inventory tracking enabled"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ SKU assigned"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Weight entered (for shipping calculation)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "CHECKOUT & PAYMENTS"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Shopify Payments activated"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ PayPal connected (optional but recommended)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Shop Pay enabled"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Checkout branding (logo, colors)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Order confirmation email customized"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Shipping rates configured"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Tax settings configured"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Checkout bump app installed (if using)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "SUBSCRIPTIONS"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Subscription app installed (Recharge/Skio)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Subscription pricing set (discount vs one-time)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Subscription as default option"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Subscription benefits copy clear"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Cancel flow configured (not too hard)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Subscription email notifications set"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "APPS & INTEGRATIONS"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Klaviyo connected to Shopify"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Review app installed (Judge.me)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Google Analytics 4 connected"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Meta Pixel installed"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ TikTok Pixel installed (if using TikTok)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Upsell app installed (if using post-purchase upsells)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "LEGAL & POLICIES"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Privacy Policy page created"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Terms of Service page created"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Refund Policy page created"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Shipping Policy page created"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Contact page / email set up"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Cookie consent banner (if selling to EU)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "PRE-LAUNCH TESTING"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Place test order (full checkout flow)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Receive confirmation email"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Check order appears in Shopify admin"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Test on mobile (iPhone + Android)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Test subscription checkout"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Cancel test subscription"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Check page speed (<3 seconds)"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Check all links work"
+    },
+    {
+      "SHOPIFY STORE SETUP CHECKLIST": "⬜ Refund test order"
+    }
+  ],
+  "row_count": 65,
+  "sheet_name": "Store Setup Checklist",
+  "sheet_index": 286
+}

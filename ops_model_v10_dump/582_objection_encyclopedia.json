@@ -1,0 +1,145 @@
+{
+  "headers": [
+    "OBJECTION ENCYCLOPEDIA",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "OBJECTION ENCYCLOPEDIA": "Every objection, why they have it, how to overcome",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "Objection",
+      "col_2": "Why They Say It",
+      "col_3": "Response",
+      "col_4": "Proof Point"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"I already use LMNT\"",
+      "col_2": "Satisfied, switching cost",
+      "col_3": "LMNT has 3 minerals, we have 78. Same sodium, more complete.",
+      "col_4": "Side-by-side comparison"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"It's too expensive\"",
+      "col_2": "Price sensitivity",
+      "col_3": "$1.50/day for complete hydration. Less than coffee.",
+      "col_4": "Cost comparison chart"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"Can't I just use salt?\"",
+      "col_2": "Skeptical of supplements",
+      "col_3": "Salt is just sodium. You need K, Mg, and trace minerals too.",
+      "col_4": "Deficiency stats"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"Does this actually work?\"",
+      "col_2": "General skepticism",
+      "col_3": "Feel the difference in 3 days or money back.",
+      "col_4": "Guarantee, reviews"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"I don't trust supplements\"",
+      "col_2": "Industry distrust",
+      "col_3": "Third-party tested, transparent sourcing, real ingredients.",
+      "col_4": "CoA, sourcing docs"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"Will it taste bad?\"",
+      "col_2": "Past bad experiences",
+      "col_3": "Specifically formulated for taste. Most compare to [X].",
+      "col_4": "Taste testimonials"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"Will it break my fast?\"",
+      "col_2": "Fasting concern",
+      "col_3": "Zero calories, zero sugar. Fasting-approved.",
+      "col_4": "Nutrition label"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"What makes ocean different?\"",
+      "col_2": "Doesn't understand differentiator",
+      "col_3": "78 minerals in natural ratios vs 3 synthetic. Your body knows.",
+      "col_4": "Science explainer"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"I'll just drink more water\"",
+      "col_2": "Doesn't understand problem",
+      "col_3": "Water without electrolytes dilutes what you have. Makes it worse.",
+      "col_4": "Hydration science"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "\"My doctor didn't mention this\"",
+      "col_2": "Authority concern",
+      "col_3": "Most doctors focus on disease, not optimization. This is wellness.",
+      "col_4": "Doctor testimonials"
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "OBJECTION HANDLING FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "1. ACKNOWLEDGE — 'That's a fair question...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "2. REFRAME — Change the context",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "3. EVIDENCE — Provide proof",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "4. REDIRECT — Move toward action",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "Example:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "Objection: 'It's too expensive'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "Response: 'I get it, it's more than Gatorade. But you're getting 78 minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "vs sugar water. At $1.50/day, it's less than your coffee. And if you don't",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "OBJECTION ENCYCLOPEDIA": "feel the difference, full refund. Worth a try?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Objection Encyclopedia",
+  "sheet_index": 582
+}

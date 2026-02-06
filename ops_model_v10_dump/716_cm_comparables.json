@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "COMPARABLES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "COMPARABLES": "This venture vs others - benchmarking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "VENTURE COMPARISON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Metric",
+      "col_2": "This Venture",
+      "col_3": "Comp 1",
+      "col_4": "Comp 2",
+      "col_5": "Comp 3",
+      "col_6": "Portfolio Avg",
+      "col_7": "Notes"
+    },
+    {
+      "COMPARABLES": "Current Grade",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Months Active",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Total Capital Deployed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Current MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "MRR/Capital Ratio",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "LTV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "LTV:CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Gross Margin",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Burn Rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Runway",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Operator Score",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "RELATIVE PERFORMANCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "vs Portfolio Average: [Above / At / Below]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Percentile Rank: ___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Areas of Outperformance: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COMPARABLES": "Areas of Underperformance: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "CM Comparables",
+  "sheet_index": 716
+}

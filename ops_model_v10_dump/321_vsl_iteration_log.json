@@ -1,0 +1,128 @@
+{
+  "headers": [
+    "VSL ITERATION LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "VSL ITERATION LOG": "Track every VSL version, what changed, and what happened",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "VSL ID",
+      "col_2": "Date",
+      "col_3": "Change",
+      "col_4": "Hook Rate",
+      "col_5": "CPA",
+      "col_6": "ROAS",
+      "col_7": "Spend",
+      "col_8": "Status",
+      "col_9": "Lesson Learned"
+    },
+    {
+      "VSL ITERATION LOG": "STATUS OPTIONS: Testing → Winner → Fatigued → Killed → Archived",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "PATTERN RECOGNITION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "After 5+ iterations, look for patterns:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "Which hook TYPES consistently win? (curiosity > contrarian?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "Which audience responds best?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "What hold rate correlates with purchase?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "When does fatigue typically set in? (days/impressions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "VSL ITERATION LOG": "These patterns become your creative playbook for the next VSL TUP.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "VSL Iteration Log",
+  "sheet_index": 321
+}

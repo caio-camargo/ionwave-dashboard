@@ -1,0 +1,511 @@
+{
+  "headers": [
+    "HERO SECTION"
+  ],
+  "rows": [
+    {
+      "HERO SECTION": "[HEADLINE]"
+    },
+    {
+      "HERO SECTION": "78 Minerals. 30 Seconds. Zero BS."
+    },
+    {
+      "HERO SECTION": "[SUBHEADLINE]"
+    },
+    {
+      "HERO SECTION": "Pure marine plasma for optimizers who demand more than synthetic supplements."
+    },
+    {
+      "HERO SECTION": "[CTA BUTTON]"
+    },
+    {
+      "HERO SECTION": "Try Risk-Free — $59"
+    },
+    {
+      "HERO SECTION": "[SUPPORTING TEXT]"
+    },
+    {
+      "HERO SECTION": "✓ 78 Ionic Minerals  ✓ 98% Bioavailable  ✓ 30-Day Guarantee"
+    },
+    {
+      "HERO SECTION": "PROBLEM SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "Your Supplements Are Failing You"
+    },
+    {
+      "HERO SECTION": "[BODY COPY]"
+    },
+    {
+      "HERO SECTION": "Here's the truth nobody in the supplement industry wants you to know:"
+    },
+    {
+      "HERO SECTION": "Most supplements are synthetic. Made in factories from isolated compounds your body barely recognizes. You're absorbing maybe 10% of what you pay for."
+    },
+    {
+      "HERO SECTION": "Meanwhile:"
+    },
+    {
+      "HERO SECTION": "• 90% of Americans are deficient in at least one essential mineral"
+    },
+    {
+      "HERO SECTION": "• Your filtered water has had all minerals stripped out"
+    },
+    {
+      "HERO SECTION": "• Modern soil is depleted—your vegetables aren't what they used to be"
+    },
+    {
+      "HERO SECTION": "• You're running on empty and calling it 'normal'"
+    },
+    {
+      "HERO SECTION": "The fatigue. The brain fog. The slow recovery. The 3pm crash."
+    },
+    {
+      "HERO SECTION": "It's not in your head. It's in your minerals—or lack of them."
+    },
+    {
+      "HERO SECTION": "SOLUTION SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "What If Your Minerals Came From the Ocean?"
+    },
+    {
+      "HERO SECTION": "[BODY COPY]"
+    },
+    {
+      "HERO SECTION": "In 1897, French physiologist René Quinton made a discovery that changed everything:"
+    },
+    {
+      "HERO SECTION": "Human blood plasma is 98% identical to seawater."
+    },
+    {
+      "HERO SECTION": "Not similar. Nearly identical. Same minerals. Same ratios. Same ionic form."
+    },
+    {
+      "HERO SECTION": "Your body didn't evolve to process synthetic pills. It evolved using the minerals found in seawater—all 78 of them, in perfect balance."
+    },
+    {
+      "HERO SECTION": "That's why we harvest marine plasma from 30 meters below the ocean surface, where mineral concentrations naturally match what your body needs."
+    },
+    {
+      "HERO SECTION": "No synthetic compounds. No artificial processing. No guesswork."
+    },
+    {
+      "HERO SECTION": "Just pure ionic minerals in the form your body actually recognizes."
+    },
+    {
+      "HERO SECTION": "HOW IT WORKS SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "30 Seconds to Complete Mineral Support"
+    },
+    {
+      "HERO SECTION": "[STEP 1]"
+    },
+    {
+      "HERO SECTION": "Tear"
+    },
+    {
+      "HERO SECTION": "Open one sachet each morning"
+    },
+    {
+      "HERO SECTION": "[STEP 2]"
+    },
+    {
+      "HERO SECTION": "Pour"
+    },
+    {
+      "HERO SECTION": "Add to 8oz of water"
+    },
+    {
+      "HERO SECTION": "[STEP 3]"
+    },
+    {
+      "HERO SECTION": "Drink"
+    },
+    {
+      "HERO SECTION": "78 minerals, instantly absorbed"
+    },
+    {
+      "HERO SECTION": "[SUPPORTING COPY]"
+    },
+    {
+      "HERO SECTION": "No pills to count. No powders to measure. No complicated stacks to manage."
+    },
+    {
+      "HERO SECTION": "One sachet. Once a day. That's it."
+    },
+    {
+      "HERO SECTION": "BENEFITS SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "What 78 Ionic Minerals Actually Do"
+    },
+    {
+      "HERO SECTION": "[BENEFIT 1]"
+    },
+    {
+      "HERO SECTION": "Sustained Energy"
+    },
+    {
+      "HERO SECTION": "No crash. No jitters. Just steady, all-day energy that doesn't quit at 3pm."
+    },
+    {
+      "HERO SECTION": "[BENEFIT 2]"
+    },
+    {
+      "HERO SECTION": "Faster Recovery"
+    },
+    {
+      "HERO SECTION": "Your muscles need more than protein. They need the minerals that power cellular repair."
+    },
+    {
+      "HERO SECTION": "[BENEFIT 3]"
+    },
+    {
+      "HERO SECTION": "Mental Clarity"
+    },
+    {
+      "HERO SECTION": "Brain fog isn't a caffeine deficiency. It's often a mineral deficiency."
+    },
+    {
+      "HERO SECTION": "[BENEFIT 4]"
+    },
+    {
+      "HERO SECTION": "Real Hydration"
+    },
+    {
+      "HERO SECTION": "Water without minerals is only half the equation. This completes it."
+    },
+    {
+      "HERO SECTION": "[BENEFIT 5]"
+    },
+    {
+      "HERO SECTION": "Better Sleep"
+    },
+    {
+      "HERO SECTION": "Magnesium, potassium, and trace minerals support your body's natural sleep cycle."
+    },
+    {
+      "HERO SECTION": "SOCIAL PROOF SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "What Our Community Is Saying"
+    },
+    {
+      "HERO SECTION": "[TESTIMONIAL 1]"
+    },
+    {
+      "HERO SECTION": "\"I've tried every electrolyte on the market. LMNT, Drip Drop, all of them. IonWave is the first one where I actually felt different. My HRV is up, my energy is stable, and I've cancelled three other supplements.\""
+    },
+    {
+      "HERO SECTION": "— Marcus T., Software Engineer"
+    },
+    {
+      "HERO SECTION": "[TESTIMONIAL 2]"
+    },
+    {
+      "HERO SECTION": "\"As a trainer, I recommend this to all my clients now. The difference in their recovery is visible. And the fact that it's actual ocean minerals instead of lab-made stuff matters to me.\""
+    },
+    {
+      "HERO SECTION": "— Jennifer R., Personal Trainer"
+    },
+    {
+      "HERO SECTION": "[TESTIMONIAL 3]"
+    },
+    {
+      "HERO SECTION": "\"I was skeptical. $59 for seawater? But my naturopath explained the science and I tried it. Three weeks in, my afternoon fatigue is gone. Just gone.\""
+    },
+    {
+      "HERO SECTION": "— David K., Attorney"
+    },
+    {
+      "HERO SECTION": "[TRUST ELEMENT]"
+    },
+    {
+      "HERO SECTION": "Join 10,000+ optimizers who've made the switch"
+    },
+    {
+      "HERO SECTION": "★★★★★ 4.8/5 from 127 reviews"
+    },
+    {
+      "HERO SECTION": "COMPARISON SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "How IonWave Compares"
+    },
+    {
+      "HERO SECTION": "[COMPARISON TABLE - represent as copy]"
+    },
+    {
+      "HERO SECTION": "LMNT"
+    },
+    {
+      "HERO SECTION": "• $45/month"
+    },
+    {
+      "HERO SECTION": "• 3 minerals (sodium, potassium, magnesium)"
+    },
+    {
+      "HERO SECTION": "• Synthetic, lab-made"
+    },
+    {
+      "HERO SECTION": "• Flavored with additives"
+    },
+    {
+      "HERO SECTION": "Standard Multivitamin"
+    },
+    {
+      "HERO SECTION": "• $20-40/month"
+    },
+    {
+      "HERO SECTION": "• 10-20 minerals"
+    },
+    {
+      "HERO SECTION": "• Pill form, ~10% absorption"
+    },
+    {
+      "HERO SECTION": "• Synthetic compounds"
+    },
+    {
+      "HERO SECTION": "IonWave Marine Plasma"
+    },
+    {
+      "HERO SECTION": "• $59/month ($47 with subscription)"
+    },
+    {
+      "HERO SECTION": "• 78 ionic minerals"
+    },
+    {
+      "HERO SECTION": "• Ocean-harvested, 98% bioavailable"
+    },
+    {
+      "HERO SECTION": "• Pure, unflavored, no additives"
+    },
+    {
+      "HERO SECTION": "[SUPPORTING COPY]"
+    },
+    {
+      "HERO SECTION": "Same subscription convenience. Radically different source."
+    },
+    {
+      "HERO SECTION": "INGREDIENTS SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "What's Inside"
+    },
+    {
+      "HERO SECTION": "[BODY COPY]"
+    },
+    {
+      "HERO SECTION": "Every sachet contains marine plasma harvested from pristine Atlantic waters at 30 meters depth."
+    },
+    {
+      "HERO SECTION": "[MINERAL LIST]"
+    },
+    {
+      "HERO SECTION": "Magnesium • Potassium • Sodium • Calcium • Zinc • Selenium • Iodine • Copper • Manganese • Chromium • Molybdenum • Plus 67 additional trace minerals in naturally-occurring ratios"
+    },
+    {
+      "HERO SECTION": "[TRANSPARENCY NOTE]"
+    },
+    {
+      "HERO SECTION": "Third-party tested for purity. No heavy metals. No microplastics. No additives."
+    },
+    {
+      "HERO SECTION": "Just pure ocean minerals, exactly as nature made them."
+    },
+    {
+      "HERO SECTION": "[SOURCE INFO]"
+    },
+    {
+      "HERO SECTION": "Sourced from protected Atlantic waters. Harvested using sustainable extraction methods. Filtered and tested in ISO-certified facilities."
+    },
+    {
+      "HERO SECTION": "OFFER SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "Choose Your Plan"
+    },
+    {
+      "HERO SECTION": "[OPTION 1 - FEATURED]"
+    },
+    {
+      "HERO SECTION": "SUBSCRIBE & SAVE"
+    },
+    {
+      "HERO SECTION": "$47/month (save 20%)"
+    },
+    {
+      "HERO SECTION": "• 30 sachets delivered monthly"
+    },
+    {
+      "HERO SECTION": "• Free shipping"
+    },
+    {
+      "HERO SECTION": "• Cancel anytime"
+    },
+    {
+      "HERO SECTION": "• Pause whenever you need"
+    },
+    {
+      "HERO SECTION": "[CTA] Start Subscription →"
+    },
+    {
+      "HERO SECTION": "[OPTION 2]"
+    },
+    {
+      "HERO SECTION": "ONE-TIME PURCHASE"
+    },
+    {
+      "HERO SECTION": "$59"
+    },
+    {
+      "HERO SECTION": "• 30 sachets (1 month supply)"
+    },
+    {
+      "HERO SECTION": "• Free shipping over $75"
+    },
+    {
+      "HERO SECTION": "• No commitment"
+    },
+    {
+      "HERO SECTION": "[CTA] Buy Once →"
+    },
+    {
+      "HERO SECTION": "[OPTION 3]"
+    },
+    {
+      "HERO SECTION": "3-MONTH BUNDLE"
+    },
+    {
+      "HERO SECTION": "$127 (save 28%)"
+    },
+    {
+      "HERO SECTION": "• 90 sachets"
+    },
+    {
+      "HERO SECTION": "• Best value"
+    },
+    {
+      "HERO SECTION": "• Free shipping"
+    },
+    {
+      "HERO SECTION": "[CTA] Get Bundle →"
+    },
+    {
+      "HERO SECTION": "[GUARANTEE]"
+    },
+    {
+      "HERO SECTION": "🛡️ 30-Day Feel-the-Difference Guarantee"
+    },
+    {
+      "HERO SECTION": "If you don't notice a change in your energy, recovery, or clarity within 30 days, we'll refund every penny. No questions. No hassle. Just email us."
+    },
+    {
+      "HERO SECTION": "FAQ SECTION"
+    },
+    {
+      "HERO SECTION": "[SECTION HEADLINE]"
+    },
+    {
+      "HERO SECTION": "Questions? We've Got Answers."
+    },
+    {
+      "HERO SECTION": "[Q1] What does it taste like?"
+    },
+    {
+      "HERO SECTION": "Mildly mineral, similar to high-quality spring water. Most people add it to juice or their morning smoothie, but it's totally fine in plain water."
+    },
+    {
+      "HERO SECTION": "[Q2] How long until I feel something?"
+    },
+    {
+      "HERO SECTION": "Most customers notice changes in energy and mental clarity within 3-7 days. Full benefits typically develop over 2-4 weeks of consistent use."
+    },
+    {
+      "HERO SECTION": "[Q3] Can I take this with my other supplements?"
+    },
+    {
+      "HERO SECTION": "Yes. Marine plasma complements most supplement stacks. However, if you're taking prescription medications, check with your doctor first."
+    },
+    {
+      "HERO SECTION": "[Q4] Where do you source the marine plasma?"
+    },
+    {
+      "HERO SECTION": "Protected Atlantic waters, harvested at 30 meters depth where mineral concentrations are optimal. Every batch is third-party tested."
+    },
+    {
+      "HERO SECTION": "[Q5] Is the subscription easy to cancel?"
+    },
+    {
+      "HERO SECTION": "Yes. Cancel or pause anytime from your account dashboard. No phone calls, no guilt trips, no hoops to jump through."
+    },
+    {
+      "HERO SECTION": "[Q6] Is this just expensive seawater?"
+    },
+    {
+      "HERO SECTION": "No. Seawater is 35g/L salt. Marine plasma is harvested from a specific depth where mineral ratios match human biology, then filtered and concentrated. Very different product."
+    },
+    {
+      "HERO SECTION": "FINAL CTA SECTION"
+    },
+    {
+      "HERO SECTION": "[HEADLINE]"
+    },
+    {
+      "HERO SECTION": "Your Body Knows the Difference"
+    },
+    {
+      "HERO SECTION": "[BODY COPY]"
+    },
+    {
+      "HERO SECTION": "You can keep guessing which synthetic supplements might work."
+    },
+    {
+      "HERO SECTION": "Or you can give your body what it actually evolved to use—78 ionic minerals from the ocean, in 30 seconds a day."
+    },
+    {
+      "HERO SECTION": "The choice is yours. But your body already knows the answer."
+    },
+    {
+      "HERO SECTION": "[CTA BUTTON]"
+    },
+    {
+      "HERO SECTION": "Try IonWave Risk-Free →"
+    },
+    {
+      "HERO SECTION": "[SUPPORTING TEXT]"
+    },
+    {
+      "HERO SECTION": "30-day guarantee • Free shipping on subscriptions • Cancel anytime"
+    }
+  ],
+  "row_count": 167,
+  "sheet_name": "Landing Page Copy",
+  "sheet_index": 386
+}

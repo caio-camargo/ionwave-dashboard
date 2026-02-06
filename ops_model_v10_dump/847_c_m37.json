@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "CONTRACT — M37: AI & AUTOMATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Agreement between project owner and Studio 4 / IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "PARTIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Project Owner (Contractor)",
+      "col_2": "[Name — the person accountable for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Entity",
+      "col_2": "IonWave [Entity TBD] / Studio 4 Ventures",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Authorized by",
+      "col_2": "Nilo (Danilo Vicioso)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Contract Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Effective Period",
+      "col_2": "[Start] to [End]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "SCOPE OF WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Production of M37: AI & Automation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Includes 5 content tabs, MC conversations (4-10 hrs), expert coordination, verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Deliverables:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "1. All 5 content tabs complete and verified (see V-M37)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "2. Industry perspectives complete (see IP-M37)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "3. MC conversations recorded and uploaded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "4. Expert review completed with revisions incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "5. Definition of done met (see P-M37)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "COMPENSATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Component",
+      "col_2": "Amount",
+      "col_3": "Trigger",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Base Fee",
+      "col_2": "[$ TBD]",
+      "col_3": "On contract signing",
+      "col_4": "Covers production time",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Milestone 1: AI Draft Complete",
+      "col_2": "[$ TBD]",
+      "col_3": "All tabs filled with AI first draft",
+      "col_4": "50% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Milestone 2: Expert Reviewed",
+      "col_2": "[$ TBD]",
+      "col_3": "Expert feedback incorporated",
+      "col_4": "25% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Milestone 3: Verified & Locked",
+      "col_2": "[$ TBD]",
+      "col_3": "V-tab all green, DoD met",
+      "col_4": "Final 25%",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Equity",
+      "col_2": "[% TBD]",
+      "col_3": "On contract signing, vesting over [X] months",
+      "col_4": "IonWave equity",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "MC Conversations Bonus",
+      "col_2": "[$ TBD]",
+      "col_3": "All MC hours completed and uploaded",
+      "col_4": "Optional",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "QUALITY STANDARDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• All content must pass expert review (domain trust verifier signs off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• All content must pass verification (V-tab shows VERIFIED on every row)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• No placeholder text remaining in any tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• All novel concepts have MC conversations recorded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• Industry perspectives tab has all 5 sections substantively completed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• Trust protocol satisfied at all 4 levels (strategic, domain, execution, vibes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• Definition of Done met (see P-M37)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Phase",
+      "col_2": "Duration",
+      "col_3": "Start",
+      "col_4": "End",
+      "col_5": "Gate"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Planning & MC Conversations",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "P-tab locked, MC hours scheduled"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "AI Draft Production",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "All tabs have first draft"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Expert Review",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Expert feedback received"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Revision & Incorporation",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Revisions complete"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Verification",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "V-tab all green"
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Final Lock",
+      "col_2": "1 day",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Nilo signs off. Model locked."
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "TERMINATION & FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• If model is not complete by Target End Date + 7 days grace: contract review with Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• If expert review reveals fundamental problems requiring >50% rework: timeline extends, no additional fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• If project owner becomes unresponsive for >5 business days: contract terminated, partial payment prorated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• If IonWave kills the project (M0 kill criteria triggered): contract terminated, work-to-date paid in full",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "• IP Assignment: All work product belongs to IonWave / Studio 4. Project owner retains right to reference in portfolio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "SIGNATURES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Project Owner:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Authorized (Nilo):",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M37: AI & AUTOMATION": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "C-M37",
+  "sheet_index": 847
+}

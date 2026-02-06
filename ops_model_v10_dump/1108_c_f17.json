@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F17: Podcast / Interview — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Cluster: FCL-0 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Guest strategy, booking, format, distribution. Podcast as recruiting tool.",
+      "col_2": null
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Podcast / Interview (F17)"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F17: Podcast / Interview within FCL-0"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F17]"
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Podcast / Interview model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F17: Podcast / Interview — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F17",
+  "sheet_index": 1108
+}

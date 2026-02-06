@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Studio 4 culture. How flash teams maintain culture without persistent relationships.",
+      "col_2": null
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Section",
+      "col_2": "Content"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Domain Overview",
+      "col_2": "[What is Culture & Values? 2-3 paragraphs of context for someone new to this domain.]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Key Terms",
+      "col_2": "[Define 5-10 domain-specific terms the flash contributor needs to know.]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Current Best Practices",
+      "col_2": "[How do leading companies/practitioners handle culture & values?]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Common Pitfalls",
+      "col_2": "[What do most people get wrong about culture & values?]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Benchmarks",
+      "col_2": "[What does good look like? What numbers/metrics define success?]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Reference Examples",
+      "col_2": "[2-3 real companies or projects that do this well. What can we learn?]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "What Experts Care About",
+      "col_2": "[When a culture & values expert reviews this, what will they look for?]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "Recommended Reading",
+      "col_2": "[3-5 articles, books, or resources for deeper understanding.]"
+    },
+    {
+      "IP-S13: Culture & Values — INDUSTRY PERSPECTIVES": "How This Connects to Other TUPs",
+      "col_2": "[Which other TUPs does S13 depend on or feed into?]"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "IP-S13",
+  "sheet_index": 989
+}

@@ -1,0 +1,265 @@
+{
+  "headers": [
+    "S41: RESEARCH DESIGN",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "S41: RESEARCH DESIGN": "The experiment. What we're testing, how we measure it, what we expect to find.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "RESEARCH QUESTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Can a sufficiently detailed coordination artifact (the Trade), combined with an AI co-pilot",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "(Claude), replace centralized management in venture creation?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Sub-questions:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "1. Can flash teams of strangers produce expert-grade work from tabs alone?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "2. What is the information loss rate when coordination is artifact-mediated vs. human-mediated?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "3. Does the quality of output (expert grades) degrade as the founder's involvement decreases?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "4. What emergent behaviors arise that weren't designed into the system?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "5. How does AI co-piloting (Claude) affect flash team productivity and quality?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "HYPOTHESIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "H1: A coordination artifact of sufficient detail (100+ TUPs with structural tabs) can",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "coordinate 40-60 flash contributors to produce expert-grade output (mean grade B or above)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "with zero centralized management after initial conditions are set.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "H2: Information loss (measured by questions tabs couldn't answer) will decrease over time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "as gaps are filled, approaching zero by Week 8.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "H3: Output quality will NOT degrade as founder involvement decreases, because the artifact",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "contains the founder's judgment, not the founder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "H4: AI co-piloting will reduce production time per TUP by 40-60% compared to",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "unassisted flash contributors (measured in contributor-reported hours).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "METHODOLOGY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Design: Longitudinal case study with embedded quantitative measurement.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Unit of analysis: The TUP (Trade Unit Project). N = 103.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Population: 40-60 flash contributors across 18 clusters, 3 levels.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "The experiment IS the IonWave Trade production cycle. We're not running a separate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "experiment — we're instrumenting the actual production process to capture research data.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Data collection is embedded in the librarian's workflow. No extra effort for contributors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "The MC conversations are qualitative data (recorded, transcribed).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "The V-tabs are quantitative data (expert grades per TUP).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "VARIABLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "S41: RESEARCH DESIGN": "Variable",
+      "col_2": "Type",
+      "col_3": "How Measured",
+      "col_4": "Captured By"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Expert grade per TUP",
+      "col_2": "Dependent (quality)",
+      "col_3": "A/B/C/D/F on V-tab",
+      "col_4": "Expert reviewer"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Hours per TUP",
+      "col_2": "Dependent (efficiency)",
+      "col_3": "Self-reported by flash contributor",
+      "col_4": "Librarian collects on completion"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Questions per TUP",
+      "col_2": "Dependent (info completeness)",
+      "col_3": "Count of QUESTION flags in SUBMIT folder",
+      "col_4": "Librarian tracks"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Revision sprints per TUP",
+      "col_2": "Dependent (first-pass quality)",
+      "col_3": "Count of TUPs that needed C/D revision",
+      "col_4": "Librarian tracks"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Founder involvement hours",
+      "col_2": "Independent",
+      "col_3": "Hours Danilo spends on anything post-Week 0",
+      "col_4": "Danilo self-reports"
+    },
+    {
+      "S41: RESEARCH DESIGN": "AI co-pilot usage",
+      "col_2": "Independent",
+      "col_3": "Did contributor use Claude? How many hours?",
+      "col_4": "Self-reported by contributor"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Cluster sequence",
+      "col_2": "Independent",
+      "col_3": "Which cluster # (early vs late in production)",
+      "col_4": "Built into timeline"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Contributor experience level",
+      "col_2": "Control",
+      "col_3": "Years in domain, self-rated expertise",
+      "col_4": "Application form"
+    },
+    {
+      "S41: RESEARCH DESIGN": "TUP complexity",
+      "col_2": "Control",
+      "col_3": "Number of content tabs, number of dependencies",
+      "col_4": "Built into P-tab"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Emergent behaviors",
+      "col_2": "Qualitative",
+      "col_3": "Unexpected patterns, self-organization, ad hoc collaboration",
+      "col_4": "MC conversations + librarian notes"
+    },
+    {
+      "S41: RESEARCH DESIGN": "Contributor satisfaction",
+      "col_2": "Qualitative",
+      "col_3": "Exit survey + MC closing conversation",
+      "col_4": "MC + survey"
+    }
+  ],
+  "row_count": 42,
+  "sheet_name": "S41-Research Design",
+  "sheet_index": 71
+}

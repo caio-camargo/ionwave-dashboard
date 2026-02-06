@@ -1,0 +1,295 @@
+{
+  "headers": [
+    "REDDIT RESEARCH METHODOLOGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "REDDIT RESEARCH METHODOLOGY": "How to mine Reddit for customer insights and language",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "WHY REDDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "Reddit is the largest focus group in the world.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• People share real problems anonymously",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• They use their natural language",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• They ask questions they won't ask elsewhere",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• They debate and share opinions openly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "TARGET SUBREDDITS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "Subreddit",
+      "col_2": "Size",
+      "col_3": "Focus",
+      "col_4": "Priority"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/keto",
+      "col_2": "1.3M+",
+      "col_3": "Keto diet discussion",
+      "col_4": "HIGH"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/fasting",
+      "col_2": "500K+",
+      "col_3": "Intermittent and extended fasting",
+      "col_4": "HIGH"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/carnivore",
+      "col_2": "100K+",
+      "col_3": "Carnivore diet",
+      "col_4": "HIGH"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/Biohackers",
+      "col_2": "200K+",
+      "col_3": "Biohacking community",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/Supplements",
+      "col_2": "200K+",
+      "col_3": "Supplement discussion",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/nutrition",
+      "col_2": "1M+",
+      "col_3": "General nutrition",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/Fitness",
+      "col_2": "10M+",
+      "col_3": "Fitness general",
+      "col_4": "LOW (broad)"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/xxfitness",
+      "col_2": "500K+",
+      "col_3": "Women's fitness",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/running",
+      "col_2": "1.5M+",
+      "col_3": "Runners",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "r/triathlon",
+      "col_2": "100K+",
+      "col_3": "Endurance athletes",
+      "col_4": "MEDIUM"
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "SEARCH QUERIES TO USE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "PROBLEM QUERIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'electrolyte' (see what people ask/recommend)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'keto flu' (problem awareness)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'tired on keto' / 'no energy keto'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'muscle cramps' + relevant sub",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'dehydrated' / 'hydration'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'brain fog'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "COMPETITOR QUERIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'LMNT' (see what people say)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'Liquid IV'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'best electrolyte'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• '[brand] vs [brand]'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "SOLUTION QUERIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'electrolyte recommendation'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'what electrolytes do you use'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "• 'help with keto flu'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "WHAT TO CAPTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "When reading threads, look for:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Exact phrases describing the problem",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Emotional language ('I'm so frustrated', 'finally found')",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Questions they're asking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ What they've tried that didn't work",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ What convinced them to try something",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Objections and skepticism",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Recommendations and why",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "☐ Specific symptoms mentioned",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REDDIT RESEARCH METHODOLOGY": "Copy exact quotes into Voice of Customer Database.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 47,
+  "sheet_name": "Reddit Research Methodology",
+  "sheet_index": 572
+}

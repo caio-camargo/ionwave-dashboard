@@ -1,0 +1,322 @@
+{
+  "headers": [
+    "LABOR ARCHITECTURE v3",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "LABOR ARCHITECTURE v3": "Every role is a career booster. Every ask is reasonable. Every scope is achievable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "THE CORE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Nobody works here because they need the money.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Everyone works here because this is the best thing they could put on their resume.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "The MC gets 200+ hours of hosted content for their reel.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "The PM co-founders get co-founder credit on a funded company.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "The admin gets venture studio operations experience from a YC-backed founder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "The experts get credited as domain validators on a published, funded project.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "The product person gets the best portfolio piece of their career.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "If we can't make that true for a role, the role is designed wrong.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "THE ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Role",
+      "col_2": "What They Do",
+      "col_3": "Scope",
+      "col_4": "Time",
+      "col_5": "Comp",
+      "col_6": "Career Booster",
+      "col_7": "How We Find Them"
+    },
+    {
+      "LABOR ARCHITECTURE v3": "MC\n(Master of Ceremonies)",
+      "col_2": "Has conversations. 4-10 hrs per model with whoever is working on it. Asks the obvious questions. Records everything. Synthesizes into 60-90 sec daily updates.",
+      "col_3": "ALL models. The MC talks to everyone about everything. They are the connective tissue.",
+      "col_4": "Part-time to full-time.\n3-4 hrs/day recording.\n1 hr/day daily update.",
+      "col_5": "Equity (1-3%)\n+ flat monthly ($1-2K if available)\n+ content rights",
+      "col_6": "200+ hrs of hosted professional content. Credit as face of a DAO launch. Unlike anything else in anyone's portfolio. Reel material for years.",
+      "col_7": "Acting students, journalism grads, podcast hosts building their audience, YouTubers who want a project. Someone who is GOOD ON CAMERA and GENUINELY CURIOUS."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Admin\n(Operations Backbone)",
+      "col_2": "Scheduling. Filings. Candidate screening. Site updates (CMS). Tool setup. Calendar management. Entity paperwork. The glue.",
+      "col_3": "Cross-cutting. Supports PM co-founders, MC, and Nilo. Does not own any model.",
+      "col_4": "Part-time.\n3-4 hrs/day.",
+      "col_5": "$100-200/week + bonus\n+ equity (0.5-1%)",
+      "col_6": "Venture studio operations experience. Reference from YC-backed founder. Inside view of how 7 businesses launch simultaneously. Resume line that opens doors.",
+      "col_7": "Upwork/OnlineJobs.ph. Smart, reliable, detail-oriented. Doesn't need to be on camera. Needs to be organized and responsive."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "PM Co-Founder\n(Cluster Lead)",
+      "col_2": "Owns one cluster of 4-8 models. Runs it like a production. Coordinates experts, drives milestones, manages quality. Makes decisions within M0 constraints.",
+      "col_3": "ONE CLUSTER ONLY.\nNot the whole company.\n4-8 models with clear boundaries.",
+      "col_4": "Part-time to full-time.\nDepends on cluster complexity.\n10-20 hrs/week.",
+      "col_5": "Co-founder equity (3-8% per cluster)\n+ name on docs\n+ decision authority",
+      "col_6": "Co-founder of a funded company. Led a cluster from 0 to verified. Portfolio of operational documentation that demonstrates PM excellence. Co-founder title.",
+      "col_7": "MBA students, ops people at startups who want co-founder experience, former consultants, PMs at companies who are bored. People who are OVERQUALIFIED for their current role."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Expert Reviewer\n(Domain Validator)",
+      "col_2": "Reviews AI-produced models in their domain. Reads through tabs. Grades quality. Marks what's wrong. Provides calibration. Name goes on the verified model.",
+      "col_3": "ONE CLUSTER matching their expertise.\nReviews 4-8 models.\nMultiple review sessions.",
+      "col_4": "10-20 hours total per cluster.\nSpread over 2-4 weeks.\nNot a quick phone call.",
+      "col_5": "Flat fee per model reviewed ($200-500)\n+ equity (0.5-1%)\n+ credit/attribution",
+      "col_6": "Published domain expert credit on a funded project. \"I was the expert reviewer for the [formulation/marketing/finance] cluster of IonWave.\" Credibility artifact.",
+      "col_7": "LinkedIn outreach. Industry contacts. People who WRITE about their domain (bloggers, newsletter authors, consultants). They already think about this stuff."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Product Person\n(Site Builder)",
+      "col_2": "Builds 2 sites: IonWave DAO launch page + infrastructure company page. Consumer-grade, cinematic, Remedy/Thakos quality.",
+      "col_3": "2 sites in 2-3 weeks.\nDefined deliverables.\nClear spec.",
+      "col_4": "2-3 week sprint.\nFull-time during sprint.",
+      "col_5": "Equity (2-4%)\n+ paid from raise if funded\n+ portfolio rights",
+      "col_6": "THE best portfolio piece of their career. \"I built the public-facing site for a DAO launch that got funded. Cinematic quality. Password-protected. Daily video updates.\" Career-defining case study.",
+      "col_7": "Bootcamp grads needing portfolio. Freelancers building practice. Designers who want to work on something that isn't another SaaS dashboard. The pitch: build this for equity, own the best case study you'll ever have."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "CoS\n(Chief of Staff / IonWave)",
+      "col_2": "Runs IonWave day-to-day once launch is funded. First operator hire. Brings capital access or capital.",
+      "col_3": "IonWave only.\nExecutes the business that the Trade specifies.",
+      "col_4": "Full-time post-funding.",
+      "col_5": "Significant equity (5-15%)\n+ salary from raise",
+      "col_6": "CEO/COO of a funded D2C brand built with the most documented launch process ever. If IonWave works, they're the operator who made it happen.",
+      "col_7": "Found by admin pipeline, vetted by PM co-founder, approved by Nilo. Later in the sequence — after proof exists."
+    },
+    {
+      "LABOR ARCHITECTURE v3": "THE SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 0: Nilo + Claude produce M0 (Trade Thesis) and enough of S1-S3 to be legible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 1: Hire Admin (sources candidates for everything else)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Hire MC (starts recording conversations with Nilo on M0, S3)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 2: Hire PM Co-Founder #1 (takes first cluster)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Pitch Product Person (equity deal, spec ready, 2-week sprint starts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 3: PM Co-Founder #1 activates first expert reviewer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "MC records conversations with PM + experts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Product Person building sites",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Admin screening for PM Co-Founder #2 and #3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 4+: Additional PM Co-Founders take additional clusters",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Expert reviewers engaged per cluster",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Site goes live (password-protected)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Content accumulates. Investors start watching.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "Week 8+: CoS pipeline activated (IonWave-specific operator)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LABOR ARCHITECTURE v3": "By now there's enough content and verified models to be compelling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 34,
+  "sheet_name": "Labor Architecture v3",
+  "sheet_index": 81
+}

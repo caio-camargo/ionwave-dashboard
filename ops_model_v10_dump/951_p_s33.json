@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S33: Coordination Theory — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "The theoretical foundation. Maximum variety with fewest rules. Coordination protocols. Published at coordinationprotocols.com.",
+      "col_2": null
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "TUP",
+      "col_2": "S33: Coordination Theory"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-0"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Owner",
+      "col_2": "Nilo"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Description",
+      "col_2": "The theoretical foundation. Maximum variety with fewest rules. Coordination protocols. Published at coordinationprotocols.com."
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S33: Coordination Theory — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Coordination Theory model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S33",
+  "sheet_index": 951
+}

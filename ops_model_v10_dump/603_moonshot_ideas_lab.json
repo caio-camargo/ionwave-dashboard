@@ -1,0 +1,511 @@
+{
+  "headers": [
+    "🚀 MOONSHOT IDEAS LAB 🚀",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Weird, wild, unconventional ideas. Most will fail. One might change everything.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "THE RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1. No idea is too crazy to write down",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "2. Don't evaluate while brainstorming",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "3. Steal shamelessly from other industries",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "4. Ask 'What if we did the opposite?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "5. 90% of these will be bad. That's the point.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "6. The goal is ONE idea that's 10x, not ten ideas that are 1.1x",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "IDEA CAPTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Idea",
+      "col_2": "Category",
+      "col_3": "Why It Might Work",
+      "col_4": "Why It Might Fail",
+      "col_5": "Effort",
+      "col_6": "Upside",
+      "col_7": "Status"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Give away product at music festivals, measure hydration before/after",
+      "col_2": "Experiential",
+      "col_3": "Dramatic demos, viral content",
+      "col_4": "Logistics, cost",
+      "col_5": "High",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Partner with sauna/cold plunge companies",
+      "col_2": "Partnership",
+      "col_3": "Perfect use case alignment",
+      "col_4": "Niche audience",
+      "col_5": "Medium",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Create an electrolyte specifically for hangovers",
+      "col_2": "Product",
+      "col_3": "Massive market, clear pain",
+      "col_4": "Brand dilution, crowded",
+      "col_5": "High",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Subscription that adjusts based on weather/activity",
+      "col_2": "Tech",
+      "col_3": "Personalization, lock-in",
+      "col_4": "Complexity, over-engineering",
+      "col_5": "Very High",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Open source the formula",
+      "col_2": "Radical",
+      "col_3": "Trust, differentiation, PR",
+      "col_4": "Competitors copy",
+      "col_5": "Low",
+      "col_6": "Unknown",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Electrolyte sommelier / consultation service",
+      "col_2": "Service",
+      "col_3": "Premium positioning, LTV",
+      "col_4": "Scalability",
+      "col_5": "Medium",
+      "col_6": "Low",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Partner with airlines for hydration packs",
+      "col_2": "B2B",
+      "col_3": "Huge reach, travel = dehydration",
+      "col_4": "Long sales cycle",
+      "col_5": "High",
+      "col_6": "Very High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Create a hydration tracking app (free) that recommends products",
+      "col_2": "Tech",
+      "col_3": "Owned audience, data",
+      "col_4": "App development cost",
+      "col_5": "Very High",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Sponsor an ultramarathon or extreme sport athlete",
+      "col_2": "Marketing",
+      "col_3": "Credibility, content",
+      "col_4": "Cost, niche",
+      "col_5": "Medium",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Electrolyte IV drip partnership (mobile IV companies)",
+      "col_2": "Partnership",
+      "col_3": "Premium market, credibility",
+      "col_4": "Regulatory complexity",
+      "col_5": "Medium",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Create \"hydration challenges\" with prizes",
+      "col_2": "Community",
+      "col_3": "Engagement, UGC, habit forming",
+      "col_4": "Execution complexity",
+      "col_5": "Medium",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Sell a \"lifetime supply\" for $999",
+      "col_2": "Pricing",
+      "col_3": "Cash upfront, commitment",
+      "col_4": "Fulfillment liability",
+      "col_5": "Low",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Partner with therapists/counselors (anxiety + dehydration link)",
+      "col_2": "B2B",
+      "col_3": "Untapped channel, science-backed",
+      "col_4": "Long education cycle",
+      "col_5": "High",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Create electrolyte popsicles/gummies",
+      "col_2": "Product",
+      "col_3": "Different format, impulse buy",
+      "col_4": "Manufacturing complexity",
+      "col_5": "High",
+      "col_6": "Medium",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Biohacker certification program",
+      "col_2": "Education",
+      "col_3": "Authority, community, revenue",
+      "col_4": "Time to build",
+      "col_5": "Very High",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Documentary about mineral depletion in modern food",
+      "col_2": "Content",
+      "col_3": "Massive reach if good, PR",
+      "col_4": "Cost, time, might flop",
+      "col_5": "Very High",
+      "col_6": "Very High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Partner with water filter companies (remineralization)",
+      "col_2": "Partnership",
+      "col_3": "Perfect complement",
+      "col_4": "Complex partnership",
+      "col_5": "Medium",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Electrolyte vending machines at gyms",
+      "col_2": "Distribution",
+      "col_3": "Impulse, point of need",
+      "col_4": "Capital intensive",
+      "col_5": "Very High",
+      "col_6": "High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Create a \"dehydration detector\" device",
+      "col_2": "Hardware",
+      "col_3": "Unique, sticky product",
+      "col_4": "Hardware is hard",
+      "col_5": "Very High",
+      "col_6": "Very High",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Monthly \"mystery mineral\" subscription with education",
+      "col_2": "Product",
+      "col_3": "Curiosity, learning",
+      "col_4": "Complexity",
+      "col_5": "Medium",
+      "col_6": "Low",
+      "col_7": "Idea"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "IDEA EVALUATION FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Only evaluate AFTER you have 20+ ideas. Don't kill ideas too early.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Score",
+      "col_2": "Criteria",
+      "col_3": "Weight",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1-10",
+      "col_2": "Potential upside if it works",
+      "col_3": "3x",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1-10",
+      "col_2": "Feasibility with current resources",
+      "col_3": "2x",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1-10",
+      "col_2": "Alignment with brand/mission",
+      "col_3": "2x",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1-10",
+      "col_2": "Speed to test (can we learn fast?)",
+      "col_3": "2x",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "1-10",
+      "col_2": "Defensibility (can others copy easily?)",
+      "col_3": "1x",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Total Score = Sum of (Score × Weight). Max = 100.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "MOONSHOT PIPELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Idea",
+      "col_2": "Score",
+      "col_3": "Stage",
+      "col_4": "Next Step",
+      "col_5": "Owner",
+      "col_6": "Deadline",
+      "col_7": "Result"
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Stages: Idea → Evaluating → Testing → Scaling → Killed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "PROMPTS FOR MORE IDEAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What if we charged 10x more? What would have to be true?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What if we gave it away free? How would we make money?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What would [Apple/Tesla/Patagonia] do in our space?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What's the most annoying thing about buying supplements?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• Who else has the same customer but isn't competing with us?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What if we only sold to businesses, not consumers?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What adjacent problem could we solve?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What would make someone tattoo our brand on their body?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What if we were a media company that happened to sell electrolytes?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "• What would a non-American market want that we're not offering?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "KILLED IDEAS (Learn from them)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "🚀 MOONSHOT IDEAS LAB 🚀": "Idea",
+      "col_2": "Why Killed",
+      "col_3": "What We Learned",
+      "col_4": "Date",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 55,
+  "sheet_name": "Moonshot Ideas Lab",
+  "sheet_index": 603
+}

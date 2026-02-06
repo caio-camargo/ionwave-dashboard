@@ -1,0 +1,193 @@
+{
+  "headers": [
+    "WIN-BACK SEQUENCE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "WIN-BACK SEQUENCE": "Re-engage customers who haven't purchased in 60-90+ days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "WIN-BACK FLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Approach"
+    },
+    {
+      "WIN-BACK SEQUENCE": "1. We Miss You",
+      "col_2": "60 days",
+      "col_3": "We miss you, [First Name]",
+      "col_4": "Emotional, remind of value"
+    },
+    {
+      "WIN-BACK SEQUENCE": "2. What's New",
+      "col_2": "75 days",
+      "col_3": "A lot has changed...",
+      "col_4": "Updates, improvements, new products"
+    },
+    {
+      "WIN-BACK SEQUENCE": "3. Big Offer",
+      "col_2": "90 days",
+      "col_3": "[First Name], here's 25% off",
+      "col_4": "Significant discount"
+    },
+    {
+      "WIN-BACK SEQUENCE": "4. Last Chance",
+      "col_2": "105 days",
+      "col_3": "Should we say goodbye?",
+      "col_4": "Final attempt, sunset warning"
+    },
+    {
+      "WIN-BACK SEQUENCE": "EMAIL 1: WE MISS YOU (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "SUBJECT: We miss you, [First Name] 💙",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "It's been a while since we've seen you.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Everything okay?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Just wanted to check in and remind you...",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "that sustained energy and real hydration is",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "just one scoop away.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Come back and try it again:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "[CTA: Shop IonWave]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Miss having you in the community.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "EMAIL 3: BIG OFFER (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "SUBJECT: [First Name], here's 25% off to come back",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "I really want you to experience IonWave again.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "So here's our biggest discount: 25% off.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Use code: COMEBACK25",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "[CTA: Claim 25% Off]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "Valid for 7 days only.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "P.S. If something wasn't right last time,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK SEQUENCE": "reply and let me know. I'd love to make it right.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "Win-Back Sequence",
+  "sheet_index": 444
+}

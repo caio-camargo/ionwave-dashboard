@@ -1,0 +1,161 @@
+{
+  "headers": [
+    "PURCHASE JOURNEY MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PURCHASE JOURNEY MAP": "Trigger → Search → Evaluate → Purchase → Use → Repurchase/Churn",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "Stage",
+      "col_2": "What Happens",
+      "col_3": "Touchpoints",
+      "col_4": "Questions They Have",
+      "col_5": "Our Job"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "TRIGGER",
+      "col_2": "Problem becomes acute (cramps, fatigue, starting keto)",
+      "col_3": "Life event, symptom, diet change",
+      "col_4": "\"Why do I feel like this?\"",
+      "col_5": "Be present when they search"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "AWARENESS",
+      "col_2": "Learn electrolytes might help",
+      "col_3": "Google, Reddit, podcast, friend",
+      "col_4": "\"Do I need electrolytes?\"",
+      "col_5": "Educational content"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "CONSIDERATION",
+      "col_2": "Compare options",
+      "col_3": "Review sites, Reddit, YouTube",
+      "col_4": "\"Which one is best for me?\"",
+      "col_5": "Differentiate clearly"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "EVALUATION",
+      "col_2": "Deep dive on finalists",
+      "col_3": "Our site, reviews, ingredients",
+      "col_4": "\"Is this legit? Worth it?\"",
+      "col_5": "Build trust, answer objections"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "PURCHASE",
+      "col_2": "Buy decision",
+      "col_3": "Website checkout",
+      "col_4": "\"Should I subscribe?\"",
+      "col_5": "Smooth checkout, good offer"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "ONBOARDING",
+      "col_2": "First use experience",
+      "col_3": "Unboxing, first drink, emails",
+      "col_4": "\"Did I make right choice?\"",
+      "col_5": "Confirm decision, educate"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "HABIT",
+      "col_2": "Regular use",
+      "col_3": "Daily routine, reorders",
+      "col_4": "\"Is this still working?\"",
+      "col_5": "Reinforce value, stay top of mind"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "ADVOCACY",
+      "col_2": "Tell others (or not)",
+      "col_3": "Social, word of mouth",
+      "col_4": "\"Should I recommend this?\"",
+      "col_5": "Make sharing easy"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "CHURN RISK",
+      "col_2": "Consider stopping",
+      "col_3": "Subscription cancel page",
+      "col_4": "\"Do I still need this?\"",
+      "col_5": "Win-back, remind of value"
+    },
+    {
+      "PURCHASE JOURNEY MAP": "CRITICAL MOMENTS OF TRUTH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "1. FIRST SEARCH — Are we showing up? Is content compelling?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "2. LANDING PAGE — Do they understand value in 5 seconds?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "3. PRICE REVEAL — Does value justify price?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "4. CHECKOUT — Is it frictionless? Is subscription clear?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "5. FIRST TASTE — Does it taste good? Match expectations?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "6. FIRST EFFECT — Do they feel anything? (placebo ok)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "7. DAY 7 — Are they still using it? Habit forming?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "8. FIRST REORDER — Do they subscribe or rebuy?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PURCHASE JOURNEY MAP": "9. MONTH 3 — Still seeing value? Churn danger zone.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Purchase Journey Map",
+  "sheet_index": 581
+}

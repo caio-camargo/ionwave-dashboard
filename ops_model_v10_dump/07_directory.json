@@ -1,0 +1,763 @@
+{
+  "headers": [
+    "DIRECTORY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "DIRECTORY": "3 Levels · 18 Clusters · 103 TUPs · 930 Tabs · Imagination Passet",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "Level",
+      "col_2": "Cluster",
+      "col_3": "TUP",
+      "col_4": "Name",
+      "col_5": "Owner"
+    },
+    {
+      "DIRECTORY": "STUDIO LEVEL (S0-S40)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-0",
+      "col_2": "Studio Thesis &\nArchitecture",
+      "col_3": "S0",
+      "col_4": "Studio Thesis",
+      "col_5": "Nilo"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S1",
+      "col_4": "Production System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S4",
+      "col_4": "Trade Architecture",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S5",
+      "col_4": "Studio Governance",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S33",
+      "col_4": "Coordination Theory",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S34",
+      "col_4": "Conceptual Foundations",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-1",
+      "col_2": "People & Culture",
+      "col_3": "S2",
+      "col_4": "Labor Architecture",
+      "col_5": "Librarian"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S6",
+      "col_4": "Recruiting Engine",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S7",
+      "col_4": "MC System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S8",
+      "col_4": "Series Production",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S9",
+      "col_4": "Expert Network",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S10",
+      "col_4": "PM Co-Founder System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S11",
+      "col_4": "Participant UX",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S12",
+      "col_4": "Career Booster",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S13",
+      "col_4": "Culture & Values",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-2",
+      "col_2": "Studio Operations",
+      "col_3": "S14",
+      "col_4": "Cluster Operations",
+      "col_5": "Admin"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S15",
+      "col_4": "Advertorial Engine",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S18",
+      "col_4": "Studio Tech Stack",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S19",
+      "col_4": "Knowledge Management",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S20",
+      "col_4": "Studio Analytics",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S39",
+      "col_4": "Execution Rhythms",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S40",
+      "col_4": "Command Center",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-3",
+      "col_2": "Studio Money & Legal",
+      "col_3": "S16",
+      "col_4": "Studio Financial Model",
+      "col_5": "PM (Finance/Legal)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S17",
+      "col_4": "Studio Entity & Legal",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S29",
+      "col_4": "Studio Fundraise",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S30",
+      "col_4": "Investor Relations",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S38",
+      "col_4": "Risk Management",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-4",
+      "col_2": "Content &\nDistribution",
+      "col_3": "S21",
+      "col_4": "Content Strategy",
+      "col_5": "Series Producer"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S22",
+      "col_4": "Site Architecture",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S23",
+      "col_4": "Community",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S35",
+      "col_4": "Trade-to-Textbook",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "SCL-5",
+      "col_2": "Portfolio & Scaling",
+      "col_3": "S24",
+      "col_4": "Portfolio Thesis",
+      "col_5": "PM (Systems/Gov)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S25",
+      "col_4": "Business Selection",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S26",
+      "col_4": "Operator Matching",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S27",
+      "col_4": "Portfolio Monitoring",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S28",
+      "col_4": "Cross-Pollination",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S31",
+      "col_4": "Competitive Intel",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S32",
+      "col_4": "School Model",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S36",
+      "col_4": "Trade-to-SaaS",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "S37",
+      "col_4": "Studio Scaling",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BUSINESS LEVEL (M0-M40)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-0",
+      "col_2": "Thesis & Meta",
+      "col_3": "M0",
+      "col_4": "Trade Thesis",
+      "col_5": "Nilo"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M34",
+      "col_4": "Trade Architecture",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M38",
+      "col_4": "Strategic Frameworks",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M39",
+      "col_4": "Conceptual",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M40",
+      "col_4": "Navigation & Command",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-1",
+      "col_2": "Product & Science",
+      "col_3": "M5",
+      "col_4": "Formulation",
+      "col_5": "PM (Product/Science)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M6",
+      "col_4": "Supply Chain",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M7",
+      "col_4": "Regulatory",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M8",
+      "col_4": "Brand Identity",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-2",
+      "col_2": "Money & Legal",
+      "col_3": "M2",
+      "col_4": "Entity & Legal",
+      "col_5": "PM (Finance/Legal)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M3",
+      "col_4": "Financial Model",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M4",
+      "col_4": "Fundraising",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M25",
+      "col_4": "Bookkeeping",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-3",
+      "col_2": "DR & Creative",
+      "col_3": "M11",
+      "col_4": "VSL Production",
+      "col_5": "PM (DR/Creative)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M12",
+      "col_4": "Ad Creative",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M13",
+      "col_4": "Media Buying",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M14",
+      "col_4": "Testing",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M15",
+      "col_4": "Landing Pages",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-4",
+      "col_2": "Retention & Lifecycle",
+      "col_3": "M17",
+      "col_4": "Email",
+      "col_5": "PM (Lifecycle/CRM)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M18",
+      "col_4": "SMS",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M19",
+      "col_4": "Customer Lifecycle",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M20",
+      "col_4": "Support",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M21",
+      "col_4": "Subscriptions",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M22",
+      "col_4": "Referral",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-5",
+      "col_2": "Growth & Market",
+      "col_3": "M10",
+      "col_4": "Pricing & Offer",
+      "col_5": "PM (Growth/Strategy)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M16",
+      "col_4": "Content & SEO",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M23",
+      "col_4": "Influencer & Creator",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M26",
+      "col_4": "Competitive Intel",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M27",
+      "col_4": "Customer Research",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M28",
+      "col_4": "Market Expansion",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M29",
+      "col_4": "PR & Communications",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-6",
+      "col_2": "Operations & Infra",
+      "col_3": "M1",
+      "col_4": "Labor Deployment",
+      "col_5": "PM (Operations)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M9",
+      "col_4": "Ecommerce Infra",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M24",
+      "col_4": "Fulfillment",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M30",
+      "col_4": "Analytics",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M31",
+      "col_4": "Hiring",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M35",
+      "col_4": "Execution Plans",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M36",
+      "col_4": "Operational Infra",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M37",
+      "col_4": "AI & Automation",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "BCL-7",
+      "col_2": "Governance & School",
+      "col_3": "M32",
+      "col_4": "School Model",
+      "col_5": "PM (Systems/Gov)"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "M33",
+      "col_4": "Governance & CM",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "FUNNEL LEVEL (F0-F20)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "FCL-0",
+      "col_2": "Brand & Content",
+      "col_3": "F0",
+      "col_4": "Funnel Thesis",
+      "col_5": "Dan James"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F1",
+      "col_4": "Personal Brand",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F2",
+      "col_4": "Content Strategy",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F3",
+      "col_4": "YouTube Playbook",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F17",
+      "col_4": "Podcast / Interview",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "FCL-1",
+      "col_2": "Funnel Infrastructure",
+      "col_3": "F4",
+      "col_4": "Lead Magnets",
+      "col_5": "Dan James"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F5",
+      "col_4": "Opt-In & Landing Pages",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F6",
+      "col_4": "Email Sequences",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F10",
+      "col_4": "Application System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F13",
+      "col_4": "Funnel Analytics",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "FCL-2",
+      "col_2": "Outbound & Platforms",
+      "col_3": "F7",
+      "col_4": "Cold Email System",
+      "col_5": "Admin"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F8",
+      "col_4": "Platform Recruiting",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F9",
+      "col_4": "Pass-the-Bottom",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F11",
+      "col_4": "MC Conversation System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F18",
+      "col_4": "Social Proof System",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": "FCL-3",
+      "col_2": "Monetization & Scaling",
+      "col_3": "F12",
+      "col_4": "Investor Funnel",
+      "col_5": "Dan James + Nilo"
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F14",
+      "col_4": "Course / Info Product",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F15",
+      "col_4": "Done-For-You Service",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F16",
+      "col_4": "Community",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F19",
+      "col_4": "Funnel Operations",
+      "col_5": null
+    },
+    {
+      "DIRECTORY": null,
+      "col_2": null,
+      "col_3": "F20",
+      "col_4": "Funnel Scaling",
+      "col_5": null
+    }
+  ],
+  "row_count": 107,
+  "sheet_name": "Directory",
+  "sheet_index": 7
+}

@@ -1,0 +1,273 @@
+{
+  "headers": [
+    "CUSTOMER SUCCESS PLAYBOOK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Proactive customer success for retention and expansion",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "CUSTOMER SUCCESS vs SUPPORT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "SUPPORT = Reactive. Customer has problem, we solve it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "SUCCESS = Proactive. We help customer achieve their goals before problems arise.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Support: 'My order didn't arrive' → Fix it",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Success: 'Day 7 - here's how to maximize your results' → Retain them",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "CUSTOMER JOURNEY TOUCHPOINTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day",
+      "col_2": "Touchpoint",
+      "col_3": "Goal",
+      "col_4": "Channel",
+      "col_5": "Owner"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 0",
+      "col_2": "Order confirmation",
+      "col_3": "Set expectations",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 1",
+      "col_2": "Shipping notification",
+      "col_3": "Build anticipation",
+      "col_4": "Email/SMS",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 3",
+      "col_2": "Delivery + Welcome",
+      "col_3": "Onboard properly",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 7",
+      "col_2": "Check-in: How are you feeling?",
+      "col_3": "Early engagement",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 14",
+      "col_2": "Usage tips + results expected",
+      "col_3": "Reinforce value",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 21",
+      "col_2": "Request review (if positive signals)",
+      "col_3": "Social proof",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 25",
+      "col_2": "Subscription reminder",
+      "col_3": "Retain",
+      "col_4": "Email/SMS",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 30",
+      "col_2": "Win-back if no reorder",
+      "col_3": "Recover churned",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 60",
+      "col_2": "Loyalty offer",
+      "col_3": "Deepen relationship",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Day 90",
+      "col_2": "Referral program invite",
+      "col_3": "Expand",
+      "col_4": "Email",
+      "col_5": "Auto"
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "ACTIVATION CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Customer is 'activated' when they've experienced the product value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "☐ Received and opened product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "☐ Used product at least 7 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "☐ Engaged with at least 1 email",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "☐ Understands proper usage (dose, timing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "☐ Felt subjective improvement",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "AT-RISK SIGNALS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "• No email opens after Day 7",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "• Support ticket with complaint",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "• Subscription paused or cancelled",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "• No reorder by Day 35",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "• Negative review or social mention",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "INTERVENTION PLAYBOOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Signal",
+      "col_2": "Intervention",
+      "col_3": "Channel",
+      "col_4": "Offer",
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "No email engagement",
+      "col_2": "SMS check-in",
+      "col_3": "SMS",
+      "col_4": "None (just check in)",
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Subscription paused",
+      "col_2": "Personal outreach",
+      "col_3": "Email/Call",
+      "col_4": "Discount or smaller size",
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "Negative review",
+      "col_2": "Personal response + make it right",
+      "col_3": "Platform + Email",
+      "col_4": "Full refund + free product",
+      "col_5": null
+    },
+    {
+      "CUSTOMER SUCCESS PLAYBOOK": "No reorder",
+      "col_2": "Win-back sequence",
+      "col_3": "Email",
+      "col_4": "20% off",
+      "col_5": null
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Customer Success Playbook",
+  "sheet_index": 468
+}

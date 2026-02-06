@@ -1,0 +1,140 @@
+{
+  "headers": [
+    "M0 THESIS — STRUCTURE & REQUIRED DECISIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "This is NOT the thesis. This is the structure the thesis must fill. Every field marked [NILO DECIDES] requires a real answer before production starts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Section",
+      "col_2": "Field",
+      "col_3": "What Goes Here",
+      "col_4": "Status",
+      "col_5": "Why It Matters"
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "ICP",
+      "col_2": "Primary Customer",
+      "col_3": "Specific demographic. Not \"health-conscious adults.\" Real: age range, income, lifestyle, buying triggers. Example: \"Men 28-42, $75K+, train 4+x/week, currently buy LMNT or make their own ketoade, care about ingredient sourcing.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Every TUP downstream reads this. If this is vague, everything is vague."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "ICP",
+      "col_2": "Secondary Customer",
+      "col_3": "Who else buys but isn't the bullseye. Example: \"Women 25-35 in endurance sports who've tried Liquid IV and want something cleaner.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Prevents scope creep. Secondary means \"we'll take their money but we don't design for them.\""
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "ICP",
+      "col_2": "Anti-Customer",
+      "col_3": "Who we explicitly do NOT want. Example: \"Price-sensitive shoppers looking for the cheapest electrolyte. We will never compete on price.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "This is as important as the ICP. Saying no to someone sharpens everything."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Positioning",
+      "col_2": "One-Line Position",
+      "col_3": "Complete the sentence: \"IonWave is the only electrolyte that ___.\" Must be defensible and specific.",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "This goes on the landing page, in every ad, in every pitch. It must be real."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Positioning",
+      "col_2": "Competitive Map",
+      "col_3": "Where IonWave sits vs LMNT, Liquid IV, Drip Drop, Nuun, homemade. On what axes? (Price vs purity? Performance vs taste? Medical vs lifestyle?)",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "PMs in CL-3 (product) and CL-4 (marketing) need to know who we're fighting and on what terms."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Positioning",
+      "col_2": "Price Point",
+      "col_3": "Exact target price per serving and per unit/box. Not a range — a number. Example: \"$1.50/serving, $36/30-pack.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Drives COGS targets, margin model, ad economics, competitive positioning. Everything."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Product",
+      "col_2": "Core Formulation Thesis",
+      "col_3": "What makes the product different at the ingredient level. Sodium/potassium/magnesium ratio. Any novel ingredients. Sourcing story.",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "CL-3 (supply chain) builds from this. Without it, they're guessing."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Product",
+      "col_2": "Form Factor",
+      "col_3": "Stick pack? Tub? Tablet? Liquid? Pick one for launch. Example: \"Stick packs. Single-serve. 30-count box.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Drives packaging, COGS, shipping, shelf placement strategy."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Product",
+      "col_2": "Flavor Strategy",
+      "col_3": "How many SKUs at launch? Which flavors? Example: \"3 flavors at launch: citrus, berry, unflavored. Unflavored is the differentiator — most competitors don't offer it.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Affects manufacturing complexity, COGS, marketing creative."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Distribution",
+      "col_2": "Launch Channel",
+      "col_3": "DTC only? Amazon? Both? Retail? Example: \"DTC-first via Shopify. Amazon 90 days after launch. No retail year 1.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Determines CL-4 (marketing) strategy, funnel design, ad channel mix."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Distribution",
+      "col_2": "Customer Acquisition Thesis",
+      "col_3": "How do customers find us? Paid? Organic? Creator partnerships? Example: \"Organic-first leveraging Tabs content engine. Paid Meta/Google as amplifier. Creator seeding to 50 fitness accounts.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "CL-4 PM needs this to build the marketing operating model."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Finance",
+      "col_2": "Target COGS",
+      "col_3": "Cost per unit target. Example: \"$3-4 per 30-pack landed (stick pack, US contract manufacturer).\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Determines margin structure, break-even math, fundraise ask."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Finance",
+      "col_2": "Fundraise Target",
+      "col_3": "How much are we raising and at what stage? Example: \"$250K pre-seed at $2.5M cap. Use: first inventory run + paid acquisition + 6 months ops.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "CL-5 (finance) PM builds the model from this number."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Kill Criteria",
+      "col_2": "What kills this company",
+      "col_3": "Specific conditions under which we stop. Not \"if it doesn't work.\" Real: \"If COGS can't get below $5/unit, kill. If CAC exceeds $40 after 90 days of paid, kill. If no expert gives us above a C on CL-3 formulation thesis, kill.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "The most important section. Without kill criteria, you can't fail, which means you can't learn. This is what separates a protocol from a wish."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "Kill Criteria",
+      "col_2": "Timeline kill",
+      "col_3": "When do we stop if we haven't hit milestones? Example: \"If fewer than 4 clusters are locked by Week 10, pause and reassess. If fundraise doesn't close within 60 days of package completion, kill or pivot.\"",
+      "col_4": "[NILO DECIDES]",
+      "col_5": "Prevents zombie mode — keeping going because you've invested time, not because it's working."
+    },
+    {
+      "M0 THESIS — STRUCTURE & REQUIRED DECISIONS": "M0 IS NOT DONE UNTIL EVERY RED CELL IS FILLED WITH A REAL ANSWER.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "M0 Thesis - Structure",
+  "sheet_index": 1204
+}

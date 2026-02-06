@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "CUSTOMER TOUCHPOINT CADENCE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 0",
+      "col_2": "Order confirmation email"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 1",
+      "col_2": "Shipping notification"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 3-5",
+      "col_2": "Delivery + welcome"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 7",
+      "col_2": "How to use / tips"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 14",
+      "col_2": "NPS survey"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 21",
+      "col_2": "Review request"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 25",
+      "col_2": "Reorder reminder"
+    },
+    {
+      "CUSTOMER TOUCHPOINT CADENCE": "Day 30",
+      "col_2": "Subscription offer"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Touchpoint Cadence",
+  "sheet_index": 794
+}

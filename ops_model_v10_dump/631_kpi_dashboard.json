@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "KPI DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "KPI DASHBOARD": "KPI",
+      "col_2": "Daily",
+      "col_3": "Weekly",
+      "col_4": "Monthly",
+      "col_5": "Target"
+    },
+    {
+      "KPI DASHBOARD": "Revenue",
+      "col_2": "✓",
+      "col_3": "✓",
+      "col_4": "✓",
+      "col_5": "$25K MRR"
+    },
+    {
+      "KPI DASHBOARD": "Orders",
+      "col_2": "✓",
+      "col_3": "✓",
+      "col_4": "✓",
+      "col_5": "500/mo"
+    },
+    {
+      "KPI DASHBOARD": "CAC",
+      "col_2": "-",
+      "col_3": "✓",
+      "col_4": "✓",
+      "col_5": "<$40"
+    },
+    {
+      "KPI DASHBOARD": "ROAS",
+      "col_2": "✓",
+      "col_3": "✓",
+      "col_4": "✓",
+      "col_5": ">2x"
+    },
+    {
+      "KPI DASHBOARD": "Subscription %",
+      "col_2": "-",
+      "col_3": "✓",
+      "col_4": "✓",
+      "col_5": ">50%"
+    },
+    {
+      "KPI DASHBOARD": "Churn",
+      "col_2": "-",
+      "col_3": "-",
+      "col_4": "✓",
+      "col_5": "<8%"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "KPI Dashboard",
+  "sheet_index": 631
+}

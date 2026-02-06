@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "BEAUTY METRICS DASHBOARD",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "BEAUTY METRICS DASHBOARD": "Coherence, coordination debt, integration strength",
+      "col_2": null
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "SYSTEM BEAUTY = Coherence - Coordination Debt",
+      "col_2": null
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "COHERENCE INDICATORS",
+      "col_2": null
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "All sheets use same terminology",
+      "col_2": "☐ Yes / ☐ No"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Numbers match across sheets",
+      "col_2": "☐ Yes / ☐ No"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Roles and responsibilities clear",
+      "col_2": "☐ Yes / ☐ No"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "No conflicting information",
+      "col_2": "☐ Yes / ☐ No"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Easy to find anything",
+      "col_2": "☐ Yes / ☐ No"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "COORDINATION DEBT (things that need fixing)",
+      "col_2": null
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Undocumented processes",
+      "col_2": "0 = none, 5 = many"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Ambiguous ownership",
+      "col_2": "0 = none, 5 = many"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Stale information",
+      "col_2": "0 = none, 5 = much"
+    },
+    {
+      "BEAUTY METRICS DASHBOARD": "Missing examples",
+      "col_2": "0 = none, 5 = many"
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Beauty Metrics Dashboard",
+  "sheet_index": 900
+}

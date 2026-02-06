@@ -1,0 +1,126 @@
+{
+  "headers": [
+    "REFERENCE TECH STACK — EMMA RELIEF",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "The tools Emma uses. Our starting point for tool selection.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Category",
+      "col_2": "Emma Uses",
+      "col_3": "IonWave Plan",
+      "col_4": "Cost Est.",
+      "col_5": "Priority"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Ecommerce Platform",
+      "col_2": "Shopify",
+      "col_3": "Shopify",
+      "col_4": "$39-299/mo",
+      "col_5": "Day 1"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Product Reviews",
+      "col_2": "Loox",
+      "col_3": "Loox or Judge.me",
+      "col_4": "$10-100/mo",
+      "col_5": "Week 2"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "SMS Marketing",
+      "col_2": "Attentive",
+      "col_3": "Attentive or Postscript",
+      "col_4": "$100-500/mo",
+      "col_5": "Month 2"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Affiliate - Network 1",
+      "col_2": "Awin",
+      "col_3": "Phase 2",
+      "col_4": "Variable",
+      "col_5": "Month 4+"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Affiliate - Network 2",
+      "col_2": "ShareASale",
+      "col_3": "Phase 2",
+      "col_4": "Variable",
+      "col_5": "Month 4+"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "SEO",
+      "col_2": "Sherpas Smart SEO",
+      "col_3": "Sherpas or manual",
+      "col_4": "$0-30/mo",
+      "col_5": "Month 2"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Subscriptions",
+      "col_2": "ReCharge",
+      "col_3": "ReCharge",
+      "col_4": "$99/mo + tx fee",
+      "col_5": "Week 3"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Loyalty / Rewards",
+      "col_2": "Yotpo Loyalty",
+      "col_3": "Yotpo or Smile.io",
+      "col_4": "$0-200/mo",
+      "col_5": "Month 3"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "TV Advertising",
+      "col_2": "Tatari",
+      "col_3": "Not planned (Phase 3+)",
+      "col_4": "--",
+      "col_5": "Later"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Support",
+      "col_2": "Zendesk",
+      "col_3": "Zendesk or Gorgias",
+      "col_4": "$19-89/mo",
+      "col_5": "Week 2"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Email Marketing",
+      "col_2": "Not visible (likely Klaviyo)",
+      "col_3": "Klaviyo",
+      "col_4": "$20-150/mo",
+      "col_5": "Day 1"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Ads Platform",
+      "col_2": "Meta (primary)",
+      "col_3": "Meta (primary)",
+      "col_4": "Variable",
+      "col_5": "Day 1"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Analytics",
+      "col_2": "GA4 + Meta Pixel",
+      "col_3": "GA4 + Meta Pixel",
+      "col_4": "Free",
+      "col_5": "Day 1"
+    },
+    {
+      "REFERENCE TECH STACK — EMMA RELIEF": "Fulfillment",
+      "col_2": "Amazon FBA (via Enclave BioActives) + direct",
+      "col_3": "ShipBob or direct 3PL",
+      "col_4": "$5-8/order",
+      "col_5": "Pre-launch"
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Ref Tech Stack",
+  "sheet_index": 551
+}

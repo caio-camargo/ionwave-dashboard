@@ -1,0 +1,27 @@
+{
+  "headers": [
+    "WHY COMPETITORS COULD BE WRONG",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WHY COMPETITORS COULD BE WRONG": "LMNT",
+      "col_2": "Only 3 minerals, keto-focused, expensive"
+    },
+    {
+      "WHY COMPETITORS COULD BE WRONG": "Liquid IV",
+      "col_2": "Sugary, mass market, no differentiation"
+    },
+    {
+      "WHY COMPETITORS COULD BE WRONG": "Seaonic",
+      "col_2": "Too expensive, limited distribution"
+    },
+    {
+      "WHY COMPETITORS COULD BE WRONG": "Drip Drop",
+      "col_2": "Medical positioning, boring brand"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Why Equal Could Be Wrong",
+  "sheet_index": 123
+}

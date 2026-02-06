@@ -1,0 +1,262 @@
+{
+  "headers": [
+    "COGNITIVE LOAD GUIDE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "COGNITIVE LOAD GUIDE": "What to ignore, when. Progressive disclosure based on phase.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "This model has 390+ tabs.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "That's overwhelming and paralyzing.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Most tabs are NOT relevant to you right now.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Looking at them will distract you from what matters.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "This guide tells you what to IGNORE at each phase.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "At any given time:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "• 5-10 tabs are ACTIVE (use daily/weekly)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "• 10-20 tabs are REFERENCE (use when needed)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "• 360+ tabs are IGNORE (don't even open)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "The tabs to use change as you progress through phases.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "What's 'ignore' today might be 'active' in 3 months.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "PHASE 0: TRADE SETUP",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Category",
+      "col_2": "Tabs",
+      "col_3": "Notes"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "ACTIVE",
+      "col_2": "Phase 0 - Trade Setup, Thesis, Unit Economics, Kill Criteria, Operator Search",
+      "col_3": "Your daily focus"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "REFERENCE",
+      "col_2": "ICP tabs, Competitive Landscape, Equity Strategy, Cap Table",
+      "col_3": "Consult as needed"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "IGNORE",
+      "col_2": "Everything else (Creative, Email, Scaling, Operations, etc.)",
+      "col_3": "Don't even look"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "PRE-LAUNCH",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Category",
+      "col_2": "Tabs",
+      "col_3": "Notes"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "ACTIVE",
+      "col_2": "Command Center, Choreography, Supplier, Store Setup, Landing Page, First 100 Ads, Email Flows",
+      "col_3": "Your daily focus"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "REFERENCE",
+      "col_2": "Unit Economics, Kill Criteria, ICP, Brand Guidelines, SOPs",
+      "col_3": "Consult as needed"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "IGNORE",
+      "col_2": "Scaling, Retention, B2B, Amazon, SEO, Podcast, Community, etc.",
+      "col_3": "Future problems, not now"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "LAUNCH",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Category",
+      "col_2": "Tabs",
+      "col_3": "Notes"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "ACTIVE",
+      "col_2": "Command Center, Ad System Engineering, Creative Engineering, Unit Economics, Kill Criteria, First 10 Orders Playbook",
+      "col_3": "Your daily focus"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "REFERENCE",
+      "col_2": "Choreography, Support/CX, Fulfillment, Cash Flow",
+      "col_3": "Consult as needed"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "IGNORE",
+      "col_2": "Still ignore: Scaling, B2B, Amazon, SEO, Podcast, Community, etc.",
+      "col_3": "Still future problems"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "PMF",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Category",
+      "col_2": "Tabs",
+      "col_3": "Notes"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "ACTIVE",
+      "col_2": "Command Center, Creative Engineering, Ad System, Retention, Unit Economics, Kill Criteria",
+      "col_3": "Your daily focus"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "REFERENCE",
+      "col_2": "Choreography, Scaling Playbook (start reading), Referral Program",
+      "col_3": "Preparing for next phase"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "IGNORE",
+      "col_2": "Still ignore: B2B, Amazon, SEO, Podcast, International, etc.",
+      "col_3": "Not yet"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "SCALE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Category",
+      "col_2": "Tabs",
+      "col_3": "Notes"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "ACTIVE",
+      "col_2": "Command Center, Scaling Playbook, Unit Economics, Cash Flow, Team/Hiring, Operations",
+      "col_3": "Your daily focus"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "REFERENCE",
+      "col_2": "Almost everything becomes reference now",
+      "col_3": "You might need any tab"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "NOW RELEVANT",
+      "col_2": "SEO, Amazon, B2B, Referral, Community, Content",
+      "col_3": "Expansion channels now matter"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "STILL IGNORE",
+      "col_2": "Exit/M&A (unless approaching), International (unless ready)",
+      "col_3": "Phase 5 problems"
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "HOW TO USE THIS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "1. Identify your current phase",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "2. Look at ACTIVE tabs only for daily work",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "3. Use REFERENCE tabs when a specific question arises",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "4. Actively avoid IGNORE tabs - they're distractions",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "If you find yourself in an IGNORE tab, ask:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "'Is this actually relevant RIGHT NOW, or am I procrastinating?'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "The 390 tabs exist so you don't have to reinvent things later.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "But you don't need them all at once.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COGNITIVE LOAD GUIDE": "Focus wins. Distraction kills.",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 50,
+  "sheet_name": "Cognitive Load Guide",
+  "sheet_index": 934
+}

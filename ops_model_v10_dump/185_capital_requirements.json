@@ -1,0 +1,371 @@
+{
+  "headers": [
+    "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "⚠️ Original estimates were too optimistic. This reflects realistic COGS and cash timing.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "KEY CORRECTIONS FROM DUE DILIGENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Item",
+      "col_2": "Old Assumption",
+      "col_3": "Revised",
+      "col_4": "Source",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Original COGS assumption",
+      "col_2": "$10/box",
+      "col_3": "$18-20/box landed (base case)",
+      "col_4": "See Landed Cost Breakdown",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Original margin assumption",
+      "col_2": "70%",
+      "col_3": "40-45% realistic",
+      "col_4": "Changes unit economics significantly",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Original inventory (500 units)",
+      "col_2": "$5,000",
+      "col_3": "$9,000-10,000",
+      "col_4": "Based on $18-20 landed cost",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Cash recycling claim",
+      "col_2": "10-15 cycles",
+      "col_3": "~3 cycles in 60 days",
+      "col_4": "See Cash Flow Model",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Lowest cash point",
+      "col_2": "Not modeled",
+      "col_3": "$9,200 on Day 45",
+      "col_4": "Need buffer for 2nd inventory order",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "REVISED CAPITAL SCENARIOS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "MINIMUM VIABLE LAUNCH — $40K",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Category",
+      "col_2": "Amount",
+      "col_3": "Breakdown",
+      "col_4": "% of Raise",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Initial Inventory (500 units)",
+      "col_2": "$10,000",
+      "col_3": "500 × $20 landed cost",
+      "col_4": "25%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Second Inventory Deposit",
+      "col_2": "$5,000",
+      "col_3": "Need to reorder before running out",
+      "col_4": "12.5%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Ad Testing Budget",
+      "col_2": "$8,000",
+      "col_3": "Week 3-6 testing ($50-200/day)",
+      "col_4": "20%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Ad Scaling Budget",
+      "col_2": "$5,000",
+      "col_3": "Week 7+ if validated",
+      "col_4": "12.5%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Branding/Creative",
+      "col_2": "$3,000",
+      "col_3": "Photography, design, video",
+      "col_4": "7.5%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Infrastructure",
+      "col_2": "$2,000",
+      "col_3": "Shopify, apps, LLC, domain",
+      "col_4": "5%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Working Capital Buffer",
+      "col_2": "$7,000",
+      "col_3": "Cash flow gaps, unexpected costs",
+      "col_4": "17.5%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "TOTAL",
+      "col_2": "$40,000",
+      "col_3": null,
+      "col_4": "100%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "COMFORTABLE LAUNCH — $60K",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Category",
+      "col_2": "Amount",
+      "col_3": "Breakdown",
+      "col_4": "% of Raise",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Initial Inventory (750 units)",
+      "col_2": "$15,000",
+      "col_3": "750 × $20 landed cost",
+      "col_4": "25%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Second Inventory",
+      "col_2": "$10,000",
+      "col_3": "Full reorder capacity",
+      "col_4": "17%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Ad Testing Budget",
+      "col_2": "$10,000",
+      "col_3": "More creative testing",
+      "col_4": "17%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Ad Scaling Budget",
+      "col_2": "$8,000",
+      "col_3": "Scale winners aggressively",
+      "col_4": "13%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Branding/Creative",
+      "col_2": "$5,000",
+      "col_3": "Professional VSL, UGC",
+      "col_4": "8%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Infrastructure",
+      "col_2": "$2,000",
+      "col_3": "Shopify, apps, LLC",
+      "col_4": "3%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Working Capital Buffer",
+      "col_2": "$10,000",
+      "col_3": "3-month runway for gaps",
+      "col_4": "17%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "TOTAL",
+      "col_2": "$60,000",
+      "col_3": null,
+      "col_4": "100%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "BOOTSTRAP PATH — $15K (HIGH RISK)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Category",
+      "col_2": "Amount",
+      "col_3": "Breakdown",
+      "col_4": "% of Raise",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Minimum Inventory (250 units)",
+      "col_2": "$5,000",
+      "col_3": "250 × $20 (tight MOQ negotiation required)",
+      "col_4": "33%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Ad Testing Only",
+      "col_2": "$5,000",
+      "col_3": "Very limited testing capacity",
+      "col_4": "33%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Everything Else",
+      "col_2": "$3,000",
+      "col_3": "Store, creative, legal, tools",
+      "col_4": "20%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Buffer",
+      "col_2": "$2,000",
+      "col_3": "Almost no margin for error",
+      "col_4": "14%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "TOTAL",
+      "col_2": "$15,000",
+      "col_3": null,
+      "col_4": "100%",
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "⚠️ BOOTSTRAP RISKS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "• Cash flow model shows lowest point of $9,200 — $15K start barely covers it",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "• No buffer for second inventory order — will run out of stock",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "• Limited ad testing — may not find winning creative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "• One bad week can kill the business",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "• NOT RECOMMENDED unless testing COGS assumptions first",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "MARGIN REALITY CHECK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Scenario",
+      "col_2": "COGS",
+      "col_3": "Margin",
+      "col_4": "Break-Even ROAS",
+      "col_5": "Viable?"
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Optimistic (hit LOW estimates)",
+      "col_2": "$20",
+      "col_3": "57%",
+      "col_4": "1.75x",
+      "col_5": "✅ Yes"
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Base Case (realistic)",
+      "col_2": "$28",
+      "col_3": "40%",
+      "col_4": "2.50x",
+      "col_5": "⚠️ Tight"
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Pessimistic (HIGH estimates)",
+      "col_2": "$38",
+      "col_3": "20%",
+      "col_4": "5.00x",
+      "col_5": "❌ No"
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "RECOMMENDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "Raise $40-60K, not $30-50K as originally planned.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "OR: Validate COGS first with small sample order before committing to full raise.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CAPITAL REQUIREMENTS — REVISED (Based on Landed Cost + Cash Flow Analysis)": "If landed cost >$25/box, the business may not be viable at $47-59 price point.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Capital Requirements",
+  "sheet_index": 185
+}

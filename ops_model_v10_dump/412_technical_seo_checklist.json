@@ -1,0 +1,182 @@
+{
+  "headers": [
+    "TECHNICAL SEO CHECKLIST",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "TECHNICAL SEO CHECKLIST": "Foundation that makes everything else work",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "SITE SPEED",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Page load time <3 seconds",
+      "col_3": "Google PageSpeed Insights"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Images optimized and compressed",
+      "col_3": "TinyPNG, Shopify auto-compression"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Lazy loading enabled for images",
+      "col_3": "Shopify theme settings"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Minimize JavaScript/CSS",
+      "col_3": "Theme optimization"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "CDN enabled",
+      "col_3": "Shopify includes this"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "MOBILE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Mobile-responsive design",
+      "col_3": "Test on actual devices"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Mobile page speed optimized",
+      "col_3": "Google Mobile-Friendly Test"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Touch elements properly sized",
+      "col_3": "No tiny buttons"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "No horizontal scrolling",
+      "col_3": "Check all pages"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "CRAWLABILITY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "XML sitemap created and submitted",
+      "col_3": "Google Search Console"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Robots.txt properly configured",
+      "col_3": "Not blocking important pages"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "No orphan pages",
+      "col_3": "All pages linked internally"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Clean URL structure",
+      "col_3": "/products/ionwave not /products?id=123"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "No duplicate content issues",
+      "col_3": "Canonical tags set"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "ON-PAGE BASICS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Unique title tags for all pages",
+      "col_3": "<60 characters"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Meta descriptions written",
+      "col_3": "<160 characters"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "H1 tags on every page",
+      "col_3": "Only one H1 per page"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Image alt text added",
+      "col_3": "Descriptive, keyword-relevant"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Internal linking structure",
+      "col_3": "Related products, blog posts"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "SECURITY & TRUST",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "HTTPS enabled",
+      "col_3": "Shopify includes this"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "No mixed content warnings",
+      "col_3": "All resources via HTTPS"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Privacy policy page",
+      "col_3": "Required for trust"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Terms of service page",
+      "col_3": "Required for trust"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "STRUCTURED DATA",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Product schema markup",
+      "col_3": "Rich snippets in search"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Organization schema",
+      "col_3": "Brand knowledge panel"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "Review schema",
+      "col_3": "Star ratings in search"
+    },
+    {
+      "TECHNICAL SEO CHECKLIST": "☐",
+      "col_2": "FAQ schema (if applicable)",
+      "col_3": "FAQ rich snippets"
+    }
+  ],
+  "row_count": 34,
+  "sheet_name": "Technical SEO Checklist",
+  "sheet_index": 412
+}

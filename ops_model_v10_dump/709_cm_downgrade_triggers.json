@@ -1,0 +1,159 @@
+{
+  "headers": [
+    "DOWNGRADE TRIGGERS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "DOWNGRADE TRIGGERS": "What would cause a grade drop - current status vs threshold",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Trigger",
+      "col_2": "Threshold",
+      "col_3": "Current",
+      "col_4": "Buffer",
+      "col_5": "Status",
+      "col_6": "Action if Breached"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "CAC exceeds target",
+      "col_2": ">$60",
+      "col_3": "$___",
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Pause spend, audit creative"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Revenue decline MoM",
+      "col_2": ">20% drop",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Root cause analysis"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Cash runway < 3mo",
+      "col_2": "<3 months",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Emergency funding discussion"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Missed 2+ weekly reports",
+      "col_2": "2 consecutive",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Escalate to Studio"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "NPS below 20",
+      "col_2": "<20",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Customer experience audit"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Churn > 15%",
+      "col_2": ">15%/mo",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Retention intervention"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Operator unresponsive",
+      "col_2": ">48hr no response",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Escalate immediately"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Major compliance issue",
+      "col_2": "Any FDA/FTC",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Legal review, pause ops"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "Fraud/misrepresentation",
+      "col_2": "Any instance",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "☐ Safe",
+      "col_6": "Immediate termination review"
+    },
+    {
+      "DOWNGRADE TRIGGERS": "AUTOMATIC DOWNGRADE RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "The following trigger AUTOMATIC downgrade (no CM discretion):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "• Cash runway < 1 month → Immediate CCC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "• Fraud or misrepresentation → Immediate D",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "• Operator abandonment (>7 days no contact) → Immediate CCC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "• Legal action against company → Review for CCC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "DOWNGRADE TRIGGERS": "• 3 consecutive months missing all targets → Automatic 1-grade drop",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "CM Downgrade Triggers",
+  "sheet_index": 709
+}

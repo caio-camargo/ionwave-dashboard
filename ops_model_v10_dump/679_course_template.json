@@ -1,0 +1,371 @@
+{
+  "headers": [
+    "COURSE TEMPLATE (TUP)",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "COURSE TEMPLATE (TUP)": "Every TUP follows this structure — the syllabus for a course",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "COURSE IDENTIFICATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Course ID",
+      "col_2": "[e.g., S1-GA-102]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Course Name",
+      "col_2": "[e.g., First VSL]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Program",
+      "col_2": "[e.g., Growth & Acquisition]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Semester",
+      "col_2": "[e.g., S1: Foundation]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Enrolled Student",
+      "col_2": "[e.g., Operator]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Prerequisites",
+      "col_2": "[e.g., GA-101 graded B or above]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Start Date",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "End Date",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "LEARNING OBJECTIVES (Win Conditions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "What does the student know/have when this course is complete?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "1. [Objective — measurable, verifiable]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "2. [Objective]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "3. [Objective]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "SYLLABUS (Week-by-Week)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Week",
+      "col_2": "Topic",
+      "col_3": "Deliverable",
+      "col_4": "Grade Weight",
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Week 1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Week 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Week 3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Week 4",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "ASSIGNMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Assignment",
+      "col_2": "Due",
+      "col_3": "Weight",
+      "col_4": "Status",
+      "col_5": "Grade"
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Midterm: [specific deliverable]",
+      "col_2": "Week 4",
+      "col_3": "30%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Final: [specific deliverable]",
+      "col_2": "Week 8-12",
+      "col_3": "50%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Participation: Daily updates + standups",
+      "col_2": "Ongoing",
+      "col_3": "20%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "REQUIRED MATERIALS (ODD Tabs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Which tabs in the ODD serve as the textbook for this course:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "1. [Tab name and number]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "2. [Tab name and number]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "3. [Tab name and number]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "GRADING RUBRIC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Grade",
+      "col_2": "Criteria",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "A",
+      "col_2": "All objectives met + produces playbook (Student → Teacher transition)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "B",
+      "col_2": "All objectives met within timeline",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "C",
+      "col_2": "Most objectives met, minor gaps",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "D",
+      "col_2": "Significant gaps, remediation needed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "F",
+      "col_2": "Objectives not met — retake or kill",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "KILL CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Drop this course if:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "• [Specific condition that makes this course irrelevant]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "• [External dependency that failed]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "• [Grade D or below at midterm with no clear path to B]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "POST-MORTEM (Complete After Course)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Question",
+      "col_2": "Answer",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "What worked?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "What didn't work?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "What would you do differently?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "What should be added to the ODD?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COURSE TEMPLATE (TUP)": "Should this become a playbook (Teacher output)?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Course Template",
+  "sheet_index": 679
+}

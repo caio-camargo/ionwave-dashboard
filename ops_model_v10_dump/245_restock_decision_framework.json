@@ -1,0 +1,97 @@
+{
+  "headers": [
+    "RESTOCK DECISION FRAMEWORK",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "RESTOCK DECISION FRAMEWORK": "Formula for when and how much to reorder",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "THE FORMULA",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Reorder Point = (Daily Sales Rate × Lead Time Days) + Safety Stock",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "VARIABLES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Variable",
+      "col_2": "Definition",
+      "col_3": "Value"
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Daily Sales Rate",
+      "col_2": "Last 14 days average",
+      "col_3": "[Calculate from Shopify]"
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Lead Time",
+      "col_2": "Manufacturing + shipping + receiving",
+      "col_3": "45 days typical"
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Safety Stock",
+      "col_2": "Buffer for variability",
+      "col_3": "14 days of sales"
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "EXAMPLE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Daily sales: 50 units",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Lead time: 45 days",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Safety stock: 14 days × 50 = 700 units",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Reorder point: (50 × 45) + 700 = 2,950 units",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "When inventory hits 2,950 → place next PO",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "ORDER QUANTITY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Order Qty = (Daily Sales × Days Until Next Order) + Safety Stock - Current Inventory",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "RESTOCK DECISION FRAMEWORK": "Constrained by: Cash available, MOQ, Storage capacity",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Restock Decision Framework",
+  "sheet_index": 245
+}

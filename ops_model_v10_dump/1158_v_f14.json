@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F14: Course / Info Product — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Trade knowledge packaged as paid course ($500-2K). Curriculum, platform, launch strategy.",
+      "col_2": null
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade course / info product model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "B (Good)",
+      "col_2": "Solid course / info product model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "C (Needs Work)",
+      "col_2": "Course / Info Product model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "D (Major Issues)",
+      "col_2": "Course / Info Product model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "F (Fail)",
+      "col_2": "Course / Info Product model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F14: Course / Info Product — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F14",
+  "sheet_index": 1158
+}

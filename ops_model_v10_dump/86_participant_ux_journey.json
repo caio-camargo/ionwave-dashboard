@@ -1,0 +1,183 @@
+{
+  "headers": [
+    "PARTICIPANT UX JOURNEY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PARTICIPANT UX JOURNEY": "The full experience from first touch to fully onboarded. Designed like a customer journey.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "Every participant IS a customer. The product they're buying is the career opportunity.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "Their experience must be as carefully designed as a D2C customer journey.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "If the UX sucks, the best people leave. If the UX is exceptional, word spreads.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "The journey: They watch a video → they watch a bunch of videos because",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "they've been pulled into our world → they went through a Dan Crowley funnel",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "→ they applied → MC conversation → they're in → they're onboarded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "→ they're producing → they're on the cast page → they tell others.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "THE JOURNEY MAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "Phase",
+      "col_2": "Duration",
+      "col_3": "What They Experience",
+      "col_4": "What They Feel",
+      "col_5": "Touchpoints",
+      "col_6": "Design Quality Bar"
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "DISCOVERY",
+      "col_2": "1-5 min",
+      "col_3": "See a short video or social post about the system. MC explaining something from their domain. Or Nilo on a podcast. Or a lead magnet shared by someone they respect.",
+      "col_4": "\"Huh, this is interesting. What is this?\"",
+      "col_5": "YouTube, Twitter, LinkedIn, Reddit, podcast, forwarded link",
+      "col_6": "Content must be genuinely good. Not salesy. Not desperate. Interesting enough to click."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "DEEP DIVE",
+      "col_2": "15-60 min",
+      "col_3": "Watch 3-5 MC conversations. See the cast page. See the system in action. Read the thesis. Download the lead magnet for their domain.",
+      "col_4": "\"These people are doing something real. This is unlike anything I've seen.\"",
+      "col_5": "Password-protected site, MC video library, lead magnet landing page",
+      "col_6": "Site must be consumer-grade. Videos must be cinematic. The feel must be: if Apple made a company launch tracker."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "NURTURE",
+      "col_2": "7-14 days",
+      "col_3": "Receive 5-7 emails. Each one adds value and context. See daily updates from the MC. Watch the cast page grow. See new conversations posted.",
+      "col_4": "\"I keep thinking about this. I want to be part of it.\"",
+      "col_5": "Email sequence, daily site updates, social content",
+      "col_6": "Emails must be personal and valuable, not generic drip. Each one should be worth reading on its own."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "APPLICATION",
+      "col_2": "10-15 min",
+      "col_3": "Fill out a simple form. Not a job application. A \"tell us about yourself\" form. Upload portfolio or LinkedIn.",
+      "col_4": "\"This was easy. They respect my time.\"",
+      "col_5": "Typeform/Tally application",
+      "col_6": "Form must be short, mobile-friendly, and feel premium. No 47-field enterprise application."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "MC CONVERSATION",
+      "col_2": "30-60 min",
+      "col_3": "Recorded conversation with the MC. Not an interview. A real conversation. MC is genuinely curious. Asks about their work, their interests, their ambitions.",
+      "col_4": "\"That was the best 'interview' I've ever had. I actually enjoyed it.\"",
+      "col_5": "Zoom/Riverside recording",
+      "col_6": "MC must be warm, curious, prepared. Must feel like talking to a friend, not a recruiter."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "DECISION",
+      "col_2": "24-48 hrs",
+      "col_3": "PM co-founder reviews. Nilo approves. Offer sent within 48 hrs. Contract ready. Clear scope. Clear equity. Clear timeline.",
+      "col_4": "\"They moved fast. They're organized. They know what they want.\"",
+      "col_5": "Email with contract + onboarding docs",
+      "col_6": "Speed matters. Best candidates have other options. 48 hrs max from MC conversation to offer."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "ONBOARDING",
+      "col_2": "Day 1",
+      "col_3": "Welcome email. Site password. Cluster assignment. Contract signed. First MC conversation: \"Welcome to the cast.\" Photo taken for cast page.",
+      "col_4": "\"I'm in. I know exactly what to do. I feel like I belong.\"",
+      "col_5": "Welcome email, Slack access, site access, MC conversation",
+      "col_6": "First 24 hrs must be PERFECT. Tools set up. Expectations clear. They feel welcomed, not lost."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "FIRST WEEK",
+      "col_2": "Days 1-7",
+      "col_3": "MC records 2-3 conversations about their scope. They read their P- tab (project plan). They start producing. Daily standup with PM co-founder.",
+      "col_4": "\"This is well-organized. I know what 'done' looks like. The MC conversations help me think.\"",
+      "col_5": "P- tab, C- tab, MC conversations, daily standup",
+      "col_6": "No ambiguity. Every question they have should already be answered in their project plan."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "PRODUCING",
+      "col_2": "Weeks 2-6",
+      "col_3": "They're working. MC checks in regularly. PM co-founder tracks milestones. Expert reviewers provide feedback. Their work is visible on the site.",
+      "col_4": "\"My work matters. People see it. It's becoming real.\"",
+      "col_5": "V- tab progress, site updates, MC check-ins",
+      "col_6": "Progress must be visible. Milestones celebrated. Blockers resolved fast."
+    },
+    {
+      "PARTICIPANT UX JOURNEY": "CAST PAGE",
+      "col_2": "Week 2+",
+      "col_3": "Their photo and bio go on the cast page. MC introduces them in a daily update. They're publicly part of the project.",
+      "col_4": "\"My name is on this. People can see I'm part of it. This is my career artifact.\"",
+      "col_5": "Cast page, MC video introduction",
+      "col_6": "Cast page must be cinematic. Real portraits. Real bios. Feels like credits of a film."
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Participant UX Journey",
+  "sheet_index": 86
+}

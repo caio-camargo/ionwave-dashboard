@@ -1,0 +1,187 @@
+{
+  "headers": [
+    "ALL PAGES & FUNNELS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "ALL PAGES & FUNNELS": "Page",
+      "col_2": "URL",
+      "col_3": "Purpose",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Homepage",
+      "col_2": "ionwave.co",
+      "col_3": "Brand story, product intro, social proof",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Product Page",
+      "col_2": "/products/marine-plasma",
+      "col_3": "Full PDP with benefits, ingredients, reviews",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Landing Page - Hook 1",
+      "col_2": "/lp/78-minerals",
+      "col_3": "Long-form, comparison focused",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Landing Page - Hook 2",
+      "col_2": "/lp/ocean-body",
+      "col_3": "Story-driven, science focused",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Cart",
+      "col_2": "/cart",
+      "col_3": "Upsell, urgency, trust badges",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Checkout",
+      "col_2": "/checkout",
+      "col_3": "Streamlined, trust signals",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Thank You",
+      "col_2": "/thank-you",
+      "col_3": "Order confirm, referral program",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Quiz",
+      "col_2": "/quiz",
+      "col_3": "Lead capture, personalization",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "PAGE PERFORMANCE TRACKING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Page",
+      "col_2": "Traffic (MTD)",
+      "col_3": "Bounce Rate",
+      "col_4": "Time on Page",
+      "col_5": "CVR",
+      "col_6": "Revenue",
+      "col_7": "Notes"
+    },
+    {
+      "ALL PAGES & FUNNELS": "Homepage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Product Page",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Landing Page 1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Landing Page 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Cart",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Checkout",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "ALL PAGES & FUNNELS": "Thank You",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "All Pages & Funnels",
+  "sheet_index": 400
+}

@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Agreement between project owner and Studio 4 / IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "PARTIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Project Owner (Contractor)",
+      "col_2": "[Name — the person accountable for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Entity",
+      "col_2": "IonWave [Entity TBD] / Studio 4 Ventures",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Authorized by",
+      "col_2": "Nilo (Danilo Vicioso)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Contract Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Effective Period",
+      "col_2": "[Start] to [End]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "SCOPE OF WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Production of M19: Customer Lifecycle & CRM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Includes 13 content tabs, MC conversations (4-10 hrs), expert coordination, verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Deliverables:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "1. All 13 content tabs complete and verified (see V-M19)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "2. Industry perspectives complete (see IP-M19)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "3. MC conversations recorded and uploaded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "4. Expert review completed with revisions incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "5. Definition of done met (see P-M19)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "COMPENSATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Component",
+      "col_2": "Amount",
+      "col_3": "Trigger",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Base Fee",
+      "col_2": "[$ TBD]",
+      "col_3": "On contract signing",
+      "col_4": "Covers production time",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Milestone 1: AI Draft Complete",
+      "col_2": "[$ TBD]",
+      "col_3": "All tabs filled with AI first draft",
+      "col_4": "50% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Milestone 2: Expert Reviewed",
+      "col_2": "[$ TBD]",
+      "col_3": "Expert feedback incorporated",
+      "col_4": "25% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Milestone 3: Verified & Locked",
+      "col_2": "[$ TBD]",
+      "col_3": "V-tab all green, DoD met",
+      "col_4": "Final 25%",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Equity",
+      "col_2": "[% TBD]",
+      "col_3": "On contract signing, vesting over [X] months",
+      "col_4": "IonWave equity",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "MC Conversations Bonus",
+      "col_2": "[$ TBD]",
+      "col_3": "All MC hours completed and uploaded",
+      "col_4": "Optional",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "QUALITY STANDARDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• All content must pass expert review (domain trust verifier signs off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• All content must pass verification (V-tab shows VERIFIED on every row)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• No placeholder text remaining in any tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• All novel concepts have MC conversations recorded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• Industry perspectives tab has all 5 sections substantively completed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• Trust protocol satisfied at all 4 levels (strategic, domain, execution, vibes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• Definition of Done met (see P-M19)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Phase",
+      "col_2": "Duration",
+      "col_3": "Start",
+      "col_4": "End",
+      "col_5": "Gate"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Planning & MC Conversations",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "P-tab locked, MC hours scheduled"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "AI Draft Production",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "All tabs have first draft"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Expert Review",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Expert feedback received"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Revision & Incorporation",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Revisions complete"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Verification",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "V-tab all green"
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Final Lock",
+      "col_2": "1 day",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Nilo signs off. Model locked."
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "TERMINATION & FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• If model is not complete by Target End Date + 7 days grace: contract review with Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• If expert review reveals fundamental problems requiring >50% rework: timeline extends, no additional fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• If project owner becomes unresponsive for >5 business days: contract terminated, partial payment prorated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• If IonWave kills the project (M0 kill criteria triggered): contract terminated, work-to-date paid in full",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "• IP Assignment: All work product belongs to IonWave / Studio 4. Project owner retains right to reference in portfolio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "SIGNATURES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Project Owner:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Authorized (Nilo):",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M19: CUSTOMER LIFECYCLE & CRM": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "C-M19",
+  "sheet_index": 449
+}

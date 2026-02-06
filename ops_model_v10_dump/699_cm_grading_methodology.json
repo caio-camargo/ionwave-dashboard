@@ -1,0 +1,181 @@
+{
+  "headers": [
+    "GRADING METHODOLOGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "GRADING METHODOLOGY": "How ventures are assessed and graded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "GRADE SCALE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "Grade",
+      "col_2": "Label",
+      "col_3": "Definition",
+      "col_4": "Action"
+    },
+    {
+      "GRADING METHODOLOGY": "AAA",
+      "col_2": "Exceptional",
+      "col_3": "Exceeding all targets, scaling, clear PMF",
+      "col_4": "Double down, increase investment"
+    },
+    {
+      "GRADING METHODOLOGY": "AA",
+      "col_2": "Strong",
+      "col_3": "Meeting/exceeding targets, positive trajectory",
+      "col_4": "Continue, consider scaling resources"
+    },
+    {
+      "GRADING METHODOLOGY": "A",
+      "col_2": "Solid",
+      "col_3": "Meeting most targets, minor issues",
+      "col_4": "Continue, address issues"
+    },
+    {
+      "GRADING METHODOLOGY": "BBB",
+      "col_2": "Adequate",
+      "col_3": "Meeting minimum thresholds, some concerns",
+      "col_4": "Monitor closely, improvement plan"
+    },
+    {
+      "GRADING METHODOLOGY": "BB",
+      "col_2": "Below Target",
+      "col_3": "Missing targets, significant concerns",
+      "col_4": "Intervention required, weekly check-ins"
+    },
+    {
+      "GRADING METHODOLOGY": "B",
+      "col_2": "At Risk",
+      "col_3": "Consistently missing, major concerns",
+      "col_4": "Immediate action, pivot consideration"
+    },
+    {
+      "GRADING METHODOLOGY": "CCC",
+      "col_2": "Critical",
+      "col_3": "Failing most metrics, viability questioned",
+      "col_4": "Kill/pivot decision imminent"
+    },
+    {
+      "GRADING METHODOLOGY": "D",
+      "col_2": "Failed",
+      "col_3": "Non-recoverable, shut down",
+      "col_4": "Wind down procedures"
+    },
+    {
+      "GRADING METHODOLOGY": "ASSESSMENT DIMENSIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "Dimension",
+      "col_2": "Weight",
+      "col_3": "What It Measures",
+      "col_4": "Key Inputs"
+    },
+    {
+      "GRADING METHODOLOGY": "Financial Performance",
+      "col_2": "30%",
+      "col_3": "Revenue, unit economics, cash efficiency",
+      "col_4": "P&L, CAC, LTV, burn rate"
+    },
+    {
+      "GRADING METHODOLOGY": "Growth Trajectory",
+      "col_2": "25%",
+      "col_3": "MoM growth, customer acquisition trends",
+      "col_4": "Revenue growth, customer count"
+    },
+    {
+      "GRADING METHODOLOGY": "Operational Excellence",
+      "col_2": "20%",
+      "col_3": "Process adherence, quality, reliability",
+      "col_4": "KPI achievement, incident rate"
+    },
+    {
+      "GRADING METHODOLOGY": "Owner/Operator Quality",
+      "col_2": "15%",
+      "col_3": "Execution, communication, adaptability",
+      "col_4": "Interviews, responsiveness, deliverables"
+    },
+    {
+      "GRADING METHODOLOGY": "Strategic Position",
+      "col_2": "10%",
+      "col_3": "Market fit, competitive position, moat",
+      "col_4": "Market analysis, differentiation"
+    },
+    {
+      "GRADING METHODOLOGY": "THRESHOLD DEFINITIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "To achieve grade X, venture must:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "AAA: Score 90%+ across all dimensions, no dimension below 80%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "AA: Score 80%+ average, no dimension below 70%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "A: Score 70%+ average, no dimension below 60%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "BBB: Score 60%+ average, no dimension below 50%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "BB: Score 50%+ average, max one dimension below 40%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "B: Score 40%+ average",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "CCC: Score below 40% average",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRADING METHODOLOGY": "D: Non-operational or abandoned",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "CM Grading Methodology",
+  "sheet_index": 699
+}

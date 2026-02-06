@@ -1,0 +1,447 @@
+{
+  "headers": [
+    "FUNNEL ARCHITECTURE TESTING FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Test radically different approaches, not just button colors. Find the winning funnel shape first.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "FUNNEL TESTING PHILOSOPHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "• Week 1-2: Test ARCHITECTURE (different funnel shapes) — this is 10x more impactful than copy tweaks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "• Week 3-4: Optimize WINNER (A/B test within winning architecture)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "• Don't A/B test headlines until you know if LP beats PDP beats VSL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "• Run architectures in parallel with equal budget, let data decide",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "FUNNEL ARCHITECTURES TO TEST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Architecture",
+      "col_2": "Flow",
+      "col_3": "Best For",
+      "col_4": "Expected CVR",
+      "col_5": "Pros",
+      "col_6": "Cons"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "A: Direct to PDP",
+      "col_2": "Ad → Product Page → Checkout",
+      "col_3": "Warm traffic, retargeting, brand aware",
+      "col_4": "2-4%",
+      "col_5": "Shortest path, lowest friction",
+      "col_6": "No education, relies on ad doing heavy lifting"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "B: Landing Page",
+      "col_2": "Ad → LP → PDP → Checkout",
+      "col_3": "Cold traffic, complex products",
+      "col_4": "1.5-3%",
+      "col_5": "More education, builds trust, captures emails",
+      "col_6": "Extra step = drop-off, need strong LP"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "C: VSL Funnel",
+      "col_2": "Ad → VSL Page → Checkout",
+      "col_3": "High-ticket, needs explanation",
+      "col_4": "1-2.5%",
+      "col_5": "Deep education, qualifies buyers, higher AOV",
+      "col_6": "Long watch = high drop-off, production cost"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "D: Advertorial",
+      "col_2": "Ad → Advertorial → LP/PDP → Checkout",
+      "col_3": "Skeptical audience, health claims",
+      "col_4": "0.8-2%",
+      "col_5": "Feels like content not ad, builds credibility",
+      "col_6": "Two steps before product, compliance risk"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "E: Quiz Funnel",
+      "col_2": "Ad → Quiz → Personalized Rec → Checkout",
+      "col_3": "Multiple SKUs, personalization angle",
+      "col_4": "1-2%",
+      "col_5": "High engagement, email capture, feels personalized",
+      "col_6": "Complex to build, need multiple outcomes"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "F: Listicle/Review",
+      "col_2": "Ad → \"Top 5 Electrolytes\" → PDP → Checkout",
+      "col_3": "Comparison shoppers, SEO",
+      "col_4": "1-2.5%",
+      "col_5": "Social proof, positions vs competitors",
+      "col_6": "Need to rank yourself #1 credibly"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "G: Direct Checkout",
+      "col_2": "Ad → Checkout (1-click)",
+      "col_3": "Impulse, retargeting, very warm",
+      "col_4": "3-5%",
+      "col_5": "Maximum conversion, zero friction",
+      "col_6": "No education, high refund risk"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "IONWAVE FUNNEL TEST PLAN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase",
+      "col_2": "Week",
+      "col_3": "Test",
+      "col_4": "Budget",
+      "col_5": "Success Metric",
+      "col_6": "Decision"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase 1: Architecture",
+      "col_2": "W3",
+      "col_3": "A: Direct PDP vs B: Landing Page",
+      "col_4": "$500 each",
+      "col_5": "CVR, CAC",
+      "col_6": "Winner gets 70% of Phase 2 budget"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase 1: Architecture",
+      "col_2": "W3",
+      "col_3": "C: VSL vs D: Advertorial",
+      "col_4": "$500 each",
+      "col_5": "CVR, CAC, AOV",
+      "col_6": "Winner competes with A/B winner"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase 2: Validate",
+      "col_2": "W4",
+      "col_3": "Top 2 architectures head-to-head",
+      "col_4": "$750 each",
+      "col_5": "CVR, CAC, ROAS",
+      "col_6": "Pick primary funnel"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase 3: Optimize",
+      "col_2": "W5-6",
+      "col_3": "A/B test within winning architecture",
+      "col_4": "$1500 total",
+      "col_5": "CVR lift",
+      "col_6": "Headline, CTA, social proof, layout"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Phase 4: Scale",
+      "col_2": "W7+",
+      "col_3": "Scale winner, test secondary funnel",
+      "col_4": "70/30 split",
+      "col_5": "Blended ROAS",
+      "col_6": "Primary + backup funnel"
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "BUILDS REQUIRED FOR TESTING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Asset",
+      "col_2": "Description",
+      "col_3": "Build Time",
+      "col_4": "Cost",
+      "col_5": "Priority",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Product Page (PDP)",
+      "col_2": "Shopify product page, optimized copy, reviews",
+      "col_3": "1-2 days",
+      "col_4": "$0",
+      "col_5": "P0 - Must have",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Landing Page v1",
+      "col_2": "Long-form LP, see Landing Page Copy sheet",
+      "col_3": "2-3 days",
+      "col_4": "$0-200",
+      "col_5": "P0 - Must have",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Landing Page v2",
+      "col_2": "Short-form LP, hero + benefits + CTA only",
+      "col_3": "1 day",
+      "col_4": "$0",
+      "col_5": "P1 - Week 2",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "VSL Page",
+      "col_2": "Video sales letter + checkout, see VSL Script sheet",
+      "col_3": "3-5 days",
+      "col_4": "$500-1500",
+      "col_5": "P1 - Week 2",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Advertorial",
+      "col_2": "Editorial-style article, \"I tried marine plasma...\"",
+      "col_3": "2-3 days",
+      "col_4": "$0-300",
+      "col_5": "P2 - Week 3",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Quiz Funnel",
+      "col_2": "Typeform/Octane quiz → personalized rec",
+      "col_3": "3-5 days",
+      "col_4": "$50-200",
+      "col_5": "P3 - Month 2",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Listicle",
+      "col_2": "\"Top 5 Electrolytes for Biohackers\" comparison",
+      "col_3": "1-2 days",
+      "col_4": "$0",
+      "col_5": "P3 - Month 2",
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "KEY METRICS BY ARCHITECTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Architecture",
+      "col_2": "Primary Metric",
+      "col_3": "Secondary Metrics",
+      "col_4": "Kill If",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Direct PDP",
+      "col_2": "CVR (target >3%)",
+      "col_3": "AOV, bounce rate",
+      "col_4": "CVR <1.5%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Landing Page",
+      "col_2": "LP→PDP rate + CVR",
+      "col_3": "Time on page, scroll depth",
+      "col_4": "LP→PDP <20%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "VSL",
+      "col_2": "Watch time + CVR",
+      "col_3": "Completion rate, AOV",
+      "col_4": "Avg watch <30%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Advertorial",
+      "col_2": "Read time + CTR to LP",
+      "col_3": "Scroll depth, CVR",
+      "col_4": "CTR to LP <5%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Quiz",
+      "col_2": "Completion rate + CVR",
+      "col_3": "Email capture, AOV",
+      "col_4": "Quiz completion <40%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "TRAFFIC ROUTING BY AUDIENCE TEMP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Audience",
+      "col_2": "Temperature",
+      "col_3": "Recommended Funnel",
+      "col_4": "Why",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Brand search",
+      "col_2": "Hot",
+      "col_3": "Direct PDP or checkout",
+      "col_4": "They know what they want",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Retargeting (visited, no purchase)",
+      "col_2": "Warm",
+      "col_3": "Direct PDP + urgency",
+      "col_4": "Reminder, not education",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Retargeting (cart abandoners)",
+      "col_2": "Warm",
+      "col_3": "Direct checkout + discount",
+      "col_4": "Remove friction",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "LAL of purchasers",
+      "col_2": "Lukewarm",
+      "col_3": "Landing page",
+      "col_4": "Similar but need some education",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Interest targeting (biohackers)",
+      "col_2": "Cold",
+      "col_3": "Landing page or advertorial",
+      "col_4": "Need to build awareness",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Broad targeting",
+      "col_2": "Cold",
+      "col_3": "VSL or advertorial",
+      "col_4": "Need maximum education",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Competitor targeting",
+      "col_2": "Cold",
+      "col_3": "Listicle/comparison",
+      "col_4": "Position against alternative",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "FUNNEL WINNER CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Primary: Lowest CAC (customer acquisition cost) at 100+ conversions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Secondary: Highest AOV (if CAC is within 10%)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Tertiary: Best scalability (can it handle 10x traffic?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "A funnel 'wins' when it has statistically significant better CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "Need ~50 conversions per variant for 80% confidence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FUNNEL ARCHITECTURE TESTING FRAMEWORK": "At $35 CAC, that's ~$1,750 spend per funnel to validate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 54,
+  "sheet_name": "Funnel Architecture",
+  "sheet_index": 402
+}

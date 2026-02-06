@@ -35,6 +35,82 @@
 
 ---
 
+## Session 2026-02-06 #6 — Architecture Formalization & MAJOR TUP Migration
+**Source**: Claude Code
+**Status**: Complete
+
+### Summary
+**Two major accomplishments in one session:**
+
+**Part 1 - Architecture Formalization:**
+Established CLAUDE.md for automatic session startup. Extracted formal definitions of 11 ontological primitives from Sprint_STAGE_5 document into `standards/Systems_Architecture_Standards.md`. Updated 00_START_HERE.md v2.3.0 with expanded primitives.
+
+**Part 2 - TUP Migration (MAJOR):**
+Completed full migration from Bootstrap file numbering (01-38) to TUP-based organization (M0-M40). Deprecated Bootstrap files, migrated 3 TUPs to JSON, rebuilt manifest.json with TUP codes as primary keys, updated entire dashboard to TUP navigation, updated all documentation. This is a fundamental architectural shift in how the project organizes knowledge.
+
+### Decisions Made
+
+**Architecture:**
+- Sprint_STAGE_5 treated as historical reference with relevant architecture extracted
+- No cross-referencing between Sprint_STAGE_5 hypotheses (H1-H13, Studio) and Bootstrap hypotheses (8 business, Trade) - different scopes
+- Created comprehensive Systems Architecture Standards document
+- 00_START_HERE updated to v2.3.0 (architecture), then v2.4.0 (TUP migration)
+
+**TUP Migration:**
+- **Deprecated Bootstrap file numbers (01-38)** as primary organizational structure
+- **Adopted TUP codes (M0-M40)** from Danilo's system as canonical organization
+- **3 TUPs migrated**: M0 (Trade Thesis), M26 (Competitive Intel), M27 (Customer Research - merged 03A+03B)
+- **38 TUPs pending**: M1-M40 (excluding M0, M26, M27)
+- **Bootstrap XLSX files (04-38)** archived as reference - unmigrated files superseded by Danilo's TUP files
+- **Manifest.json rebuilt** with TUP codes as primary keys (41 TUPs total)
+- **Dashboard completely updated** to TUP-based navigation
+- **Documentation updated** to reflect TUP structure (00_START_HERE.md v2.4.0)
+
+### Actions Taken
+| # | Action | File(s) | Detail |
+|---|--------|---------|--------|
+| **ARCHITECTURE FORMALIZATION** |
+| 1 | created | `CLAUDE.md` | Automatic session startup instructions for Claude agents |
+| 2 | read | `Caio __ Danilo, Rhen Sprint_STAGE_5.md` | Foundational Studio 3 architecture document (1521 lines) |
+| 3 | created | `standards/Systems_Architecture_Standards.md` | Formalized 11 ontological primitives with full definitions |
+| 4 | moved | `Sprint_STAGE_5.md` → `archive/historical-reference/` | Archived after extraction |
+| 5 | edited | `00_start_here.md` | v2.2.0 → v2.3.0: Expanded Ontological Primitives, added Systems Architecture reference |
+| **TUP MIGRATION** |
+| 6 | archived | All Bootstrap XLSX (01-38, 42 files total) → `archive/bootstrap-xlsx-pre-tup-migration/` | Complete archive of original Bootstrap files |
+| 7 | renamed | `data/01_strategic_foundation/` → `data/m0_trade_thesis/` | TUP M0 migration |
+| 8 | renamed | `data/02_market_intelligence/` → `data/m26_competitive_intel/` | TUP M26 migration |
+| 9 | renamed | `data/03a_customer_research_icp/` → `data/m27_customer_research/` | TUP M27 base |
+| 10 | merged | `data/03b_customer_research_voc/` → `data/m27_customer_research/` | Merged 03B into M27, removed 03B folder |
+| 11 | edited | `data/m0_trade_thesis/_meta.json` | file_id→tup_id: "m0", added tup_name, version 1.3.0→1.4.0, migration notes |
+| 12 | edited | `data/m26_competitive_intel/_meta.json` | file_id→tup_id: "m26", added tup_name, version 1.0.0→1.1.0, migration notes |
+| 13 | created | `data/m27_customer_research/_meta.json` | New merged meta: tup_id "m27", combined 12 sheets from 03A+03B, version 2.0.0 |
+| 14 | rebuilt | `data/manifest.json` | Complete rebuild: TUP codes as primary keys, 41 TUPs (3 migrated, 38 not_migrated), all dependencies updated |
+| **DASHBOARD UPDATES** |
+| 15 | edited | `dashboard/index.html` | Stats ribbon updated to show TUP counts, file cards→TUP cards (M0, M26, M27), all TUP navigation |
+| 16 | renamed | `dashboard/views/strategic-foundation.html` → `m0-trade-thesis.html` | TUP-based view naming |
+| 17 | renamed | `dashboard/views/market-intelligence.html` → `m26-competitive-intel.html` | TUP-based view naming |
+| 18 | renamed | `dashboard/views/customer-research.html` → `m27-customer-research.html` | Unified M27 view (merged ICP+VOC) |
+| 19 | edited | `dashboard/views/m0-trade-thesis.html` | Updated FILE_ID to m0_trade_thesis, title to "M0 TRADE THESIS", nav bar updated |
+| 20 | edited | `dashboard/views/m26-competitive-intel.html` | Updated FILE_ID to m26_competitive_intel, title to "M26 COMPETITIVE INTEL", nav bar updated |
+| 21 | edited | `dashboard/views/m27-customer-research.html` | Completely restructured for unified M27 (merged ICP+VOC), single FILE_ID, nav bar updated |
+| 22 | edited | All dashboard nav bars (tup-navigator, hypotheses-tracker, financial-forecast, hypothesis-detail) | Updated to use new TUP-based URLs |
+| **DOCUMENTATION UPDATES** |
+| 23 | edited | `00_start_here.md` | v2.3.0 → v2.4.0: Complete rewrite of Data Layer section (TUP-based), added Archived Bootstrap Files section, updated Dashboard section (TUP views), updated Finding Things (TUP references), updated Current Work Focus (TUP Migration), added v2.4.0 to version history |
+| 24 | edited | `SESSION_LOG.md` | Created comprehensive session #6 summary with TUP migration details |
+
+### Next Steps
+- [ ] Commit all TUP migration changes and push to origin/main (dashboard will auto-deploy)
+- [ ] Session #5 remaining items:
+  - REC-001 (BCL-2 Money & Legal) — PENDING (margin crisis: 40% vs 67%)
+  - Formalize Controller/Observer/OpKit schemas ← **DONE** via Systems_Architecture_Standards.md
+  - Reconcile bifurcation parameters with hypothesis kill thresholds
+  - Register OpKit associations per TUP in data layer
+  - Formalize 10 PMF signals as individual Metrics
+- [ ] Continue migrating remaining 38 TUPs (M1-M40, excluding M0/M26/M27)
+- [ ] Update DOCUMENTATION_INDEX.md with new standards document and TUP migration notes
+
+---
+
 ## Session 2026-02-05 #5 — TUP System Dashboard Integration & Reconciliation Completion
 **Source**: Claude Code
 **Status**: Complete

@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "SUNK COST CLARITY LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SUNK COST CLARITY LOG": "What's already spent (sunk) vs what's still at stake? Don't throw good money after bad.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "THE FALLACY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Sunk Cost Fallacy: 'We've already invested X, so we should keep going'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Truth: Money already spent is GONE. Decision should be based on future value only.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "SUNK COST ACCOUNTING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Investment",
+      "col_2": "Amount Spent (Sunk)",
+      "col_3": "Amount at Stake (Future)",
+      "col_4": "Working?",
+      "col_5": "Decision",
+      "col_6": "Sunk Cost Influencing?"
+    },
+    {
+      "SUNK COST CLARITY LOG": "Ad creative batch 1",
+      "col_2": "$500",
+      "col_3": "$0 (already paid)",
+      "col_4": "No",
+      "col_5": "Kill",
+      "col_6": "N/A - clear"
+    },
+    {
+      "SUNK COST CLARITY LOG": "Supplier relationship",
+      "col_2": "$2,000 (samples, setup)",
+      "col_3": "$10,000 (committed order)",
+      "col_4": "Yes",
+      "col_5": "Continue",
+      "col_6": "No"
+    },
+    {
+      "SUNK COST CLARITY LOG": "Landing page design",
+      "col_2": "$1,000",
+      "col_3": "$0",
+      "col_4": "Testing",
+      "col_5": "Keep testing",
+      "col_6": "Could bias us"
+    },
+    {
+      "SUNK COST CLARITY LOG": "Influencer campaign",
+      "col_2": "$1,500",
+      "col_3": "$500 (remaining)",
+      "col_4": "No",
+      "col_5": "Don't extend",
+      "col_6": "Could bias us"
+    },
+    {
+      "SUNK COST CLARITY LOG": "Email flows",
+      "col_2": "40 hrs",
+      "col_3": "0",
+      "col_4": "Yes",
+      "col_5": "Continue",
+      "col_6": "No"
+    },
+    {
+      "SUNK COST CLARITY LOG": "THE TEST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Ask: 'If I hadn't already spent $X, would I choose to start this today?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "If NO → the sunk cost is biasing you. Kill it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "If YES → continue, but because of future value, not past investment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "TOTAL SUNK COSTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Total sunk this month: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "Total sunk on things we killed: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUNK COST CLARITY LOG": "This is the 'tuition' we paid to learn. Not wasted if we learned.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Sunk Cost Clarity Log",
+  "sheet_index": 886
+}

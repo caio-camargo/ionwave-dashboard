@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "RACI MATRIX",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "RACI MATRIX": "Task",
+      "col_2": "Operator",
+      "col_3": "CM",
+      "col_4": "Studio"
+    },
+    {
+      "RACI MATRIX": "Daily ad management",
+      "col_2": "R",
+      "col_3": "I",
+      "col_4": "-"
+    },
+    {
+      "RACI MATRIX": "Inventory ordering",
+      "col_2": "A",
+      "col_3": "R",
+      "col_4": "I"
+    },
+    {
+      "RACI MATRIX": "Strategic pivots",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A"
+    },
+    {
+      "RACI MATRIX": "Budget changes >$1K",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I"
+    },
+    {
+      "RACI MATRIX": "Supplier contracts",
+      "col_2": "I",
+      "col_3": "R",
+      "col_4": "A"
+    },
+    {
+      "RACI MATRIX": "R=Responsible, A=Accountable, C=Consulted, I=Informed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "RACI Matrix",
+  "sheet_index": 821
+}

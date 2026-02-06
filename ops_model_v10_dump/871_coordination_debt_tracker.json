@@ -1,0 +1,56 @@
+{
+  "headers": [
+    "COORDINATION DEBT TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "COORDINATION DEBT TRACKER": "Where are we accumulating hidden costs/risks?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COORDINATION DEBT TRACKER": "Area",
+      "col_2": "Debt Type",
+      "col_3": "Severity",
+      "col_4": "Cost if Unpaid",
+      "col_5": "Resolution Plan"
+    },
+    {
+      "COORDINATION DEBT TRACKER": "Documentation",
+      "col_2": "Missing SOPs",
+      "col_3": "Medium",
+      "col_4": "Onboarding takes 2x longer",
+      "col_5": "Document as we go"
+    },
+    {
+      "COORDINATION DEBT TRACKER": "Single supplier",
+      "col_2": "Concentration risk",
+      "col_3": "High",
+      "col_4": "Business stops if they fail",
+      "col_5": "Identify backup"
+    },
+    {
+      "COORDINATION DEBT TRACKER": "Founder knowledge",
+      "col_2": "Undocumented decisions",
+      "col_3": "High",
+      "col_4": "Cant delegate",
+      "col_5": "Write everything down"
+    },
+    {
+      "COORDINATION DEBT TRACKER": "Technical",
+      "col_2": "Manual processes",
+      "col_3": "Medium",
+      "col_4": "Cant scale past $50K MRR",
+      "col_5": "Automate by Month 3"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Coordination Debt Tracker",
+  "sheet_index": 871
+}

@@ -1,0 +1,97 @@
+{
+  "headers": [
+    "SCALE PHASE CHECKLIST",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SCALE PHASE CHECKLIST": "When PMF is complete, swap this into Command Center",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "Before we hit $100K MRR, these must be TRUE:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "GROWTH",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Scaled ad spend 3x while maintaining CAC",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Second channel contributing >20% revenue",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "MoM growth > 15%",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "OPERATIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Operator working < 10 hrs/week",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "All processes documented and delegatable",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Backup supplier identified",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "FINANCIAL",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Profitable at current scale",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "3+ months runway at current burn",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Path to $100K MRR clear",
+      "col_3": "(Studio)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "TEAM",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "Could hand off to new operator with docs",
+      "col_3": "(Operator)"
+    },
+    {
+      "SCALE PHASE CHECKLIST": "☐",
+      "col_2": "No single point of failure on people",
+      "col_3": "(Studio)"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Phase - SCALE Checklist",
+  "sheet_index": 797
+}

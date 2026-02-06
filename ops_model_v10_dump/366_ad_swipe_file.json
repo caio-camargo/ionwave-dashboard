@@ -1,0 +1,21 @@
+{
+  "headers": [
+    "AD SWIPE FILE INDEX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "AD SWIPE FILE INDEX": "Brand",
+      "col_2": "Ad Type",
+      "col_3": "Hook",
+      "col_4": "Link/Location",
+      "col_5": "Why It Works"
+    }
+  ],
+  "row_count": 1,
+  "sheet_name": "Ad Swipe File",
+  "sheet_index": 366
+}

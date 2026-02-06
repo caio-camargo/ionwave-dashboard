@@ -1,0 +1,287 @@
+{
+  "headers": [
+    "A/B TESTING FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "A/B TESTING FRAMEWORK": "How to systematically test and optimize pages",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "TESTING PRIORITIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Element",
+      "col_2": "Impact",
+      "col_3": "Test Difficulty",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Headline",
+      "col_2": "HIGHEST",
+      "col_3": "Easy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Hero image/video",
+      "col_2": "HIGH",
+      "col_3": "Medium",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "CTA button (text, color, placement)",
+      "col_2": "HIGH",
+      "col_3": "Easy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Price/offer",
+      "col_2": "HIGH",
+      "col_3": "Easy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Social proof placement",
+      "col_2": "MEDIUM",
+      "col_3": "Easy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Page layout/structure",
+      "col_2": "MEDIUM",
+      "col_3": "Hard",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Testimonials",
+      "col_2": "MEDIUM",
+      "col_3": "Medium",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Copy length",
+      "col_2": "MEDIUM",
+      "col_3": "Medium",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Colors/design",
+      "col_2": "LOW",
+      "col_3": "Easy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "TESTING RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "1. TEST ONE THING AT A TIME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "If you change 5 things, you won't know what worked.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "2. STATISTICAL SIGNIFICANCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Need enough data before declaring winner.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Use calculator: abtestguide.com/calc/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Generally: 100+ conversions per variant minimum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "3. RUN LONG ENOUGH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "At least 1-2 weeks to account for day-of-week variation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "4. DON'T PEEK AND STOP EARLY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Decide duration upfront, stick to it",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "5. DOCUMENT EVERYTHING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Hypothesis, what changed, results, learnings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "A/B TEST LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Test ID",
+      "col_2": "Element",
+      "col_3": "Control",
+      "col_4": "Variant",
+      "col_5": "Start",
+      "col_6": "End",
+      "col_7": "Winner",
+      "col_8": "Lift"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "AB Testing Framework2",
+  "sheet_index": 381
+}

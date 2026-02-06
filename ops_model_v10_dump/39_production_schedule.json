@@ -1,0 +1,247 @@
+{
+  "headers": [
+    "PRODUCTION SCHEDULE — 16-WEEK PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "PM produces 2-3 models per week. Expert sessions batched by cluster.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Week",
+      "col_2": "Models",
+      "col_3": "Expert Cluster",
+      "col_4": "PM Hours",
+      "col_5": "Expert Hours",
+      "col_6": "Milestone"
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "1",
+      "col_2": "M0 Trade Thesis",
+      "col_3": "Nilo review",
+      "col_4": "8",
+      "col_5": "2",
+      "col_6": "Thesis locked. Everything downstream has fixed inputs."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "2",
+      "col_2": "M1 Labor Chain, M34 Trade Architecture",
+      "col_3": "Nilo review",
+      "col_4": "6",
+      "col_5": "2",
+      "col_6": "Deployment system and meta-model confirmed."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "3",
+      "col_2": "M3 Financial Model, M25 Financial Ops",
+      "col_3": "Cluster A (Finance)",
+      "col_4": "6",
+      "col_5": "1.5",
+      "col_6": "Financial foundation set."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "4",
+      "col_2": "M4 Fundraising, M10 Pricing & Offer",
+      "col_3": "Cluster A (Finance)",
+      "col_4": "5",
+      "col_5": "1",
+      "col_6": "Finance cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "5",
+      "col_2": "M5 Product Formulation, M6 Supply Chain",
+      "col_3": "Cluster B (Product)",
+      "col_4": "6",
+      "col_5": "1.5",
+      "col_6": "Product and supply chain drafted."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "6",
+      "col_2": "M7 Regulatory, M24 Fulfillment",
+      "col_3": "Cluster B (Product)",
+      "col_4": "5",
+      "col_5": "1",
+      "col_6": "Product cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "7",
+      "col_2": "M2 Entity & Legal, M9 Ecommerce",
+      "col_3": "Cluster G (Legal)",
+      "col_4": "4",
+      "col_5": "0.75",
+      "col_6": "Legal cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "8",
+      "col_2": "M8 Brand, M11 VSL Production",
+      "col_3": "Cluster C (Creative)",
+      "col_4": "6",
+      "col_5": "1.5",
+      "col_6": "Brand and VSL drafted."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "9",
+      "col_2": "M12 Ad Creative, M15 Landing Pages",
+      "col_3": "Cluster C (Creative)",
+      "col_4": "6",
+      "col_5": "1",
+      "col_6": "Creative cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "10",
+      "col_2": "M13 Media Buying, M14 Testing, M16 Content",
+      "col_3": "Cluster D (Growth)",
+      "col_4": "6",
+      "col_5": "1",
+      "col_6": "Growth cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "11",
+      "col_2": "M17 Email & SMS, M18 Email Flows, M19 CRM",
+      "col_3": "Cluster E (Retention)",
+      "col_4": "6",
+      "col_5": "1.5",
+      "col_6": "Email and CRM drafted."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "12",
+      "col_2": "M20 Support, M21 Subscription",
+      "col_3": "Cluster E (Retention)",
+      "col_4": "4",
+      "col_5": "0.75",
+      "col_6": "Retention cluster complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "13",
+      "col_2": "M27 Customer Research, M22 Referral, M23 Influencer",
+      "col_3": "Cluster F (Customer)",
+      "col_4": "6",
+      "col_5": "1.5",
+      "col_6": "Customer and community drafted."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "14",
+      "col_2": "M28 Market & Expansion, M29 PR",
+      "col_3": "Cluster F (Customer)",
+      "col_4": "5",
+      "col_5": "1",
+      "col_6": "Customer cluster complete. All external expert sessions done."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "15",
+      "col_2": "M31 Hiring, M32 School, M33 Governance",
+      "col_3": "Cluster H (Ops) + Nilo",
+      "col_4": "8",
+      "col_5": "2",
+      "col_6": "Ops systems and governance complete."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "16",
+      "col_2": "M35 Execution, M36 Ops Infrastructure, M37-M40",
+      "col_3": "Cluster H (Ops) + Nilo + PM",
+      "col_4": "8",
+      "col_5": "2",
+      "col_6": "All 41 models complete. Full Trade locked."
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "TOTALS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": null,
+      "col_2": null,
+      "col_3": null,
+      "col_4": "~95 hrs",
+      "col_5": "~20 hrs",
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "PM: ~95 hours over 16 weeks = ~6 hours/week average",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Experts: ~20 hours total across 8 people = ~2.5 hours each average",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Nilo: ~8-10 hours total (thesis lock + proprietary model reviews)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "AI (Claude): ~120-160 hours of generation time (runs in background, no calendar cost)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Cost estimate:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "PM: $50-75/hr x 95 hrs = $4,750-7,125 (or fractional hire at $2-3K/month for 4 months)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Experts: $200-500/session x 8 sessions = $1,600-4,000 (or trade for Trade access)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "AI: Claude Pro subscription = ~$80/month x 4 months = $320",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRODUCTION SCHEDULE — 16-WEEK PLAN": "Total: $6,670-11,445 to produce expert-grade 41-model Trade",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Production Schedule",
+  "sheet_index": 39
+}

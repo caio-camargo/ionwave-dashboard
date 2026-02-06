@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-F5: Opt-In & Landing Pages — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Cluster: FCL-1 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Kit (ConvertKit) pages. Email-gated downloads. Conversion optimization.",
+      "col_2": null
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "TUP",
+      "col_2": "F5: Opt-In & Landing Pages"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Cluster",
+      "col_2": "FCL-1"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Owner",
+      "col_2": "Funnel Builder"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Description",
+      "col_2": "Kit (ConvertKit) pages. Email-gated downloads. Conversion optimization."
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-F5: Opt-In & Landing Pages — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Opt-In & Landing Pages model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-F5",
+  "sheet_index": 1115
+}

@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "MODEL SELF-AUDIT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "MODEL SELF-AUDIT": "Monthly review of assumptions",
+      "col_2": null
+    },
+    {
+      "MODEL SELF-AUDIT": "Unit economics",
+      "col_2": "Are COGS, CAC, LTV still accurate?"
+    },
+    {
+      "MODEL SELF-AUDIT": "Market assumptions",
+      "col_2": "Has competitive landscape changed?"
+    },
+    {
+      "MODEL SELF-AUDIT": "Operational capacity",
+      "col_2": "Can we handle current volume?"
+    },
+    {
+      "MODEL SELF-AUDIT": "Financial health",
+      "col_2": "Cash runway, burn rate accurate?"
+    },
+    {
+      "MODEL SELF-AUDIT": "Team capacity",
+      "col_2": "Right people, right roles?"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Model Self-Audit",
+  "sheet_index": 758
+}

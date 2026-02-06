@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "EXPERT ADVISOR ONBOARDING PACKET",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "What an expert receives when asked to review a cluster. This is the recruiting tool for advisors.",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "PACKET CONTENTS (sent as PDF or Notion link)",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "PAGE 1: WHAT IS IONWAVE",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "One paragraph",
+      "col_2": "IonWave is a premium electrolyte supplement company being built using a novel coordination protocol. Instead of hiring a traditional team, we're using flash teams of specialized co-founders — each owning a specific business function — supported by AI-assisted production and expert verification. You're being asked to be the expert."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "The founder",
+      "col_2": "Nilo Vicioso — COO of Tabs ($25M raised, 100M+ organic views/month), partner at an ecommerce venture fund, YC/Greylock/KV-backed founder."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "The model",
+      "col_2": "A PM Co-Founder produces a cluster of work (the \"TUP\"). You review it, grade it, and your expert opinion determines whether it locks or gets returned for revision. Your name goes on the final output permanently."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "PAGE 2: YOUR SPECIFIC CLUSTER",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "[Cluster name]",
+      "col_2": "[Pulled from P-tab — e.g., \"CL-3: Product & Supply Chain\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "[Scope]",
+      "col_2": "[Pulled from P-tab — e.g., \"Formulation brief, manufacturer sourcing, COGS model, packaging design, quality control plan\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "[Number of C-tabs to review]",
+      "col_2": "[Pulled from P-tab — e.g., \"12 content tabs across 3 TUPs\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "[M0 fields this cluster reads]",
+      "col_2": "[Pulled from M0 Downstream — e.g., \"Core Formulation, Form Factor, Target COGS\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Time commitment",
+      "col_2": "10-20 hours over 1-2 weeks. Read the tabs, write review notes per tab, assign a grade."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "PAGE 3: WHAT DONE LOOKS LIKE (sample V-tab)",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "TUP reviewed",
+      "col_2": "[Sample — e.g., \"BCL-3.1: Formulation Brief\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Expert Reviewer",
+      "col_2": "[Your Name]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Date reviewed",
+      "col_2": "[Date]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Overall grade",
+      "col_2": "[B+ — see grading rubric below]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Tab-by-tab notes",
+      "col_2": "[Example: \"C-tab 3.1.2 (Ingredient Sourcing): Strong sourcing analysis for sodium/potassium. Missing: magnesium sourcing alternatives. Current spec assumes single supplier — add backup supplier analysis. Grade for this tab: B.\"]"
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "What would make this an A",
+      "col_2": "\"Include competitive formulation analysis (what exactly is in LMNT vs Liquid IV at the molecular level). Add backup suppliers for each key ingredient. Strengthen the IP/trade secret argument for the specific ratio.\""
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "What would make this a D",
+      "col_2": "\"No original research. Just restated what Claude drafted without domain expertise. No sourcing contacts. No COGS reality check. Would not be usable by a CEO.\""
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "PAGE 4: COMPENSATION & TERMS",
+      "col_2": null
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Equity",
+      "col_2": "0.1-0.25% per cluster reviewed. Vests upon completion of review."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Cash",
+      "col_2": "None. This is an equity-only advisory relationship."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Your name on output",
+      "col_2": "Permanently. \"Reviewed by [Your Name], [Date], [Grade]\" on every TUP you grade. This is public and part of the show."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Show appearance",
+      "col_2": "Your review session will be recorded as a long-form episode. You're on camera (or audio) giving your real assessment. This is content for your professional brand."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "Time investment",
+      "col_2": "10-20 hours total. One review cycle."
+    },
+    {
+      "EXPERT ADVISOR ONBOARDING PACKET": "What you DON'T do",
+      "col_2": "You don't produce anything. You don't manage anyone. You don't attend meetings. You review, grade, and move on."
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Expert Onboarding - Packet",
+  "sheet_index": 1206
+}

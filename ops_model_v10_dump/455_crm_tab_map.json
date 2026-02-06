@@ -1,0 +1,73 @@
+{
+  "headers": [
+    "CRM TAB MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CRM TAB MAP": "How the existing model tabs map to CRM architecture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CRM TAB MAP": "The model IS the CRM. Here's how to navigate it from the customer perspective.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CRM TAB MAP": "CRM Function",
+      "col_2": "Lifecycle Stages",
+      "col_3": "Model Tabs",
+      "col_4": "Purpose"
+    },
+    {
+      "CRM TAB MAP": "ACQUISITION",
+      "col_2": "0-1",
+      "col_3": "Meta Ads Strategy, VSL TUP, VSL Hook Library, VSL Script Architecture, VSL Testing Protocol, Content Calendar, UGC Strategy, Influencer Playbook",
+      "col_4": "Get strangers to become aware and interested"
+    },
+    {
+      "CRM TAB MAP": "CONVERSION",
+      "col_2": "2-4",
+      "col_3": "Landing Page Spec, Shopify Config, Checkout Optimization, Abandoned Cart, VSL Production, Pricing Strategy, Offer Stack",
+      "col_4": "Turn interest into first purchase"
+    },
+    {
+      "CRM TAB MAP": "ONBOARDING",
+      "col_2": "4-5",
+      "col_3": "Post-Purchase Sequence, Fulfillment SLA, Shipping Protocol, Unboxing Design, Usage Guides, Product Quality",
+      "col_4": "Deliver exceptional first experience"
+    },
+    {
+      "CRM TAB MAP": "RETENTION",
+      "col_2": "5-6",
+      "col_3": "Klaviyo Sequences, Replenishment, Subscription, Loyalty Mechanics, CRM Metrics, Customer Segmentation, Churn Intervention",
+      "col_4": "Build habit, increase frequency"
+    },
+    {
+      "CRM TAB MAP": "ADVOCACY",
+      "col_2": "6-7",
+      "col_3": "Referral Program, Review Solicitation, Ambassador Program, UGC Pipeline, VIP Recognition",
+      "col_4": "Turn customers into growth engine"
+    },
+    {
+      "CRM TAB MAP": "RECOVERY",
+      "col_2": "8-9",
+      "col_3": "Winback Sequence, Reactivation Offers, Sunset Flow, Churn Analysis, Exit Survey",
+      "col_4": "Win back or gracefully release"
+    },
+    {
+      "CRM TAB MAP": "INTELLIGENCE",
+      "col_2": "All",
+      "col_3": "Customer Data Model, CRM Metrics Dashboard, Customer Segmentation, Lifecycle Automations, CRM Tab Map",
+      "col_4": "Understand the whole system"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "CRM Tab Map",
+  "sheet_index": 455
+}

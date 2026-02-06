@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "TECH STACK SELECTION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "TECH STACK SELECTION": "Minimum viable tooling. Free first, paid when necessary.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "CORE STACK (Required)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "Category",
+      "col_2": "Tool",
+      "col_3": "Cost",
+      "col_4": "Why This One",
+      "col_5": "Alternatives"
+    },
+    {
+      "TECH STACK SELECTION": "Ecommerce",
+      "col_2": "Shopify Basic",
+      "col_3": "$39/mo",
+      "col_4": "Industry standard, app ecosystem, reliable",
+      "col_5": "WooCommerce (free but complex)"
+    },
+    {
+      "TECH STACK SELECTION": "Subscriptions",
+      "col_2": "Recharge or Skio",
+      "col_3": "$99/mo + %",
+      "col_4": "Best subscription UX, analytics",
+      "col_5": "Shopify native (limited)"
+    },
+    {
+      "TECH STACK SELECTION": "Email",
+      "col_2": "Klaviyo",
+      "col_3": "Free <500 contacts",
+      "col_4": "Best D2C email platform, Shopify integration",
+      "col_5": "Mailchimp (worse for ecom)"
+    },
+    {
+      "TECH STACK SELECTION": "Reviews",
+      "col_2": "Judge.me",
+      "col_3": "Free tier",
+      "col_4": "Good free tier, review requests",
+      "col_5": "Okendo ($$$), Yotpo ($$$)"
+    },
+    {
+      "TECH STACK SELECTION": "Analytics",
+      "col_2": "Google Analytics 4",
+      "col_3": "Free",
+      "col_4": "Standard, required",
+      "col_5": "None"
+    },
+    {
+      "TECH STACK SELECTION": "Ads",
+      "col_2": "Meta Business Suite",
+      "col_3": "Free",
+      "col_4": "Required for FB/IG ads",
+      "col_5": "None"
+    },
+    {
+      "TECH STACK SELECTION": "Payments",
+      "col_2": "Shopify Payments",
+      "col_3": "2.9% + 30¢",
+      "col_4": "No extra fees, built-in",
+      "col_5": "Stripe (same price)"
+    },
+    {
+      "TECH STACK SELECTION": "GROWTH STACK (Add when scaling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "Category",
+      "col_2": "Tool",
+      "col_3": "Cost",
+      "col_4": "Why This One",
+      "col_5": "Alternatives"
+    },
+    {
+      "TECH STACK SELECTION": "SMS",
+      "col_2": "Postscript or Klaviyo SMS",
+      "col_3": "$25/mo+",
+      "col_4": "Add at 1000+ customers",
+      "col_5": "Attentive ($$$)"
+    },
+    {
+      "TECH STACK SELECTION": "Heatmaps",
+      "col_2": "Hotjar or MS Clarity",
+      "col_3": "Free tier",
+      "col_4": "See where users click/scroll",
+      "col_5": "Lucky Orange"
+    },
+    {
+      "TECH STACK SELECTION": "A/B Testing",
+      "col_2": "Google Optimize (free) or Convert",
+      "col_3": "Free-$99/mo",
+      "col_4": "Test LP variants",
+      "col_5": "VWO ($$$)"
+    },
+    {
+      "TECH STACK SELECTION": "Attribution",
+      "col_2": "Triple Whale or Northbeam",
+      "col_3": "$100-300/mo",
+      "col_4": "When ad spend >$5K/mo",
+      "col_5": "Hyros ($$$)"
+    },
+    {
+      "TECH STACK SELECTION": "Helpdesk",
+      "col_2": "Gorgias",
+      "col_3": "$50/mo",
+      "col_4": "When >50 tickets/mo",
+      "col_5": "Zendesk, Freshdesk"
+    },
+    {
+      "TECH STACK SELECTION": "Loyalty",
+      "col_2": "Smile.io",
+      "col_3": "Free tier",
+      "col_4": "When repeat rate matters",
+      "col_5": "Yotpo Loyalty"
+    },
+    {
+      "TECH STACK SELECTION": "Pop-ups",
+      "col_2": "Privy or Klaviyo",
+      "col_3": "Free tier",
+      "col_4": "Email capture",
+      "col_5": "OptinMonster"
+    },
+    {
+      "TECH STACK SELECTION": "MONTHLY COST SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "Launch (Month 1-2)",
+      "col_2": "$50-100/mo",
+      "col_3": "Shopify + free tiers",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "Growth (Month 3-6)",
+      "col_2": "$150-300/mo",
+      "col_3": "Add subscriptions, SMS",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TECH STACK SELECTION": "Scale (Month 6+)",
+      "col_2": "$400-800/mo",
+      "col_3": "Full stack, attribution",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Tech Stack",
+  "sheet_index": 285
+}

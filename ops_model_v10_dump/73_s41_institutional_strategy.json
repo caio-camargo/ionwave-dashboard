@@ -1,0 +1,203 @@
+{
+  "headers": [
+    "S41: INSTITUTIONAL STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "S41: INSTITUTIONAL STRATEGY": "How to go from cold email to published case study with institutional affiliation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "WHAT 'AFFILIATION' MEANS PRACTICALLY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Level",
+      "col_2": "What It Is",
+      "col_3": "What You Can Say",
+      "col_4": "How To Get It",
+      "col_5": "Difficulty"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "1. Informal\nCollaboration",
+      "col_2": "Email exchange. They review your work. You cite them. They cite you.",
+      "col_3": "\"In collaboration with [Name] at [Institution]\"",
+      "col_4": "Send email. Share Trade. They find it interesting. You exchange ideas.",
+      "col_5": "Easy"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "2. Research\nContributor",
+      "col_2": "They formally acknowledge you as contributing data to their research.",
+      "col_3": "\"Research Contributor, [Lab Name], [Institution]\"",
+      "col_4": "They include your case study in a paper. You're in the acknowledgments or co-author.",
+      "col_5": "Medium"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "3. Research\nAffiliate",
+      "col_2": "Formal letter from institution. You're listed on their lab page.",
+      "col_3": "\"Research Affiliate, [Center Name], [Institution]\"",
+      "col_4": "They sponsor you as an external affiliate. Usually requires ongoing collaboration.",
+      "col_5": "Hard"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "4. Advisory\nBoard",
+      "col_2": "You sit on their advisory board (or they sit on yours).",
+      "col_3": "\"Advisor, Studio 4\" or \"Advisory Board, [Lab]\"",
+      "col_4": "Mutual value exchange. They advise you, you provide data.",
+      "col_5": "Medium"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "5. Co-PI on\nGrant",
+      "col_2": "Joint research proposal to NSF, DARPA, or similar.",
+      "col_3": "\"Co-PI, [Grant Name], [Funding Agency]\"",
+      "col_4": "They write a grant with you as industry partner providing the testbed.",
+      "col_5": "Very Hard (but very valuable)"
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "TIMELINE: COLD EMAIL TO PUBLISHED CASE STUDY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Week",
+      "col_2": "Action",
+      "col_3": "Goal",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "1",
+      "col_2": "Send personalized emails to Priority 1 targets (Valentine/Bernstein, Nagpal)",
+      "col_3": "Get 1-2 responses expressing interest",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "2-3",
+      "col_2": "Share Trade documentation + research design draft with interested researchers",
+      "col_3": "Get feedback on research design. Confirm mutual interest.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "4",
+      "col_2": "Agree on collaboration terms (informal to start)",
+      "col_3": "Email confirmation: \"Yes, I'd like to collaborate on this case study\"",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "5-10",
+      "col_2": "Production cycle runs. Data collected passively.",
+      "col_3": "Researcher receives periodic updates. Maybe one check-in call.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "11-12",
+      "col_2": "Share production data + preliminary results",
+      "col_3": "Researcher reviews data. Confirms it's publishable.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "13-16",
+      "col_2": "Co-write case study paper",
+      "col_3": "Draft complete. Both parties review.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "17-20",
+      "col_2": "Submit to journal or conference",
+      "col_3": "Paper submitted. Credential active.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Ongoing",
+      "col_2": "Present at conferences. Cite each other. Explore deeper collaboration.",
+      "col_3": "Relationship deepens. Upgrade from Level 1 to Level 2-3.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "PUBLICATION TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Venue",
+      "col_2": "Type",
+      "col_3": "Why",
+      "col_4": "Fit",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "CHI (ACM Conference on\nHuman Factors)",
+      "col_2": "Conference",
+      "col_3": "Top HCI venue. Flash teams + AI co-pilot angle.",
+      "col_4": "⭐⭐⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "CSCW (Computer-Supported\nCooperative Work)",
+      "col_2": "Conference",
+      "col_3": "Exactly this: computer-supported cooperative work.",
+      "col_4": "⭐⭐⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Organization Science",
+      "col_2": "Journal",
+      "col_3": "Top management journal. Novel organizational form.",
+      "col_4": "⭐⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Harvard Business Review",
+      "col_2": "Magazine",
+      "col_3": "Practitioner audience. \"The Flash Team Venture Studio.\"",
+      "col_4": "⭐⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "PNAS",
+      "col_2": "Journal",
+      "col_3": "If co-authored with Couzin or Levin. High prestige.",
+      "col_4": "⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "Swarm Intelligence (Springer)",
+      "col_2": "Journal",
+      "col_3": "Niche but exactly on topic. If co-authored with Nagpal/Dorigo.",
+      "col_4": "⭐⭐⭐",
+      "col_5": null
+    },
+    {
+      "S41: INSTITUTIONAL STRATEGY": "MIT Sloan Management Review",
+      "col_2": "Magazine",
+      "col_3": "Practitioner + academic. \"Swarm Intelligence for Startups.\"",
+      "col_4": "⭐⭐⭐",
+      "col_5": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "S41-Institutional Strategy",
+  "sheet_index": 73
+}

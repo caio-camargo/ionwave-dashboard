@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "COMMUNICATION PROTOCOL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "COMMUNICATION PROTOCOL": "What goes where. Response time expectations.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COMMUNICATION PROTOCOL": "Channel",
+      "col_2": "Use For",
+      "col_3": "Response Time"
+    },
+    {
+      "COMMUNICATION PROTOCOL": "Slack",
+      "col_2": "Daily ops, quick questions",
+      "col_3": "<4 hours"
+    },
+    {
+      "COMMUNICATION PROTOCOL": "Email",
+      "col_2": "External, formal, documentation",
+      "col_3": "<24 hours"
+    },
+    {
+      "COMMUNICATION PROTOCOL": "WhatsApp",
+      "col_2": "Urgent only",
+      "col_3": "<1 hour"
+    },
+    {
+      "COMMUNICATION PROTOCOL": "Call",
+      "col_2": "Complex discussion, urgent",
+      "col_3": "Immediate"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Communication Protocol",
+  "sheet_index": 792
+}

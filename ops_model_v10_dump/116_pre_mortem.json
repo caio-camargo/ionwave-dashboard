@@ -1,0 +1,181 @@
+{
+  "headers": [
+    "PRE-MORTEM"
+  ],
+  "rows": [
+    {
+      "PRE-MORTEM": "It's 12 months from now and we failed. Why?"
+    },
+    {
+      "PRE-MORTEM": "THE EXERCISE"
+    },
+    {
+      "PRE-MORTEM": "Imagine it's January 2027. IonWave failed to hit $100K MRR. We're shutting down."
+    },
+    {
+      "PRE-MORTEM": "What went wrong? Write the post-mortem in advance to prevent it."
+    },
+    {
+      "PRE-MORTEM": "MOST LIKELY FAILURE MODES"
+    },
+    {
+      "PRE-MORTEM": "💀 CAC Never Worked"
+    },
+    {
+      "PRE-MORTEM": "We couldn't acquire customers profitably. CAC stayed above $50."
+    },
+    {
+      "PRE-MORTEM": "What happened:"
+    },
+    {
+      "PRE-MORTEM": "• Creative didn't resonate"
+    },
+    {
+      "PRE-MORTEM": "• Market more competitive than expected"
+    },
+    {
+      "PRE-MORTEM": "• Positioning was off"
+    },
+    {
+      "PRE-MORTEM": "Prevention:"
+    },
+    {
+      "PRE-MORTEM": "✓ Test 100 ads before scaling"
+    },
+    {
+      "PRE-MORTEM": "✓ Have kill criteria and stick to them"
+    },
+    {
+      "PRE-MORTEM": "✓ Interview customers constantly"
+    },
+    {
+      "PRE-MORTEM": "💀 Ran Out of Cash"
+    },
+    {
+      "PRE-MORTEM": "Burned through capital before reaching profitability."
+    },
+    {
+      "PRE-MORTEM": "What happened:"
+    },
+    {
+      "PRE-MORTEM": "• Scaled spend too fast"
+    },
+    {
+      "PRE-MORTEM": "• Inventory tied up cash"
+    },
+    {
+      "PRE-MORTEM": "• Unit economics were wrong"
+    },
+    {
+      "PRE-MORTEM": "Prevention:"
+    },
+    {
+      "PRE-MORTEM": "✓ Conservative cash management"
+    },
+    {
+      "PRE-MORTEM": "✓ Don't scale until unit economics proven"
+    },
+    {
+      "PRE-MORTEM": "✓ Always have 90 days runway"
+    },
+    {
+      "PRE-MORTEM": "💀 Operator Quit/Burned Out"
+    },
+    {
+      "PRE-MORTEM": "The person running it couldn't sustain."
+    },
+    {
+      "PRE-MORTEM": "What happened:"
+    },
+    {
+      "PRE-MORTEM": "• Too many hours for too long"
+    },
+    {
+      "PRE-MORTEM": "• Equity split felt unfair"
+    },
+    {
+      "PRE-MORTEM": "• Progress was too slow"
+    },
+    {
+      "PRE-MORTEM": "Prevention:"
+    },
+    {
+      "PRE-MORTEM": "✓ Realistic expectations upfront"
+    },
+    {
+      "PRE-MORTEM": "✓ Clear milestones and check-ins"
+    },
+    {
+      "PRE-MORTEM": "✓ Path to <10 hrs/week"
+    },
+    {
+      "PRE-MORTEM": "💀 Product Quality Issues"
+    },
+    {
+      "PRE-MORTEM": "Supplier failed, recalls, or quality problems damaged brand."
+    },
+    {
+      "PRE-MORTEM": "What happened:"
+    },
+    {
+      "PRE-MORTEM": "• Single supplier dependency"
+    },
+    {
+      "PRE-MORTEM": "• Didn't catch quality issue in time"
+    },
+    {
+      "PRE-MORTEM": "• Customer complaints went viral"
+    },
+    {
+      "PRE-MORTEM": "Prevention:"
+    },
+    {
+      "PRE-MORTEM": "✓ Backup supplier identified"
+    },
+    {
+      "PRE-MORTEM": "✓ QC process documented"
+    },
+    {
+      "PRE-MORTEM": "✓ Respond to issues immediately"
+    },
+    {
+      "PRE-MORTEM": "💀 Competitive Response"
+    },
+    {
+      "PRE-MORTEM": "LMNT or new entrant crushed us."
+    },
+    {
+      "PRE-MORTEM": "What happened:"
+    },
+    {
+      "PRE-MORTEM": "• LMNT dropped price"
+    },
+    {
+      "PRE-MORTEM": "• Better-funded competitor entered"
+    },
+    {
+      "PRE-MORTEM": "• Our differentiation didn't matter"
+    },
+    {
+      "PRE-MORTEM": "Prevention:"
+    },
+    {
+      "PRE-MORTEM": "✓ Build customer relationships, not just transactions"
+    },
+    {
+      "PRE-MORTEM": "✓ Move faster than big players can"
+    },
+    {
+      "PRE-MORTEM": "✓ Differentiation must be meaningful"
+    },
+    {
+      "PRE-MORTEM": "THE ACTUAL POST-MORTEM WE DON'T WANT TO WRITE"
+    },
+    {
+      "PRE-MORTEM": "'We launched IonWave in Q1 2026 with high hopes. The product was good - customers \nwho tried it loved it. But we couldn't crack customer acquisition. Our CAC hovered \naround $55-60, and despite testing dozens of creative angles, we couldn't get it \nbelow $45. \n\nAt $55 CAC with $14 contribution margin, we were losing $41 per customer acquired. \nWe burned through our initial capital in 6 months, and by Month 8, we had to pause \nads entirely. We tried organic/content but couldn't generate enough volume.\n\nBy Month 10, we faced a choice: raise money at a bad valuation or shut down. We \nchose to shut down and return remaining capital.\n\nLessons: We should have validated CAC assumptions with smaller tests before \ncommitting capital. We should have had a clearer kill criteria and stuck to it \nat Month 3 instead of hoping things would improve.'\n\n—The post-mortem we're trying to avoid writing."
+    }
+  ],
+  "row_count": 57,
+  "sheet_name": "Pre-Mortem",
+  "sheet_index": 116
+}

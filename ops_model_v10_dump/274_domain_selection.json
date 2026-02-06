@@ -1,0 +1,152 @@
+{
+  "headers": [
+    "DOMAIN SELECTION STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "DOMAIN SELECTION STRATEGY": "Get the right domain without overpaying",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "DOMAIN PRIORITY ORDER",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Priority",
+      "col_2": "Example",
+      "col_3": "Notes"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "1. ExactBrand.com",
+      "col_2": "ionwave.com",
+      "col_3": "Best option, pay up to $5K if needed"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "2. GetBrand.com or TryBrand.com",
+      "col_2": "getionwave.com, tryionwave.com",
+      "col_3": "Good alternative, usually available"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "3. BrandHQ.com or BrandLabs.com",
+      "col_2": "ionwavehq.com",
+      "col_3": "Acceptable, sounds startup-y"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "4. DrinkBrand.com or UseBrand.com",
+      "col_2": "drinkionwave.com",
+      "col_3": "Action-oriented, category-specific"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "5. Brand.co or Brand.io",
+      "col_2": "ionwave.co",
+      "col_3": "Last resort, some customers confused"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "DOMAIN ACQUISITION TACTICS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Check if available",
+      "col_2": "Namecheap, GoDaddy, Google Domains",
+      "col_3": "$10-15/year"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Check aftermarket",
+      "col_2": "Afternic, Sedo, Dan.com",
+      "col_3": "$100-10,000"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "WHOIS lookup owner",
+      "col_2": "who.is, whois.domaintools.com",
+      "col_3": "Find owner email"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Direct outreach",
+      "col_2": "Email owner with offer, be patient",
+      "col_3": "Start at 50% of max budget"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Use broker",
+      "col_2": "Sedo broker service",
+      "col_3": "15% commission"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Backorder",
+      "col_2": "DropCatch, SnapNames",
+      "col_3": "If domain expiring soon"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "BUDGET GUIDELINES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Exact .com (premium)",
+      "col_2": "$1,000 - $10,000",
+      "col_3": "Only if brand is perfect and long-term"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Exact .com (standard)",
+      "col_2": "$100 - $1,000",
+      "col_3": "Reasonable for good name"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Prefix/suffix .com",
+      "col_2": "$10 - $100",
+      "col_3": "Usually available at registration price"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "Alternative TLD",
+      "col_2": "$10 - $50",
+      "col_3": "Last resort"
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "DOMAIN SELECTION CHECKLIST",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ Primary domain secured",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ Common misspellings purchased (if cheap)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ .co / .net defensive registration (optional)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ Domain connected to registrar account you control",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ Auto-renew enabled",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ WHOIS privacy enabled",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DOMAIN SELECTION STRATEGY": "⬜ DNS ready to point to Shopify",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "Domain Selection",
+  "sheet_index": 274
+}

@@ -1,0 +1,181 @@
+{
+  "headers": [
+    "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "What applied organizational research looks like. What journals publish it. What's the bar.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "THE FIELD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "This sits at the intersection of three fields:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "1. ORGANIZATIONAL DESIGN / MANAGEMENT SCIENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Journals: Management Science, Organization Science, Academy of Management Review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key concept: Flash teams (Valentine & Bernstein, Stanford HAI / MIT Press 2025)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key concept: Holacracy, DAOs, decentralized organizations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Bar: Empirical data on novel organizational forms. Case studies with measurable outcomes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "2. COLLECTIVE INTELLIGENCE / SWARM BEHAVIOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Journals: PNAS, Nature, Science, Swarm Intelligence (Springer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key researchers: Nagpal (Princeton), Couzin (Max Planck), Dorigo (Brussels), Gordon (Stanford)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key concept: Decentralized coordination producing emergent global behavior",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Bar: Bridge between biological/robotic swarms and human organizational systems.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "3. HUMAN-COMPUTER INTERACTION / AI-AUGMENTED WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Journals: CHI, CSCW, Human Computation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key concept: AI co-pilots in collaborative work (Claude as co-pilot for flash teams)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Key concept: Crowd computing, human computation, hybrid intelligence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Bar: Novel system design + empirical evaluation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "The publishable angle: A 103-TUP coordination artifact, produced by 40-60 flash contributors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "coordinated only by the artifact itself + an AI co-pilot, with zero centralized management.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "That's never been documented at this scale with this level of structural detail.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "COMPARABLE PUBLISHED WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Paper / Book",
+      "col_2": "Authors",
+      "col_3": "What It Studied",
+      "col_4": "How We Extend It"
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Flash Teams (MIT Press 2025)",
+      "col_2": "Valentine & Bernstein\n(Stanford)",
+      "col_3": "On-demand expert teams assembled via platforms, coordinated by software.",
+      "col_4": "We add: the Trade as coordination artifact. AI co-pilot. DAO equity. 103-model scope. Zero budget."
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Kilobots: 1000 robot swarm",
+      "col_2": "Nagpal et al.\n(Harvard/Princeton)",
+      "col_3": "1,024 robots self-organizing into shapes using only local rules.",
+      "col_4": "We add: human agents instead of robots. Complex deliverables instead of shapes. Same local-rules principle."
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Collective Intelligence in\nAnimal Groups",
+      "col_2": "Couzin et al.\n(Max Planck)",
+      "col_3": "How fish/birds/insects make group decisions without central control.",
+      "col_4": "We add: human version. The Trade = pheromone trail. The librarian = information routing. The MC = signal amplification."
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "Ant Colony Optimization",
+      "col_2": "Dorigo\n(Brussels)",
+      "col_3": "Algorithms inspired by ant foraging for optimization problems.",
+      "col_4": "We add: human foraging for talent, opportunities, and knowledge. The recruiting funnel = ant foraging trail."
+    },
+    {
+      "IP-S41: APPLIED RESEARCH — INDUSTRY PERSPECTIVES": "The Wisdom of Crowds",
+      "col_2": "Surowiecki",
+      "col_3": "How groups can be smarter than individuals under right conditions.",
+      "col_4": "We add: structural conditions (the Trade) that enable crowd wisdom in venture creation."
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "IP-S41 Research",
+  "sheet_index": 69
+}

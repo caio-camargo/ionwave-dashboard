@@ -1,0 +1,16 @@
+{
+  "headers": [
+    "BOARD/INVESTOR UPDATE TEMPLATE"
+  ],
+  "rows": [
+    {
+      "BOARD/INVESTOR UPDATE TEMPLATE": "Monthly update format for investors"
+    },
+    {
+      "BOARD/INVESTOR UPDATE TEMPLATE": "═══════════════════════════════════════════════════════════════\nIONWAVE - INVESTOR UPDATE\n[MONTH YEAR]\n═══════════════════════════════════════════════════════════════\n\nTL;DR\n─────\n[2-3 sentences: How are we doing? What's the headline?]\n\nMETRICS\n─────\nMRR:            $[X] ([+/-X]% MoM)\nBurn:           $[X]/month\nRunway:         [X] months\nCAC:            $[X]\nLTV:CAC:        [X]x\n\nHIGHLIGHTS\n─────\n✅ [Win #1]\n✅ [Win #2]\n✅ [Win #3]\n\nLOWLIGHTS\n─────\n⚠️ [Challenge #1 + what we're doing about it]\n⚠️ [Challenge #2 + what we're doing about it]\n\nKEY DECISIONS MADE\n─────\n• [Decision + rationale]\n• [Decision + rationale]\n\nNEXT MONTH FOCUS\n─────\n1. [Priority]\n2. [Priority]\n3. [Priority]\n\nASKS\n─────\n• [Specific help needed, if any]\n• [Intros requested, if any]\n\nCASH POSITION\n─────\nStarting:       $[X]\nIn:             $[X] (revenue)\nOut:            $[X] (burn)\nEnding:         $[X]\nRunway:         [X] months at current burn\n\n═══════════════════════════════════════════════════════════════\nQuestions? Reply to this email or schedule time: [calendar link]\n═══════════════════════════════════════════════════════════════"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Investor Update Template",
+  "sheet_index": 205
+}

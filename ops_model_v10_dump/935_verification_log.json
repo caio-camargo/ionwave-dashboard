@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "IONWAVE VERIFICATION LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "IONWAVE VERIFICATION LOG": "Core hypotheses to prove/disprove. Update status weekly. 🟢 Verified | 🔴 Failed | 🟡 In Progress | ⚪ Not Started",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "#",
+      "col_2": "Hypothesis",
+      "col_3": "Success Criteria",
+      "col_4": "Failure Criteria",
+      "col_5": "Test Method",
+      "col_6": "Status"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "1",
+      "col_2": "COGS can hit <$0.60/sachet at MOQ 2500",
+      "col_3": "Confirmed quote <$0.60 from 2+ suppliers",
+      "col_4": "All quotes >$0.80 after negotiation",
+      "col_5": "Get 5+ supplier quotes Week 1",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "2",
+      "col_2": "Supplier can deliver quality samples",
+      "col_3": "Samples pass taste/purity test",
+      "col_4": "Samples fail QC or taste terrible",
+      "col_5": "Order samples from top 3 suppliers",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "3",
+      "col_2": "Meta ads can acquire at <$40 CAC",
+      "col_3": "CAC <$40 with 50+ conversions",
+      "col_4": "CAC >$60 after $3K spend and iteration",
+      "col_5": "Run $3K test with 50+ ad variants",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "4",
+      "col_2": "CTR >1.5% is achievable",
+      "col_3": "3+ ads sustain >1.5% CTR",
+      "col_4": "Best ad <1.0% CTR after 50 tested",
+      "col_5": "Test 50+ hook/visual combinations",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "5",
+      "col_2": "Landing page can convert >2.5%",
+      "col_3": "CVR >2.5% with 1000+ visitors",
+      "col_4": "CVR <1.5% after 2 variants tested",
+      "col_5": "A/B test 2+ LP variants",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "6",
+      "col_2": "Subscription rate can hit >40%",
+      "col_3": "Sub rate >40% after 100 orders",
+      "col_4": "Sub rate <25% with sub as default",
+      "col_5": "Default to subscription, track rate",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "7",
+      "col_2": "AOV >$60 achievable with upsells",
+      "col_3": "AOV >$60 after bump/upsells live",
+      "col_4": "AOV <$50 despite upsell optimization",
+      "col_5": "Test bump offers and post-purchase upsells",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "8",
+      "col_2": "Science/authority angle outperforms others",
+      "col_3": "Science ads 20%+ better CTR than lifestyle",
+      "col_4": "No significant difference across angles",
+      "col_5": "Test 10+ ads per angle category",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "9",
+      "col_2": "UGC/testimonial content converts",
+      "col_3": "UGC ads within 20% of produced creative",
+      "col_4": "UGC significantly underperforms",
+      "col_5": "Test UGC vs produced side-by-side",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "10",
+      "col_2": "Micro-influencers will post for free product",
+      "col_3": "3+ influencers post within 2 weeks of outreach",
+      "col_4": "<1 influencer posts after 20 outreaches",
+      "col_5": "Reach out to 20+ micro-influencers",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "11",
+      "col_2": "Email flows drive >15% of revenue",
+      "col_3": "Email revenue >15% of total after 30 days",
+      "col_4": "Email revenue <5% despite full flows",
+      "col_5": "Launch all 3 sequences, track attribution",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "12",
+      "col_2": "Churn can stay <12% monthly",
+      "col_3": "M2 churn <12% on first 100 subscribers",
+      "col_4": "M2 churn >20%",
+      "col_5": "Track cohort retention weekly",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "13",
+      "col_2": "Customers feel difference within 14 days",
+      "col_3": ">50% of reviews mention energy/clarity",
+      "col_4": "<20% mention tangible benefits",
+      "col_5": "Survey customers at Day 7 and Day 14",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "14",
+      "col_2": "We can raise $30-50K within 3 weeks",
+      "col_3": "Raise closed with 2-3 investors",
+      "col_4": "No committed capital after 10+ meetings",
+      "col_5": "Run investor outreach parallel to validation",
+      "col_6": "⚪"
+    },
+    {
+      "IONWAVE VERIFICATION LOG": "15",
+      "col_2": "Break-even ROAS (1.4x) achievable by Week 6",
+      "col_3": "Blended ROAS >1.4x for 7 consecutive days",
+      "col_4": "ROAS <1.2x after scaling winners",
+      "col_5": "Track daily, optimize weekly",
+      "col_6": "⚪"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Verification Log",
+  "sheet_index": 935
+}

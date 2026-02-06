@@ -1,0 +1,34 @@
+{
+  "headers": [
+    "30-DAY GETTING STARTED GANTT"
+  ],
+  "rows": [
+    {
+      "30-DAY GETTING STARTED GANTT": "Week 1"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Store setup, supplier confirmed, brand finalized"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Week 2"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Product pages, email flows, tracking"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Week 3"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Creative production, first 20 ads"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Week 4"
+    },
+    {
+      "30-DAY GETTING STARTED GANTT": "Inventory received, final QA, launch"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Getting Started Gantt",
+  "sheet_index": 780
+}

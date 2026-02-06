@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "ESCALATION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ESCALATION MATRIX": "Who gets notified at what level, response time SLAs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "Severity",
+      "col_2": "Trigger",
+      "col_3": "Notify",
+      "col_4": "Response SLA",
+      "col_5": "Escalate To If Unresolved",
+      "col_6": "Example"
+    },
+    {
+      "ESCALATION MATRIX": "LOW",
+      "col_2": "Minor KPI miss, small variance",
+      "col_3": "Operator only",
+      "col_4": "7 days",
+      "col_5": "CM",
+      "col_6": "Missed weekly report once"
+    },
+    {
+      "ESCALATION MATRIX": "MEDIUM",
+      "col_2": "Multiple KPI misses, concerning trend",
+      "col_3": "Operator + CM",
+      "col_4": "72 hours",
+      "col_5": "Studio",
+      "col_6": "CAC 20% over target"
+    },
+    {
+      "ESCALATION MATRIX": "HIGH",
+      "col_2": "Major threshold breach, grade at risk",
+      "col_3": "Operator + CM + Studio",
+      "col_4": "24 hours",
+      "col_5": "Emergency call",
+      "col_6": "Cash < 2 months"
+    },
+    {
+      "ESCALATION MATRIX": "CRITICAL",
+      "col_2": "Fraud, legal, existential threat",
+      "col_3": "All + Legal",
+      "col_4": "Immediate",
+      "col_5": "Board if applicable",
+      "col_6": "FDA warning letter"
+    },
+    {
+      "ESCALATION MATRIX": "CONTACT DIRECTORY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "Studio Primary: _______________ (Phone/Slack)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "Studio Backup: _______________ (Phone/Slack)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "Legal: _______________ (Phone/Email)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "CM: _______________ (Phone/Slack)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ESCALATION MATRIX": "Operator: _______________ (Phone/Slack)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "CM Escalation Matrix",
+  "sheet_index": 720
+}

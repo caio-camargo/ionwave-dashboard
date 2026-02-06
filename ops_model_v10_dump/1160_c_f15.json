@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F15: Done-For-You Service — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Build a Trade for someone else ($25-100K). Scoping, delivery, team assembly.",
+      "col_2": null
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Done-For-You Service (F15)"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F15: Done-For-You Service within FCL-3"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F15]"
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Done-For-You Service model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F15: Done-For-You Service — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F15",
+  "sheet_index": 1160
+}

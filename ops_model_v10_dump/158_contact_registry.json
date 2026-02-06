@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "CONTACT REGISTRY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9",
+    "col_10"
+  ],
+  "rows": [
+    {
+      "CONTACT REGISTRY": "Master contact list — every person the business interacts with",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CONTACT REGISTRY": "Name",
+      "col_2": "Type",
+      "col_3": "Company/Role",
+      "col_4": "Email",
+      "col_5": "Phone",
+      "col_6": "Relationship Stage",
+      "col_7": "Last Contact",
+      "col_8": "Next Action",
+      "col_9": "Owner",
+      "col_10": "Notes"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Contact Registry",
+  "sheet_index": 158
+}

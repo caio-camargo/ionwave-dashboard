@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "CONTENT & GTM STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CONTENT & GTM STRATEGY": "Meta Ads",
+      "col_2": "Primary acquisition",
+      "col_3": "$5-10K/mo starting"
+    },
+    {
+      "CONTENT & GTM STRATEGY": "TikTok Organic",
+      "col_2": "Brand awareness",
+      "col_3": "Daily posting"
+    },
+    {
+      "CONTENT & GTM STRATEGY": "Instagram",
+      "col_2": "Community building",
+      "col_3": "3-5x/week"
+    },
+    {
+      "CONTENT & GTM STRATEGY": "Email",
+      "col_2": "Retention + nurture",
+      "col_3": "Flows + campaigns"
+    },
+    {
+      "CONTENT & GTM STRATEGY": "Influencer",
+      "col_2": "Social proof",
+      "col_3": "Micro-influencer seeding"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Content & GTM Strategy",
+  "sheet_index": 408
+}

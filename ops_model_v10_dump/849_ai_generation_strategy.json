@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "AI GENERATION STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "AI GENERATION STRATEGY": "How we use AI: which tasks, which tools, human review gates.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "AI GENERATION STRATEGY": "Function",
+      "col_2": "AI Task",
+      "col_3": "Tool",
+      "col_4": "Human Review?"
+    },
+    {
+      "AI GENERATION STRATEGY": "Marketing",
+      "col_2": "Ad copy generation",
+      "col_3": "Claude",
+      "col_4": "YES - every ad"
+    },
+    {
+      "AI GENERATION STRATEGY": "Marketing",
+      "col_2": "Email subject lines",
+      "col_3": "Claude",
+      "col_4": "Spot check"
+    },
+    {
+      "AI GENERATION STRATEGY": "Support",
+      "col_2": "Response drafts",
+      "col_3": "Claude",
+      "col_4": "YES - every response"
+    },
+    {
+      "AI GENERATION STRATEGY": "Operations",
+      "col_2": "SOP drafts",
+      "col_3": "Claude",
+      "col_4": "Before publish"
+    },
+    {
+      "AI GENERATION STRATEGY": "Research",
+      "col_2": "Market research",
+      "col_3": "Claude",
+      "col_4": "YES"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "AI Generation Strategy",
+  "sheet_index": 849
+}

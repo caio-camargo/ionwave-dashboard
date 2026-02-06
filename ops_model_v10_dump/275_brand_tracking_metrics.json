@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "BRAND TRACKING METRICS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "BRAND TRACKING METRICS": "How to measure brand.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "BRAND TRACKING METRICS": "Metric",
+      "col_2": "Tool",
+      "col_3": "Target"
+    },
+    {
+      "BRAND TRACKING METRICS": "Branded search volume",
+      "col_2": "Google Trends",
+      "col_3": "Growing MoM"
+    },
+    {
+      "BRAND TRACKING METRICS": "Social mentions",
+      "col_2": "Mention/Brand24",
+      "col_3": "Growing"
+    },
+    {
+      "BRAND TRACKING METRICS": "NPS",
+      "col_2": "Post-purchase survey",
+      "col_3": ">40"
+    },
+    {
+      "BRAND TRACKING METRICS": "Direct traffic %",
+      "col_2": "Google Analytics",
+      "col_3": "Increasing"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Brand Tracking Metrics",
+  "sheet_index": 275
+}

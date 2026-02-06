@@ -1,0 +1,205 @@
+{
+  "headers": [
+    "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Trust: Strategic=[TBD] | Domain=[TBD — Klaviyo] | Execution=PM co-founder | Vibes=[TBD]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Tab Name",
+      "col_2": "Verified By",
+      "col_3": "Trust Level",
+      "col_4": "What They Check",
+      "col_5": "Status",
+      "col_6": "Date",
+      "col_7": "Notes"
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Email Welcome",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Email Cart Abandoned",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Email Post-Purchase",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Welcome Series",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Welcome Series Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Abandoned Cart Sequence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Abandoned Cart Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Post-Purchase Sequence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Post-Purchase Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Win-Back Sequence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Win-Back Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "Lifecycle Automations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "STATUS KEY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "NOT STARTED",
+      "col_2": "Tab not yet produced or reviewed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "AI DRAFT",
+      "col_2": "Claude generated first draft",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "IN REVIEW",
+      "col_2": "Sent to verifier, awaiting feedback",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "REVISION",
+      "col_2": "Feedback received, Claude revising",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "VERIFIED",
+      "col_2": "Verifier approved. Locked.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M18: EMAIL LIFECYCLE FLOWS": "BLOCKED",
+      "col_2": "Cannot verify — trust gap (no verifier assigned)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "V-M18",
+  "sheet_index": 447
+}

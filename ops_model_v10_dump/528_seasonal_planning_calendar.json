@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "SEASONAL PLANNING CALENDAR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "SEASONAL PLANNING CALENDAR": "Holidays, events, inventory/marketing prep timelines",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "2026 CALENDAR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Date",
+      "col_2": "Event",
+      "col_3": "Relevance",
+      "col_4": "Marketing Plan",
+      "col_5": "Inventory Prep",
+      "col_6": "Prep Start",
+      "col_7": "Status"
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Jan 1",
+      "col_2": "New Year",
+      "col_3": "★★★★★",
+      "col_4": "Resolution/health campaign",
+      "col_5": "+50% inventory",
+      "col_6": "Nov 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Feb 14",
+      "col_2": "Valentine's Day",
+      "col_3": "★★",
+      "col_4": "Gift angle?",
+      "col_5": "Normal",
+      "col_6": "Jan 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Mar 17",
+      "col_2": "St. Patrick's Day",
+      "col_3": "★",
+      "col_4": "Skip",
+      "col_5": "Normal",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Apr",
+      "col_2": "Tax Refund Season",
+      "col_3": "★★★",
+      "col_4": "Treat yourself",
+      "col_5": "Normal",
+      "col_6": "Mar 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "May (2nd Sun)",
+      "col_2": "Mother's Day",
+      "col_3": "★★★",
+      "col_4": "Gift for wellness moms",
+      "col_5": "+20%",
+      "col_6": "Apr 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "May (last Mon)",
+      "col_2": "Memorial Day",
+      "col_3": "★★★",
+      "col_4": "Summer kickoff sale",
+      "col_5": "+30%",
+      "col_6": "Apr 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Jun (3rd Sun)",
+      "col_2": "Father's Day",
+      "col_3": "★★",
+      "col_4": "Gift for active dads",
+      "col_5": "Normal",
+      "col_6": "May 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Jul 4",
+      "col_2": "Independence Day",
+      "col_3": "★★★",
+      "col_4": "Summer hydration push",
+      "col_5": "+30%",
+      "col_6": "Jun 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Sep (1st Mon)",
+      "col_2": "Labor Day",
+      "col_3": "★★★",
+      "col_4": "End of summer sale",
+      "col_5": "Normal",
+      "col_6": "Aug 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Oct 31",
+      "col_2": "Halloween",
+      "col_3": "★",
+      "col_4": "Skip",
+      "col_5": "Normal",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Nov (4th Thu)",
+      "col_2": "Thanksgiving",
+      "col_3": "★★",
+      "col_4": "Gratitude campaign",
+      "col_5": "+20%",
+      "col_6": "Oct 15",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Nov (Fri after)",
+      "col_2": "Black Friday",
+      "col_3": "★★★★★",
+      "col_4": "Biggest sale of year",
+      "col_5": "+100%",
+      "col_6": "Sep 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Nov (Mon after)",
+      "col_2": "Cyber Monday",
+      "col_3": "★★★★★",
+      "col_4": "Extended sale",
+      "col_5": "See BF",
+      "col_6": "Sep 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Dec 25",
+      "col_2": "Christmas",
+      "col_3": "★★★",
+      "col_4": "Gift sets, last ship dates",
+      "col_5": "+50%",
+      "col_6": "Oct 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "Dec 31",
+      "col_2": "NYE",
+      "col_3": "★★★★",
+      "col_4": "Resolution pre-launch",
+      "col_5": "+50%",
+      "col_6": "Nov 1",
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "SEASONAL CONSIDERATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "• Q1: New Year resolutions = highest demand for health products",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "• Q2: Summer prep begins, outdoor/active messaging",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "• Q3: Back to school, routine establishment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "• Q4: Gift giving, BFCM critical, shipping cutoffs matter",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEASONAL PLANNING CALENDAR": "• Hydration peaks: Summer months, January (resolutions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Seasonal Planning Calendar",
+  "sheet_index": 528
+}

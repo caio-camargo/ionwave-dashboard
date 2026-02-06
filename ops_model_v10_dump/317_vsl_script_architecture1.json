@@ -1,0 +1,182 @@
+{
+  "headers": [
+    "VSL SCRIPT ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL SCRIPT ARCHITECTURE": "The anatomy of a converting video sales letter",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "THE 12-BLOCK VSL STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Block",
+      "col_2": "Duration",
+      "col_3": "Purpose",
+      "col_4": "Content",
+      "col_5": "Verification"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "1. Hook",
+      "col_2": "0:00-0:05",
+      "col_3": "Stop the scroll",
+      "col_4": "Pattern interrupt, bold claim, or curiosity gap. Must earn the next 5 seconds.",
+      "col_5": "Hook rate >25% in Meta Ads Manager"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "2. Problem Agitation",
+      "col_2": "0:05-0:30",
+      "col_3": "Make them feel the pain",
+      "col_4": "Describe the problem they live with. Be specific. Use their language.",
+      "col_5": "Hold rate >60% at 0:30"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "3. Failed Solutions",
+      "col_2": "0:30-0:45",
+      "col_3": "Disqualify alternatives",
+      "col_4": "What they've tried that didn't work. Why those solutions fail.",
+      "col_5": "Audience nods — \"that's exactly what happened to me\""
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "4. Bridge",
+      "col_2": "0:45-1:00",
+      "col_3": "Create hope",
+      "col_4": "There IS a solution. Transition from problem world to solution world.",
+      "col_5": "Hold rate >45% at 1:00"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "5. Mechanism",
+      "col_2": "1:00-1:30",
+      "col_3": "Explain WHY it works",
+      "col_4": "The unique mechanism behind the product. Not features — the reason it works differently.",
+      "col_5": "Credibility signal — viewer believes the science/logic"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "6. Product Reveal",
+      "col_2": "1:30-1:45",
+      "col_3": "Show the solution",
+      "col_4": "Introduce the product. What it is, what it does, what it contains.",
+      "col_5": "Clear and simple — viewer can explain product to a friend"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "7. Social Proof",
+      "col_2": "1:45-2:15",
+      "col_3": "Remove doubt",
+      "col_4": "Testimonials, results, numbers. Real people, real outcomes.",
+      "col_5": "At least 3 proof points from different angles"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "8. Offer Stack",
+      "col_2": "2:15-2:45",
+      "col_3": "Build perceived value",
+      "col_4": "What they get. Stack value higher than price. Bonuses if applicable.",
+      "col_5": "Perceived value >3x price"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "9. Price Anchor",
+      "col_2": "2:45-3:00",
+      "col_3": "Make price feel small",
+      "col_4": "Compare to alternatives, daily cost, cost of NOT solving the problem.",
+      "col_5": "Price feels like a no-brainer given the stack"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "10. Risk Reversal",
+      "col_2": "3:00-3:15",
+      "col_3": "Remove final objection",
+      "col_4": "Guarantee, refund policy, free trial. Take the risk off them.",
+      "col_5": "Viewer has zero reason NOT to try"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "11. CTA",
+      "col_2": "3:15-3:30",
+      "col_3": "Tell them what to do",
+      "col_4": "Clear, specific, urgent. One action. Click, buy, sign up.",
+      "col_5": "CTA click rate >3% of viewers who reach this point"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "12. Urgency Close",
+      "col_2": "3:30-3:45",
+      "col_3": "Push to action NOW",
+      "col_4": "Why now, not later. Scarcity, time limit, price increase, limited supply.",
+      "col_5": "Conversion happens same session, not bookmarked"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "VARIANT STRATEGY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Never test one VSL. Always produce 2-3 variants that differ on ONE variable:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Variant A vs B: Different HOOK (same body, same offer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "→ Tests which angle resonates. Most common first test.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Variant A vs C: Different MECHANISM (same hook, same offer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "→ Tests which explanation converts. Run after hook is validated.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Winner vs D: Different OFFER (same hook, same mechanism)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "→ Tests which deal structure converts. Run after mechanism is validated.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "This is sequential isolation. Change one variable, measure, lock the winner, move to next.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "VSL Script Architecture1",
+  "sheet_index": 317
+}

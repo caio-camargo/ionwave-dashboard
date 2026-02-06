@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "RISK MANAGEMENT FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "RISK MANAGEMENT FRAMEWORK": "Risk register with L×I scoring, owners, mitigations.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "Risk ID",
+      "col_2": "Description",
+      "col_3": "L",
+      "col_4": "I",
+      "col_5": "Score",
+      "col_6": "Owner",
+      "col_7": "Mitigation"
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "R001",
+      "col_2": "Supplier fails",
+      "col_3": "2",
+      "col_4": "5",
+      "col_5": "10",
+      "col_6": "Operator",
+      "col_7": "Backup supplier"
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "R002",
+      "col_2": "CAC exceeds $50",
+      "col_3": "3",
+      "col_4": "4",
+      "col_5": "12",
+      "col_6": "Operator",
+      "col_7": "Creative refresh"
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "R003",
+      "col_2": "FDA warning letter",
+      "col_3": "2",
+      "col_4": "5",
+      "col_5": "10",
+      "col_6": "CM",
+      "col_7": "Claim audit"
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "R004",
+      "col_2": "Operator leaves",
+      "col_3": "2",
+      "col_4": "4",
+      "col_5": "8",
+      "col_6": "Studio",
+      "col_7": "Documentation"
+    },
+    {
+      "RISK MANAGEMENT FRAMEWORK": "R005",
+      "col_2": "Meta account banned",
+      "col_3": "2",
+      "col_4": "5",
+      "col_5": "10",
+      "col_6": "Operator",
+      "col_7": "Diversify"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Risk Management Framework",
+  "sheet_index": 823
+}

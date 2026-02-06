@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "THE ASK: WHAT WE'RE SELLING EACH PERSON",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Empathy-first. What does each person in the chain actually want, and what are we really asking?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Every person in the labor chain is making a bet with their time, reputation, or money.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "If we can't articulate what they get and what we're asking in terms THEY care about,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "the system breaks at that link. The chain is only as strong as the weakest ask.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Role",
+      "col_2": "What They Want (Honestly)",
+      "col_3": "What We're Asking (Honestly)",
+      "col_4": "The Pitch (In Their Language)",
+      "col_5": "The Risk (Don't Hide This)",
+      "col_6": "Why They Say Yes"
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "VA ($100 + bonus)",
+      "col_2": "Quick money. Portfolio piece. Maybe ongoing work. Low-risk way to prove themselves.",
+      "col_3": "3-5 days of focused admin work. Screening, scheduling, filing. Hit specific milestones by specific deadlines.",
+      "col_4": "\"$100 guaranteed for 3-5 days of admin work. $200 bonus if you hit all milestones on time. If this goes well, there's ongoing work at higher rates. The tasks are specific and clearly defined — no ambiguity.\"",
+      "col_5": "It's a short gig. No guarantee of ongoing work beyond the initial sprint. You're being evaluated.",
+      "col_6": "Clear tasks, fast payment, bonus structure, potential for ongoing role. Low commitment, high clarity."
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Chief of Staff",
+      "col_2": "Meaningful work. Equity upside. Autonomy. A system they can believe in. Possibly: a path to operating their own thing.",
+      "col_3": "Full operational ownership of launching a business using a pre-built system. Either bring capital or bring access to capital. Be the node that connects everything.",
+      "col_4": "\"You will be the operating partner on a venture-backed D2C brand built on a system that has launched 5 companies. The operating model is already built — 694 tabs, expert-validated, AI-assisted. Your job is activation, not invention. You bring relationships and capital access. We bring the machine. Equity from day one.\"",
+      "col_5": "This is a startup. The system reduces risk but doesn't eliminate it. You're committing time and potentially capital before revenue exists. If the product doesn't sell, your equity is worth nothing.",
+      "col_6": "The system is real (not a slide deck). 5 companies funded. The workload is defined, not infinite. They're not guessing — they're executing. And they get equity in something that's already more built-out than most Series A companies."
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Expert (30-60 min)",
+      "col_2": "Respect for their expertise. Interesting use of their time. Maybe: access to deal flow, portfolio diversification, or the finished model for their own use.",
+      "col_3": "30-60 minutes reviewing AI-generated content in your exact domain. Tell us what's wrong. That's it.",
+      "col_4": "\"We've used AI to build a comprehensive model for [your domain]. It's 16 tabs deep. We need 30 minutes of your time to tell us what a real professional would fix. You don't write anything. You just react. In exchange: access to the finished operating model, which you can use or reference however you want.\"",
+      "col_5": "You're reviewing AI output, which might feel weird or beneath you. Your name won't be on it unless you want it to be.",
+      "col_6": "Minimal time commitment. Genuinely interesting (most experts have never seen AI-drafted ops models in their domain). The finished product is actually useful to them. No ongoing obligation."
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Venture Partner",
+      "col_2": "Deal flow. Reputation building. Potential carry or advisory equity. Access to a system they can use for their own deals.",
+      "col_3": "Validate a domain cluster. Make introductions to investors in your network. Be the credibility bridge.",
+      "col_4": "\"We have a portfolio company with a 694-tab operating model and expert-validated domain clusters. Your role: validate [your cluster], introduce us to 2-3 investors in your network, and earn advisory equity + potential carry on the deal. You're building your own track record as a venture partner.\"",
+      "col_5": "You're putting your reputation on the line by making introductions. If the company fails, that reflects on you.",
+      "col_6": "The system is more rigorous than anything they've seen at this stage. The diligence is already done. They're introducing investors to an unusually de-risked opportunity."
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "Investor",
+      "col_2": "Returns. De-risked deals. Differentiated deal flow. Confidence that the team can execute.",
+      "col_3": "Capital for a D2C launch with an unprecedented level of operational preparation.",
+      "col_4": "\"This is a D2C supplement brand with a 694-tab operating system built before launch. Every domain has been expert-reviewed. The CEO will operate a pre-built machine with governance, grading, and graduation criteria. We're not asking you to bet on a vision — we're asking you to fund an execution.\"",
+      "col_5": "It's still a startup. The product might not find PMF. The CEO might underperform. The market might shift. Operational preparation reduces but does not eliminate risk.",
+      "col_6": "They've never seen this level of preparation at seed stage. The governance system (CM, semesters, graduation) gives them ongoing visibility. The system has launched 5 companies."
+    },
+    {
+      "THE ASK: WHAT WE'RE SELLING EACH PERSON": "CEO / Operator",
+      "col_2": "Autonomy. Upside. A clear path. Structure without bureaucracy. The chance to build something real without starting from zero.",
+      "col_3": "Execute a pre-built operating system for a D2C brand. Hit milestones. Get graded. Graduate to full ownership.",
+      "col_4": "\"You're walking into a funded company with a complete operating system, an AI assistant that knows the entire business, and a governance framework that tells you exactly where you stand. You don't invent the playbook — you run it. If you hit your milestones, you graduate to full operational control with significant equity. This is the highest floor and highest ceiling operator role you'll find.\"",
+      "col_5": "You're being graded. There's a Compliance Manager watching. The system is opinionated — if you want to throw out the playbook and do your own thing, this isn't the role. You trade creative control for operational clarity.",
+      "col_6": "The floor is high (clear system, funding, support). The ceiling is high (significant equity, proven model). And the path is clear (semesters, milestones, graduation). No ambiguity about what success looks like."
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "The Ask per Role",
+  "sheet_index": 63
+}

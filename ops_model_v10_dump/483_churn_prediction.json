@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "CHURN PREDICTION MODEL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CHURN PREDICTION MODEL": "What signals predict cancellation.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHURN PREDICTION MODEL": "Signal",
+      "col_2": "Weight",
+      "col_3": "Intervention"
+    },
+    {
+      "CHURN PREDICTION MODEL": "Skipped last shipment",
+      "col_2": "HIGH",
+      "col_3": "Personal outreach"
+    },
+    {
+      "CHURN PREDICTION MODEL": "Support complaint",
+      "col_2": "HIGH",
+      "col_3": "Immediate resolution"
+    },
+    {
+      "CHURN PREDICTION MODEL": "Email engagement dropped",
+      "col_2": "MEDIUM",
+      "col_3": "Re-engagement"
+    },
+    {
+      "CHURN PREDICTION MODEL": "Payment failed",
+      "col_2": "HIGH",
+      "col_3": "Immediate retry"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Churn Prediction",
+  "sheet_index": 483
+}

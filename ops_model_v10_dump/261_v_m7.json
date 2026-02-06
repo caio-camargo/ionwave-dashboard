@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "VERIFICATION — M7: REGULATORY & FDA",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Trust: Strategic=[Startup lawyer] | Domain=[Regulatory consultant] | Execution=[Regulatory consultant] | Vibes=Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Tab Name",
+      "col_2": "Verified By",
+      "col_3": "Trust Level",
+      "col_4": "What They Check",
+      "col_5": "Status",
+      "col_6": "Date",
+      "col_7": "Notes"
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "FDA Compliance Supplements",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "FTC Compliance Advertising",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "FDA Claims Guide",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Supplement Facts Spec",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Claims Substantiation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Competitor Claims Audit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Compliant Claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Claim Audit Checklist",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Label Compliance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Compliance Calendar",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "Compliance Audit Log",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "STATUS KEY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "NOT STARTED",
+      "col_2": "Tab not yet produced or reviewed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "AI DRAFT",
+      "col_2": "Claude generated first draft",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "IN REVIEW",
+      "col_2": "Sent to verifier, awaiting feedback",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "REVISION",
+      "col_2": "Feedback received, Claude revising",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "VERIFIED",
+      "col_2": "Verifier approved. Locked.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M7: REGULATORY & FDA": "BLOCKED",
+      "col_2": "Cannot verify — trust gap (no verifier assigned)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "V-M7",
+  "sheet_index": 261
+}

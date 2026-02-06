@@ -1,0 +1,102 @@
+{
+  "headers": [
+    "LAUNCH PHASE CHECKLIST",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "LAUNCH PHASE CHECKLIST": "When PRE-LAUNCH is complete, swap this into Command Center",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "Before we can move to FINDING PMF, these must be TRUE:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "VALIDATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "First 10 orders received",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Actual CAC measured (not projected)",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Actual COGS validated",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Customer feedback collected (5+ responses)",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "OPERATIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Fulfillment working smoothly",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Support process handling volume",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "No critical bugs/issues",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "SIGNALS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "At least one ad creative with ROAS > 1.5",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "At least one repeat purchase",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "NPS or reviews not negative",
+      "col_3": "(Operator)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "DECISION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Go/no-go decision made on continuing",
+      "col_3": "(Studio)"
+    },
+    {
+      "LAUNCH PHASE CHECKLIST": "☐",
+      "col_2": "Learnings documented",
+      "col_3": "(Operator)"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Phase - LAUNCH Checklist",
+  "sheet_index": 795
+}

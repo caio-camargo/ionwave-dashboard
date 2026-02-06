@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "CONTRACT — M33: GOVERNANCE & CM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Agreement between project owner and Studio 4 / IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "PARTIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Project Owner (Contractor)",
+      "col_2": "[Name — the person accountable for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Entity",
+      "col_2": "IonWave [Entity TBD] / Studio 4 Ventures",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Authorized by",
+      "col_2": "Nilo (Danilo Vicioso)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Contract Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Effective Period",
+      "col_2": "[Start] to [End]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "SCOPE OF WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Production of M33: Governance & CM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Includes 46 content tabs, MC conversations (4-10 hrs), expert coordination, verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Deliverables:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "1. All 46 content tabs complete and verified (see V-M33)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "2. Industry perspectives complete (see IP-M33)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "3. MC conversations recorded and uploaded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "4. Expert review completed with revisions incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "5. Definition of done met (see P-M33)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "COMPENSATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Component",
+      "col_2": "Amount",
+      "col_3": "Trigger",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Base Fee",
+      "col_2": "[$ TBD]",
+      "col_3": "On contract signing",
+      "col_4": "Covers production time",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Milestone 1: AI Draft Complete",
+      "col_2": "[$ TBD]",
+      "col_3": "All tabs filled with AI first draft",
+      "col_4": "50% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Milestone 2: Expert Reviewed",
+      "col_2": "[$ TBD]",
+      "col_3": "Expert feedback incorporated",
+      "col_4": "25% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Milestone 3: Verified & Locked",
+      "col_2": "[$ TBD]",
+      "col_3": "V-tab all green, DoD met",
+      "col_4": "Final 25%",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Equity",
+      "col_2": "[% TBD]",
+      "col_3": "On contract signing, vesting over [X] months",
+      "col_4": "IonWave equity",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "MC Conversations Bonus",
+      "col_2": "[$ TBD]",
+      "col_3": "All MC hours completed and uploaded",
+      "col_4": "Optional",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "QUALITY STANDARDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• All content must pass expert review (domain trust verifier signs off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• All content must pass verification (V-tab shows VERIFIED on every row)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• No placeholder text remaining in any tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• All novel concepts have MC conversations recorded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• Industry perspectives tab has all 5 sections substantively completed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• Trust protocol satisfied at all 4 levels (strategic, domain, execution, vibes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• Definition of Done met (see P-M33)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Phase",
+      "col_2": "Duration",
+      "col_3": "Start",
+      "col_4": "End",
+      "col_5": "Gate"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Planning & MC Conversations",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "P-tab locked, MC hours scheduled"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "AI Draft Production",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "All tabs have first draft"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Expert Review",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Expert feedback received"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Revision & Incorporation",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Revisions complete"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Verification",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "V-tab all green"
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Final Lock",
+      "col_2": "1 day",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Nilo signs off. Model locked."
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "TERMINATION & FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• If model is not complete by Target End Date + 7 days grace: contract review with Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• If expert review reveals fundamental problems requiring >50% rework: timeline extends, no additional fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• If project owner becomes unresponsive for >5 business days: contract terminated, partial payment prorated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• If IonWave kills the project (M0 kill criteria triggered): contract terminated, work-to-date paid in full",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "• IP Assignment: All work product belongs to IonWave / Studio 4. Project owner retains right to reference in portfolio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "SIGNATURES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Project Owner:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Authorized (Nilo):",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M33: GOVERNANCE & CM": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "C-M33",
+  "sheet_index": 696
+}

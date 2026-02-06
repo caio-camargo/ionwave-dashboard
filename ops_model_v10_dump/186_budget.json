@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "IONWAVE BUDGET",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "IONWAVE BUDGET": "7-week sprint budget + monthly run rate post-validation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IONWAVE BUDGET": "7-WEEK SPRINT BUDGET (Pre-Raise)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IONWAVE BUDGET": "Category",
+      "col_2": "Item",
+      "col_3": "Cost",
+      "col_4": "Notes"
+    },
+    {
+      "IONWAVE BUDGET": "Product",
+      "col_2": "Samples from 3+ suppliers",
+      "col_3": "$200-500",
+      "col_4": "Validation before bulk order"
+    },
+    {
+      "IONWAVE BUDGET": "Product",
+      "col_2": "First inventory (500 units)",
+      "col_3": "$7,500",
+      "col_4": "After COGS validation. ~$15/unit landed."
+    },
+    {
+      "IONWAVE BUDGET": "Marketing",
+      "col_2": "Ad spend (test phase)",
+      "col_3": "$3,000",
+      "col_4": "Week 3-4 validation spend"
+    },
+    {
+      "IONWAVE BUDGET": "Marketing",
+      "col_2": "Ad spend (scale phase)",
+      "col_3": "$2,000",
+      "col_4": "Week 5-6 if validated"
+    },
+    {
+      "IONWAVE BUDGET": "Marketing",
+      "col_2": "Product seeding (influencers)",
+      "col_3": "$500",
+      "col_4": "10-15 free boxes"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "Shopify + apps",
+      "col_3": "$300",
+      "col_4": "$79/mo Shopify + apps for 7 weeks"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "Klaviyo",
+      "col_3": "$0-50",
+      "col_4": "Free tier likely sufficient"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "Domain + misc tools",
+      "col_3": "$100",
+      "col_4": "Domain, Canva, etc."
+    },
+    {
+      "IONWAVE BUDGET": "Services",
+      "col_2": "Creative support",
+      "col_3": "$500-1000",
+      "col_4": "10-20 hours @ $50/hr"
+    },
+    {
+      "IONWAVE BUDGET": "Services",
+      "col_2": "VA support",
+      "col_3": "$300-500",
+      "col_4": "20-30 hours @ $15/hr"
+    },
+    {
+      "IONWAVE BUDGET": "Legal",
+      "col_2": "LLC formation",
+      "col_3": "$200-500",
+      "col_4": "State filing + registered agent"
+    },
+    {
+      "IONWAVE BUDGET": "Contingency",
+      "col_2": "Buffer",
+      "col_3": "$1,000",
+      "col_4": "10% contingency"
+    },
+    {
+      "IONWAVE BUDGET": null,
+      "col_2": "TOTAL SPRINT",
+      "col_3": "$15,600-18,000",
+      "col_4": null
+    },
+    {
+      "IONWAVE BUDGET": "MONTHLY RUN RATE (Post-Raise, Scaling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "IONWAVE BUDGET": "Category",
+      "col_2": "Item",
+      "col_3": "Cost",
+      "col_4": "Notes"
+    },
+    {
+      "IONWAVE BUDGET": "Product",
+      "col_2": "Inventory replenishment",
+      "col_3": "$5,000-10,000",
+      "col_4": "Based on sales velocity"
+    },
+    {
+      "IONWAVE BUDGET": "Marketing",
+      "col_2": "Ad spend",
+      "col_3": "$5,000-10,000",
+      "col_4": "Scale with ROAS"
+    },
+    {
+      "IONWAVE BUDGET": "Marketing",
+      "col_2": "Influencer payments",
+      "col_3": "$500-1,000",
+      "col_4": "Product + occasional fees"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "Shopify + apps",
+      "col_3": "$150-200",
+      "col_4": "As you add apps"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "Klaviyo",
+      "col_3": "$50-150",
+      "col_4": "Scales with list size"
+    },
+    {
+      "IONWAVE BUDGET": "Tech",
+      "col_2": "3PL fees",
+      "col_3": "$500-1,500",
+      "col_4": "$4-6/order × volume"
+    },
+    {
+      "IONWAVE BUDGET": "Services",
+      "col_2": "Creative support",
+      "col_3": "$1,000-2,000",
+      "col_4": "Ongoing creative production"
+    },
+    {
+      "IONWAVE BUDGET": "Services",
+      "col_2": "VA / CS",
+      "col_3": "$500-1,000",
+      "col_4": "Scales with order volume"
+    },
+    {
+      "IONWAVE BUDGET": null,
+      "col_2": "TOTAL MONTHLY",
+      "col_3": "$12,700-26,000",
+      "col_4": "Scales with revenue"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Budget",
+  "sheet_index": 186
+}

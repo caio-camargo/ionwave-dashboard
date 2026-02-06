@@ -1,0 +1,407 @@
+{
+  "headers": [
+    "MODEL AUDIT CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "MODEL AUDIT CHECKLIST": "How to verify the model is internally consistent - run monthly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "AUDIT METADATA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Audit Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Auditor",
+      "col_2": "[Name]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Model Version",
+      "col_2": "[v9.X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Last Audit Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Issues Found",
+      "col_2": "[Count]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "1. STRUCTURAL INTEGRITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ All tabs listed in \"0. Start Here\" exist",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ No broken tab references",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Tab Dependencies Map is current",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Tab Ownership Matrix is current",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Data Freshness Requirements followed",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "2. DATA CONSISTENCY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V1: COGS consistent across tabs",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V2: CAC consistent across tabs",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V3: Price consistent across tabs",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V4: Lead times consistent",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V5: Inventory values match",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V6: Target consistent",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V7: Formulas implemented correctly",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V8: Kill criteria consistent",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V9: Terms used correctly",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ V10: ICP/Creative aligned",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "3. CURRENCY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Real-time tabs updated today",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Daily tabs updated this week",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Weekly tabs updated this week",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Monthly tabs updated this month",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ No stale data flagged",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "4. GOVERNANCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Changes Tracker up to date",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Decision Log current",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ All sign-offs documented",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Version control followed",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Audit trail complete",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "5. RED FLAGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Red Flag Dashboard current",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ No kill criteria breached",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ No unresolved warnings",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "☐ Escalations actioned",
+      "col_2": "Pass/Fail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "AUDIT RESULT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Total Checks",
+      "col_2": "[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Passed",
+      "col_2": "[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Failed",
+      "col_2": "[X]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Pass Rate",
+      "col_2": "[X%]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Overall Status",
+      "col_2": "[PASS/FAIL/CONDITIONAL]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "ISSUES LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MODEL AUDIT CHECKLIST": "Issue #",
+      "col_2": "Description",
+      "col_3": "Severity",
+      "col_4": "Resolution",
+      "col_5": "Owner",
+      "col_6": "Due"
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Model Audit Checklist",
+  "sheet_index": 757
+}

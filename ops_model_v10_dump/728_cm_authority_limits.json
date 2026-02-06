@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "CM AUTHORITY LIMITS"
+  ],
+  "rows": [
+    {
+      "CM AUTHORITY LIMITS": "What CM can decide alone vs needs approval"
+    },
+    {
+      "CM AUTHORITY LIMITS": "CM CAN DECIDE ALONE"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Grade determination (within methodology)"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Report timing (within SLAs)"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Interview scheduling"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Document requests"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Information requests to Operator"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Dashboard format and content"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Assessment methodology application"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✓ Watch item designation"
+    },
+    {
+      "CM AUTHORITY LIMITS": "CM NEEDS STUDIO APPROVAL"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Downgrade to CCC or below"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Recommendation to wind down"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Any action that would pause operations"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Communication to investors (content approval)"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Changes to assessment methodology"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Extension of reporting deadlines"
+    },
+    {
+      "CM AUTHORITY LIMITS": "⚠ Any legal escalation"
+    },
+    {
+      "CM AUTHORITY LIMITS": "CM CANNOT DO"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Direct Operator to take specific business actions"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Commit any capital or spending"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Hire or fire anyone"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Negotiate contracts on behalf of venture"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Make strategic decisions"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Communicate with investors without approval"
+    },
+    {
+      "CM AUTHORITY LIMITS": "✗ Modify compensation or equity"
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "CM Authority Limits",
+  "sheet_index": 728
+}

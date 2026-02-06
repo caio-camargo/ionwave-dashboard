@@ -1,0 +1,70 @@
+{
+  "headers": [
+    "Decision",
+    "Options",
+    "Recommendation",
+    "Rationale",
+    "MOQ Impact"
+  ],
+  "rows": [
+    {
+      "Decision": "Flavor",
+      "Options": "Unflavored | Lemon | Citrus | Berry",
+      "Recommendation": "UNFLAVORED - Phase 1",
+      "Rationale": "Purity positioning, lower MOQ, test demand first. Add flavors in Phase 2 based on feedback.",
+      "MOQ Impact": "Unflavored = lowest MOQ"
+    },
+    {
+      "Decision": "Format",
+      "Options": "Sachets | Drops | Tablets | Bulk powder",
+      "Recommendation": "SACHETS - Single serve 5g",
+      "Rationale": "Portability, portion control, premium feel, ritual creation",
+      "MOQ Impact": "Sachets require filling line"
+    },
+    {
+      "Decision": "Sachet Size",
+      "Options": "3g | 5g | 10g",
+      "Recommendation": "5g per sachet",
+      "Rationale": "Balance between concentration and mixability. 5g dissolves easily in 8oz.",
+      "MOQ Impact": "Standard across suppliers"
+    },
+    {
+      "Decision": "Box Count",
+      "Options": "15 | 30 | 60 sachets",
+      "Recommendation": "30 sachets (1 month supply)",
+      "Rationale": "Monthly subscription model, standard replenishment, competitive with LMNT",
+      "MOQ Impact": "Most suppliers set up for 30"
+    },
+    {
+      "Decision": "Concentration",
+      "Options": "Standard | 2x concentrated",
+      "Recommendation": "STANDARD",
+      "Rationale": "Taste concerns at 2x. Can offer 2x as premium tier later.",
+      "MOQ Impact": "Standard = default pricing"
+    },
+    {
+      "Decision": "Label Type",
+      "Options": "Pressure-sensitive | Shrink sleeve | Direct print",
+      "Recommendation": "PRESSURE-SENSITIVE",
+      "Rationale": "Flexibility for small runs, easy to update, lower setup cost",
+      "MOQ Impact": "Lowest setup cost"
+    },
+    {
+      "Decision": "Custom Formulation",
+      "Options": "Pure marine plasma | Added electrolytes | Added trace minerals",
+      "Recommendation": "PURE MARINE PLASMA",
+      "Rationale": "Differentiation = purity. \"Nothing added, nothing removed.\" Let others be complex.",
+      "MOQ Impact": "Pure = simplest supply chain"
+    },
+    {
+      "Decision": "Certifications",
+      "Options": "None | NSF | Third-party tested",
+      "Recommendation": "THIRD-PARTY TESTED (Phase 1), NSF (Phase 2)",
+      "Rationale": "Third-party builds trust without NSF cost ($15-30K). Add NSF when volume justifies.",
+      "MOQ Impact": "Third-party = $500-1K/batch"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Product Customization",
+  "sheet_index": 301
+}

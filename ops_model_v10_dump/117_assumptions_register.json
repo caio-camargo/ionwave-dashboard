@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "ASSUMPTIONS REGISTER",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ASSUMPTIONS REGISTER": "Assumption",
+      "col_2": "Current Value",
+      "col_3": "Confidence",
+      "col_4": "Validation Method"
+    },
+    {
+      "ASSUMPTIONS REGISTER": "CAC",
+      "col_2": "<$40",
+      "col_3": "Medium",
+      "col_4": "Live ad testing"
+    },
+    {
+      "ASSUMPTIONS REGISTER": "LTV",
+      "col_2": ">$120",
+      "col_3": "Low",
+      "col_4": "Cohort analysis at 6mo"
+    },
+    {
+      "ASSUMPTIONS REGISTER": "Subscription rate",
+      "col_2": ">50%",
+      "col_3": "Medium",
+      "col_4": "Checkout data"
+    },
+    {
+      "ASSUMPTIONS REGISTER": "Monthly churn",
+      "col_2": "<8%",
+      "col_3": "Low",
+      "col_4": "Cohort tracking"
+    },
+    {
+      "ASSUMPTIONS REGISTER": "Gross margin",
+      "col_2": ">65%",
+      "col_3": "High",
+      "col_4": "Supplier quotes"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Assumptions Register",
+  "sheet_index": 117
+}

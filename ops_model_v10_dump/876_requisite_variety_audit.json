@@ -1,0 +1,191 @@
+{
+  "headers": [
+    "REQUISITE VARIETY AUDIT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "REQUISITE VARIETY AUDIT": "Ashby's Law: Your system needs variety equal to its environment to control it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "THE LAW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Only variety can absorb variety. If your environment has 100 states and you can only respond to 10, you will fail.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "VARIETY AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Domain",
+      "col_2": "Environmental Variety",
+      "col_3": "Our Response Variety",
+      "col_4": "Gap",
+      "col_5": "Risk Level",
+      "col_6": "Action"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Customer Problems",
+      "col_2": "Many reasons people need electrolytes",
+      "col_3": "We address: performance, keto, fatigue",
+      "col_4": "Medium",
+      "col_5": "🟡",
+      "col_6": "Expand messaging angles"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Acquisition Channels",
+      "col_2": "Meta, Google, TikTok, Influencer, SEO, etc",
+      "col_3": "We use: Meta only",
+      "col_4": "High",
+      "col_5": "🔴",
+      "col_6": "Test second channel"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Pricing Objections",
+      "col_2": "Too expensive, not sure, compare to X",
+      "col_3": "We handle: value messaging only",
+      "col_4": "Medium",
+      "col_5": "🟡",
+      "col_6": "Add comparison content"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Customer Support",
+      "col_2": "20+ issue types",
+      "col_3": "SOPs for 5 types",
+      "col_4": "High",
+      "col_5": "🔴",
+      "col_6": "Document more SOPs"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Competitor Moves",
+      "col_2": "Price drop, new product, PR, influencer",
+      "col_3": "We monitor: price only",
+      "col_4": "Medium",
+      "col_5": "🟡",
+      "col_6": "Expand monitoring"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Supply Chain",
+      "col_2": "Supplier fails, shipping delays, quality issues",
+      "col_3": "Backup for: none",
+      "col_4": "High",
+      "col_5": "🔴",
+      "col_6": "Identify backup supplier"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Creative",
+      "col_2": "Dozens of hooks, angles, formats",
+      "col_3": "We test: 5 hooks, 2 formats",
+      "col_4": "Medium",
+      "col_5": "🟡",
+      "col_6": "Increase creative velocity"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "Market Segments",
+      "col_2": "5+ distinct ICPs",
+      "col_3": "We target: 2 ICPs",
+      "col_4": "Low",
+      "col_5": "🟢",
+      "col_6": "Focused is OK for now"
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "VARIETY SCORE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "🔴 High Gap: 3 domains → PRIORITY: Reduce these gaps first",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "🟡 Medium Gap: 4 domains → WATCH: Address when capacity allows",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "🟢 Low/No Gap: 1 domain → MAINTAIN: Sufficient variety",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "HOW TO INCREASE VARIETY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "• Add capabilities (learn new skills, hire, buy tools)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "• Add options (backup suppliers, second channels, more creative)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "• Add information (monitor more, research more, talk to customers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "REQUISITE VARIETY AUDIT": "• Add flexibility (processes that adapt, not rigid SOPs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Requisite Variety Audit",
+  "sheet_index": 876
+}

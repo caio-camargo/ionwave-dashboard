@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "ASSESSMENT PROCESS HEALTH",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ASSESSMENT PROCESS HEALTH": "Is the assessment process itself working? Coverage, timeliness, accuracy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "PROCESS METRICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Metric",
+      "col_2": "Target",
+      "col_3": "Actual",
+      "col_4": "Status",
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Reports on time",
+      "col_2": "100%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Data completeness",
+      "col_2": ">95%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Interview coverage",
+      "col_2": "100% monthly",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Document review backlog",
+      "col_2": "0",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Alert response time",
+      "col_2": "<24hr",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Grade accuracy (vs outcome)",
+      "col_2": ">80%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Stakeholder satisfaction",
+      "col_2": ">4/5",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "PROCESS IMPROVEMENT LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "Date",
+      "col_2": "Issue Identified",
+      "col_3": "Root Cause",
+      "col_4": "Fix Implemented",
+      "col_5": "Status"
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "SELF-ASSESSMENT QUESTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• Are we catching issues early enough?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• Are our grades predictive of outcomes?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• Are we adding value or just creating paperwork?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• Do stakeholders trust our assessments?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• What are we missing?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT PROCESS HEALTH": "• Where are we spending time that doesn't matter?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "CM Assessment Health",
+  "sheet_index": 718
+}

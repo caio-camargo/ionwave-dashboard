@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "NAVIGATION — INVESTOR"
+  ],
+  "rows": [
+    {
+      "NAVIGATION — INVESTOR": "Sees the site, not the spreadsheet. Watches the series. Talks to Nilo."
+    },
+    {
+      "NAVIGATION — INVESTOR": "WHAT YOU SEE"
+    },
+    {
+      "NAVIGATION — INVESTOR": "The password-protected site. MC videos. Daily updates. Cast page. The Numbers page."
+    },
+    {
+      "NAVIGATION — INVESTOR": "YOUR TABS (open these)"
+    },
+    {
+      "NAVIGATION — INVESTOR": "(They never open this file)"
+    },
+    {
+      "NAVIGATION — INVESTOR": "(They see: the site, the series, the pitch)"
+    },
+    {
+      "NAVIGATION — INVESTOR": "(If they want to go deep: Nilo gives them access to specific models)"
+    },
+    {
+      "NAVIGATION — INVESTOR": "WHAT YOU OWN"
+    },
+    {
+      "NAVIGATION — INVESTOR": "Nothing. They invest."
+    },
+    {
+      "NAVIGATION — INVESTOR": "WHAT YOU DON'T TOUCH"
+    },
+    {
+      "NAVIGATION — INVESTOR": "Everything."
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "NAV-INVESTOR",
+  "sheet_index": 27
+}

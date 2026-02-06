@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F7: Cold Email System — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F7: Cold Email System — CONTRACT": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "ListKit model. 50-100 emails/week per role. Templates, personalization, follow-up cadence.",
+      "col_2": null
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Cold Email System (F7)"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F7: Cold Email System within FCL-2"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F7]"
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Cold Email System model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F7: Cold Email System — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F7",
+  "sheet_index": 1132
+}

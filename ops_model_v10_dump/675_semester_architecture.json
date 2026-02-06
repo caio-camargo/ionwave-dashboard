@@ -1,0 +1,331 @@
+{
+  "headers": [
+    "SEMESTER ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "SEMESTER ARCHITECTURE": "12-week semesters with courses, grades, and transcripts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "SEMESTER STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Phase",
+      "col_2": "Weeks",
+      "col_3": "School Equivalent",
+      "col_4": "Activities",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Orientation",
+      "col_2": "Week 0",
+      "col_3": "Syllabus Day",
+      "col_4": "Review last semester transcript, set this semester courses, assign enrollment",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Sprint 1",
+      "col_2": "Weeks 1-4",
+      "col_3": "First Quarter",
+      "col_4": "Execute courses, first progress grades, identify blockers",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Midterm",
+      "col_2": "Week 4",
+      "col_3": "Midterm Exams",
+      "col_4": "Grade all courses A-F, adjust enrollment if needed, drop failing courses",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Sprint 2",
+      "col_2": "Weeks 5-8",
+      "col_3": "Second Quarter",
+      "col_4": "Execute courses, incorporate midterm learnings",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Pre-Finals",
+      "col_2": "Week 9-10",
+      "col_3": "Study Week",
+      "col_4": "Push to complete courses, close out TUPs, prepare final deliverables",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Finals",
+      "col_2": "Week 11-12",
+      "col_3": "Final Exams",
+      "col_4": "Final grades on all courses, semester post-mortem, plan next semester",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Break",
+      "col_2": "Between semesters",
+      "col_3": "Break",
+      "col_4": "1 week — rest, reflect, strategic thinking only",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "SEMESTER CALENDAR (YEAR 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Semester",
+      "col_2": "Name",
+      "col_3": "Dates",
+      "col_4": "Theme",
+      "col_5": "Key Courses",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1",
+      "col_2": "Foundation",
+      "col_3": "Weeks 1-12",
+      "col_4": "Launch the machine",
+      "col_5": "Table Set, First Blood, Hiring Chain",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S2",
+      "col_2": "Traction",
+      "col_3": "Weeks 14-25",
+      "col_4": "Find what works",
+      "col_5": "Winner Found, VSL Pipeline, Retention",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S3",
+      "col_2": "Scale",
+      "col_3": "Weeks 27-38",
+      "col_4": "Double down on winners",
+      "col_5": "Scale Ads, Subscription, Team Building",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S4",
+      "col_2": "Optimization",
+      "col_3": "Weeks 40-51",
+      "col_4": "Optimize and systematize",
+      "col_5": "$100K MRR, SOPs, Playbooks for Trade #2",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "SEMESTER 1: FOUNDATION — COURSE CATALOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Course ID",
+      "col_2": "Program",
+      "col_3": "Course Name",
+      "col_4": "TUP Equivalent",
+      "col_5": "Enrolled",
+      "col_6": "Prereqs",
+      "col_7": "Grade"
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-PS-101",
+      "col_2": "Product & Supply",
+      "col_3": "Launch Product",
+      "col_4": "Finalize formulation, packaging, initial inventory",
+      "col_5": "Operator",
+      "col_6": "None",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-PS-102",
+      "col_2": "Product & Supply",
+      "col_3": "Establish Supply Chain",
+      "col_4": "Manufacturer contract, 3PL setup, QC process",
+      "col_5": "Operator",
+      "col_6": "PS-101",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-GA-101",
+      "col_2": "Growth & Acquisition",
+      "col_3": "Build Storefront",
+      "col_4": "Shopify store, product pages, checkout, photography",
+      "col_5": "Operator",
+      "col_6": "PS-101",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-GA-102",
+      "col_2": "Growth & Acquisition",
+      "col_3": "First VSL",
+      "col_4": "Script, produce, test first VSL angle",
+      "col_5": "Operator",
+      "col_6": "GA-101",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-GA-103",
+      "col_2": "Growth & Acquisition",
+      "col_3": "Launch Paid Ads",
+      "col_4": "Meta ads account, first campaigns, initial budget",
+      "col_5": "Operator",
+      "col_6": "GA-102",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-RR-101",
+      "col_2": "Retention & Revenue",
+      "col_3": "Email Foundation",
+      "col_4": "Klaviyo setup, welcome flow, abandoned cart, post-purchase",
+      "col_5": "Operator",
+      "col_6": "GA-101",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-FL-101",
+      "col_2": "Finance & Legal",
+      "col_3": "Entity & Banking",
+      "col_4": "LLC filed, bank account, EIN, Stripe connected",
+      "col_5": "Studio",
+      "col_6": "None",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-FL-102",
+      "col_2": "Finance & Legal",
+      "col_3": "Bookkeeping Setup",
+      "col_4": "Accounting system, chart of accounts, monthly close process",
+      "col_5": "Operator",
+      "col_6": "FL-101",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-PC-101",
+      "col_2": "People & Culture",
+      "col_3": "Hire Operator",
+      "col_4": "Complete D0-D4 delegation chain execution",
+      "col_5": "Studio/CoS",
+      "col_6": "None",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "S1-SI-101",
+      "col_2": "Strategy & Intelligence",
+      "col_3": "Competitive Analysis",
+      "col_4": "Map top 10 competitors, pricing, positioning, gaps",
+      "col_5": "Operator",
+      "col_6": "None",
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "MILESTONE MAPPING (School → Business)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "School Milestone",
+      "col_2": "Business Milestone",
+      "col_3": "When",
+      "col_4": "Grade Threshold",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Orientation Complete",
+      "col_2": "Operator onboarded, all access granted",
+      "col_3": "Week 0",
+      "col_4": "Pass/Fail",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "First Assignment",
+      "col_2": "Table Set (site live, product ready, ads ready)",
+      "col_3": "Week 4",
+      "col_4": "B or above",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Midterm",
+      "col_2": "First Blood (100 customers)",
+      "col_3": "Week 8",
+      "col_4": "B or above",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Final Project",
+      "col_2": "Winner Found (PMF signals, positive unit econ)",
+      "col_3": "Week 12",
+      "col_4": "B+ or above",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SEMESTER ARCHITECTURE": "Semester GPA",
+      "col_2": "Trade Scorecard grade across all programs",
+      "col_3": "Week 12",
+      "col_4": "B average",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Semester Architecture",
+  "sheet_index": 675
+}

@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "COMPLIANCE MANAGER RULEBOOK",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "Exact rules for what CM checks and how",
+      "col_2": null
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "DAILY CHECKS",
+      "col_2": "Ad spend within budget, Orders processing, Support queue"
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "WEEKLY CHECKS",
+      "col_2": "P&L accuracy, Inventory levels, Email performance, Creative compliance"
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "VERIFICATION METHOD",
+      "col_2": "Screen share, Screenshot evidence, Platform access"
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "ESCALATION TRIGGERS",
+      "col_2": "Spend variance >20%, Stockout risk, Compliance violation"
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "DOCUMENTATION",
+      "col_2": "All checks logged with timestamp, Evidence attached"
+    },
+    {
+      "COMPLIANCE MANAGER RULEBOOK": "APPROVAL AUTHORITY",
+      "col_2": "CM approves routine. Studio approves exceptions."
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "CM Rulebook",
+  "sheet_index": 698
+}

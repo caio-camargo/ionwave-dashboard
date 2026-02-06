@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-F9: Pass-the-Bottom — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Viral recruiting. Every participant tells their network. MC mentions openings. Referral tracking.",
+      "col_2": null
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "TUP",
+      "col_2": "F9: Pass-the-Bottom"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Cluster",
+      "col_2": "FCL-2"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Owner",
+      "col_2": "Conductor"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Description",
+      "col_2": "Viral recruiting. Every participant tells their network. MC mentions openings. Referral tracking."
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-F9: Pass-the-Bottom — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Pass-the-Bottom model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-F9",
+  "sheet_index": 1139
+}

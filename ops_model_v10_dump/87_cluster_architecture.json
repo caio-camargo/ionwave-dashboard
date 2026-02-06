@@ -1,0 +1,340 @@
+{
+  "headers": [
+    "CLUSTER ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "CLUSTER ARCHITECTURE": "44 models grouped into clusters. Each cluster gets one PM co-founder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "WHY CLUSTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "44 models is too many for one person.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "But models aren't independent — they share experts, dependencies, and themes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Clusters group models that belong together so one PM can own a coherent scope.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Each cluster has: a PM co-founder (owner), an expert reviewer (domain trust),",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "MC conversations (4-10 hrs per model), and a contract (one per cluster, not per model).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Cluster",
+      "col_2": "Models",
+      "col_3": "Tab Count",
+      "col_4": "Theme",
+      "col_5": "Expert Profile",
+      "col_6": "Priority",
+      "col_7": "PM Co-Founder Ask"
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-0: THESIS & META",
+      "col_2": "S1, S2, S3, M0, M34, M38, M39, M40",
+      "col_3": "~200",
+      "col_4": "The system itself. How it works. Why it exists. The philosophical foundation.",
+      "col_5": "None — Nilo owns this. No external expert can validate the thesis.",
+      "col_6": "FIRST (Week 0-1)",
+      "col_7": "Nilo produces this directly with Claude. No PM co-founder needed. This is the seed."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-1: PRODUCT & SCIENCE",
+      "col_2": "M5, M6, M7, M8",
+      "col_3": "~55",
+      "col_4": "What the product IS. Formulation, sourcing, compliance, branding.",
+      "col_5": "Supplement formulator or food scientist. Someone who has launched a physical product.",
+      "col_6": "HIGH (Week 2-3)",
+      "col_7": "10-15 hrs/week for 3-4 weeks. Co-founder title. You own the product from formula to package."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-2: MONEY & LEGAL",
+      "col_2": "M2, M3, M4, M25",
+      "col_3": "~45",
+      "col_4": "Entity, cap table, financial model, fundraising, bookkeeping.",
+      "col_5": "Startup lawyer + fractional CFO. Two experts.",
+      "col_6": "HIGH (Week 2-3)",
+      "col_7": "10-15 hrs/week for 3-4 weeks. Co-founder title. You own the financial and legal foundation."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-3: DR & CREATIVE",
+      "col_2": "M11, M12, M13, M14, M15",
+      "col_3": "~79",
+      "col_4": "VSLs, ad creative, media buying, testing, landing pages. The revenue engine.",
+      "col_5": "DR marketer or media buyer who has spent $1M+. Performance marketing background.",
+      "col_6": "MEDIUM (Week 4-5)",
+      "col_7": "15-20 hrs/week for 4-5 weeks. Co-founder title. You own the growth engine. Biggest equity upside."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-4: RETENTION & LIFECYCLE",
+      "col_2": "M17, M18, M19, M20, M21, M22",
+      "col_3": "~56",
+      "col_4": "Email, SMS, CRM, support, subscriptions, referral. Post-purchase.",
+      "col_5": "Lifecycle marketer or retention specialist. Klaviyo expert.",
+      "col_6": "MEDIUM (Week 4-5)",
+      "col_7": "10-15 hrs/week for 3-4 weeks. Co-founder title. You own the customer relationship."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-5: GROWTH & MARKET",
+      "col_2": "M10, M16, M23, M26, M27, M28, M29",
+      "col_3": "~96",
+      "col_4": "Pricing, content/SEO, influencers, competitive intel, research, expansion, PR.",
+      "col_5": "Growth marketer or brand strategist. Someone who thinks about market positioning.",
+      "col_6": "MEDIUM (Week 5-6)",
+      "col_7": "15-20 hrs/week for 4-5 weeks. Co-founder title. You own market strategy."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-6: OPERATIONS & INFRA",
+      "col_2": "M1, M9, M24, M30, M31, M35, M36, M37",
+      "col_3": "~120",
+      "col_4": "Labor deployment, ecommerce, fulfillment, analytics, hiring, execution, ops, AI.",
+      "col_5": "Operations generalist. Someone who has built the backend of a D2C brand.",
+      "col_6": "LOWER (Week 6-7)",
+      "col_7": "15-20 hrs/week for 5-6 weeks. Co-founder title. You own the machine."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-7: GOVERNANCE & SCHOOL",
+      "col_2": "M32, M33",
+      "col_3": "~66",
+      "col_4": "The school model and compliance manager. Proprietary frameworks.",
+      "col_5": "None standard — these are novel. Nilo + PM together.",
+      "col_6": "LOWER (Week 7-8)",
+      "col_7": "10-15 hrs/week for 3-4 weeks. Co-founder title. You own the governance layer. Most intellectually interesting cluster."
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CLUSTER ECONOMICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Cluster",
+      "col_2": "PM Equity",
+      "col_3": "Expert Fee",
+      "col_4": "MC Hours",
+      "col_5": "Total Budget (if funded)",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-0: Thesis & Meta",
+      "col_2": "N/A (Nilo)",
+      "col_3": "N/A (Nilo)",
+      "col_4": "~40 hrs",
+      "col_5": "$0 (Nilo + Claude)",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-1: Product & Science",
+      "col_2": "5-8%",
+      "col_3": "$1-2K",
+      "col_4": "~24 hrs",
+      "col_5": "$1-2K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-2: Money & Legal",
+      "col_2": "3-5%",
+      "col_3": "$2-4K (lawyer + CFO)",
+      "col_4": "~16 hrs",
+      "col_5": "$2-4K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-3: DR & Creative",
+      "col_2": "5-8%",
+      "col_3": "$1-2K",
+      "col_4": "~30 hrs",
+      "col_5": "$1-2K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-4: Retention & Lifecycle",
+      "col_2": "3-5%",
+      "col_3": "$1-2K",
+      "col_4": "~24 hrs",
+      "col_5": "$1-2K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-5: Growth & Market",
+      "col_2": "3-5%",
+      "col_3": "$1-2K",
+      "col_4": "~30 hrs",
+      "col_5": "$1-2K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-6: Operations & Infra",
+      "col_2": "3-5%",
+      "col_3": "$1-2K",
+      "col_4": "~32 hrs",
+      "col_5": "$1-2K + equity",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "CL-7: Governance & School",
+      "col_2": "3-5%",
+      "col_3": "N/A (novel)",
+      "col_4": "~14 hrs",
+      "col_5": "Equity only",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "TOTAL EQUITY BUDGET",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Nilo / Studio 4: 40-55%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "PM Co-Founders (7 clusters): 25-40% total",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "MC: 1-3%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Admin: 0.5-1%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Product Person: 2-4%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Expert Reviewers: 3-7% total",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "Option Pool (CoS, future hires): 10-15%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "This is pre-raise. Dilution from seed round (15-25%) comes off everyone pro rata.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CLUSTER ARCHITECTURE": "PM co-founders with biggest clusters get biggest equity. CL-3 (revenue engine) gets most.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "Cluster Architecture",
+  "sheet_index": 87
+}

@@ -1,0 +1,73 @@
+{
+  "headers": [
+    "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "How Emma runs ads. How IonWave must run ads.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "EMMA'S AD CREATIVE APPROACH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Element",
+      "col_2": "What Emma Does",
+      "col_3": "IonWave Equivalent",
+      "col_4": "Priority"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Volume",
+      "col_2": "Dozens of active creatives at any time. Constantly testing new hooks, angles, formats. Public ad library shows massive creative volume.",
+      "col_3": "Same: high-volume creative testing. Minimum 5 new hooks per 2-week cycle. Use VSL Testing Protocol L1.",
+      "col_4": "Critical"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Authority Positioning",
+      "col_2": "Dr. Gina Sam — real gastroenterologist. Doctor in white coat. \"Doctors Endorsed\" on Amazon listing. Medical authority = trust for health claims.",
+      "col_3": "Need authority figure: sports nutritionist, exercise physiologist, or doctor. Real credential, real person. Not optional for supplement DR.",
+      "col_4": "Critical"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "UGC / Testimonial",
+      "col_2": "Heavy UGC rotation. Real customers sharing stories. Before/after framing. \"I was skeptical but...\" format.",
+      "col_3": "Same: UGC pipeline from day one. Contract 5-10 UGC creators. Testimonial-first creative for warm audiences.",
+      "col_4": "High"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Advertorial Hooks",
+      "col_2": "Ads that look like content, not ads. \"This gut doctor says stop taking probiotics\" — curiosity + contrarian + authority.",
+      "col_3": "Same: \"Your sports drink is dehydrating you\" — contrarian + authority. Ads that educate, not sell.",
+      "col_4": "Critical"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Fear / Problem Agitation",
+      "col_2": "\"Methane gas is rotting your gut from the inside.\" Graphics of bloated intestines. Medical imagery. Creates urgency through fear of inaction.",
+      "col_3": "Softer version: dehydration causing cramps, fatigue, poor recovery. Athletic performance loss. Still problem-agitation, less fear-based.",
+      "col_4": "High"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Format Mix",
+      "col_2": "Static images, short video (15-30s), long-form VSL clips, carousel, UGC clips. Tests across all formats.",
+      "col_3": "Same: test all formats. Lead with short video hooks. Scale winners into longer cuts. Use VSL footage for clip variants.",
+      "col_4": "High"
+    },
+    {
+      "REFERENCE AD CREATIVE STRATEGY — EMMA RELIEF": "Sorting Strategy",
+      "col_2": "Ad library sorted by total impressions = highest performing ads are visible. Tells you what’s winning.",
+      "col_3": "Study their top-impression ads weekly. Reverse-engineer hooks, angles, CTAs. Adapt for electrolytes.",
+      "col_4": "Ongoing"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Ref Ad Creative Strategy",
+  "sheet_index": 352
+}

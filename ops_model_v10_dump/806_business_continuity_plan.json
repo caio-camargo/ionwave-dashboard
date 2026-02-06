@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "BUSINESS CONTINUITY PLAN",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "BUSINESS CONTINUITY PLAN": "If X happens, what do we do?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "BUSINESS CONTINUITY PLAN": "Scenario",
+      "col_2": "Immediate Response",
+      "col_3": "Recovery Plan"
+    },
+    {
+      "BUSINESS CONTINUITY PLAN": "Supplier dies",
+      "col_2": "Activate backup",
+      "col_3": "Onboard in 2 weeks"
+    },
+    {
+      "BUSINESS CONTINUITY PLAN": "3PL disaster",
+      "col_2": "Pause ads, communicate",
+      "col_3": "Backup 3PL"
+    },
+    {
+      "BUSINESS CONTINUITY PLAN": "Meta banned",
+      "col_2": "Appeal, shift channels",
+      "col_3": "Google, TikTok"
+    },
+    {
+      "BUSINESS CONTINUITY PLAN": "Operator leaves",
+      "col_2": "CM steps in",
+      "col_3": "Hire in 2-4 weeks"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Business Continuity Plan",
+  "sheet_index": 806
+}

@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "IONWAVE TRADE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "IONWAVE TRADE": "v11 · 1174 tabs · 3 levels · 18 clusters · 104 TUPs · Imagination Passet · All structural tabs complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "START BY FINDING YOUR ROLE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ Go to the 'Role Rosters' tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ Find your role",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ Those are your tabs. Ignore everything else.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "IF YOU'RE THE LIBRARIAN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ Role Rosters is your primary tool",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ Three-Level Architecture is your map",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ You maintain this file. Everyone else gets slices.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "IF YOU'RE NILO:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "→ You already know where everything is",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "Business Level (M0-M40)",
+      "col_2": "IonWave specifically. Product, marketing, operations, growth.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "Funnel Level (F0-F20)",
+      "col_2": "Nilo as Dan Crowley. Content, recruiting, selling the model.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "PER MODEL STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "P-[model]",
+      "col_2": "Project Plan — owner, timeline, milestones, definition of done",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "C-[model]",
+      "col_2": "Contract — scope, comp, quality standards, termination",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "IP-[model]",
+      "col_2": "Industry Perspectives — current state, best in class, contrarian take",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "Content tabs",
+      "col_2": "The actual work — the substance of the model",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TRADE": "V-[model]",
+      "col_2": "Verification — per-tab status, who checked it, grade",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "0. Start Here",
+  "sheet_index": 1
+}

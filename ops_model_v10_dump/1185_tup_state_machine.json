@@ -1,0 +1,439 @@
+{
+  "headers": [
+    "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "The TUP Lifecycle expressed as a formal state machine. States, transitions, conditions, permissions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "This tab formalizes what TUP Lifecycle Phases describes in prose. Same system, machine-readable description.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Lives at DAO headquarters inside the IonWave Trade. The protocol layer IS the Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "STATES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "State ID",
+      "col_2": "State Name",
+      "col_3": "Description",
+      "col_4": "Who Is Active",
+      "col_5": "Artifacts Required",
+      "col_6": "Can Transition To",
+      "col_7": "Cannot Transition To"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S0",
+      "col_2": "NULL",
+      "col_3": "TUP does not exist. Not yet committed by thesis.",
+      "col_4": "Nobody",
+      "col_5": "None",
+      "col_6": "S1 (DRAFT)",
+      "col_7": "Any other state"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S1",
+      "col_2": "DRAFT",
+      "col_3": "TUP committed to existence. P-tab created. Scope defined. Skeleton tabs built. Not yet in production.",
+      "col_4": "Nilo + Claude",
+      "col_5": "P-tab with: scope, win conditions, tab list, dependencies, cluster assignment",
+      "col_6": "S2 (PRODUCTION)",
+      "col_7": "S4, S5, S6, S7"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S2",
+      "col_2": "PRODUCTION",
+      "col_3": "TUP is being authored. AI production loop active. Content tabs being filled.",
+      "col_4": "PM Co-Founder + Claude",
+      "col_5": "All content tabs (C-tabs) with first-draft content. Librarian confirms completeness against P-tab.",
+      "col_6": "S3 (INTERNAL_REVIEW)",
+      "col_7": "S0, S4, S5, S6"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S3",
+      "col_2": "INTERNAL_REVIEW",
+      "col_3": "Draft complete. Librarian checking structural completeness. Conductor checking sequencing.",
+      "col_4": "Librarian + Conductor",
+      "col_5": "Librarian sign-off on structural completeness. No broken cross-references. Conductor confirms not blocking.",
+      "col_6": "S4 (EXPERT_REVIEW), S2 (PRODUCTION) on fail",
+      "col_7": "S0, S1, S5, S6"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S4",
+      "col_2": "EXPERT_REVIEW",
+      "col_3": "Domain expert grading. ACP criteria applied. Grade recorded.",
+      "col_4": "Expert Reviewer(s)",
+      "col_5": "Expert grade recorded on V-tab. ACP criteria evaluated. Grade + review notes filed.",
+      "col_6": "S5 (LOCKED) if grade≥B, S2 (PRODUCTION) if grade≤C",
+      "col_7": "S0, S1, S6"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S5",
+      "col_2": "LOCKED",
+      "col_3": "Imagination frozen. Content tabs read-only. Grade is final. TUP is reference material.",
+      "col_4": "System (automatic on grade≥B)",
+      "col_5": "Lock confirmation by Librarian. Version number assigned. All tabs set read-only.",
+      "col_6": "S6 (IMPLEMENTATION), S4 (EXPERT_REVIEW) via formal amendment only",
+      "col_7": "S0, S1, S2, S3"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S6",
+      "col_2": "IMPLEMENTATION",
+      "col_3": "Tasks extracted for real-world execution. Implementation passet (File 2) receives task extraction.",
+      "col_4": "Conductor + PM + Operator",
+      "col_5": "Implementation TUP in File 2 with: tasks, owners, deadlines, dependencies.",
+      "col_6": "S7 (POST_MORTEM), S6 (stays in IMPLEMENTATION)",
+      "col_7": "S0-S4"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "S7",
+      "col_2": "POST_MORTEM",
+      "col_3": "Execution complete or killed. Lessons captured. Template updates proposed.",
+      "col_4": "PM + Librarian",
+      "col_5": "Post-mortem doc. Template update proposals. Lessons filed.",
+      "col_6": "S0 (NULL) — TUP lifecycle complete",
+      "col_7": "S1-S6"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "TRANSITIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Transition ID",
+      "col_2": "From State",
+      "col_3": "To State",
+      "col_4": "Trigger",
+      "col_5": "Guard Conditions",
+      "col_6": "Required Permissions",
+      "col_7": "Side Effects"
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T01",
+      "col_2": "S0→S1",
+      "col_3": "NULL→DRAFT",
+      "col_4": "M0 thesis commits TUP to existence",
+      "col_5": "M0 must be in state LOCKED (S5) or DRAFT (S1) for first-wave TUPs",
+      "col_6": "Nilo (WRITE on P-tabs)",
+      "col_7": "P-tab created. Skeleton tabs generated. Cluster assignment recorded."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T12",
+      "col_2": "S1→S2",
+      "col_3": "DRAFT→PRODUCTION",
+      "col_4": "PM Co-Founder assigned and activated",
+      "col_5": "P-tab complete. Cluster activated by Conductor. PM has tool access.",
+      "col_6": "Conductor (ACTIVATE cluster) + Librarian (DISTRIBUTE tabs)",
+      "col_7": "PM receives extracted tab slice via Google Drive. Claude session initialized."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T23",
+      "col_2": "S2→S3",
+      "col_3": "PRODUCTION→INTERNAL_REVIEW",
+      "col_4": "PM declares production complete",
+      "col_5": "All C-tabs have content. PM self-check against P-tab spec.",
+      "col_6": "PM Co-Founder (SUBMIT) + Librarian (ACCEPT for review)",
+      "col_7": "Librarian QA begins. Conductor checks cluster sequencing."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T34",
+      "col_2": "S3→S4",
+      "col_3": "INTERNAL_REVIEW→EXPERT_REVIEW",
+      "col_4": "Librarian approves structural completeness",
+      "col_5": "Zero broken cross-references. All dependencies consistent. Terms indexed.",
+      "col_6": "Librarian (APPROVE structural) + Conductor (APPROVE sequencing)",
+      "col_7": "Expert Reviewer receives TUP package. Review clock starts."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T45",
+      "col_2": "S4→S5",
+      "col_3": "EXPERT_REVIEW→LOCKED",
+      "col_4": "Expert assigns grade ≥ B",
+      "col_5": "Grade recorded on V-tab. ACP criteria all PASS or PASS_WITH_NOTES.",
+      "col_6": "Expert Reviewer (GRADE) + Librarian (CONFIRM lock)",
+      "col_7": "Tabs set read-only. Version assigned. Equity vests for PM. Grade is final."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T32",
+      "col_2": "S3→S2",
+      "col_3": "INTERNAL_REVIEW→PRODUCTION",
+      "col_4": "Librarian finds structural issues",
+      "col_5": "Specific remediation items listed. Not a full restart.",
+      "col_6": "Librarian (RETURN with notes)",
+      "col_7": "PM receives remediation list. Re-enters production for specific fixes."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T42",
+      "col_2": "S4→S2",
+      "col_3": "EXPERT_REVIEW→PRODUCTION",
+      "col_4": "Expert assigns grade ≤ C",
+      "col_5": "Specific remediation items listed by expert. One revision cycle allowed.",
+      "col_6": "Expert Reviewer (RETURN with notes)",
+      "col_7": "PM receives expert remediation. If still ≤C after revision: escalate to Nilo."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T56",
+      "col_2": "S5→S6",
+      "col_3": "LOCKED→IMPLEMENTATION",
+      "col_4": "Funding secured + Operator assigned",
+      "col_5": "Entity formed. Cap table exists. Operator has authority.",
+      "col_6": "Nilo (AUTHORIZE implementation) + Conductor (EXTRACT tasks)",
+      "col_7": "Implementation TUP created in File 2. Task extraction from locked content."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T67",
+      "col_2": "S6→S7",
+      "col_3": "IMPLEMENTATION→POST_MORTEM",
+      "col_4": "All tasks complete OR kill triggered",
+      "col_5": "Execution log filed. Issues documented.",
+      "col_6": "Operator (COMPLETE or KILL) + PM (CONFIRM)",
+      "col_7": "Post-mortem initiated. Lessons captured."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "T70",
+      "col_2": "S7→S0",
+      "col_3": "POST_MORTEM→NULL",
+      "col_4": "Post-mortem filed and lessons captured",
+      "col_5": "Template updates proposed. Lessons filed in knowledge base.",
+      "col_6": "Librarian (ARCHIVE)",
+      "col_7": "TUP lifecycle complete. Archived."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "TAMEND",
+      "col_2": "S5→S4",
+      "col_3": "LOCKED→EXPERT_REVIEW",
+      "col_4": "Formal amendment requested",
+      "col_5": "Implementation reveals imagination gap. Written justification required.",
+      "col_6": "Nilo (AUTHORIZE amendment) — override authority",
+      "col_7": "Lock broken. New version created. Re-grade required. All amendments logged."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "TOVERRIDE",
+      "col_2": "Any→Any",
+      "col_3": "Override",
+      "col_4": "Nilo exercises override authority",
+      "col_5": "Written justification. Pattern of overrides = system problem.",
+      "col_6": "Nilo ONLY. Logged. Auditable.",
+      "col_7": "State forced. Reason recorded. Trustee notified if post-funding."
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "INVARIANTS (conditions that must ALWAYS be true)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "No TUP can enter PRODUCTION (S2) until M0 is in LOCKED (S5) or DRAFT (S1) with thesis committed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "No TUP can enter LOCKED (S5) without a grade ≥ B from an authorized Expert Reviewer.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "No grade can be recorded on a V-tab except by a role with GRADE permission for that TUP's cluster.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "No state transition occurs without the required permissions being held by the actor.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "All overrides are logged with justification and are auditable by Trustee.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "A TUP in LOCKED (S5) cannot have its content tabs modified except via formal amendment (TAMEND).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Equity vesting is triggered by T45 (EXPERT_REVIEW→LOCKED) and ONLY by T45. No other transition vests equity.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Claude produces ≈80% of content. PM refines ≈20%. This is explicit, not hidden. Workload specs reflect this ratio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "The Trustee has READ access to all states, transitions, and logs. Trustee permission applies to this entire state machine.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "RELATIONSHIP TO MC SHOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "The protocol (this state machine) is the substrate. The MC show is a separate optional layer on top.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "You could run this state machine without the show. The coordination would still work. Nobody would be watching.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "The show makes the protocol observable. It is the legibility mechanism. But it is not the protocol itself.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Protocol coordinates. Show narrates. Same system, two layers. The show is optional. The protocol is not.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "AMENDMENTS FROM COMPLIANCE PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "All transitions in this state machine are now TWO-KEY. See Compliance Protocol tab for counter-signer requirements.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Key 1 = Initiator (listed in \"Required Permissions\" column above). Key 2 = Counter-signer (Conductor or Librarian, depending on transition).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "Additional guard condition on T45: IF grade_distribution = 100%_B_or_above for entire cluster THEN automatic_secondary_review triggered before lock.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TUP STATE MACHINE — FORMAL PROTOCOL SPECIFICATION": "See Grade Inflation Defense tab for full structural mechanisms.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 47,
+  "sheet_name": "TUP State Machine",
+  "sheet_index": 1185
+}

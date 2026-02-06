@@ -1,0 +1,295 @@
+{
+  "headers": [
+    "THE LAUNCH AS A CLUSTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "THE LAUNCH AS A CLUSTER": "The 3-week sprint is a cluster production. The PM co-founder is the Cluster PM.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "THE FRAME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "In the Trade, a cluster is a group of related models that get produced together",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "by one person coordinating experts and using Claude.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "The launch IS a cluster. Its workstreams are:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Incorporation (I1-I10)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Site build (product person delivers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Content production (actor delivers daily)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Expert sessions (PM coordinates, Claude incorporates)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Fundraising setup (CoS pipeline, investor materials, data room)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "• Recruiting (VA sources, PM vets, Nilo approves)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "The PM co-founder coordinates all of these simultaneously.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "That's what a Cluster PM does. That's why the role exists.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "The difference from a normal Cluster PM:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "This one has co-founder equity because the launch cluster is the most important one.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Get this right, everything downstream works.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Get this wrong, there's nothing to produce.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "LAUNCH CLUSTER WORKSTREAMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Workstream",
+      "col_2": "Owner",
+      "col_3": "Support",
+      "col_4": "Week 1",
+      "col_5": "Week 2",
+      "col_6": "Week 3"
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Incorporation",
+      "col_2": "PM co-founder",
+      "col_3": "VA (filings), Lawyer",
+      "col_4": "Entity type decided. Formation filed. EIN applied.",
+      "col_5": "Op agreement + cap table done. Bank open. IP assigned.",
+      "col_6": "Data room ready. Compliance started. Investor-ready."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Site Build",
+      "col_2": "Product Person",
+      "col_3": "PM (manages), Actor (tests)",
+      "col_4": "Brand system. Password gate + hero live.",
+      "col_5": "Story + Cast + Daily Feed live. CMS working.",
+      "col_6": "Full site complete. Site 2 complete. QA done."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Content Production",
+      "col_2": "Actor",
+      "col_3": "PM (directs), VA (logistics)",
+      "col_4": "Casting + test shoot. Day 1 video posted.",
+      "col_5": "Daily rhythm established. 7+ videos live.",
+      "col_6": "14+ videos live. 2-3 milestone episodes."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Expert Sessions",
+      "col_2": "PM co-founder",
+      "col_3": "VA (scheduling), Claude (drafts+revisions)",
+      "col_4": "Expert briefs sent. 2 sessions booked.",
+      "col_5": "4 sessions completed. Feedback incorporated.",
+      "col_6": "All 8 clusters reviewed. Trade at expert-grade."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Fundraising Setup",
+      "col_2": "PM co-founder",
+      "col_3": "VA (pipeline admin), Nilo (network)",
+      "col_4": "CoS pipeline open. 5+ conversations.",
+      "col_5": "CoS signed. Investor intro list built.",
+      "col_6": "First investor meetings. Data room sent."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Recruiting",
+      "col_2": "VA",
+      "col_3": "PM (vets), Nilo (approves)",
+      "col_4": "PM + Actor hired. Product person contracted.",
+      "col_5": "CoS pipeline active. Expert pipeline active.",
+      "col_6": "VP pipeline started. Operator pipeline opened."
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "DAILY STANDUP (PM CO-FOUNDER RUNS THIS)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Every day, 15 minutes, all active people:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "1. SITE STATUS — Is the site on track? What shipped? What's blocked?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "2. CONTENT STATUS — Did the actor post today? Quality check.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "3. INCORPORATION STATUS — What filed? What's pending? Any legal questions?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "4. PIPELINE STATUS — Who's in the funnel for CoS, experts, VPs?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "5. BLOCKERS — What needs Nilo? What needs money? What needs a decision?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "This is the internal feedback loop. The site is the external one.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "PM co-founder runs the standup. The actor records the public version.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE LAUNCH AS A CLUSTER": "Same information, two audiences.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Cluster Launch Frame",
+  "sheet_index": 95
+}

@@ -1,0 +1,27 @@
+{
+  "headers": [
+    "INTEGRATION PLAYBOOK",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "INTEGRATION PLAYBOOK": "Day 1",
+      "col_2": "Store live, tracking verified, inventory at 3PL"
+    },
+    {
+      "INTEGRATION PLAYBOOK": "Week 1",
+      "col_2": "First ads live, email flows triggered, support ready"
+    },
+    {
+      "INTEGRATION PLAYBOOK": "Week 2",
+      "col_2": "Analyze first data, iterate creative, fix issues"
+    },
+    {
+      "INTEGRATION PLAYBOOK": "Week 4",
+      "col_2": "Full optimization cycle, scale winners"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Integration Playbook",
+  "sheet_index": 840
+}

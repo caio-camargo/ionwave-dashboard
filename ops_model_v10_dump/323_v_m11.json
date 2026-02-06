@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "VERIFICATION — M11: VSL PRODUCTION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "Trust: Strategic=Nilo | Domain=[TBD — DR creative] | Execution=[TBD — DR creative] | Vibes=Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "Tab Name",
+      "col_2": "Verified By",
+      "col_3": "Trust Level",
+      "col_4": "What They Check",
+      "col_5": "Status",
+      "col_6": "Date",
+      "col_7": "Notes"
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Script",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Trade Overview",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Script Architecture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Testing Protocol",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Production Spec",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Financial Model",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Post-Mortem Template",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL TUP Overview",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Script Architecture1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Hook Library",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Testing Protocol1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Production Checklist",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VSL Iteration Log",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "Ref VSL Breakdown",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "STATUS KEY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "NOT STARTED",
+      "col_2": "Tab not yet produced or reviewed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "AI DRAFT",
+      "col_2": "Claude generated first draft",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "IN REVIEW",
+      "col_2": "Sent to verifier, awaiting feedback",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "REVISION",
+      "col_2": "Feedback received, Claude revising",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "VERIFIED",
+      "col_2": "Verifier approved. Locked.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M11: VSL PRODUCTION": "BLOCKED",
+      "col_2": "Cannot verify — trust gap (no verifier assigned)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "V-M11",
+  "sheet_index": 323
+}

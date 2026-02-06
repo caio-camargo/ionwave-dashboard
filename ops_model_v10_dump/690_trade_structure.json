@@ -1,0 +1,241 @@
+{
+  "headers": [
+    "TRADE HOLDING STRUCTURE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "TRADE HOLDING STRUCTURE": "How the entities and capital flows work",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "ENTITY HIERARCHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "TRADE (Parent Holding Company)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "├── Studio 4 (Operating Partner / GP)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Builds ODDs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Sources Operators",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Provides oversight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Earns carry / management fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "├── TUP 1: IonWave (Subsidiary/SPV)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Own LLC or subsidiary",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Own bank account",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Own P&L",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│   • Operator runs day-to-day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "├── TUP 2: [Next Venture]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "├── TUP 3: [Next Venture]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "└── Compliance Manager (Service Provider)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "• Independent assessor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "• Reports to Trade/investors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "• No equity in TUPs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "CAPITAL FLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Investors → Trade (at holding level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Trade → TUPs (capital allocation per stage)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "TUPs → Operations (spend on product, ads, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "TUPs → Trade (returns, exits, dividends)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Trade → Investors (distributions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Trade → Studio (carry, fees)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "CAPITAL ALLOCATION BY STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Stage",
+      "col_2": "Typical Allocation",
+      "col_3": "Unlock Criteria",
+      "col_4": "Who Approves"
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Thesis/ODD",
+      "col_2": "$5K",
+      "col_3": "Thesis approved",
+      "col_4": "Studio"
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Table Set",
+      "col_2": "$10-25K",
+      "col_3": "ODD complete, Operator signed",
+      "col_4": "Studio"
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "First Blood",
+      "col_2": "$25-50K",
+      "col_3": "Table set complete",
+      "col_4": "Studio"
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Winner Found",
+      "col_2": "$50-200K",
+      "col_3": "PMF signals hit",
+      "col_4": "Studio + Trade"
+    },
+    {
+      "TRADE HOLDING STRUCTURE": "Scale",
+      "col_2": "$200K+",
+      "col_3": "Winner criteria met",
+      "col_4": "Trade board"
+    }
+  ],
+  "row_count": 38,
+  "sheet_name": "Trade Structure",
+  "sheet_index": 690
+}

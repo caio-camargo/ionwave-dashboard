@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "THE EQUATIONS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "THE EQUATIONS": "Formulas that show how the business actually works",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "PRODUCT SELECTION POWER",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "(Selection Process Quality × Market Validation Rigor) = Probability of Profitable Product",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "Better research = higher hit rate on products",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "PORTFOLIO MATH",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "(X Products) × (Y Monthly Units) × (Z Margin/Unit) = Target EBITDA",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "How many SKUs at what volume to hit goal",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "CASH FLOW CONSTRAINT",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "(Days Inventory Outstanding + Payment Lag) - (Margin × Turn Rate) = Capital Gap",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "How much cash you need to bridge",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "LAUNCH POWER",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "(Listing Quality × Review Velocity × Differentiation) / Competition = Organic Rank",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "What drives organic discovery",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "UNIT ECONOMICS",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "[Price × (1 - Platform Fees)] - [COGS] - [CAC × (1 - Organic %)] = Profit/Unit",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "True margin per unit sold",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "PORTFOLIO EBITDA",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "(SKUs) × (Units/SKU) × (Profit/Unit) - Fixed Overhead = Monthly EBITDA",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "Subject to: Cash ≥ Lead Time × Burn Rate",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "IONWAVE EQUATION APPLICATION",
+      "col_2": null
+    },
+    {
+      "THE EQUATIONS": "Target",
+      "col_2": "$100K MRR = $1.2M ARR"
+    },
+    {
+      "THE EQUATIONS": "Unit Economics",
+      "col_2": "$49 price - $20 COGS - $15 CAC = $14 margin"
+    },
+    {
+      "THE EQUATIONS": "Units needed",
+      "col_2": "$100K / $49 AOV = ~2,000 orders/month"
+    },
+    {
+      "THE EQUATIONS": "CAC constraint",
+      "col_2": "Must stay <$40 for unit economics to work"
+    },
+    {
+      "THE EQUATIONS": "Cash constraint",
+      "col_2": "Need 3 months inventory + ad float"
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "The Equations",
+  "sheet_index": 105
+}

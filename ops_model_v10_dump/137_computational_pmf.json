@@ -1,0 +1,337 @@
+{
+  "headers": [
+    "COMPUTATIONAL PRODUCT-MARKET FIT",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Rigorous framework for measuring and predicting market resonance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "THE PROBLEM WITH 'PMF'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Traditional PMF is vibes-based:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 'You'll know it when you see it'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 'Customers are pulling product from your hands'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 'Hair on fire problem'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "This is useless for:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Predicting PMF before launch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Measuring progress toward PMF",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Diagnosing why PMF isn't happening",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Comparing PMF across ventures",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "We need COMPUTATIONAL PMF — measurable, predictable, diagnosable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF AS INFORMATION INTEGRATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF = High mutual information between OFFER and NEED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "When offer and need have high mutual information:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Customer immediately understands value (low explanation cost)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Price resistance is low (value > price is obvious)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Word of mouth happens naturally (easy to explain to others)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Retention is high (need doesn't go away)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF is NOT about the product. It's about the MATCH.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Same product can have PMF with one segment and not another.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF MEASUREMENT FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Signal",
+      "col_2": "What It Measures",
+      "col_3": "Target",
+      "col_4": "How to Measure"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Organic %",
+      "col_2": "Demand without paid push",
+      "col_3": ">30%",
+      "col_4": "Organic orders / Total orders"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Explanation Cost",
+      "col_2": "How much you must explain",
+      "col_3": "<30 sec",
+      "col_4": "Time to first \"I get it\""
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Sean Ellis Score",
+      "col_2": "\"Very disappointed\" if gone",
+      "col_3": ">40%",
+      "col_4": "Survey existing customers"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "NPS",
+      "col_2": "Would recommend",
+      "col_3": ">50",
+      "col_4": "Standard NPS survey"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Retention (M2)",
+      "col_2": "Come back without prompting",
+      "col_3": ">40%",
+      "col_4": "Month 2 repurchase rate"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "CAC Trend",
+      "col_2": "Getting easier to acquire",
+      "col_3": "Declining",
+      "col_4": "CAC over time"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Referral Rate",
+      "col_2": "Customers bring customers",
+      "col_3": ">10%",
+      "col_4": "Referred / Total"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Price Sensitivity",
+      "col_2": "Resistance to price",
+      "col_3": "Low",
+      "col_4": "A/B test price increases"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Inbound Interest",
+      "col_2": "People seeking you out",
+      "col_3": "Growing",
+      "col_4": "Inbound leads over time"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Time to Value",
+      "col_2": "How fast they see benefit",
+      "col_3": "<7 days",
+      "col_4": "First value milestone"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF SCORE CALCULATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF Score = Weighted average of signals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Weight by predictive power:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Sean Ellis Score: 25%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Retention M2: 20%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Organic %: 15%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• NPS: 15%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• CAC Trend: 10%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• Referral Rate: 5%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF Score Interpretation:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 0-30: No PMF — don't scale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 30-50: Early PMF — test scaling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 50-70: PMF — scale cautiously",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "• 70+: Strong PMF — scale aggressively",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "PMF DIAGNOSTIC: WHY NO FIT?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Symptom",
+      "col_2": "Likely Cause",
+      "col_3": "Diagnostic Question",
+      "col_4": "Fix"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "High CAC, low retention",
+      "col_2": "Wrong segment",
+      "col_3": "Who retains? Double down.",
+      "col_4": "Narrow ICP"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Good retention, no referral",
+      "col_2": "Not remarkable",
+      "col_3": "Why not tell friends?",
+      "col_4": "Add wow factor"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "High interest, no convert",
+      "col_2": "Price/value mismatch",
+      "col_3": "What price would work?",
+      "col_4": "Adjust offer"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Converts, churns fast",
+      "col_2": "Expectation mismatch",
+      "col_3": "What did they expect?",
+      "col_4": "Fix messaging"
+    },
+    {
+      "COMPUTATIONAL PRODUCT-MARKET FIT": "Works small, fails scale",
+      "col_2": "Founder magic",
+      "col_3": "What do you do that staff cant?",
+      "col_4": "Systematize"
+    }
+  ],
+  "row_count": 54,
+  "sheet_name": "Computational PMF",
+  "sheet_index": 137
+}

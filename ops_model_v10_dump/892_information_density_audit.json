@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "INFORMATION DENSITY AUDIT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "INFORMATION DENSITY AUDIT": "How much signal vs noise in every communication? Are we drowning people?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Low-density communication wastes time and attention.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "High-density: Every word matters. Low-density: Lots of filler, buried signal.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "COMMUNICATION DENSITY AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Communication",
+      "col_2": "Frequency",
+      "col_3": "Avg Length",
+      "col_4": "Signal %",
+      "col_5": "Density Score",
+      "col_6": "Action"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Daily standup message",
+      "col_2": "Daily",
+      "col_3": "~200 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Template helps"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Weekly report",
+      "col_2": "Weekly",
+      "col_3": "~500 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Structured format"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Ad performance update",
+      "col_2": "Daily",
+      "col_3": "~50 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Just numbers"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Decision requests",
+      "col_2": "Ad hoc",
+      "col_3": "~300 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "5-6 bullets format"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Meeting notes",
+      "col_2": "Ad hoc",
+      "col_3": "Varies",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Action items only?"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Strategy docs",
+      "col_2": "Rare",
+      "col_3": "~2000 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Executive summary"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Email to customers",
+      "col_2": "Campaign",
+      "col_3": "~150 words",
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Every word sells"
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "DENSITY SCORING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "Signal % = (Essential words / Total words) × 100",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "90%+ = Highly dense (military orders, headlines)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "70-90% = Good density (most business comms should be here)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "50-70% = Acceptable (reports, documentation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "30-50% = Low density (meeting transcripts, casual chat)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "<30% = Noise (unfocused rambling, needs editing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "HOW TO INCREASE DENSITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "• Templates: Pre-structure forces focus",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "• Word limits: Constraint breeds clarity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "• 'So what?' test: Every sentence must pass",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "• Edit ruthlessly: First draft → cut 30%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INFORMATION DENSITY AUDIT": "• Lead with conclusion: Bottom line up front",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Information Density Audit",
+  "sheet_index": 892
+}

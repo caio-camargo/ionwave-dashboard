@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "BREAKING POINTS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "BREAKING POINTS": "What breaks at scale",
+      "col_2": null
+    },
+    {
+      "BREAKING POINTS": "$10K MRR",
+      "col_2": null
+    },
+    {
+      "BREAKING POINTS": "What breaks: Manual processes",
+      "col_2": "Solution: Need automation, SOPs"
+    },
+    {
+      "BREAKING POINTS": "$25K MRR",
+      "col_2": null
+    },
+    {
+      "BREAKING POINTS": "What breaks: One person doing everything",
+      "col_2": "Solution: Need to hire first PM"
+    },
+    {
+      "BREAKING POINTS": "$50K MRR",
+      "col_2": null
+    },
+    {
+      "BREAKING POINTS": "What breaks: Spreadsheet tracking",
+      "col_2": "Solution: Need real inventory system"
+    },
+    {
+      "BREAKING POINTS": "$100K MRR",
+      "col_2": null
+    },
+    {
+      "BREAKING POINTS": "What breaks: Single supplier",
+      "col_2": "Solution: Need backup, negotiation leverage"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Breaking Points",
+  "sheet_index": 901
+}

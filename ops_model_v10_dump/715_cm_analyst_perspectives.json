@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "ANALYST PERSPECTIVES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ANALYST PERSPECTIVES": "Ad hoc deep dives and different analytical angles",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "PERSPECTIVE LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "Date",
+      "col_2": "Topic",
+      "col_3": "Angle",
+      "col_4": "Key Finding",
+      "col_5": "Implication",
+      "col_6": "Action"
+    },
+    {
+      "ANALYST PERSPECTIVES": "SUGGESTED DEEP DIVES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Customer cohort analysis - Are newer customers better or worse?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Channel efficiency - Which acquisition channels are actually working?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Product mix analysis - What's driving (or hurting) margins?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Seasonality review - Are there patterns we're missing?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Competitor benchmarking - How do we compare?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Operator time allocation - Where is effort going vs value created?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Churn deep dive - Why are customers leaving?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ANALYST PERSPECTIVES": "• Pricing sensitivity - Is there room to move?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "CM Analyst Perspectives",
+  "sheet_index": 715
+}

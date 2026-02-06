@@ -1,0 +1,217 @@
+{
+  "headers": [
+    "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "The grading system only works if grades have teeth. These are structural mechanisms to prevent midding.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "If an Expert Reviewer gives everything a polite B+ to be nice, the entire verification layer is theater.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "The risk is real. Experts are busy. They want to be helpful. Giving a C feels confrontational. The path of least resistance is \"looks good.\"",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "A protocol that relies on hoping people are honest is not a protocol. It's a wish.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "These structural checks make grade inflation detectable and correctable without relying on anyone's character.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "DEFENSE MECHANISMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Mechanism",
+      "col_2": "Trigger",
+      "col_3": "Action",
+      "col_4": "Who Executes",
+      "col_5": "State Machine Reference"
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Automatic Secondary Review",
+      "col_2": "Expert gives 100% B or above across a full cluster (all TUPs in cluster)",
+      "col_3": "Secondary Expert Reviewer automatically assigned. Independent review of 2-3 TUPs from the cluster. If secondary grades ≥ 1 full letter lower on any TUP, primary grades are flagged for re-review.",
+      "col_4": "Conductor assigns secondary reviewer. Librarian routes TUPs.",
+      "col_5": "New guard condition on T45: IF primary_grade_distribution = 100%_B_or_above AND cluster_complete THEN trigger_secondary_review."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Grade Distribution Audit",
+      "col_2": "End of each cluster's review cycle",
+      "col_3": "Librarian reports grade distribution for the cluster. Expected healthy distribution: 10-20% A, 50-60% B/B+, 20-30% C, 5-10% D/F. If actual distribution skews heavily toward B+/A, flag for review.",
+      "col_4": "Librarian generates report. Nilo reviews if flagged.",
+      "col_5": "Post-T45 audit. Does not block lock, but creates a record."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Expert Name On Output",
+      "col_2": "Every V-tab grade",
+      "col_3": "Expert Reviewer's real name is permanently attached to every TUP they grade. \"Graded by [Name], [Date], [Grade].\" Their professional reputation is on the line.",
+      "col_4": "Librarian records on V-tab. Cannot be removed.",
+      "col_5": "V-tab schema requirement: grader_name, grader_date, grade, review_notes."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Expert Independence Rule",
+      "col_2": "Expert assignment",
+      "col_3": "Expert Reviewer cannot have a financial, personal, or professional relationship with the PM Co-Founder whose work they're grading. Conductor verifies independence at assignment.",
+      "col_4": "Conductor verifies at assignment. Declares any known conflicts.",
+      "col_5": "Pre-condition on S3→S4 transition: independence_verified = TRUE."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Blind Spot Check",
+      "col_2": "Every 3rd cluster completed",
+      "col_3": "Take one TUP that was graded B+ or above and send it to a DIFFERENT expert in the same domain, without revealing the original grade. Compare grades. If discrepancy > 1 full letter, investigate.",
+      "col_4": "Conductor selects TUP. Librarian routes to blind reviewer.",
+      "col_5": "Protocol-level audit. Not in state machine — runs in parallel."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "PM Can't Grade Own Work",
+      "col_2": "Always",
+      "col_3": "PM Co-Founder who produced a TUP cannot participate in grading it. Not even advisory. Total separation of production and verification.",
+      "col_4": "Enforced by Librarian routing. PM is not in the review distribution.",
+      "col_5": "Invariant: producer ≠ grader. Already implicit but now explicit."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Minimum Review Depth",
+      "col_2": "Every expert review",
+      "col_3": "Expert must provide written review notes for every C-tab, not just an overall grade. \"B\" with no notes is rejected. Forces engagement with actual content.",
+      "col_4": "Librarian rejects V-tabs with grade but no per-tab notes.",
+      "col_5": "V-tab schema: per_tab_notes required. Grade without notes = incomplete review."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Forfeiture Is Real",
+      "col_2": "Grade D or F",
+      "col_3": "D grade: PM equity at risk for that sprint. F grade: PM equity forfeited for that sprint. Post-mortem required. This is not theoretical — it must actually happen at least once to establish precedent.",
+      "col_4": "Nilo confirms forfeiture. Logged in Equity Protocol.",
+      "col_5": "T42 (return to production) for C. Forfeiture logged for D/F."
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "WHAT \"MIDDING\" LOOKS LIKE vs WHAT REAL GRADING LOOKS LIKE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Signal",
+      "col_2": "Midding (theater)",
+      "col_3": "Real Grading (protocol)",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Grade distribution",
+      "col_2": "90%+ B or above. Zero Cs. Zero Ds.",
+      "col_3": "10-20% A, 50-60% B/B+, 20-30% C, 5-10% D/F.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Review notes",
+      "col_2": "\"Looks good.\" \"Nice work.\" No specifics.",
+      "col_3": "Per-tab notes citing specific claims, gaps, or errors.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Review time",
+      "col_2": "1-2 hours for entire cluster. Skimmed.",
+      "col_3": "10-20 hours for cluster. Actually read the tabs.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Remediation",
+      "col_2": "Never happens. Everything passes.",
+      "col_3": "At least 20-30% of TUPs get returned for revision on first pass.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Expert pushback",
+      "col_2": "Expert agrees with everything.",
+      "col_3": "Expert challenges assumptions, cites competing evidence, marks \"not attested\" on specific claims.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "Equity forfeiture",
+      "col_2": "Never triggered. Everyone gets paid.",
+      "col_3": "Triggered at least once. Precedent established. People know it's real.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "THE UNCOMFORTABLE TRUTH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "If the first cluster comes back with 100% B+ grades, zero remediation, and 2-hour review time — the grading system is fake.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "The defense mechanisms above make grade inflation DETECTABLE. But detection requires someone who is willing to ACT on it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "That person is Nilo. If you see the midding signals and don't intervene, the protocol is theater regardless of what's written here.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADE INFLATION DEFENSE — STRUCTURAL CHECKS": "The structural defenses buy you time and evidence. The willingness to use them is on you.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Grade Inflation Defense",
+  "sheet_index": 1192
+}

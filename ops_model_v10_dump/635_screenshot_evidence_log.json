@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "SCREENSHOT EVIDENCE LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SCREENSHOT EVIDENCE LOG": "Where proof of work goes - every deliverable needs evidence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCREENSHOT EVIDENCE LOG": "Date",
+      "col_2": "Deliverable",
+      "col_3": "Screenshot Link",
+      "col_4": "Description",
+      "col_5": "Verified By",
+      "col_6": "Notes"
+    },
+    {
+      "SCREENSHOT EVIDENCE LOG": "[Date]",
+      "col_2": "Ad launched",
+      "col_3": "[Drive link]",
+      "col_4": "Hook Test Ad #1 live in Ads Manager",
+      "col_5": "[CM]",
+      "col_6": null
+    },
+    {
+      "SCREENSHOT EVIDENCE LOG": "[Date]",
+      "col_2": "Email flow live",
+      "col_3": "[Drive link]",
+      "col_4": "Welcome flow triggered on test order",
+      "col_5": "[CM]",
+      "col_6": null
+    },
+    {
+      "SCREENSHOT EVIDENCE LOG": "[Date]",
+      "col_2": "Tracking verified",
+      "col_3": "[Drive link]",
+      "col_4": "Pixel firing on purchase event",
+      "col_5": "[CM]",
+      "col_6": null
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Screenshot Evidence Log",
+  "sheet_index": 635
+}

@@ -1,0 +1,131 @@
+{
+  "headers": [
+    "LABEL COMPLIANCE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "LABEL COMPLIANCE": "Supplement label requirements and checklist",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "REQUIRED LABEL ELEMENTS",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Statement of Identity",
+      "col_2": "'Dietary Supplement' must appear on principal display panel"
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Net Quantity",
+      "col_2": "Net weight or count"
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Supplement Facts Panel",
+      "col_2": "Structured nutrition info"
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Ingredient List",
+      "col_2": "All ingredients in descending order"
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Name and Address",
+      "col_2": "Manufacturer, packer, or distributor"
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Disclaimer",
+      "col_2": "FDA disclaimer (required if structure/function claims)"
+    },
+    {
+      "LABEL COMPLIANCE": "SUPPLEMENT FACTS PANEL",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "Must include:",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Title: 'Supplement Facts'",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Serving size",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Servings per container",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Each dietary ingredient with amount",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ % Daily Value (where established)",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ † symbol for no Daily Value",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "Format:",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Proper font sizes (specific FDA requirements)",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Proper box/lines format",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Correct order of nutrients",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "LABEL REVIEW CHECKLIST",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ All required elements present",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Supplement Facts panel correct format",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ All claims are compliant (structure/function only)",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ FDA disclaimer included if claims made",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Allergen warnings if applicable",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ No disease claims",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Proper font sizes",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Manufacturer/distributor info correct",
+      "col_2": null
+    },
+    {
+      "LABEL COMPLIANCE": "☐ Reviewed by compliance expert or attorney",
+      "col_2": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "Label Compliance",
+  "sheet_index": 258
+}

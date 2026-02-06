@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "AUDIT TRAIL REQUIREMENTS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "AUDIT TRAIL REQUIREMENTS": "What evidence is required for each deliverable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Deliverable",
+      "col_2": "Evidence Required",
+      "col_3": "Format",
+      "col_4": "Retention"
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Ad created",
+      "col_2": "Screenshot + naming convention",
+      "col_3": "PNG + text",
+      "col_4": "1 year"
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Email sent",
+      "col_2": "Klaviyo export + metrics",
+      "col_3": "CSV",
+      "col_4": "1 year"
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Order fulfilled",
+      "col_2": "Shopify export + 3PL confirmation",
+      "col_3": "CSV",
+      "col_4": "3 years"
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Supplier payment",
+      "col_2": "Invoice + bank confirmation",
+      "col_3": "PDF",
+      "col_4": "7 years"
+    },
+    {
+      "AUDIT TRAIL REQUIREMENTS": "Decision made",
+      "col_2": "Written record with rationale",
+      "col_3": "Doc/Sheet",
+      "col_4": "Permanent"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Audit Trail Requirements",
+  "sheet_index": 735
+}

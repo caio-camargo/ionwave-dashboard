@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "NARRATIVE HYPOTHESIS TABLE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "Every story we tell is a hypothesis. Test them, don't just tell them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "Narratives aren't just stories - they're hypotheses about what will resonate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "Test them systematically. Update based on evidence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "NARRATIVE HYPOTHESES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "Narrative",
+      "col_2": "Audience",
+      "col_3": "Hypothesis",
+      "col_4": "Evidence For",
+      "col_5": "Evidence Against",
+      "col_6": "Confidence",
+      "col_7": "Status"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"78 minerals vs just 3\"",
+      "col_2": "Customers",
+      "col_3": "Differentiation drives purchase",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"Ocean-sourced is better\"",
+      "col_2": "Customers",
+      "col_3": "Natural positioning resonates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"Your body is 70% ocean\"",
+      "col_2": "Customers",
+      "col_3": "Science angle builds trust",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"$2M EBITDA in 24 months\"",
+      "col_2": "Operators",
+      "col_3": "Financial outcome motivates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"<10 hrs/week after Month 4\"",
+      "col_2": "Operators",
+      "col_3": "Lifestyle outcome motivates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "\"Copy excellence, execute cleaner\"",
+      "col_2": "Team",
+      "col_3": "Methodology creates alignment",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Testing"
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "HOW TO TEST NARRATIVES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• A/B test ad copy with different narratives",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• Track which narratives get repeated by customers (word of mouth)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• Survey customers: 'Why did you buy?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• Watch which email subject lines get opens",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• Interview churned customers: What didn't resonate?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "CONFIDENCE SCALE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• 90%+ = Strong evidence, core narrative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• 70-90% = Good evidence, use confidently",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• 50-70% = Mixed signals, keep testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• 30-50% = Weak evidence, might pivot",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "NARRATIVE HYPOTHESIS TABLE": "• <30% = Probably wrong, stop using",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Narrative Hypothesis Table",
+  "sheet_index": 587
+}

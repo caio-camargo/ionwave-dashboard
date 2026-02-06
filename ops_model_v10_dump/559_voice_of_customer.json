@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "VOICE OF CUSTOMER DATABASE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VOICE OF CUSTOMER DATABASE": "Why they bought",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "[Record Quotes from surveys/interviews]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Pain points",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "[Record What problems they had before]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Objections",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "[Record What almost stopped them]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Competitors tried",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "[Record What else they considered]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Desired outcomes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "[Record What they hope to achieve]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "TESTIMONIAL BANK (Best Quotes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Quote",
+      "col_2": "Customer",
+      "col_3": "Source",
+      "col_4": "Use Case",
+      "col_5": "Permission?",
+      "col_6": "Used In"
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Voice of Customer",
+  "sheet_index": 559
+}

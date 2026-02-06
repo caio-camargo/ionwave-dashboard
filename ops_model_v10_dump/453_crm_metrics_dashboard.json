@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "CRM METRICS DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CRM METRICS DASHBOARD": "The numbers that tell you if the relationship machine is working",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM METRICS DASHBOARD": "FUNNEL HEALTH (Weekly)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM METRICS DASHBOARD": "Metric",
+      "col_2": "Definition",
+      "col_3": "Target",
+      "col_4": "Red Flag",
+      "col_5": "Data Source"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Impressions → Aware",
+      "col_2": "Hook rate on ads",
+      "col_3": ">25%",
+      "col_4": "<15%",
+      "col_5": "Meta Ads"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Aware → Interested",
+      "col_2": "Ad CTR",
+      "col_3": ">1.5%",
+      "col_4": "<0.5%",
+      "col_5": "Meta Ads"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Interested → Considering",
+      "col_2": "Email capture rate OR add-to-cart rate",
+      "col_3": ">5% email / >8% ATC",
+      "col_4": "<2% / <4%",
+      "col_5": "Shopify + Klaviyo"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Considering → Purchase",
+      "col_2": "Checkout conversion rate",
+      "col_3": ">3%",
+      "col_4": "<1.5%",
+      "col_5": "Shopify"
+    },
+    {
+      "CRM METRICS DASHBOARD": "First → Repeat",
+      "col_2": "60-day repeat purchase rate",
+      "col_3": ">25%",
+      "col_4": "<15%",
+      "col_5": "Shopify"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Customer → Advocate",
+      "col_2": "Referral participation rate",
+      "col_3": ">10%",
+      "col_4": "<3%",
+      "col_5": "Referral program"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Retained → Lapsed",
+      "col_2": "60-day churn rate",
+      "col_3": "<20%",
+      "col_4": ">35%",
+      "col_5": "Computed"
+    },
+    {
+      "CRM METRICS DASHBOARD": "RELATIONSHIP DEPTH (Monthly)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM METRICS DASHBOARD": "Average LTV",
+      "col_2": "Total revenue / Total unique customers",
+      "col_3": ">$120 (12-month)",
+      "col_4": "<$60",
+      "col_5": "Shopify"
+    },
+    {
+      "CRM METRICS DASHBOARD": "LTV:CAC Ratio",
+      "col_2": "Average LTV / Average CAC",
+      "col_3": ">3:1",
+      "col_4": "<2:1",
+      "col_5": "Computed"
+    },
+    {
+      "CRM METRICS DASHBOARD": "NPS",
+      "col_2": "Net Promoter Score from surveys",
+      "col_3": ">50",
+      "col_4": "<20",
+      "col_5": "Survey tool"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Subscription Rate",
+      "col_2": "Subscribers / Total customers",
+      "col_3": ">20%",
+      "col_4": "<8%",
+      "col_5": "Shopify/ReCharge"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Review Rate",
+      "col_2": "Reviews / Delivered orders",
+      "col_3": ">15%",
+      "col_4": "<5%",
+      "col_5": "Review platform"
+    },
+    {
+      "CRM METRICS DASHBOARD": "UGC Submission Rate",
+      "col_2": "UGC submitted / Requests sent",
+      "col_3": ">8%",
+      "col_4": "<2%",
+      "col_5": "UGC platform"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Support Satisfaction",
+      "col_2": "CSAT on support tickets",
+      "col_3": ">90%",
+      "col_4": "<75%",
+      "col_5": "Help desk"
+    },
+    {
+      "CRM METRICS DASHBOARD": "Email List Health",
+      "col_2": "Active engaged / Total list",
+      "col_3": ">40%",
+      "col_4": "<20%",
+      "col_5": "Klaviyo"
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "CRM Metrics Dashboard",
+  "sheet_index": 453
+}

@@ -1,0 +1,106 @@
+{
+  "headers": [
+    "ALERT LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "ALERT LOG": "Downgrade notices sent, triggers, actions required",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "Date",
+      "col_2": "Alert Type",
+      "col_3": "Trigger",
+      "col_4": "Prior Grade",
+      "col_5": "New Grade",
+      "col_6": "Notified",
+      "col_7": "Action Required",
+      "col_8": "Response",
+      "col_9": "Resolved"
+    },
+    {
+      "ALERT LOG": "ALERT TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "• WATCH - Approaching threshold, monitoring increased",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "• WARNING - Threshold breached, action required within 7 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "• DOWNGRADE - Grade reduced, immediate action required",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "• CRITICAL - Severe issue, emergency response",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "ALERT LOG": "• UPGRADE - Positive, grade improved",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "CM Alert Log",
+  "sheet_index": 714
+}

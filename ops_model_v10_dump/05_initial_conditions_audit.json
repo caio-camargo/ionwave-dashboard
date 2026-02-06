@@ -1,0 +1,463 @@
+{
+  "headers": [
+    "INITIAL CONDITIONS AUDIT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "INITIAL CONDITIONS AUDIT": "The gate between Danilo building the Trade and anyone else touching it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Nothing opens until this audit passes. Week 0, steps 2-3.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "THE GATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "BEFORE the librarian is hired. BEFORE the conductor sources anyone.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "BEFORE a single flash team member sees a single tab.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Caio (or a steward sprint) audits every structural decision in the Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Not the content — the experts grade that later. The STRUCTURE.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "The things that, if wrong, would make everything built on top of them wrong.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "The audit produces one of two verdicts:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "✅ CONFIRMED — Initial conditions are sound. System is safe to open.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "❌ FIX FIRST — Here are the specific items that must be corrected before opening.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Once confirmed, this tab is signed and dated. It becomes the foundation certificate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Everything downstream trusts that these decisions were checked.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "WHAT GETS AUDITED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "#",
+      "col_2": "Domain",
+      "col_3": "What To Check",
+      "col_4": "Source Tabs",
+      "col_5": "Outside Help",
+      "col_6": "Pass Criteria"
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "1",
+      "col_2": "ENTITY\nSTRUCTURE",
+      "col_3": "Is the entity type correct for a DAO? Is the jurisdiction right? Does it support token/equity hybrid? Is the two-company structure (infrastructure + operating) sound?",
+      "col_4": "M2 Entity & Legal\nS17 Studio Entity\nIncorporation tabs I1-I10",
+      "col_5": "Lawyer (3-5 hrs)\nSomeone who has done a DAO before (2-3 hrs)",
+      "col_6": "Lawyer confirms entity type, jurisdiction, and DAO compatibility. No red flags."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "2",
+      "col_2": "CAP TABLE\n& EQUITY",
+      "col_3": "Does the equity budget add up to 100%? Are flash sprint allocations reasonable? Is the persistent role equity fair? Is there enough room for investor dilution? Does the option pool exist?",
+      "col_4": "Flash Teams Model\n(equity budget section)\nM3 Financial Model",
+      "col_5": "Someone who has built a cap table (2 hrs)",
+      "col_6": "Math adds up. Founder retains controlling stake. Investor dilution modeled. No one is over-allocated."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "3",
+      "col_2": "CONTRACTS\n(C-TABS)",
+      "col_3": "Does every C-tab have: IP assignment, termination clause, equity vesting, deliverables, time commitment? Is the language enforceable? Are the terms consistent across roles?",
+      "col_4": "All C- tabs\n(C-M1, C-M5, C-M11, etc.)",
+      "col_5": "Lawyer (2-3 hrs to review template)",
+      "col_6": "Lawyer approves the C-tab template. All C-tabs use the template. No holes in IP assignment."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "4",
+      "col_2": "IP\nASSIGNMENT",
+      "col_3": "Does every flash contributor assign IP to the entity? Is the language clear? Does it cover AI-generated content? Does it cover work produced with Claude? Are portfolio rights carved out correctly?",
+      "col_4": "C-tab template\nS17 Studio Entity",
+      "col_5": "IP lawyer or the same lawyer (1-2 hrs)",
+      "col_6": "Every person who touches the Trade signs IP assignment. Language covers AI co-production. Portfolio rights clearly defined."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "5",
+      "col_2": "DAO\nGOVERNANCE",
+      "col_3": "How are decisions made? Who can change the equity allocation? What happens if someone disputes? What's the dispute resolution? Is there a token or is equity traditional?",
+      "col_4": "S5 Studio Governance\nM33 Governance & CM",
+      "col_5": "Someone who has done a DAO (2-3 hrs)",
+      "col_6": "Governance rules exist and are enforceable. Decision-making process is clear. Dispute resolution defined."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "6",
+      "col_2": "TRADE\nINTEGRITY",
+      "col_3": "Does the Directory match the actual tabs? Does every TUP have P-, C-, IP-, V- structural tabs? Are there orphan tabs? Are there missing tabs? Does the Taxonomy match reality?",
+      "col_4": "Directory\nTaxonomy\nRole Rosters\nMaster Cluster Map",
+      "col_5": "None — Caio does this",
+      "col_6": "Directory is accurate. Every TUP has structural tabs. No orphans. No gaps. Taxonomy matches the file."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "7",
+      "col_2": "ROLE\nROSTERS",
+      "col_3": "Does every role have a clear tab roster? Are the INSTRUCTIONS.md templates complete? Can someone read their instructions and know exactly what to do without asking anyone?",
+      "col_4": "Role Rosters\nInstructions Spec\nAccess Model",
+      "col_5": "None — Caio does this (maybe has one test person try)",
+      "col_6": "One test person (not Danilo, not Caio) can read the instructions and explain back what they'd do."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "8",
+      "col_2": "EQUITY\nDISTRIBUTION\nMECHANICS",
+      "col_3": "How is equity actually distributed? Is it a SAFE? Token? Paper agreement? What triggers vesting? What happens if someone doesn't finish their sprint?",
+      "col_4": "Flash Teams Model\nC-tab template\nS17 Studio Entity",
+      "col_5": "Lawyer (1-2 hrs)",
+      "col_6": "Distribution mechanism chosen and documented. Vesting triggers clear. Incomplete sprint policy defined."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "9",
+      "col_2": "FINANCIAL\nREALITY",
+      "col_3": "What are the actual costs before any revenue? Domain, hosting, tools, lawyer hours, any contractor minimums. Is there $0 budget or some seed capital? What triggers the first raise?",
+      "col_4": "M3 Financial Model\nS16 Studio Financial",
+      "col_5": "None — Caio does this",
+      "col_6": "All pre-revenue costs identified. Funding source for those costs confirmed. Raise trigger defined."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "10",
+      "col_2": "RECRUITING\nREADINESS",
+      "col_3": "Are the platform postings ready? Are the cold email templates written? Are the screening criteria defined? Can the Conductor start sourcing on Day 1?",
+      "col_4": "Recruiting Operations\nRecruiting Funnel\nF7 Cold Email\nF8 Platform Recruiting",
+      "col_5": "None — Caio does this",
+      "col_6": "Templates exist. Platforms identified. Screening criteria clear. Conductor can start Day 1."
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "OUTSIDE HELP BUDGET",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Lawyer: 8-12 hours total across items 1, 3, 4, 5, 8",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "At $300-500/hr = $2,400 - $6,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "OR: find a lawyer who takes equity (0.5-1%) for the full review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "DAO-experienced person: 4-6 hours across items 1, 5",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Could be a flash sprint: 0.1-0.25% equity for a half-day audit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Cap table person: 2 hours for item 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Could be the same lawyer or a fractional CFO flash sprint",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "TOTAL outside help: ~15-20 hours of expert time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "COST: $0 if all equity-based, or $3,000-$8,000 if paid",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "This is the only place where paying cash might be worth it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Getting the initial conditions wrong is the one mistake you can't flash-sprint your way out of.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "SIGN-OFF",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Auditor",
+      "col_2": "[Caio / steward name]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Date",
+      "col_2": "[date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Verdict",
+      "col_2": "[✅ CONFIRMED / ❌ FIX FIRST]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Items requiring fix",
+      "col_2": "[list, if any]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Lawyer consulted",
+      "col_2": "[name, date, hours]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "DAO consultant",
+      "col_2": "[name, date, hours]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Notes",
+      "col_2": "[anything else]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "WEEK 0 SEQUENCE (updated)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 1: Danilo builds the Trade with Claude. (DONE — this file)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 2: Caio cleans up the file. Organizes tabs. Confirms Directory accuracy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 3: Caio audits initial conditions (this tab). Brings in lawyer + DAO person.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 4: GATE: Audit passes. Sign-off recorded. File is certified.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 5: Caio hires Elaine (librarian).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 6: Elaine sets up Google Drive. Hires the Conductor.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Step 7: System opens. Flash sprints begin.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Steps 2-4 take 1-2 weeks. Nobody else is involved.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INITIAL CONDITIONS AUDIT": "Steps 5-7 take 1 week. Then it's live.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 56,
+  "sheet_name": "Initial Conditions Audit",
+  "sheet_index": 5
+}

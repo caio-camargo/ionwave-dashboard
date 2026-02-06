@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "PARADIGM SHIFT LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PARADIGM SHIFT LOG": "Before/after documentation of major strategic pivots",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PARADIGM SHIFT LOG": "Date",
+      "col_2": "Area",
+      "col_3": "Before",
+      "col_4": "After",
+      "col_5": "Why Changed",
+      "col_6": "Impact"
+    },
+    {
+      "PARADIGM SHIFT LOG": "2026-01-30",
+      "col_2": "Pricing",
+      "col_3": "$49/30-pack",
+      "col_4": "$45/30-pack",
+      "col_5": "Competitor research showed price sensitivity",
+      "col_6": "Higher conversion expected"
+    }
+  ],
+  "row_count": 3,
+  "sheet_name": "Paradigm Shift Log",
+  "sheet_index": 867
+}

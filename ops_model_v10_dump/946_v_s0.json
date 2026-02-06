@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S0: Studio Thesis — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "The foundational vision for Studio 4. Why this venture studio exists, what it does differently, and how coordination protocols create value.",
+      "col_2": null
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade studio thesis model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "B (Good)",
+      "col_2": "Solid studio thesis model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "C (Needs Work)",
+      "col_2": "Studio Thesis model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "D (Major Issues)",
+      "col_2": "Studio Thesis model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "F (Fail)",
+      "col_2": "Studio Thesis model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S0: Studio Thesis — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S0",
+  "sheet_index": 946
+}

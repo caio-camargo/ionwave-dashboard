@@ -1,0 +1,70 @@
+{
+  "headers": [
+    "REQUISITE VARIETY INVENTORY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "REQUISITE VARIETY INVENTORY": "What capabilities/awareness do we need vs have?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Capability",
+      "col_2": "Required Level",
+      "col_3": "Current Level",
+      "col_4": "Gap",
+      "col_5": "Close By"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Meta Ads management",
+      "col_2": "Expert",
+      "col_3": "Expert",
+      "col_4": "—",
+      "col_5": "N/A"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Klaviyo email",
+      "col_2": "Proficient",
+      "col_3": "Proficient",
+      "col_4": "—",
+      "col_5": "N/A"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Supply chain",
+      "col_2": "Competent",
+      "col_3": "Basic",
+      "col_4": "GAP",
+      "col_5": "Month 2"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Finance/accounting",
+      "col_2": "Competent",
+      "col_3": "Basic",
+      "col_4": "GAP",
+      "col_5": "Month 1"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Customer research",
+      "col_2": "Proficient",
+      "col_3": "Competent",
+      "col_4": "Minor",
+      "col_5": "Month 2"
+    },
+    {
+      "REQUISITE VARIETY INVENTORY": "Brand design",
+      "col_2": "Competent",
+      "col_3": "Competent",
+      "col_4": "—",
+      "col_5": "N/A"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Requisite Variety Inventory",
+  "sheet_index": 875
+}

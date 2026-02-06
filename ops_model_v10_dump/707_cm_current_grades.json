@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "CURRENT GRADES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CURRENT GRADES": "Latest grade per assessment level",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "AS OF: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Level",
+      "col_2": "Current Grade",
+      "col_3": "Prior Grade",
+      "col_4": "Trend",
+      "col_5": "Key Driver",
+      "col_6": "Watch Items"
+    },
+    {
+      "CURRENT GRADES": "OVERALL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Financial",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Growth",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Owner/Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "Strategic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "GRADE COMMENTARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "[Narrative assessment - what's driving the current grade, key concerns, outlook]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CURRENT GRADES": "NEXT ASSESSMENT DATE: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "CM Current Grades",
+  "sheet_index": 707
+}

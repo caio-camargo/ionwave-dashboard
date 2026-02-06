@@ -1,0 +1,280 @@
+{
+  "headers": [
+    "WATERING HOLES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "WATERING HOLES": "Where do they hang out? Subreddits, Facebook groups, forums, gyms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "ONLINE COMMUNITIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "Platform",
+      "col_2": "Community",
+      "col_3": "Size",
+      "col_4": "Activity",
+      "col_5": "Our Approach"
+    },
+    {
+      "WATERING HOLES": "Reddit",
+      "col_2": "r/keto",
+      "col_3": "3M+",
+      "col_4": "Very high",
+      "col_5": "Value-first, no shilling"
+    },
+    {
+      "WATERING HOLES": "Reddit",
+      "col_2": "r/fasting",
+      "col_3": "1M+",
+      "col_4": "High",
+      "col_5": "Helpful answers"
+    },
+    {
+      "WATERING HOLES": "Reddit",
+      "col_2": "r/Supplements",
+      "col_3": "500K",
+      "col_4": "Medium",
+      "col_5": "Science-backed answers"
+    },
+    {
+      "WATERING HOLES": "Reddit",
+      "col_2": "r/crossfit",
+      "col_3": "300K",
+      "col_4": "High",
+      "col_5": "Community member"
+    },
+    {
+      "WATERING HOLES": "Reddit",
+      "col_2": "r/Biohackers",
+      "col_3": "200K",
+      "col_4": "Medium",
+      "col_5": "Deep content"
+    },
+    {
+      "WATERING HOLES": "Facebook",
+      "col_2": "Keto groups (many)",
+      "col_3": "100K-1M",
+      "col_4": "High",
+      "col_5": "Member, helpful"
+    },
+    {
+      "WATERING HOLES": "Facebook",
+      "col_2": "Fasting groups",
+      "col_3": "100K+",
+      "col_4": "High",
+      "col_5": "Member, helpful"
+    },
+    {
+      "WATERING HOLES": "Discord",
+      "col_2": "Biohacking servers",
+      "col_3": "Varies",
+      "col_4": "Medium",
+      "col_5": "Community member"
+    },
+    {
+      "WATERING HOLES": "Twitter/X",
+      "col_2": "Health/fitness",
+      "col_3": "Varies",
+      "col_4": "Medium",
+      "col_5": "Content, engagement"
+    },
+    {
+      "WATERING HOLES": "PHYSICAL LOCATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• CrossFit gyms (anywhere)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Specialty fitness studios (F45, OrangeTheory)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Running clubs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Triathlon clubs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Yoga studios (some overlap)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Health food stores (Whole Foods, Sprouts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Supplement shops (GNC, Vitamin Shoppe)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Biohacking conferences/meetups",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Keto/low-carb conferences",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "CONTENT THEY CONSUME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "Podcasts:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Huberman Lab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• The Drive (Peter Attia)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• FoundMyFitness (Rhonda Patrick)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Ben Greenfield Fitness",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Keto Savage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "YouTube channels:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Thomas DeLauer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Dr. Berg",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• What I've Learned",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Jeff Nippard",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "Newsletters:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Examine.com",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Biohacker newsletter",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WATERING HOLES": "• Various Substack health writers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 38,
+  "sheet_name": "Watering Holes",
+  "sheet_index": 584
+}

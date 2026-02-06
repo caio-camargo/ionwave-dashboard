@@ -1,0 +1,217 @@
+{
+  "headers": [
+    "VSL AS TRADE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "VSL AS TRADE": "The Video Sales Letter is not a marketing task. It's a Trade with its own assemblages.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "WHY VSL IS A TRADE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "A VSL is the single highest-leverage asset in a D2C business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "It converts cold traffic into customers. Everything else — ads, email, retention —",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "amplifies or follows the VSL. If the VSL doesn't convert, nothing else matters.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "A VSL has all the structural properties of a Trade:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• A thesis (the hook/angle — falsifiable, killable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• A financial model (what CAC does it produce at what spend level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• Contracts (creator agreements, licensing, usage rights)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• An implementation phase (script → production → testing → scaling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• Kill criteria (if CPA > $X after $Y spend, kill this angle)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "• A post-mortem (what worked, what didn't, what transfers to next VSL)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Treating it as a Trade means it gets the same rigor as the business itself.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Most D2C brands treat VSLs as creative guesswork. We treat them as engineering.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "VSL TRADE ASSEMBLAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Assemblage",
+      "col_2": "What It Contains",
+      "col_3": "Equivalent In Business Trade",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Thesis (The Hook)",
+      "col_2": "Core angle, target avatar, primary claim, emotional driver, mechanism",
+      "col_3": "Business thesis — why this company should exist",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Script (The Blueprint)",
+      "col_2": "Full VSL script: hook, problem, agitation, mechanism, proof, offer, CTA, objection handling",
+      "col_3": "ODD-3 Operations — the machine that runs",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Financial Model",
+      "col_2": "Expected CPA at budget tiers, breakeven ROAS, LTV:CAC threshold, scaling curves",
+      "col_3": "ODD-2 Financial Model",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Contracts",
+      "col_2": "Creator agreements, voiceover licensing, music licensing, footage rights, usage terms",
+      "col_3": "ODD-4 Contracts",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Production Spec",
+      "col_2": "Shot list, B-roll requirements, graphics/animations, audio specs, format/length variants",
+      "col_3": "Product specs — what are we building",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Testing Protocol",
+      "col_2": "Variables to test, sample sizes, statistical thresholds, winner criteria, iteration rules",
+      "col_3": "Validation Strategy — how we verify",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Creative Variants",
+      "col_2": "Hook variants, CTA variants, length variants, format variants (IG/TT/YT/Meta)",
+      "col_3": "Product variants — different SKUs",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Post-Mortem Template",
+      "col_2": "What converted, what dropped off, retention curves, qualitative feedback, lessons for next",
+      "col_3": "Trade post-mortem",
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "VSL LIFECYCLE (AS TUP)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL AS TRADE": "Phase",
+      "col_2": "Duration",
+      "col_3": "Activities",
+      "col_4": "Gate Criteria"
+    },
+    {
+      "VSL AS TRADE": "Imagination",
+      "col_2": "1 week",
+      "col_3": "Research angles, study competitors, identify hooks, draft thesis",
+      "col_4": "Thesis documented + 3 angle options"
+    },
+    {
+      "VSL AS TRADE": "Script Development",
+      "col_2": "1 week",
+      "col_3": "Write full script, internal review, revise, lock",
+      "col_4": "Script passes stranger test — someone could produce from script alone"
+    },
+    {
+      "VSL AS TRADE": "Pre-Production",
+      "col_2": "3-5 days",
+      "col_3": "Creator casting, location/setup, shot list, contracts signed",
+      "col_4": "All production requirements locked"
+    },
+    {
+      "VSL AS TRADE": "Production",
+      "col_2": "1-3 days",
+      "col_3": "Film/record, capture B-roll, voiceover, graphics",
+      "col_4": "Raw footage complete"
+    },
+    {
+      "VSL AS TRADE": "Post-Production",
+      "col_2": "3-5 days",
+      "col_3": "Edit, add graphics, create variants, format for platforms",
+      "col_4": "Master + 3 variants ready"
+    },
+    {
+      "VSL AS TRADE": "Testing",
+      "col_2": "2-4 weeks",
+      "col_3": "Deploy ads, collect data, test hooks/CTAs/lengths, statistical analysis",
+      "col_4": "Winner identified OR all killed"
+    },
+    {
+      "VSL AS TRADE": "Scaling",
+      "col_2": "Ongoing",
+      "col_3": "Increase spend on winner, monitor fatigue, plan next VSL",
+      "col_4": "CPA stable at scale for 2+ weeks"
+    },
+    {
+      "VSL AS TRADE": "Post-Mortem",
+      "col_2": "1 day",
+      "col_3": "Document learnings, update angle library, feed into next Trade",
+      "col_4": "Post-mortem complete"
+    }
+  ],
+  "row_count": 34,
+  "sheet_name": "VSL Trade Overview",
+  "sheet_index": 310
+}

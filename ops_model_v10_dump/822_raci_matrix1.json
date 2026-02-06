@@ -1,0 +1,203 @@
+{
+  "headers": [
+    "RACI MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "RACI MATRIX": "Who is Responsible, Accountable, Consulted, Informed for every key activity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "R = Responsible (does the work) | A = Accountable (owns outcome) | C = Consulted (input needed) | I = Informed (kept in loop)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "CORE ACTIVITIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Activity",
+      "col_2": "Operator",
+      "col_3": "CM",
+      "col_4": "Studio",
+      "col_5": "Notes"
+    },
+    {
+      "RACI MATRIX": "Daily ad monitoring",
+      "col_2": "R",
+      "col_3": "I",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Weekly reporting",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Ad creative decisions (<$500)",
+      "col_2": "R/A",
+      "col_3": "I",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Ad creative decisions (>$500)",
+      "col_2": "R",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Supplier selection",
+      "col_2": "R",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Inventory reordering",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Customer support",
+      "col_2": "R",
+      "col_3": "I",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Pricing changes",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "New channel launch",
+      "col_2": "R",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Hiring decisions",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Budget allocation",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Strategy/positioning",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Email campaigns",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Landing page changes",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Kill underperforming ads",
+      "col_2": "R/A",
+      "col_3": "I",
+      "col_4": "I",
+      "col_5": "Within kill criteria"
+    },
+    {
+      "RACI MATRIX": "Pivot/major change",
+      "col_2": "C",
+      "col_3": "C",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Monthly review",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "A",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "Compliance checks",
+      "col_2": "R",
+      "col_3": "A",
+      "col_4": "I",
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "ESCALATION RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "• If Operator is R but blocked → escalate to CM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "• If CM can't resolve → escalate to Studio",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "• Anything >$500 or strategic → Studio is A",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RACI MATRIX": "• Time-sensitive (<24hr) → Operator can decide, inform after",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "RACI Matrix1",
+  "sheet_index": 822
+}

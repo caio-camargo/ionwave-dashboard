@@ -1,0 +1,139 @@
+{
+  "headers": [
+    "BANK ACCOUNT SETUP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "BANK ACCOUNT SETUP": "How to open and manage business bank accounts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "WHAT YOU NEED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "☐ EIN (Employer Identification Number)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "☐ Formation documents (Articles of Incorporation/Organization)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "☐ Operating Agreement or Bylaws",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "☐ Personal ID for signers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "☐ Initial deposit (varies by bank)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "RECOMMENDED BANKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "Bank",
+      "col_2": "Best For",
+      "col_3": "Fees",
+      "col_4": "Notes"
+    },
+    {
+      "BANK ACCOUNT SETUP": "Mercury",
+      "col_2": "Startups",
+      "col_3": "Free",
+      "col_4": "Best for startups, online-only, integrations"
+    },
+    {
+      "BANK ACCOUNT SETUP": "Relay",
+      "col_2": "Small business",
+      "col_3": "Free",
+      "col_4": "Good for multiple accounts"
+    },
+    {
+      "BANK ACCOUNT SETUP": "Brex",
+      "col_2": "Funded startups",
+      "col_3": "Free",
+      "col_4": "Requires funding, great cards"
+    },
+    {
+      "BANK ACCOUNT SETUP": "Chase",
+      "col_2": "Traditional",
+      "col_3": "$15/mo",
+      "col_4": "Branch access, established"
+    },
+    {
+      "BANK ACCOUNT SETUP": "Bank of America",
+      "col_2": "Traditional",
+      "col_3": "$15/mo",
+      "col_4": "Branch access"
+    },
+    {
+      "BANK ACCOUNT SETUP": "ACCOUNT STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "Minimum accounts needed:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "• Operating account - Day-to-day expenses",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "• Tax reserve account - Set aside for taxes (25-30% of profit)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "Consider adding:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "• Payroll account - Separate for payroll",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BANK ACCOUNT SETUP": "• Savings/reserve - Emergency fund",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Bank Account Setup",
+  "sheet_index": 175
+}

@@ -1,0 +1,124 @@
+{
+  "headers": [
+    "SUPPLIER AUDIT CHECKLIST"
+  ],
+  "rows": [
+    {
+      "SUPPLIER AUDIT CHECKLIST": "What to verify when visiting/evaluating manufacturer"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "PRE-VISIT DOCUMENT REQUEST"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Business license and registration"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ GMP (Good Manufacturing Practice) certification"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ FDA registration (if US)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Recent third-party audit reports"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Sample CoAs from recent batches"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Insurance certificate"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Quality manual / SOPs overview"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Customer references (other brands they supply)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "FACILITY INSPECTION"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ General cleanliness and organization"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Pest control evidence (traps, logs)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Temperature and humidity controls"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Raw material storage (separate, labeled, FIFO)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Production area (clean, controlled access)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Packaging area (contamination prevention)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Finished goods storage (proper conditions)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Lab facilities (if in-house testing)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Employee hygiene (uniforms, handwashing, training)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Waste disposal procedures"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "PROCESS VERIFICATION"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Raw material receiving and inspection process"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Batch record keeping (traceability)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ In-process quality checks"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Finished product testing before release"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Hold and release procedures"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Recall procedures (how they'd handle it)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Change control (how changes are documented)"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "☐ Complaint handling process"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "RED FLAGS"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Reluctant to allow visit or restricted areas"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Missing or incomplete documentation"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Dirty or disorganized facility"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Can't explain their own processes"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• No third-party certifications"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Pressure to commit before verification"
+    },
+    {
+      "SUPPLIER AUDIT CHECKLIST": "• Unwilling to provide references"
+    }
+  ],
+  "row_count": 38,
+  "sheet_name": "Supplier Audit Checklist",
+  "sheet_index": 239
+}

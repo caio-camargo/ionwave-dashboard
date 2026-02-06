@@ -1,0 +1,130 @@
+{
+  "headers": [
+    "SUPPLEMENT FACTS PANEL SPECIFICATION"
+  ],
+  "rows": [
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Exact label requirements and formatting rules"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "REQUIRED ELEMENTS"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "1. 'Supplement Facts' heading (specific format)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "2. Serving size"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "3. Servings per container"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "4. Amount per serving"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "5. % Daily Value (%DV)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "6. Ingredients with amounts"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "7. Other ingredients (non-active)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "8. Allergen statement if applicable"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "9. Manufacturer/distributor info"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "10. Net quantity statement"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "SAMPLE SUPPLEMENT FACTS PANEL"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "═══════════════════════════════════"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Supplement Facts"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Serving Size: 1 stick pack (6g)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Servings Per Container: 30"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "───────────────────────────────────"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Amount    %DV"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "───────────────────────────────────"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Sodium              1000mg    43%"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Potassium            200mg     4%"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Magnesium             60mg    14%"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Chloride            ___mg    ___%"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Deep Ocean Mineral   500mg     *"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Concentrate"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "(providing 78 trace minerals)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "───────────────────────────────────"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "* Daily Value not established"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "═══════════════════════════════════"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "Other Ingredients: Citric acid, natural"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "flavors, stevia leaf extract, silica."
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "FORMATTING RULES"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• Font: Minimum 6pt for most text, 8pt for 'Supplement Facts' header"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• Hairline rules required between sections"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• Nutrients must be in FDA-specified order"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• %DV based on 2,000 calorie diet"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• If no DV established, use asterisk (*)"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• Proprietary blends: list total weight + ingredients in descending order"
+    },
+    {
+      "SUPPLEMENT FACTS PANEL SPECIFICATION": "• Allergens: Must be in BOLD or separate statement"
+    }
+  ],
+  "row_count": 40,
+  "sheet_name": "Supplement Facts Spec",
+  "sheet_index": 253
+}

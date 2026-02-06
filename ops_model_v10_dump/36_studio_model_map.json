@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "STUDIO LEVEL — FULL MODEL MAP (S0-S40)",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "The studio needs the same sophistication as the business. Here's every model it needs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "NOTE ON EXISTING MODELS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S1 (Production), S2 (Labor), S3 (Infrastructure) already exist with content tabs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "They need to be EXPANDED, not replaced. And 37+ new models need to be created.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Every S- model gets the same structural tabs: P- (Project Plan), C- (Contract), IP- (Industry), V- (Verification).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Below is the full map. Existing models marked with ★.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Model",
+      "col_2": "Name",
+      "col_3": "What It Covers",
+      "col_4": "Comparable Business Model",
+      "col_5": "Status"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S0",
+      "col_2": "Studio Thesis",
+      "col_3": "Why this studio exists. The coordination hedgefund thesis. What we believe. What we're building. Kill criteria for the studio itself.",
+      "col_4": "M0 (Trade Thesis)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S1 ★",
+      "col_2": "Production System",
+      "col_3": "How Trades get produced. AI loop. Expert calibration. Quality standards. The 5-step production process.",
+      "col_4": "M37 (AI & Automation)",
+      "col_5": "EXISTS — expand"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S2 ★",
+      "col_2": "Labor Architecture",
+      "col_3": "Roles, recruiting funnels, career boosters, contracts, the MC, the admin, onboarding UX. Full labor system.",
+      "col_4": "M1 (Labor) + M31 (Hiring)",
+      "col_5": "EXISTS — expand"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S3 ★",
+      "col_2": "Infrastructure & Fundraising",
+      "col_3": "Two-company structure. DAO. Entity. Cap table. Fundraising for the infrastructure company.",
+      "col_4": "M2 (Entity) + M4 (Fundraising)",
+      "col_5": "EXISTS — expand"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S4",
+      "col_2": "Trade Architecture",
+      "col_3": "What a Trade IS. How models relate. Tab dependencies. The map of maps. Grand unifying dictionary. Symbol grounding.",
+      "col_4": "M34 (Trade Architecture)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S5",
+      "col_2": "Studio Governance",
+      "col_3": "How decisions get made at studio level. Compliance Manager for the studio. Grading of Trades. Quality gates.",
+      "col_4": "M33 (Governance & CM)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S6",
+      "col_2": "Recruiting Engine",
+      "col_3": "The Dan Crowley funnel for every role. Cold email. Platforms. Advertorial engine. Fernando Oliver swipe files. Pass-the-bottom recruiting.",
+      "col_4": "M31 (Hiring)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S7",
+      "col_2": "MC System",
+      "col_3": "The MC role in full. Conversation scheduling. Production specs. Equipment. Training. Content management.",
+      "col_4": "M11 (VSL Production)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S8",
+      "col_2": "Series Production",
+      "col_3": "The series producer role. Narrative arcs. Episode planning. Cast management. Story bible. Production quality standards.",
+      "col_4": "M12 (Ad Creative)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S9",
+      "col_2": "Expert Network",
+      "col_3": "How we find, engage, and retain domain experts. Expert profiles. Compensation. Review process. Grading rubric.",
+      "col_4": "M23 (Influencer & Creator)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S10",
+      "col_2": "PM Co-Founder System",
+      "col_3": "How cluster PMs are recruited, onboarded, managed, and evaluated. Scorecard. Competence framework. Equity structure.",
+      "col_4": "M31 (Hiring) + M33 (Governance)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S11",
+      "col_2": "Participant UX",
+      "col_3": "The full journey from first touch to cast page. Every touchpoint designed. Onboarding. Offboarding. Alumni network.",
+      "col_4": "M19 (Customer Lifecycle)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S12",
+      "col_2": "Career Booster Framework",
+      "col_3": "How every role is a career booster. Portfolio artifacts. Network value. Skills demonstrated. The pitch per role.",
+      "col_4": "M10 (Pricing & Offer)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S13",
+      "col_2": "Culture & Values",
+      "col_3": "What the studio believes. How people treat each other. Communication norms. Conflict resolution. What we don't tolerate.",
+      "col_4": "M8 (Brand)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S14",
+      "col_2": "Cluster Operations",
+      "col_3": "How clusters work. Formation. PM assignment. Expert pairing. Milestone tracking. Cross-cluster dependencies.",
+      "col_4": "M35 (Execution Plans)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S15",
+      "col_2": "Advertorial Engine",
+      "col_3": "The system for turning models into lead magnets. Fernando Oliver model. Extract → Package → Gate → Distribute → Sequence → Convert.",
+      "col_4": "M16 (Content & SEO)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S16",
+      "col_2": "Studio Financial Model",
+      "col_3": "Economics of the studio. Cost per Trade. Revenue per business launched. Portfolio modeling. Fund economics.",
+      "col_4": "M3 (Financial Model)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S17",
+      "col_2": "Studio Entity & Legal",
+      "col_3": "Holding company structure. IP licensing. Portfolio company relationships. Studio cap table. Inter-entity agreements.",
+      "col_4": "M2 (Entity & Legal)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S18",
+      "col_2": "Studio Tech Stack",
+      "col_3": "Tools used to produce Trades. Claude configuration. Spreadsheet infrastructure. CMS. Video hosting. Collaboration tools.",
+      "col_4": "M9 (Ecommerce Infrastructure)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S19",
+      "col_2": "Knowledge Management",
+      "col_3": "How the studio captures, organizes, and retrieves knowledge across Trades. The library. Search. Cross-referencing.",
+      "col_4": "M36 (Operational Infrastructure)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S20",
+      "col_2": "Studio Analytics",
+      "col_3": "Metrics for the studio itself. Trades produced. Models verified. People recruited. Businesses launched. Portfolio performance.",
+      "col_4": "M30 (Analytics)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S21",
+      "col_2": "Content Strategy",
+      "col_3": "What content the studio produces. YouTube. Twitter. LinkedIn. Podcasts. Newsletters. Which channels. What cadence.",
+      "col_4": "M16 (Content & SEO)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S22",
+      "col_2": "Site Architecture",
+      "col_3": "The password-protected site. Design. UX. Video hosting. Cast page. Daily updates. CMS requirements.",
+      "col_4": "M9 (Ecommerce) + M15 (Landing Pages)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S23",
+      "col_2": "Community",
+      "col_3": "How participants stay connected. Alumni network. Slack/Discord. Events. The network effect of having worked in the system.",
+      "col_4": "M22 (Referral & Community)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S24",
+      "col_2": "Portfolio Thesis",
+      "col_3": "What businesses the studio launches and why. Selection criteria. Market sizing. Thesis for each business type.",
+      "col_4": "M0 (Trade Thesis) at portfolio level",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S25",
+      "col_2": "Business Selection",
+      "col_3": "How new businesses get selected. Evaluation framework. Kill criteria. Go/no-go decisions. Pipeline management.",
+      "col_4": "M28 (Market & Expansion)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S26",
+      "col_2": "Operator Matching",
+      "col_3": "How CoS/operators get matched to businesses. Scorecard. Cultural fit. Domain fit. Incentive alignment.",
+      "col_4": "M31 (Hiring) at portfolio level",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S27",
+      "col_2": "Portfolio Monitoring",
+      "col_3": "How the studio tracks performance of launched businesses. Dashboards. CM grading. Intervention triggers.",
+      "col_4": "M33 (Governance) at portfolio level",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S28",
+      "col_2": "Cross-Pollination",
+      "col_3": "How learnings from one business improve others. Shared services. Shared experts. Shared infrastructure.",
+      "col_4": "M36 (Operational Infrastructure)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S29",
+      "col_2": "Studio Fundraise",
+      "col_3": "The raise for the infrastructure company. Deck. Data room. Investor targets. Timeline. Terms.",
+      "col_4": "M4 (Fundraising)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S30",
+      "col_2": "Investor Relations",
+      "col_3": "How we communicate with studio investors. Updates. Reporting. Board management. Transparency.",
+      "col_4": "M29 (PR & Communications)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S31",
+      "col_2": "Studio Competitive Intel",
+      "col_3": "Other venture studios. How they work. Where we're different. Rocket Internet. Pioneer Square. Atomic. Idealab.",
+      "col_4": "M26 (Competitive Intelligence)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S32",
+      "col_2": "School Model (Studio)",
+      "col_3": "The school model applied to the studio. How operators learn. Semesters. Graduation. Curriculum.",
+      "col_4": "M32 (School Model)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S33",
+      "col_2": "Coordination Theory",
+      "col_3": "The theoretical foundations. Complexity at launch. Requisite variety. Coordination debt. The intellectual framework.",
+      "col_4": "M38 (Strategic Frameworks)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S34",
+      "col_2": "Conceptual Foundations",
+      "col_3": "Bohm, Alexander, Tononi, Ashby. How deep theory generates operational improvements.",
+      "col_4": "M39 (Conceptual)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S35",
+      "col_2": "Trade-to-Textbook",
+      "col_3": "How Trades become published references. Editing process. Design. Distribution. ISBN. The textbook business.",
+      "col_4": "M16 (Content)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S36",
+      "col_2": "Trade-to-SaaS",
+      "col_3": "How Trades become software. Product requirements. AI integration. User experience. The SaaS business.",
+      "col_4": "M9 (Ecommerce) + M37 (AI)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S37",
+      "col_2": "Studio Scaling",
+      "col_3": "What happens at 10 businesses. At 50. At 500. Organizational design at scale. The network effects.",
+      "col_4": "M28 (Market & Expansion)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S38",
+      "col_2": "Studio Risk Management",
+      "col_3": "What can go wrong. Scenario planning. Insurance. Business continuity. What if Nilo dies.",
+      "col_4": "M36 (Operational Infrastructure)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S39",
+      "col_2": "Studio Execution Rhythms",
+      "col_3": "Daily, weekly, monthly cadence for the studio. Standups. Reviews. Planning. Retrospectives.",
+      "col_4": "M35 (Execution Plans)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "S40",
+      "col_2": "Studio Command Center",
+      "col_3": "The studio-level navigation. Where does a new studio participant start? How do they orient?",
+      "col_4": "M40 (Navigation & Command)",
+      "col_5": "NEW"
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "COUNT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Studio Level: 41 models (S0-S40)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Business Level: 41 models (M0-M40)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "STUDIO LEVEL — FULL MODEL MAP (S0-S40)": "Funnel Level: see Funnel Model Map tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "Studio Model Map",
+  "sheet_index": 36
+}

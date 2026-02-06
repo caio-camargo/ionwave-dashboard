@@ -1,0 +1,154 @@
+{
+  "headers": [
+    "DATA FRESHNESS REQUIREMENTS"
+  ],
+  "rows": [
+    {
+      "DATA FRESHNESS REQUIREMENTS": "How often each tab needs updating"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "REAL-TIME (Update as it happens)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Decision Log"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Changes Tracker"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Thick Events Register"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Paradigm Shift Log"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Risk Register (new risks)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "DAILY"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Key Metrics Dashboard"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Cash Flow Monitoring"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Ad Performance (during active spend)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "WEEKLY"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Creative Performance Tracker"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Inventory Forecast"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Cohort Analysis"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Email Segmentation metrics"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Competitor Monitoring"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Attribution Model"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Churn Prediction"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• KPI Dashboard"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Weekly Operating Rhythm"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "MONTHLY"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Unit Economics (validate actuals)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Cash Flow Model"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• 13-Week Cash Flow"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Working Capital Model"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Scenario Planning"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Model Self-Audit"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Assumptions Register"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Information Integration Score"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Beauty Metrics"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "QUARTERLY"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Competitive Intel (deep refresh)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• ICP tabs"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Brand Guidelines review"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Benchmark Data"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Market Data"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Requisite Variety Inventory"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Portfolio Reality Check"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• M&A Strategy"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "STATIC (Update only when fundamentally changes)"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• The Equations"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• The Games"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Game Physics Rulebook"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Grand Unifying Dictionary"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• How to Use This Model"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Tab Dependencies Map"
+    },
+    {
+      "DATA FRESHNESS REQUIREMENTS": "• Operator Contract Template"
+    }
+  ],
+  "row_count": 48,
+  "sheet_name": "Data Freshness Requirements",
+  "sheet_index": 634
+}

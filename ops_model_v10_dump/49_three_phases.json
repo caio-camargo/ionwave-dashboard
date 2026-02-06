@@ -1,0 +1,121 @@
+{
+  "headers": [
+    "THREE PHASES OF THE LABOR SEQUENCE"
+  ],
+  "rows": [
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "BUILD the Trade. VALIDATE the Trade. DEPLOY the Trade."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "PHASE 1: BUILD (Weeks 1-12)"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Links: Nilo → VA → CoS → Recruiter → Lead PM"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Goal: Produce the imagination asset. The complete first-draft Trade."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "The imagination asset is the thing that makes everything downstream possible."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Without it, you're pitching a concept. With it, you're showing a machine."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "An investor can see the 688 tabs. An expert can review their domain. A CEO candidate"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "can understand exactly what they'd be operating. It's not a pitch deck — it's the business itself,"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "pre-built, waiting for someone to turn it on."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "The Lead PM is the key hire in this phase. They don't need to be a domain expert in anything."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "They need to be organized, relentless, and comfortable using Claude as their primary tool."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "They run the AI production loop: prompt Claude, review output, flag gaps, iterate."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Output: Complete first-draft Trade. Every tab filled. Not A-grade yet, but legible and complete."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "PHASE 2: VALIDATE (Weeks 10-22)"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Links: Cluster PMs → Venture Partners → Experts → Investors"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Goal: Take the imagination asset from first draft to expert-grade. Get external validation."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Cluster PMs each own a domain. They take the Lead PM's draft and run the expert calibration"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "loop for their cluster. Each expert session improves the models AND generates introductions."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "PMs find Venture Partners through their expert networks. VPs validate and connect."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "This phase is where the Trade goes from 'impressive AI output' to 'credible operating system.'"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Expert review is not just quality improvement — it's credibility accumulation."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Every expert who says 'this is actually good' is a proof point."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Every Venture Partner who introduces an investor is a validation signal."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "The constraint is legibility. The Trade is too weird for most people to navigate raw."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Claude is the human interface. Every person in the chain interacts with the Trade through Claude."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "The spreadsheet is the database. Claude is the UI. Nobody navigates 688 tabs directly."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Output: A-grade Trade. Expert-validated. Investor interest. Venture Partner network."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "PHASE 3: DEPLOY (Weeks 22-30+)"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Links: CEO Recruiter → CEO / Operator"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Goal: Find and install the person who runs the business."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "By this point, the CEO recruiter is pitching a funded company with an expert-validated"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "688-tab operating system, investor backing, a venture partner network, and a governance"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "framework (CM, School Model, semesters, graduation criteria)."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "That is a fundamentally different recruiting pitch than 'we have an idea for an electrolyte brand.'"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "The CEO/Operator enrolls in the School Model. Semester 1 begins. The Trade Execution Tracker"
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "becomes the live project plan. The CM starts grading. The system runs."
+    },
+    {
+      "THREE PHASES OF THE LABOR SEQUENCE": "Output: Revenue. Customers. A running business on track to graduation."
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Three Phases",
+  "sheet_index": 49
+}

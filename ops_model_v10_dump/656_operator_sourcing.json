@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "OPERATOR SOURCING CHANNELS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "OPERATOR SOURCING CHANNELS": "Upwork",
+      "col_2": "Search for D2C, ecommerce, Shopify operators"
+    },
+    {
+      "OPERATOR SOURCING CHANNELS": "Twitter/X",
+      "col_2": "DTC community, search \"looking for opportunity\""
+    },
+    {
+      "OPERATOR SOURCING CHANNELS": "LinkedIn",
+      "col_2": "Search previous brand operators"
+    },
+    {
+      "OPERATOR SOURCING CHANNELS": "Communities",
+      "col_2": "Trends, EcomCrew, D2C Twitter"
+    },
+    {
+      "OPERATOR SOURCING CHANNELS": "Referrals",
+      "col_2": "Ask other founders who they know"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Operator Sourcing",
+  "sheet_index": 656
+}

@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F11: MC Conversation System — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "How MC conversations are scheduled, recorded, published. Workflow from scheduling to cast page.",
+      "col_2": null
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — MC Conversation System (F11)"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F11: MC Conversation System within FCL-2"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F11]"
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the MC Conversation System model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F11: MC Conversation System — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F11",
+  "sheet_index": 1144
+}

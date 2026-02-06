@@ -1,0 +1,423 @@
+{
+  "headers": [
+    "COMPANY AS A SYSTEM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "COMPANY AS A SYSTEM": "Systems engineering view of the business - subsystems, flows, feedback loops",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "THE SYSTEMS VIEW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "A business is a system: inputs → process → outputs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Systems thinking asks: What are the subsystems? How do they connect?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Where are the feedback loops? Where are the bottlenecks?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "The goal: Optimize the SYSTEM, not just individual parts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "A locally optimal subsystem can hurt the whole system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "SUBSYSTEMS MAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Subsystem",
+      "col_2": "Purpose",
+      "col_3": "Key Inputs",
+      "col_4": "Key Outputs",
+      "col_5": "Key Metrics",
+      "col_6": "Owner"
+    },
+    {
+      "COMPANY AS A SYSTEM": "1. ACQUISITION",
+      "col_2": "Get customers",
+      "col_3": "Creative, Budget, Targeting",
+      "col_4": "Customers, Data",
+      "col_5": "CAC, ROAS, Volume",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "2. CONVERSION",
+      "col_2": "Turn visitors to buyers",
+      "col_3": "Traffic, Landing Page, Offer",
+      "col_4": "Orders, Revenue",
+      "col_5": "CVR, AOV",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "3. PRODUCT",
+      "col_2": "Deliver value",
+      "col_3": "Formulation, Supplier, Packaging",
+      "col_4": "Physical product",
+      "col_5": "Quality, COGS, Lead time",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "4. FULFILLMENT",
+      "col_2": "Get product to customer",
+      "col_3": "Orders, Inventory, 3PL",
+      "col_4": "Delivered packages",
+      "col_5": "Ship time, Cost, Accuracy",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "5. RETENTION",
+      "col_2": "Keep customers",
+      "col_3": "Email, Product experience, Support",
+      "col_4": "Repeat purchases, LTV",
+      "col_5": "Churn, Subscription %, LTV",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "6. FINANCE",
+      "col_2": "Manage money",
+      "col_3": "Revenue, Costs, Capital",
+      "col_4": "Cash, Runway, Profit",
+      "col_5": "Margin, Burn, Runway",
+      "col_6": "Studio"
+    },
+    {
+      "COMPANY AS A SYSTEM": "7. LEARNING",
+      "col_2": "Get smarter",
+      "col_3": "Data, Experiments, Feedback",
+      "col_4": "Insights, Improvements",
+      "col_5": "Experiments/week, Win rate",
+      "col_6": "Operator"
+    },
+    {
+      "COMPANY AS A SYSTEM": "SYSTEM FLOWS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "MONEY FLOW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Capital → Ads → Customers → Revenue → (Profit) → Capital",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "CUSTOMER FLOW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Stranger → Visitor → Lead → Customer → Repeat Customer → Advocate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "PRODUCT FLOW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Supplier → Inventory → 3PL → Customer → (Returns)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "DATA FLOW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Customer behavior → Analytics → Insights → Decisions → Actions → Customer behavior",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "INFORMATION FLOW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Market → Research → Strategy → Execution → Results → Market",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "FEEDBACK LOOPS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Loop",
+      "col_2": "Type",
+      "col_3": "How It Works",
+      "col_4": "Health Check",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Creative → Performance → Creative",
+      "col_2": "Reinforcing",
+      "col_3": "Winners inform new creative briefs",
+      "col_4": "Are we using learnings?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Revenue → Ads → Revenue",
+      "col_2": "Reinforcing",
+      "col_3": "Profit funds more ads",
+      "col_4": "Is this loop positive?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Experience → Reviews → Trust → Sales",
+      "col_2": "Reinforcing",
+      "col_3": "Good experience drives growth",
+      "col_4": "Review trajectory?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Churn → Less Revenue → Less Budget → Worse Product",
+      "col_2": "Reinforcing (bad)",
+      "col_3": "Death spiral",
+      "col_4": "Churn trending?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Quality Issues → Support Load → Slower Response → More Issues",
+      "col_2": "Reinforcing (bad)",
+      "col_3": "Service death spiral",
+      "col_4": "Support metrics?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "BOTTLENECK ANALYSIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Theory of Constraints: The system is limited by its bottleneck. Fix the bottleneck first.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Potential Bottleneck",
+      "col_2": "How to Detect",
+      "col_3": "Current Status",
+      "col_4": "Constraint?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Creative production",
+      "col_2": "Can't test fast enough, ads fatigue",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Ad spend capacity",
+      "col_2": "Profitable but can't scale budget",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Inventory/Supply",
+      "col_2": "Stockouts, long lead times",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Cash",
+      "col_2": "Profitable but can't fund growth",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Operator bandwidth",
+      "col_2": "Everything waiting on one person",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Customer acquisition",
+      "col_2": "Can't find enough customers profitably",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Retention",
+      "col_2": "Getting customers but they don't stay",
+      "col_3": null,
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "SYSTEM HEALTH DASHBOARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "Metric",
+      "col_2": "What It Measures",
+      "col_3": "Target",
+      "col_4": "Current",
+      "col_5": "Status",
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "System Throughput",
+      "col_2": "Revenue / month",
+      "col_3": "$100K MRR",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "System Efficiency",
+      "col_2": "Profit margin",
+      "col_3": ">20%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "System Velocity",
+      "col_2": "Idea to result time",
+      "col_3": "<2 weeks",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "System Reliability",
+      "col_2": "Uptime (no fires)",
+      "col_3": ">95%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS A SYSTEM": "System Learning Rate",
+      "col_2": "Experiments / week",
+      "col_3": ">3",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Company as a System",
+  "sheet_index": 841
+}

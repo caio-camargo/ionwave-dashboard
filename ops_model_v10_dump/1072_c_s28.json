@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S28: Cross-Pollination — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "How learnings transfer across businesses. Shared playbooks, operator rotation, knowledge base.",
+      "col_2": null
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Cross-Pollination (S28)"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S28: Cross-Pollination within SCL-5"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S28]"
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Cross-Pollination model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S28: Cross-Pollination — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S28",
+  "sheet_index": 1072
+}

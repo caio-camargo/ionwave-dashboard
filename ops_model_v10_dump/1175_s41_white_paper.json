@@ -1,0 +1,280 @@
+{
+  "headers": [
+    "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES"
+  ],
+  "rows": [
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "A 104-Model Experiment in Decentralized Venture Creation"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Danilo Vicioso · Studio 4 · Working Paper Draft · 2026"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "ABSTRACT"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "We present the design of a coordination artifact — a structured document containing 104 domain models across 1,174 tabs — engineered to replace centralized management in the creation of a new consumer venture. The artifact, called a Trade, encodes the complete operational imagination for a direct-to-consumer electrolyte company (IonWave), organized as an interconnected set of Trade Unit Projects (TUPs) spanning product science, supply chain, regulatory compliance, financial modeling, brand identity, content production, and go-to-market strategy.\n\nDrawing on Stanford's flash teams model (Valentine & Bernstein, 2025), swarm intelligence research (Nagpal et al.; Couzin et al.), and mechanism design theory (Roughgarden, 2016), we propose that a sufficiently detailed coordination artifact can serve as the primary coordination mechanism for a distributed team of 40-60 flash contributors — each interacting only with their assigned portion of the artifact and an AI co-pilot (Claude, Anthropic) — producing expert-grade output with zero centralized management after initial conditions are set.\n\nThis paper describes the artifact's architecture, the organizational model it enables, the theoretical foundations it draws from, and the experiment we intend to run. We present the Trade not as a business plan but as an applied research instrument: a test of whether coordination can be fully encoded in a document, eliminating the need for a manager, a meeting, or a shared office."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "1. INTRODUCTION: THE COORDINATION PROBLEM IN VENTURE CREATION"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Launching a consumer business requires coordinating dozens of specialized domains — formulation chemistry, regulatory compliance, supply chain logistics, brand design, media buying, financial modeling, legal structure — into a coherent whole. Traditionally, this coordination is performed by a founder or management team: human beings who hold the complete vision in their heads and translate it into instructions, meetings, Slack messages, and one-on-one conversations.\n\nThis model has three structural problems. First, it doesn't scale: the founder becomes a bottleneck as complexity increases. Second, it doesn't transfer: when the founder leaves, the coordination capacity leaves with them. Third, it doesn't compound: every new hire requires the founder to re-explain the vision, losing fidelity with each retelling.\n\nWe propose an alternative: externalize the founder's coordination capacity into an artifact — a document so detailed that it can instruct a stranger what to do, what 'done' looks like, what decisions have already been made, and what decisions remain open — without ever speaking to the founder.\n\nThis is not a business plan. A business plan describes what a company intends to do. A coordination artifact describes, at the level of individual work assignments, HOW every domain of the company should be built, by whom, to what standard, verified by what expert, and connected to what adjacent domains. The distinction is between a map and a set of turn-by-turn directions."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "2. THE TRADE: ARCHITECTURE OF A COORDINATION ARTIFACT"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The IonWave Trade is a single spreadsheet file containing 1,174 tabs organized into a strict hierarchy. The hierarchy has six levels, from largest to smallest:"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "2.1 Structural Hierarchy"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Trade → the complete operating model for one business. Contains 2 Passets."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Passet → one of two files: Imagination (organized by domain, locks when graded) or Implementation (organized by time, updated daily)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Level → major division. Three levels: Studio (how the studio operates), Business (how IonWave works), Funnel (how people find us)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Cluster → group of related TUPs produced together by one flash team. 18 clusters total."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• TUP (Trade Unit Project) → a single domain model. The fundamental unit. 104 TUPs total."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Tab → a single page within a TUP. 1,174 tabs total across the Trade."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "2.2 Tab Types"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Every TUP contains structural tabs that make it a self-contained executable project:\n\n  P-tab (Project Plan): Scope, deliverables, done criteria, timeline, dependencies. The syllabus.\n  C-tab (Contract): Role, equity, time commitment, IP assignment, termination. The enrollment form.\n  IP-tab (Industry Perspectives): Domain context, best practices, benchmarks, common pitfalls. The required reading.\n  V-tab (Verification): Grading rubric (A/B/C/D/F), expert sign-off fields. The final exam.\n  Content tabs: The actual substance — models, frameworks, analyses, strategies.\n\nA flash contributor receives their TUP's tabs and nothing else. The P-tab tells them what to build. The C-tab tells them the deal. The IP-tab gives them domain context. They produce the content tabs. An expert grades them on the V-tab. At no point do they need to speak to the founder."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "2.3 Two-Passet Model"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The Trade produces two files:\n\nImagination Passet (this artifact): 1,174 tabs organized by domain. Contains the complete knowledge model for how IonWave should work. Locks permanently when all V-tabs converge on passing grades. Becomes a reference — a published textbook.\n\nImplementation Passet (built post-lock): ~75-80 tabs organized by time. Contains tasks extracted from the Imagination Passet, grouped by month and role. Updated daily. Stays alive forever.\n\nThe Imagination Passet is the brain. The Implementation Passet is the body. The separation ensures that the coordination artifact (the thinking) is never corrupted by operational updates (the doing)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3. THEORETICAL FOUNDATIONS"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3.1 Flash Teams (Valentine & Bernstein, Stanford HAI)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Valentine and Bernstein's flash teams research (MIT Press, 2025) demonstrated that groups of experts can assemble quickly through platforms, coordinate via software, produce high-quality output, and dissolve when complete — without ever meeting. Members are matched to tasks based on skills, coordinated by computational workflows, and paid per deliverable.\n\nWe extend flash teams in three ways. First, the coordination software is the Trade itself — a static document rather than a dynamic platform. Each TUP's P-tab is a computational workflow compressed into a single page. Second, we add an AI co-pilot (Claude, Anthropic) as a permanent collaborator available to every flash contributor, reducing the need for human-to-human coordination. Third, we add a verification layer (expert grading on V-tabs) that creates quality guarantees without managerial oversight."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3.2 Swarm Intelligence (Nagpal, Couzin, Dorigo)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Swarm intelligence research demonstrates that large groups of simple agents — ants, bees, fish, robots — can produce complex, adaptive, intelligent behavior through local interaction rules alone, with no central controller (Nagpal et al., Kilobots; Couzin et al., collective decision-making; Dorigo, ant colony optimization).\n\nThe Trade applies swarm principles to human organizational coordination. Each flash contributor is an agent with local information (their TUP's tabs) and simple rules (read P-tab, produce content, submit to librarian). The librarian is an information routing mechanism — analogous to pheromone trails in ant colonies — that distributes outputs across the system without understanding their content. The MC (Master of Ceremonies) is a signal amplification mechanism that broadcasts entrance and exit events, maintaining system awareness without requiring point-to-point communication.\n\nThe hypothesis is that these local interaction rules — mediated by the artifact rather than by a manager — produce emergent coordination: a coherent, expert-grade operating model for a consumer venture, built by strangers who never meet."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3.3 Mechanism Design (Roughgarden, Buterin, Weyl)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Mechanism design theory asks: given a desired outcome, what rules of interaction will cause self-interested agents to produce that outcome? (Roughgarden, Twenty Lectures on Algorithmic Game Theory, 2016). In blockchain governance, this question becomes: what token structures, voting mechanisms, and incentive schemes cause decentralized participants to maintain a protocol? (Buterin, various blog posts on coordination, governance, and quadratic funding; Buterin, Hitzig & Weyl, 'Liberal Radicalism,' 2019).\n\nThe Trade is a mechanism design problem. The desired outcome is a complete, expert-grade operating model. The agents are flash contributors with heterogeneous skills, limited information, and self-interest (equity, portfolio artifacts, credentials). The mechanism is the artifact itself: P-tabs define scope (constraining behavior), C-tabs define incentives (equity conditional on expert grade), V-tabs define verification (quality enforcement), and the librarian enforces information routing (preventing uncoordinated action).\n\nThe equity structure — 0.1-0.5% per sprint, vesting only upon V-tab grade of B or above — is an incentive-compatible mechanism: contributors who produce high-quality work are rewarded; those who don't are not. No manager needs to evaluate performance. The expert's grade IS the mechanism."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3.4 Coordination Protocols (Vicioso)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The author's prior work on coordination theory (coordinationprotocols.com) proposes that the optimal organizational design achieves maximum variety with the fewest rules. A coordination protocol is a minimal set of constraints that enables maximal emergent behavior — analogous to a grammar that enables infinite sentences, or a protocol that enables infinite applications.\n\nThe Trade is an empirical test of this principle. 1,174 tabs of structure may appear to be 'many rules,' but each TUP is self-contained: a contributor needs only their 5-7 tabs to operate. The global structure exists for the system's benefit (cross-references, dependencies, coherence), not for the contributor's burden. The contributor's experience is local and simple. The system's behavior is global and complex. This is the defining characteristic of well-designed coordination protocols."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "3.5 Network States and Digital-First Organizations (Srinivasan)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Srinivasan's network state thesis (The Network State, 2022) proposes that digital communities can assemble online, organize around shared purpose, crowdfund physical territory, and eventually gain diplomatic recognition — all coordinated by software rather than geographic proximity.\n\nThe Trade is a network state for venture creation. It assembles a digital community (flash contributors), organizes them around a shared artifact (the Trade), coordinates them through software (the librarian's Google Drive structure + Claude as AI co-pilot), and produces a real-world output (a launched consumer business). The contributor base is globally distributed, may never meet, and is coordinated entirely by the artifact. The parallel to Srinivasan's 'cloud-first, then physical' model is precise: the Trade is cloud-first operational imagination that materializes into a physical business."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "4. THE ORGANIZATIONAL MODEL: ROLES, INCENTIVES, AND INFORMATION FLOW"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "4.1 Role Architecture"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The Trade defines two role types:\n\nPersistent roles (3 people, full production cycle): Librarian (maintains both passets, distributes working folders, updates master file), Conductor (sources flash contributors, manages pipeline, handles logistics), MC (conducts recorded entrance/exit conversations, produces daily updates). These are connective tissue — they keep the system running but make no strategic decisions.\n\nFlash roles (40-60 people, 1-4 weeks each): PM co-founders (produce 4-8 TUPs per cluster), Expert reviewers (grade TUPs, 10-20 hours), Specialists (funnel builder, series producer, product designer). Each flash contributor enters, produces a scoped deliverable, and dissolves.\n\nThe founder (Vicioso) is an on-call subject matter expert who writes specific essays when asked. He is not in the management loop. The Trade contains his judgment. The artifact manages. He writes."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "4.2 Incentive Design"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Equity budget: ~15-20% total distributed pre-raise. Persistent roles receive 1-2% each. Flash contributors receive 0.1-0.5% per sprint. Vesting is conditional: equity vests only upon V-tab expert grade of B or above. No grade, no vest.\n\nThis creates incentive compatibility without managerial oversight. The contributor's payoff is a function of an independent expert's assessment of their work quality, not a manager's subjective evaluation. The expert has no equity stake in the outcome — they are a flash reviewer who grades and dissolves.\n\nAdditional non-monetary incentives: portfolio artifacts (the contributor can show their work), credentials ('Produced the [X] model for a 104-TUP venture studio Trade'), network access (MC conversations are published, creating public visibility), and career booster statements (each P-tab includes a resume line)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "4.3 Information Architecture"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Information flows through three channels:\n\n1. The artifact (static): Each contributor reads their TUP's tabs. Cross-TUP dependencies are documented in P-tabs. The full Trade is available read-only for context. No interpretation needed — the document speaks for itself.\n\n2. The librarian (routing): When Contributor A's output is needed by Contributor B's TUP, the librarian routes it. The librarian does not interpret, edit, or evaluate — she routes. This is a gossip protocol for organizational knowledge: information propagates through a routing node, not through point-to-point communication between contributors.\n\n3. The AI co-pilot (amplification): Claude (Anthropic) is available to every contributor as a drafting partner, domain researcher, and quality checker. The AI has access to the full Trade for context. This means every contributor has, effectively, a senior colleague who has read the entire 1,174-tab document and can answer questions about cross-domain dependencies in real time.\n\nNo meetings. No standups. No Slack channels. Information flows through artifact, librarian, and AI."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "5. THE EXPERIMENT"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "5.1 Research Questions"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "RQ1: Can a coordination artifact of sufficient detail (104 TUPs, 1,174 tabs) coordinate 40-60 flash contributors to produce expert-grade output (mean grade B or above) with zero centralized management after initial conditions are set?\n\nRQ2: What is the information loss rate when coordination is artifact-mediated versus human-mediated? (Measured by questions that tabs couldn't answer.)\n\nRQ3: Does output quality degrade as founder involvement decreases? (Measured by correlation between founder hours and expert grades across the production timeline.)\n\nRQ4: How does AI co-piloting affect flash team productivity and quality? (Measured by hours per TUP and grade distribution for AI-assisted versus unassisted contributors.)\n\nRQ5: What emergent behaviors arise that weren't designed into the system? (Qualitative: MC conversations, librarian notes, contributor exit surveys.)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "5.2 Methodology"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Design: Longitudinal case study with embedded quantitative measurement.\n\nUnit of analysis: The TUP (Trade Unit Project). N = 104.\n\nPopulation: 40-60 flash contributors across 18 clusters, 3 levels.\n\nThe experiment IS the IonWave Trade production cycle. We are not running a separate experiment — we are instrumenting the actual production process to capture research data. Data collection is embedded in the librarian's existing workflow. No additional effort is required from contributors.\n\nDuration: 12-16 weeks (production) + 4 weeks (analysis and writing)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "5.3 Variables"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Dependent variables:\n  • Expert grade per TUP (A/B/C/D/F on V-tab)\n  • Hours per TUP (self-reported by contributor)\n  • Questions per TUP (count of QUESTION flags in SUBMIT folder — measures information completeness)\n  • Revision sprints per TUP (count of TUPs requiring C/D revision)\n\nIndependent variables:\n  • Founder involvement hours (Vicioso self-reports)\n  • AI co-pilot usage (did contributor use Claude? hours?)\n  • Cluster sequence (early vs. late in production cycle)\n\nControl variables:\n  • Contributor experience level (years in domain, self-rated expertise)\n  • TUP complexity (number of content tabs, number of dependencies)\n\nQualitative data:\n  • MC entrance/exit conversations (recorded, transcribed)\n  • Contributor satisfaction (exit survey)\n  • Emergent behaviors (librarian notes, unexpected patterns)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "5.4 Hypotheses"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "H1: Mean expert grade across all TUPs will be B or above.\n\nH2: Information loss (questions per TUP) will decrease over the production cycle as gaps are filled, approaching zero by Week 8.\n\nH3: Output quality will NOT correlate with founder involvement hours. The artifact contains the founder's judgment; the founder's presence is not required.\n\nH4: AI co-piloting will reduce production time per TUP by 40-60% compared to unassisted contributors.\n\nH5: At least 3 emergent behaviors (not designed into the system) will be observed and documented."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "6. INITIAL CONDITIONS AND THE AUDIT GATE"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The experiment has a critical precondition: the initial conditions of the artifact must be structurally sound before any contributor touches the system. If the entity structure is wrong, if the equity math doesn't add up, if the IP assignment language has holes — every TUP built on top inherits the error.\n\nWe therefore define a Week 0 audit gate: a 10-point structural audit conducted by a steward (not the founder) with outside expert review (lawyer, DAO consultant, cap table specialist). The audit covers entity structure, cap table math, contract templates, IP assignment, DAO governance, Trade integrity, role rosters, equity distribution mechanics, financial reality, and recruiting readiness.\n\nThe audit produces a binary verdict: CONFIRMED (system safe to open) or FIX FIRST (specific items listed). Once confirmed, the artifact is certified and the production cycle begins. This is the only gate. After this, the artifact manages itself."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "7. IMPLICATIONS AND FUTURE WORK"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "If the experiment succeeds — if 40-60 strangers, coordinated only by a document and an AI co-pilot, produce an expert-grade operating model for a consumer venture — the implications extend beyond this single case.\n\nFor organizational design: Management may not be a permanent function but a temporary one — necessary during the creation of a coordination artifact, unnecessary once the artifact is complete. The founder's role shifts from 'person who coordinates' to 'person who encodes coordination and exits.'\n\nFor venture creation: The cost of launching a company drops to the cost of producing the artifact. No payroll during the imagination phase. No office. No meetings. Equity-only compensation for flash contributors who each spend 1-4 weeks. The Trade becomes a replicable template: build once for electrolytes, fork for supplements, skincare, pet food, any D2C category.\n\nFor AI-augmented work: Claude's role as co-pilot to every contributor creates a novel hybrid intelligence model — the artifact provides structural context, the AI provides conversational context, and the human provides domain expertise. This three-way collaboration (artifact + AI + human) may represent a new organizational primitive.\n\nFor decentralized governance: The Trade is a DAO without a blockchain. The coordination mechanisms — artifact-mediated task assignment, expert-verified quality, conditional equity vesting — are governance mechanisms implemented in a spreadsheet rather than a smart contract. This suggests that the core problem in decentralized organization is not the technology (blockchain, tokens, voting) but the coordination artifact (the document that tells agents what to do). DAOs may fail not because their smart contracts are poorly designed but because their coordination artifacts are insufficiently detailed.\n\nFuture work: Run the experiment. Measure the variables. Publish the results. If successful, replicate across multiple Trades (different businesses) to test generalizability. Develop Trade-authoring tools (AI-assisted coordination artifact generators) to reduce the production cost of new Trades."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "8. INVITATION FOR FEEDBACK"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "This is a working paper. The artifact exists (1,174 tabs, viewable upon request). The experiment has not yet run. We are seeking feedback on the research design, the theoretical framing, and the experimental methodology from researchers working in coordination mechanisms, mechanism design, collective intelligence, organizational design, and decentralized governance.\n\nWe are also seeking potential collaborators for the results paper (Paper 2), which will document the outcomes of the production cycle.\n\nThe artifact is available for review. The data will be available upon completion of the production cycle (estimated Q2-Q3 2026).\n\nContact: Danilo Vicioso · danilo@[studio4domain] · coordinationprotocols.com"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "REFERENCES"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Buterin, V. (2020). 'Coordination, Good and Bad.' vitalik.eth blog."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Buterin, V. (2021). 'On Collusion.' vitalik.eth blog."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Buterin, V. (2026). 'DAOs, AI, and Governance Reform.' vitalik.eth blog."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Buterin, V., Hitzig, Z., & Weyl, E.G. (2019). 'A Flexible Design for Funding Public Goods.' Management Science, 65(11)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Couzin, I.D. et al. (2005). 'Effective leadership and decision-making in animal groups on the move.' Nature, 433."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Dorigo, M. & Stützle, T. (2004). Ant Colony Optimization. MIT Press."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Gordon, D. (2010). Ant Encounters: Interaction Networks and Colony Behavior. Princeton University Press."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Nagpal, R. et al. (2014). 'Programmable self-assembly in a thousand-robot swarm.' Science, 345(6198)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Roughgarden, T. (2016). Twenty Lectures on Algorithmic Game Theory. Cambridge University Press."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Srinivasan, B. (2022). The Network State: How To Start a New Country. Self-published."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Valentine, M.A. & Bernstein, M.S. (2025). Flash Teams. MIT Press."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Vicioso, D. (2024-2026). Coordination Protocols. coordinationprotocols.com."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "NOTE: ABSTRACT ALSO IN THIS TAB"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The abstract (Section 0 above) serves as both the paper abstract AND the research summary."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "PDF version: Coordination_Artifacts_Working_Paper_Vicioso_2026.pdf"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Problem doc: See S41-Problem Doc tab for full problem taxonomy sourced from Vicioso model."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "Vicioso model: See uploaded vicioso_full__3_.xlsx for complete platform architecture (35 tabs, 68 problems, full conceptual index)."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "VICIOSO THEORETICAL CONTEXT"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "The Vicioso model (vicioso_full__3_.xlsx, 35 tabs) provides the larger theoretical architecture:"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Start Here: Complete platform narrative — the 'one page that explains everything'"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Essential Variables: R ≥ D (Ashby's Law). Three EVs: Quality, Pipeline, Learning Rate"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Problems & Solutions: 68 problems across 10 categories — every design decision traces to a problem"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Conceptual Index: 500-700 word definitions. Trade, Imagination, Implementation, Game, Legibility, Variety, OOUP, TUP, RUP"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• TUP Anatomy: What a TUP contains (locked vs mutable fields, lifecycle states)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Imagination Project: Solo constraint, 2-4 weeks, generation + validation, Legal Docs Ready exit gate"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Implementation Project: Scope locked, team execution, 6 exit criteria (founder, entity, capital, customer, ops, milestones)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Quality Management System: 13 components. Outsider test, grading, validation, weekly loop, post-mortems"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Failure Scenarios: 146 ways it breaks, organized word-level to system-level. Each maps to defense."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Architecture Overview: 3 layers (System, Instrument, Operational). 5 entities (Vicioso, Partners, EMs, Regulatory Body, Investors)"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Knowledge Architecture: L0 Conceptual Index → L1 Void Space → L2 Content Type → L3 Content Instance"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Decision Authority: Constitutional → Strategic → Operational → Tactical"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Breaking Points: Where R < D happens. Each constraint is a variety bottleneck."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Builder Playbook: Week-by-week guide for producing an OOUP. Prerequisites, schedule, gates."
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "• Entity Lifecycle: Pre-imagination → Imagination → Implementation → Operations → Exit"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "KEY THEORY FOR PAPER: The Vicioso model's R ≥ D framework, Game formalization, and Legibility thesis"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "provide the theoretical backbone. IonWave is the first empirical test. The paper should cite Vicioso's"
+    },
+    {
+      "COORDINATION ARTIFACTS AS MANAGEMENT SUBSTITUTES": "conceptual definitions directly — they ARE the coordination protocol theory in operational form."
+    }
+  ],
+  "row_count": 90,
+  "sheet_name": "S41-White Paper",
+  "sheet_index": 1175
+}

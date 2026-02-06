@@ -1,0 +1,133 @@
+{
+  "headers": [
+    "TIME TRACKING LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "TIME TRACKING LOG": "Where hours go - track to optimize and delegate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Date",
+      "col_2": "Category",
+      "col_3": "Task",
+      "col_4": "Hours",
+      "col_5": "Notes"
+    },
+    {
+      "TIME TRACKING LOG": "[Date]",
+      "col_2": "Marketing",
+      "col_3": "Create ads",
+      "col_4": "2.0",
+      "col_5": "Made 5 static ads"
+    },
+    {
+      "TIME TRACKING LOG": "[Date]",
+      "col_2": "Operations",
+      "col_3": "Supplier calls",
+      "col_4": "1.5",
+      "col_5": "3 calls, quotes received"
+    },
+    {
+      "TIME TRACKING LOG": "[Date]",
+      "col_2": "Admin",
+      "col_3": "Weekly report",
+      "col_4": "1.0",
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "[Date]",
+      "col_2": "Support",
+      "col_3": "Customer emails",
+      "col_4": "0.5",
+      "col_5": "3 tickets"
+    },
+    {
+      "TIME TRACKING LOG": "WEEKLY SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Category",
+      "col_2": "Hours",
+      "col_3": "% of Time",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Marketing/Ads",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Operations",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Creative",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Admin/Reporting",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Support",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "Meetings",
+      "col_2": "[X] hrs",
+      "col_3": "[X]%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "TOTAL",
+      "col_2": "[X] hrs",
+      "col_3": "100%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "GOAL: <10 hrs/week after Month 4",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TIME TRACKING LOG": "If spending >15 hrs/week on a category, consider automation or delegation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Time Tracking Log",
+  "sheet_index": 818
+}

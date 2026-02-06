@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "MEETING CADENCE & AGENDAS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "MEETING CADENCE & AGENDAS": "What meetings, who attends, standing agendas.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MEETING CADENCE & AGENDAS": "Meeting",
+      "col_2": "Frequency",
+      "col_3": "Duration",
+      "col_4": "Attendees"
+    },
+    {
+      "MEETING CADENCE & AGENDAS": "Daily standup",
+      "col_2": "Daily",
+      "col_3": "15 min",
+      "col_4": "Operator"
+    },
+    {
+      "MEETING CADENCE & AGENDAS": "Weekly review",
+      "col_2": "Weekly",
+      "col_3": "30 min",
+      "col_4": "Operator + CM"
+    },
+    {
+      "MEETING CADENCE & AGENDAS": "Monthly strategy",
+      "col_2": "Monthly",
+      "col_3": "60 min",
+      "col_4": "All + Studio"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Meeting Cadence",
+  "sheet_index": 786
+}

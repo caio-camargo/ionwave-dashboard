@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "SHOPIFY STOREFRONT — LANDING PAGE SPEC",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "AI-generate mockup images from these specs. This is the recruiting + investor tool, not the live site.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "LANDING PAGE SECTIONS (top to bottom)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Section",
+      "col_2": "Content",
+      "col_3": "Visual",
+      "col_4": "AI Image Prompt"
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Hero",
+      "col_2": "Headline: [One-Line Position from M0]\nSubhead: \"Premium electrolytes. Zero compromise.\"\nCTA: \"Shop Now\" (inactive in mockup)",
+      "col_3": "Full-width product shot — stick packs scattered on clean surface. Lifestyle context: gym bag, water bottle, morning light.",
+      "col_4": "\"Product photography style image of premium electrolyte stick packs on a clean marble surface next to a gym bag and water bottle. Morning light. Minimal styling. High-end supplement aesthetic. Shot from above at slight angle.\""
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Social Proof Bar",
+      "col_2": "\"Trusted by [X] athletes\" or \"Join [X] people who switched\"\nOptional: logos or star ratings (placeholder)",
+      "col_3": "Thin bar below hero. Light background. Small logos or star icons.",
+      "col_4": "N/A — design element, not photo"
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Product Benefits",
+      "col_2": "3 columns:\n1. \"Clean Ingredients\" — no fillers, no artificial sweeteners\n2. \"Optimal Ratio\" — sodium/potassium/magnesium balanced for performance\n3. \"No Compromise\" — tastes good without junk",
+      "col_3": "3 icons or small product detail shots. Minimal. Clean.",
+      "col_4": "\"Three small product detail photos of electrolyte powder: one showing clean white powder being poured, one showing molecular/ingredient visualization, one showing the powder dissolved in clear water. Minimal, scientific aesthetic.\""
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Product Showcase",
+      "col_2": "Product photo with supplement facts panel visible.\n3 flavors shown: Citrus, Berry, Unflavored.\n\"30 servings / $X per box\"",
+      "col_3": "Product lineup — 3 packages side by side. Clean background.",
+      "col_4": "\"Three premium electrolyte supplement stick pack boxes lined up on white background. Each a different color: golden/citrus, deep berry/purple, clean white/unflavored. Minimal modern packaging design. Shot from slight angle. Studio lighting.\""
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "How It Works",
+      "col_2": "1. Tear open a stick pack\n2. Pour into 16oz water\n3. Drink\n\"That's it. No blender. No shaker. No ritual.\"",
+      "col_3": "Sequential lifestyle photos or icons. Simple.",
+      "col_4": "\"Three-step lifestyle sequence: hand tearing open a stick pack, powder pouring into a glass of water, person drinking at a gym. Clean, bright, modern.\""
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "The Difference",
+      "col_2": "Comparison table: IonWave vs LMNT vs Liquid IV vs Drip Drop.\nColumns: sodium, potassium, magnesium, sugar, price/serving.\nIonWave wins on [position from M0].",
+      "col_3": "Clean comparison grid. IonWave highlighted. Competitor logos.",
+      "col_4": "N/A — design element"
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "CTA",
+      "col_2": "\"Try IonWave\"\nSubscribe & save option.\nMoney-back guarantee.",
+      "col_3": "Product + CTA button. Clean.",
+      "col_4": "N/A — design element"
+    },
+    {
+      "SHOPIFY STOREFRONT — LANDING PAGE SPEC": "Footer",
+      "col_2": "About, Contact, FAQ, Shipping, Returns.\nSocial links. Newsletter signup.",
+      "col_3": "Standard Shopify footer. Minimal.",
+      "col_4": "N/A"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Storefront - Landing Page",
+  "sheet_index": 1208
+}

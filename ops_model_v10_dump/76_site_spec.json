@@ -1,0 +1,121 @@
+{
+  "headers": [
+    "THE SITE: PRODUCT SPEC"
+  ],
+  "rows": [
+    {
+      "THE SITE: PRODUCT SPEC": "Password-protected. Consumer-grade quality. Direct response + VC investor dual audience. Daily video updates."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "WHAT THIS IS"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "A password-protected website that serves as:"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "1. The public face of IonWave as the first DAO spinoff"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "2. The daily feedback loop (VA updates, milestones visible, anyone can check in 30 sec)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "3. Proof for the infrastructure company (live case study, not a retrospective)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "4. Recruiting tool (send password to potential hires, they see the cast and want in)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "5. Investor pitch (send password to VCs, they see a company being built in real time)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "It is NOT a startup dashboard. NOT a blog. NOT a project management tool."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "It IS a consumer product. It should feel like Remedy Meds meets a Netflix docuseries."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Design reference: remedymeds.com — clean, authoritative, high-trust, cinematic imagery,"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "social proof, clear CTAs, FAQ objection handling. That quality bar, but for a company launch."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "DUAL AUDIENCE DESIGN (Direct Response + VC)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "DIRECT RESPONSE DNA (from Remedy):"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Authority badges: 'YC-backed founder' / 'Greylock-backed' / 'KV-backed' / '100M+ organic views'"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Social proof: Expert testimonials as they come on. Character count growing. Milestone counter."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Clear CTA: 'Apply to join' / 'Request access' / 'Get the password' depending on audience"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Objection handling: FAQ section addressing 'is this real?' / 'what's the structure?' / 'what do I get?'"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Urgency / scarcity: 'Day 14 of 21' / 'X roles remaining' / live countdown to milestones"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• Cinematic visuals: Not stock photos. Real video. Real people. Shot beautifully."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "VC INVESTOR DNA:"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• The thesis is visible: coordination hedgefund, thesis → order → fulfillment, complexity at launch"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• The numbers are there: unit economics, market size, tech roadmap (P1/P2/P3)"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• The system is demonstrated: 'this company was built using a 702-tab AI operating system'"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• The team is credible: real backgrounds, real track record, real faces"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "• The ask is clear: what the infrastructure company is raising, for what, on what terms"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "These aren't separate sections. They're woven together."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "The daily video update IS social proof AND investor proof AND the feedback loop."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "The character page IS the team page AND the recruiting tool AND the org chart."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "PASSWORD ARCHITECTURE"
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "The password creates exclusivity and controls narrative timing."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Tier 1 password (inner circle): Nilo, CoS, active team. Full access. All updates."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Tier 2 password (recruits): Sent to potential hires. They see the cast, the story, the opportunity."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Tier 3 password (investors): Sent to VCs. They see everything Tier 2 sees + financials + thesis + ask."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Same site. Different depths. Password tier determines what sections are visible."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "Or: single password, everyone sees everything. Radical transparency. Decide later."
+    },
+    {
+      "THE SITE: PRODUCT SPEC": "The infrastructure needs to support both options."
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Site Spec",
+  "sheet_index": 76
+}

@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F16: Community — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F16: Community — VERIFICATION": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Ongoing community of Trade participants and observers. Platform, moderation, value prop.",
+      "col_2": null
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade community model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F16: Community — VERIFICATION": "B (Good)",
+      "col_2": "Solid community model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F16: Community — VERIFICATION": "C (Needs Work)",
+      "col_2": "Community model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F16: Community — VERIFICATION": "D (Major Issues)",
+      "col_2": "Community model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F16: Community — VERIFICATION": "F (Fail)",
+      "col_2": "Community model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F16: Community — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F16",
+  "sheet_index": 1166
+}

@@ -1,0 +1,631 @@
+{
+  "headers": [
+    "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Everyone is replaceable fast. The artifact holds the knowledge, not the people. This tab specifies what happens when someone leaves.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "At zero cash, you select for believers or flaky people. Those categories overlap.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "You cannot eliminate people risk. You can only make each person replaceable fast.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "The protocol is designed so that institutional knowledge lives in the Trade, not in anyone's head.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Claude is the single point of continuity. Claude knows the entire 1,194-tab system. Humans come and go. Claude stays.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Maximum damage from any one departure = the time it takes to orient their replacement. Target: hours, not weeks.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "RISK MATRIX BY ROLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Role",
+      "col_2": "Risk Level",
+      "col_3": "What Breaks If They Leave",
+      "col_4": "Recovery Time",
+      "col_5": "Mitigation",
+      "col_6": "Backup Strategy"
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Librarian",
+      "col_2": "CRITICAL",
+      "col_3": "Routing stops. Nobody gets tab slices. Status tracking dies. Two-key transitions lose Key 1 or Key 2.",
+      "col_4": "1-2 days if backup identified. 1-2 weeks if cold hire.",
+      "col_5": "Claude can explain every tab and route to any replacement. All routing rules are in the protocol, not the Librarian's head. Monthly equity vesting = clean exit at any point.",
+      "col_6": "Identify backup Librarian in Week 0. Not hired — just identified and briefed. \"If Elaine quits, this person steps in.\""
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "MC",
+      "col_2": "HIGH (but survivable)",
+      "col_3": "Show stops. Daily highlights stop. Long-form conversations stop. 10% equity walks. BUT — protocol still runs. State machine doesn't need the show.",
+      "col_4": "1-2 weeks to find replacement. Show gap is visible but not fatal.",
+      "col_5": "All episodes recorded and published. New MC can watch previous episodes to get context. Show is optional layer — production continues without it. Monthly vesting = they keep what they earned.",
+      "col_6": "Conductor maintains MC candidate pipeline even after first MC is hired. Always have a name."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Conductor",
+      "col_2": "HIGH",
+      "col_3": "Hiring pipeline dies. Scheduling breaks. Two-key counter-sign loses a key. No new PMs or experts can be sourced.",
+      "col_4": "1-2 weeks. Nilo can emergency-source in the gap.",
+      "col_5": "Candidate pipeline lives in a shared doc, not the Conductor's inbox. All scheduling in shared calendar. Two-key counter-sign role temporarily falls to Nilo until replacement.",
+      "col_6": "Nilo is the emergency Conductor. Not ideal but functional. Identify backup in Week 2."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "PM Co-Founder",
+      "col_2": "LOW",
+      "col_3": "One cluster stalls for the duration of their sprint. Other clusters unaffected. Maximum loss = 2-3 weeks of work on that cluster.",
+      "col_4": "Days. Another PM picks up the cluster. Claude has all context.",
+      "col_5": "Short sprints (2-3 weeks) = small blast radius. Claude retains all production context — new PM prompts Claude with same P-tabs and continues. Monthly vesting = clean handoff.",
+      "col_6": "Conductor always has 2-3 PMs in pipeline. Losing one PM = activate the next one."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Expert Reviewer",
+      "col_2": "LOW-MEDIUM",
+      "col_3": "One cluster can't get graded. Can't lock. Downstream TUPs blocked until new expert reviews.",
+      "col_4": "Days to 1 week. Domain experts are findable.",
+      "col_5": "Advisor framing = low commitment, low exit cost. Expert's work (review notes) lives on V-tab regardless. New expert can see previous notes.",
+      "col_6": "Conductor maintains 2 expert candidates per domain. Primary + backup."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Series Producer",
+      "col_2": "LOW",
+      "col_3": "Show loses narrative structure. MC wings it. Quality may dip but show continues.",
+      "col_4": "Days. MC can self-direct in the gap.",
+      "col_5": "Show bible is a document, not a person. New Series Producer reads the bible and picks up.",
+      "col_6": "MC is the backup Series Producer. They're on camera — they know the story."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Steward",
+      "col_2": "ZERO (after Week 0)",
+      "col_3": "Nothing. Steward's work is done after initial audit. One-time role.",
+      "col_4": "N/A",
+      "col_5": "Audit report is filed. Work is complete.",
+      "col_6": "N/A"
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Funnel Builder",
+      "col_2": "LOW",
+      "col_3": "Funnel clusters stall. Same as PM risk — scoped sprint.",
+      "col_4": "Days. Another funnel person picks up.",
+      "col_5": "Same as PM — short sprint, Claude has context, monthly vesting.",
+      "col_6": "Conductor pipeline."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Nilo",
+      "col_2": "EXISTENTIAL (pre-M0) / LOW (post-M0)",
+      "col_3": "Pre-M0: everything stops, nobody else can write the thesis. Post-M0: protocol runs without Nilo. That's the entire point.",
+      "col_4": "Pre-M0: infinite — no replacement for the founder's thesis. Post-M0: protocol self-sustains.",
+      "col_5": "Get M0 done. Once thesis is locked, Nilo's ongoing involvement is on-call only. The artifact replaces the founder during production.",
+      "col_6": "There is no backup for Nilo pre-M0. This is founder risk. Accept it and move fast through M0."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "STRUCTURAL DEFENSES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Defense",
+      "col_2": "How It Works",
+      "col_3": "What It Prevents",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Claude as institutional memory",
+      "col_2": "Claude knows the entire Trade. Any replacement can ask Claude \"what was this person doing, what's the status, what's next\" and get an accurate answer within minutes. No onboarding manual needed — Claude IS the onboarding manual.",
+      "col_3": "Knowledge loss when someone leaves. The #1 risk in any team transition.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Monthly equity vesting",
+      "col_2": "All persistent roles (Librarian, Conductor, MC) vest monthly. Leave after 5 weeks, you keep 5 weeks of equity. No cliff drama. No \"I have to stay 12 months or I lose everything\" resentment.",
+      "col_3": "Messy exits. People staying when they want to leave. Equity disputes.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Short sprints for flash roles",
+      "col_2": "PM Co-Founders commit for 2-3 weeks. Expert Advisors for 10-20 hours. Maximum blast radius from any departure = one sprint.",
+      "col_3": "Catastrophic single-person failure. The flash teams model means no single flash contributor can derail the whole production.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Shared docs, not inboxes",
+      "col_2": "Candidate pipelines, schedules, status trackers all live in shared docs that anyone can access. Nothing lives only in one person's email or DMs.",
+      "col_3": "Information silos that die when someone leaves.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Everything is recorded",
+      "col_2": "MC show records all key conversations. Daily highlights capture what happened. If anyone leaves, their context is on tape.",
+      "col_3": "Context loss. New person joins and has to reconstruct what happened.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Two-key system redundancy",
+      "col_2": "Every state transition needs two people. If one leaves, the remaining person + Nilo (emergency backup) can continue transitions until replacement arrives.",
+      "col_3": "State machine lockup. Single point of failure on transitions.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Backup pipeline for persistent roles",
+      "col_2": "Conductor maintains at least one identified (not hired) backup for Librarian, MC, and Conductor itself. \"If X quits, Y is next.\" Briefed, not committed.",
+      "col_3": "The 1-2 week gap between departure and replacement where everything stalls.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "P-tabs encode everything",
+      "col_2": "Every TUP's scope, win conditions, and spec live in the P-tab, not in anyone's head. A new PM reads the P-tab + prompts Claude and can produce at the same quality level.",
+      "col_3": "Person-dependent quality. \"Only Sarah could do this cluster\" = system failure.",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "REPLACEMENT PLAYBOOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "When someone leaves, execute this sequence. Same for any role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Step",
+      "col_2": "Action",
+      "col_3": "Who",
+      "col_4": "Timeline",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "1",
+      "col_2": "Confirm departure. Get exit date. Monthly vesting means clean math — calculate what they earned.",
+      "col_3": "Nilo",
+      "col_4": "Day 0",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "2",
+      "col_2": "MC records exit conversation (if MC is not the one leaving). This is content. Make it part of the show.",
+      "col_3": "MC",
+      "col_4": "Day 0-1",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "3",
+      "col_2": "Librarian documents current status of everything the departing person touched. What's done, what's in progress, what's blocked.",
+      "col_3": "Librarian",
+      "col_4": "Day 0-1",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "4",
+      "col_2": "Activate backup from pipeline. If no backup identified, Conductor begins emergency sourcing.",
+      "col_3": "Conductor",
+      "col_4": "Day 1-2",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "5",
+      "col_2": "Orient replacement using Claude. \"Ask Claude to explain [role]'s current workload, status of their clusters, and next steps.\" Claude answers in minutes.",
+      "col_3": "Replacement + Claude",
+      "col_4": "Day 2-3",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "6",
+      "col_2": "Transfer tool access. Remove departing person's credentials. Add replacement to shared docs, calendar, comms.",
+      "col_3": "Librarian",
+      "col_4": "Day 2-3",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "7",
+      "col_2": "MC records entrance conversation with replacement. Continuity is visible on the show.",
+      "col_3": "MC",
+      "col_4": "Day 3-5",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "8",
+      "col_2": "Replacement is fully operational. Production resumes at normal pace.",
+      "col_3": "All",
+      "col_4": "Day 3-7",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "THE UNCOMFORTABLE TRUTH ABOUT PEOPLE RISK AT ZERO CASH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "You will lose people. Not maybe — definitely. At zero cash, some percentage of equity-only hires will ghost, get busy, or lose interest.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "The question is not \"how do I prevent departures.\" It's \"how fast can I replace someone who leaves.\"",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Target: any persistent role replaced and operational within 7 days. Any flash role replaced within 3 days.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "If you hit those targets, people risk is managed. Not eliminated — managed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "The protocol's entire design philosophy is: the artifact coordinates, not the people. People are interchangeable. The Trade is not.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "BACKUP REGISTRY — EVERY ROLE HAS A NAME BEFORE DAY 1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "No role starts production without a backup identified. Not hired. Not committed. Just identified and aware.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "The Conductor owns this registry. Updated weekly. If a backup gets hired elsewhere or goes cold, find a new one.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Role",
+      "col_2": "Backup Source",
+      "col_3": "Where To Find Them",
+      "col_4": "What To Tell Them",
+      "col_5": "Warm-Up Action (Week 0)",
+      "col_6": "Activation Time"
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Librarian",
+      "col_2": "VA communities, library science students, EA networks",
+      "col_3": "Upwork (search: virtual assistant spreadsheet), OnlineJobs.ph, EA job boards, library school career boards",
+      "col_4": "\"We're building a venture studio. You'd be backup information architect. No commitment now — just want to know you're available if we need you. Paid in equity.\"",
+      "col_5": "Send them the Role Registry Librarian section. Let them read it. Ask if they'd be interested if the role opened. Get a yes/no.",
+      "col_6": "24-48 hours. They've already read the spec."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Conductor",
+      "col_2": "Ops associates, recruiting coordinators, PM students",
+      "col_3": "LinkedIn (search: operations coordinator, recruiting coordinator), Upwork, MBA/PM program job boards",
+      "col_4": "\"Backup ops coordinator for a venture studio. No commitment now. Equity-only. Would you be available on 48-hour notice?\"",
+      "col_5": "Same — send Conductor section of Role Registry. Get a soft yes.",
+      "col_6": "48 hours."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "MC",
+      "col_2": "Content creators, podcast hosts, journalism grads",
+      "col_3": "YouTube (search small creators in business/startup space), podcast directories, journalism school networks, Twitter/X",
+      "col_4": "\"We're producing a show documenting a company launch. You'd be backup host. 10% equity if activated. Want to see what we're building?\"",
+      "col_5": "Send them 2-3 sample episodes (once they exist). Let them see the show. Get a \"I'd do this if the slot opened.\"",
+      "col_6": "1 week. MC needs to watch existing content to match tone."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "PM Co-Founder",
+      "col_2": "Always have 2-3 in Conductor pipeline",
+      "col_3": "Same sources as primary PMs — Upwork, LinkedIn, referrals, communities",
+      "col_4": "\"We have rolling PM sprints. You'd be next in queue. 2-3 week commitment, equity-only. Interested?\"",
+      "col_5": "Keep pipeline warm. Conductor sends monthly update: \"here's what we're building, sprints coming up.\"",
+      "col_6": "3-5 days. PM reads P-tab + prompts Claude."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Expert Advisor",
+      "col_2": "2 candidates per domain minimum",
+      "col_3": "LinkedIn (domain search), industry Slack groups, conference speaker lists, Twitter/X experts",
+      "col_4": "\"Would you review a [domain] operating model? 10-20 hours, equity + your name on the output + show appearance.\"",
+      "col_5": "Identify 2 per domain during Week 0. Send them a sample TUP so they know what they'd be reviewing.",
+      "col_6": "3-7 days. Expert reads TUP package."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Series Producer",
+      "col_2": "MC can self-direct as backup",
+      "col_3": "Film school networks, documentary producer communities, podcast production networks",
+      "col_4": "\"Backup narrative architect for a documentary-style show. Low commitment until activated.\"",
+      "col_5": "Low priority — MC is the natural backup. Identify one name as insurance.",
+      "col_6": "1 week."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Nilo",
+      "col_2": "NO BACKUP. Founder risk. Accept it.",
+      "col_3": "N/A",
+      "col_4": "N/A",
+      "col_5": "Mitigate by finishing M0 fast. Once M0 is locked, Nilo-dependency drops to near-zero.",
+      "col_6": "N/A — if Nilo leaves, the company is over."
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "INSTANT HANDOFF SPEC — WHAT CLAUDE GENERATES WHEN SOMEONE LEAVES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "When any person departs, Claude generates a complete handoff packet in minutes. This is what makes every person replaceable fast.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "The replacement reads this packet + has a 30-minute call with Claude. They're operational.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Handoff Section",
+      "col_2": "What It Contains",
+      "col_3": "Generated By",
+      "col_4": "Time To Generate",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Role Summary",
+      "col_2": "What this role does, doesn't do, who they interact with, what permissions they have. Pulled directly from Role Registry + Access Control Matrix.",
+      "col_3": "Claude (from Trade tabs)",
+      "col_4": "< 1 minute",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Current Status",
+      "col_2": "Every TUP this person was touching: current state, what's done, what's in progress, what's blocked, what's next. Pulled from status tracker + state machine logs.",
+      "col_3": "Claude + Librarian confirms",
+      "col_4": "5 minutes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Open Items",
+      "col_2": "Specific tasks that were in-flight when they left. Deadlines, dependencies, who's waiting on what.",
+      "col_3": "Claude + Librarian confirms",
+      "col_4": "5 minutes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Key Relationships",
+      "col_2": "Who this person was working with — which PMs, which experts, which clusters. Contact info in shared docs.",
+      "col_3": "Librarian provides",
+      "col_4": "5 minutes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Tool Access Checklist",
+      "col_2": "Every tool/account they had access to. What needs to be transferred. What needs to be revoked.",
+      "col_3": "Claude generates template, Librarian fills specifics",
+      "col_4": "10 minutes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "P-Tab Briefing",
+      "col_2": "For PMs/Experts: the P-tabs for their clusters, fully explained by Claude. \"Here's what you're building, here's the spec, here's what done looks like.\"",
+      "col_3": "Claude (from P-tabs)",
+      "col_4": "< 1 minute per TUP",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Context Tape",
+      "col_2": "Links to any MC episodes or daily highlights featuring this person. New person watches to absorb context and tone.",
+      "col_3": "Librarian pulls episode links",
+      "col_4": "10 minutes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "First 48 Hours Plan",
+      "col_2": "Exactly what the replacement should do in their first 2 days. Step by step. No ambiguity.",
+      "col_3": "Claude generates role-specific plan",
+      "col_4": "< 1 minute",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "TOTAL HANDOFF TIME: ~30-45 minutes to generate full packet. Replacement is operational same day.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "ACCEPTANCE CRITERIA ADDITIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AC-16: Backup identified for Librarian before production starts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AC-17: Backup identified for Conductor before production starts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AC-18: MC backup candidate identified (or MC pipeline has 2+ names).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AC-19: 2 expert advisor candidates per domain identified (not committed, just identified).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AC-20: Claude handoff prompt tested — generate a sample handoff packet for one role to verify it works.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "AMENDMENT: RECRUITER ROLE ADDED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CONTINUITY PROTOCOL — PEOPLE RISK MITIGATION": "Recruiter",
+      "col_2": "HIGH",
+      "col_3": "Hiring pipeline dies. No new PMs or experts can be sourced. Existing people keep working but no new people flow in.",
+      "col_4": "1-2 weeks. Nilo can emergency-source in the gap but it's slow.",
+      "col_5": "Pipeline lives in shared doc. All outreach templates saved. New recruiter picks up pipeline + templates and continues.",
+      "col_6": "Nilo is emergency backup. Identify second recruiter candidate during Week 1."
+    }
+  ],
+  "row_count": 77,
+  "sheet_name": "Continuity Protocol",
+  "sheet_index": 1195
+}

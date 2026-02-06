@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "KNOWLEDGE TRANSFER PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "How handoffs work - nothing lost in transition",
+      "col_2": null
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "TRANSFER CHECKLIST",
+      "col_2": null
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ All credentials documented",
+      "col_2": "Logins, passwords, 2FA"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ Active campaigns documented",
+      "col_2": "What's running, performance, next steps"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ Pending decisions documented",
+      "col_2": "What's waiting, context, options"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ Supplier relationships briefed",
+      "col_2": "Who, contact, status, issues"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ In-flight orders tracked",
+      "col_2": "What's pending, expected dates"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ 1:1 handoff meeting",
+      "col_2": "Minimum 2 hours with successor"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "☐ Q&A period",
+      "col_2": "1 week availability for questions"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "TIMELINE",
+      "col_2": null
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "Day 1-3",
+      "col_2": "Documentation review and update"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "Day 4-5",
+      "col_2": "Handoff meetings"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "Day 6-7",
+      "col_2": "Shadow period"
+    },
+    {
+      "KNOWLEDGE TRANSFER PROTOCOL": "Day 8-14",
+      "col_2": "Q&A availability"
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "Knowledge Transfer Protocol",
+  "sheet_index": 829
+}

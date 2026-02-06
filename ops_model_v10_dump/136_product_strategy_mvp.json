@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "PRODUCT STRATEGY & MVP",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "PRODUCT STRATEGY & MVP": "MVP",
+      "col_2": "1 SKU: Marine Plasma 30-pack",
+      "col_3": "Validate demand"
+    },
+    {
+      "PRODUCT STRATEGY & MVP": "V2",
+      "col_2": "Add subscription option",
+      "col_3": "Improve retention"
+    },
+    {
+      "PRODUCT STRATEGY & MVP": "V3",
+      "col_2": "Flavor variants (citrus, berry)",
+      "col_3": "Expand appeal"
+    },
+    {
+      "PRODUCT STRATEGY & MVP": "V4",
+      "col_2": "Larger sizes (60-pack)",
+      "col_3": "Increase AOV"
+    },
+    {
+      "PRODUCT STRATEGY & MVP": "V5",
+      "col_2": "Adjacent products",
+      "col_3": "Expand LTV"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Product Strategy & MVP",
+  "sheet_index": 136
+}

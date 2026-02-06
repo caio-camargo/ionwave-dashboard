@@ -1,0 +1,161 @@
+{
+  "headers": [
+    "HEAVY METAL & CONTAMINANT LIMITS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "FDA limits, our limits, testing protocols",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "WHY THIS IS CRITICAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Ocean water can concentrate contaminants.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Heavy metals accumulate in the body over time.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "One contamination incident = brand death.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "This is a TRUST product. Testing is non-negotiable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "TESTING REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Test",
+      "col_2": "Frequency",
+      "col_3": "Lab Type",
+      "col_4": "Est. Cost",
+      "col_5": "Turnaround"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Heavy metals panel",
+      "col_2": "Every batch",
+      "col_3": "Third-party",
+      "col_4": "$150-300",
+      "col_5": "5-7 days"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Microbiological",
+      "col_2": "Every batch",
+      "col_3": "Third-party",
+      "col_4": "$100-200",
+      "col_5": "3-5 days"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Full mineral analysis",
+      "col_2": "Quarterly",
+      "col_3": "Third-party",
+      "col_4": "$300-500",
+      "col_5": "7-10 days"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Pesticide screen",
+      "col_2": "Annually",
+      "col_3": "Third-party",
+      "col_4": "$200-400",
+      "col_5": "7-10 days"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Allergen testing",
+      "col_2": "Annually",
+      "col_3": "Third-party",
+      "col_4": "$100-200",
+      "col_5": "5-7 days"
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "MICROBIOLOGICAL LIMITS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Organism",
+      "col_2": "Limit",
+      "col_3": "Notes",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Total Plate Count",
+      "col_2": "<1000 CFU/g",
+      "col_3": "General bacterial load",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Yeast & Mold",
+      "col_2": "<100 CFU/g",
+      "col_3": "Indicator of contamination",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "E. coli",
+      "col_2": "Not detected",
+      "col_3": "Fecal contamination indicator",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Salmonella",
+      "col_2": "Not detected in 25g",
+      "col_3": "Pathogen",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "S. aureus",
+      "col_2": "Not detected",
+      "col_3": "Pathogen",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HEAVY METAL & CONTAMINANT LIMITS": "Coliforms",
+      "col_2": "<10 CFU/g",
+      "col_3": "Sanitation indicator",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Contaminant Limits",
+  "sheet_index": 243
+}

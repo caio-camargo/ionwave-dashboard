@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "DECISION REQUEST FORM"
+  ],
+  "rows": [
+    {
+      "DECISION REQUEST FORM": "How to escalate decisions that need approval"
+    },
+    {
+      "DECISION REQUEST FORM": "WHEN TO USE THIS"
+    },
+    {
+      "DECISION REQUEST FORM": "• Spend >$500 outside approved budget"
+    },
+    {
+      "DECISION REQUEST FORM": "• Strategic direction change"
+    },
+    {
+      "DECISION REQUEST FORM": "• New vendor/supplier selection"
+    },
+    {
+      "DECISION REQUEST FORM": "• Pricing or positioning change"
+    },
+    {
+      "DECISION REQUEST FORM": "• Anything not covered by existing SOPs"
+    },
+    {
+      "DECISION REQUEST FORM": "DECISION REQUEST FORMAT"
+    },
+    {
+      "DECISION REQUEST FORM": "══════════════════════════════════════════\nDECISION REQUEST\n══════════════════════════════════════════\nDate: [DATE]\nRequested by: [Name]\nDecision needed by: [Date]\nUrgency: [Low / Medium / High / Critical]\n\nDECISION NEEDED:\n[One sentence: what decision do you need?]\n\nCONTEXT:\n[Why is this decision needed now? What triggered it?]\n\nOPTIONS:\nOption A: [Description]\n  - Pros: [list]\n  - Cons: [list]\n  - Cost: $[X]\n\nOption B: [Description]\n  - Pros: [list]\n  - Cons: [list]\n  - Cost: $[X]\n\nOption C: [Description]\n  - Pros: [list]\n  - Cons: [list]\n  - Cost: $[X]\n\nRECOMMENDATION:\n[Which option do you recommend and why?]\n\nRISKS IF DELAYED:\n[What happens if we don't decide by the deadline?]\n\n══════════════════════════════════════════\nDECISION (filled by approver):\nApproved: ☐ Option A  ☐ Option B  ☐ Option C  ☐ Other\nNotes: [Any conditions or modifications]\nApproved by: [Name]\nDate: [Date]\n══════════════════════════════════════════"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Decision Request Form",
+  "sheet_index": 812
+}

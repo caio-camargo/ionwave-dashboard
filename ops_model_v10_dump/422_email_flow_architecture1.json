@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "EMAIL FLOW ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "EMAIL FLOW ARCHITECTURE": "Complete map of all automated email flows",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "FLOW PRIORITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Flow",
+      "col_2": "Trigger",
+      "col_3": "Priority",
+      "col_4": "Revenue Impact"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Abandoned Cart",
+      "col_2": "Cart created, no purchase",
+      "col_3": "P1 - Launch",
+      "col_4": "HIGH - Recovers 5-15%"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Browse Abandon",
+      "col_2": "Viewed product, left",
+      "col_3": "P2",
+      "col_4": "MEDIUM"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Welcome Series",
+      "col_2": "Email signup",
+      "col_3": "P1 - Launch",
+      "col_4": "HIGH - Sets relationship"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Post-Purchase",
+      "col_2": "Order placed",
+      "col_3": "P1 - Launch",
+      "col_4": "HIGH - Retention/review"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Win-Back",
+      "col_2": "No purchase in 60+ days",
+      "col_3": "P2",
+      "col_4": "MEDIUM - Re-engages"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Subscription Reminder",
+      "col_2": "Subscription renewing",
+      "col_3": "P2",
+      "col_4": "MEDIUM - Reduces churn"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Review Request",
+      "col_2": "14 days post-delivery",
+      "col_3": "P1 - Launch",
+      "col_4": "MEDIUM - Social proof"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Birthday/Anniversary",
+      "col_2": "Date triggers",
+      "col_3": "P3",
+      "col_4": "LOW - Delight"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "VIP/Loyalty",
+      "col_2": "High LTV customers",
+      "col_3": "P3",
+      "col_4": "MEDIUM - Retention"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Educational",
+      "col_2": "Ongoing nurture",
+      "col_3": "P3",
+      "col_4": "LOW - Brand building"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "FLOW ARCHITECTURE DIAGRAM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "VISITOR → SUBSCRIBER → CUSTOMER → REPEAT CUSTOMER → ADVOCATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "VISITOR:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Browse Abandon Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "SUBSCRIBER (Non-customer):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Welcome Series (5-7 emails)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Ongoing nurture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "CUSTOMER (First purchase):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Post-Purchase Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Review Request",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Cross-sell/Upsell",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "REPEAT CUSTOMER:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• VIP Treatment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Loyalty rewards",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Referral program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "CHURNING:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Win-Back Flow",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "• Survey/Feedback",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Email Flow Architecture1",
+  "sheet_index": 422
+}

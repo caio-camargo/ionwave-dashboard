@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "COMPETITOR MONITORING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "COMPETITOR MONITORING": "Source",
+      "col_2": "Frequency",
+      "col_3": "What to Track",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Ad Library",
+      "col_2": "Weekly",
+      "col_3": "New ads, messaging changes",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Website",
+      "col_2": "Monthly",
+      "col_3": "Pricing, products, positioning",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Social",
+      "col_2": "Weekly",
+      "col_3": "Content strategy, engagement",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Reviews",
+      "col_2": "Monthly",
+      "col_3": "Customer sentiment, complaints",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Press",
+      "col_2": "Monthly",
+      "col_3": "Funding, partnerships, launches",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "COMPETITOR PRICE TRACKING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Competitor",
+      "col_2": "Product",
+      "col_3": "Last Week",
+      "col_4": "This Week",
+      "col_5": "Change",
+      "col_6": "Our Price",
+      "col_7": "Gap",
+      "col_8": "Notes"
+    },
+    {
+      "COMPETITOR MONITORING": "LMNT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Liquid IV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Drip Drop",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMPETITOR MONITORING": "Nuun",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Competitor Monitoring",
+  "sheet_index": 543
+}

@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "AI AGENT ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "AI AGENT ARCHITECTURE": "What agents, their jobs, triggers, outputs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "AI AGENT ARCHITECTURE": "Agent",
+      "col_2": "Purpose",
+      "col_3": "Trigger",
+      "col_4": "Output"
+    },
+    {
+      "AI AGENT ARCHITECTURE": "Research Agent",
+      "col_2": "Gather market intel",
+      "col_3": "Weekly",
+      "col_4": "Summary"
+    },
+    {
+      "AI AGENT ARCHITECTURE": "Creative Agent",
+      "col_2": "Generate variations",
+      "col_3": "Winners found",
+      "col_4": "10 variations"
+    },
+    {
+      "AI AGENT ARCHITECTURE": "Support Agent",
+      "col_2": "Draft responses",
+      "col_3": "New ticket",
+      "col_4": "Draft"
+    },
+    {
+      "AI AGENT ARCHITECTURE": "Report Agent",
+      "col_2": "Summarize metrics",
+      "col_3": "Monday",
+      "col_4": "Report"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "AI Agent Architecture",
+  "sheet_index": 850
+}

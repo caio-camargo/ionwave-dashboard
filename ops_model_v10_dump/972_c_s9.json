@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S9: Expert Network — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S9: Expert Network — CONTRACT": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "How experts are sourced, engaged, and managed. Expert flash sprint workflow. Grading calibration.",
+      "col_2": null
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Expert Network (S9)"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S9: Expert Network within SCL-1"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S9]"
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Expert Network model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S9: Expert Network — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S9",
+  "sheet_index": 972
+}

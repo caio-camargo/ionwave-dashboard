@@ -1,0 +1,337 @@
+{
+  "headers": [
+    "SEMESTER REPORT CARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "SEMESTER REPORT CARD": "Completed at end of every 12-week semester.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "SEMESTER [#] — [DATES]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "PROGRAM GRADES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Program",
+      "col_2": "Core TUPs Completed",
+      "col_3": "Core TUPs Total",
+      "col_4": "Completion %",
+      "col_5": "Key Metric vs Goal",
+      "col_6": "Grade",
+      "col_7": "Notes",
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Acquisition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Conversion",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Retention",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Finance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "OVERALL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "INDIVIDUAL GRADES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Person",
+      "col_2": "Role",
+      "col_3": "TUPs Assigned",
+      "col_4": "TUPs Completed",
+      "col_5": "Quality Score",
+      "col_6": "Process Score",
+      "col_7": "Overall Grade",
+      "col_8": "Notes"
+    },
+    {
+      "SEMESTER REPORT CARD": "Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Employee 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Employee 3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Employee 4",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "SEMESTER HIGHLIGHTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Category",
+      "col_2": "Detail",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Biggest Win",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Biggest Miss",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Most Important Lesson",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Unexpected Discovery",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Carry-Forward to Next Semester",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "NEXT SEMESTER PREVIEW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Program",
+      "col_2": "Priority TUPs",
+      "col_3": "Theme",
+      "col_4": "Key Goal",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Acquisition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Conversion",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Retention",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "SEMESTER REPORT CARD": "Finance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Semester Report Card",
+  "sheet_index": 684
+}

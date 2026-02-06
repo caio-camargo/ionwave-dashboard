@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "CONTRACT — M11: VSL PRODUCTION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Agreement between project owner and Studio 4 / IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "PARTIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Project Owner (Contractor)",
+      "col_2": "[Name — the person accountable for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Entity",
+      "col_2": "IonWave [Entity TBD] / Studio 4 Ventures",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Authorized by",
+      "col_2": "Nilo (Danilo Vicioso)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Contract Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Effective Period",
+      "col_2": "[Start] to [End]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "SCOPE OF WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Production of M11: VSL Production",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Includes 14 content tabs, MC conversations (4-10 hrs), expert coordination, verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Deliverables:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "1. All 14 content tabs complete and verified (see V-M11)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "2. Industry perspectives complete (see IP-M11)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "3. MC conversations recorded and uploaded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "4. Expert review completed with revisions incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "5. Definition of done met (see P-M11)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "COMPENSATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Component",
+      "col_2": "Amount",
+      "col_3": "Trigger",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Base Fee",
+      "col_2": "[$ TBD]",
+      "col_3": "On contract signing",
+      "col_4": "Covers production time",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Milestone 1: AI Draft Complete",
+      "col_2": "[$ TBD]",
+      "col_3": "All tabs filled with AI first draft",
+      "col_4": "50% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Milestone 2: Expert Reviewed",
+      "col_2": "[$ TBD]",
+      "col_3": "Expert feedback incorporated",
+      "col_4": "25% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Milestone 3: Verified & Locked",
+      "col_2": "[$ TBD]",
+      "col_3": "V-tab all green, DoD met",
+      "col_4": "Final 25%",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Equity",
+      "col_2": "[% TBD]",
+      "col_3": "On contract signing, vesting over [X] months",
+      "col_4": "IonWave equity",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "MC Conversations Bonus",
+      "col_2": "[$ TBD]",
+      "col_3": "All MC hours completed and uploaded",
+      "col_4": "Optional",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "QUALITY STANDARDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• All content must pass expert review (domain trust verifier signs off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• All content must pass verification (V-tab shows VERIFIED on every row)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• No placeholder text remaining in any tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• All novel concepts have MC conversations recorded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• Industry perspectives tab has all 5 sections substantively completed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• Trust protocol satisfied at all 4 levels (strategic, domain, execution, vibes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• Definition of Done met (see P-M11)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Phase",
+      "col_2": "Duration",
+      "col_3": "Start",
+      "col_4": "End",
+      "col_5": "Gate"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Planning & MC Conversations",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "P-tab locked, MC hours scheduled"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "AI Draft Production",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "All tabs have first draft"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Expert Review",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Expert feedback received"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Revision & Incorporation",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Revisions complete"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Verification",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "V-tab all green"
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Final Lock",
+      "col_2": "1 day",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Nilo signs off. Model locked."
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "TERMINATION & FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• If model is not complete by Target End Date + 7 days grace: contract review with Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• If expert review reveals fundamental problems requiring >50% rework: timeline extends, no additional fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• If project owner becomes unresponsive for >5 business days: contract terminated, partial payment prorated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• If IonWave kills the project (M0 kill criteria triggered): contract terminated, work-to-date paid in full",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "• IP Assignment: All work product belongs to IonWave / Studio 4. Project owner retains right to reference in portfolio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "SIGNATURES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Project Owner:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Authorized (Nilo):",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M11: VSL PRODUCTION": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "C-M11",
+  "sheet_index": 307
+}

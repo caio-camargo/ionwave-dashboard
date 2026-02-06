@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F7: Cold Email System — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "ListKit model. 50-100 emails/week per role. Templates, personalization, follow-up cadence.",
+      "col_2": null
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade cold email system model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "B (Good)",
+      "col_2": "Solid cold email system model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "C (Needs Work)",
+      "col_2": "Cold Email System model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "D (Major Issues)",
+      "col_2": "Cold Email System model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "F (Fail)",
+      "col_2": "Cold Email System model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F7: Cold Email System — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F7",
+  "sheet_index": 1134
+}

@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "GRAND UNIFYING DICTIONARY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "GRAND UNIFYING DICTIONARY": "Single source of truth for all term definitions - words mean ONE thing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Term",
+      "col_2": "Definition",
+      "col_3": "Example",
+      "col_4": "NOT This"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Trade",
+      "col_2": "A single business venture within Studio",
+      "col_3": "IonWave",
+      "col_4": "The entire Studio"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Sprint",
+      "col_2": "7-week execution period",
+      "col_3": "IonWave Sprint 1",
+      "col_4": "Any work period"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Operator",
+      "col_2": "Person running the trade day-to-day",
+      "col_3": "IonWave Operator",
+      "col_4": "Anyone who works"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "CM",
+      "col_2": "Compliance Manager - verifies work",
+      "col_3": "The person checking",
+      "col_4": "Project manager"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Win",
+      "col_2": "Hitting $100K MRR",
+      "col_3": "IonWave at $100K MRR",
+      "col_4": "Any positive outcome"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Kill",
+      "col_2": "Stopping a trade due to failed criteria",
+      "col_3": "Shutting down IonWave",
+      "col_4": "Pausing temporarily"
+    },
+    {
+      "GRAND UNIFYING DICTIONARY": "Deliverable",
+      "col_2": "Specific output with acceptance criteria",
+      "col_3": "Store live with tracking",
+      "col_4": "General progress"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Grand Unifying Dictionary",
+  "sheet_index": 765
+}

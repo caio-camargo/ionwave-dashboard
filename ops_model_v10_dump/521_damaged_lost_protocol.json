@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "DAMAGED / LOST SHIPMENT PROTOCOL"
+  ],
+  "rows": [
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "Who eats the cost? How to file claims?"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "DAMAGED:"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "1. Customer reports (request photo)"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "2. Ship replacement immediately"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "3. File carrier claim"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "LOST:"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "1. Check tracking first"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "2. If truly lost → reship"
+    },
+    {
+      "DAMAGED / LOST SHIPMENT PROTOCOL": "3. File carrier claim"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Damaged Lost Protocol",
+  "sheet_index": 521
+}

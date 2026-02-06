@@ -1,0 +1,423 @@
+{
+  "headers": [
+    "EQUITY STRATEGY & PLANNING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "EQUITY STRATEGY & PLANNING": "How to think about cap table, dilution, and equity allocation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "EQUITY FUNDAMENTALS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Equity = Ownership of future value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Give equity when:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Someone is creating long-term value (not just doing a job)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• You can't afford to pay market cash",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• You want alignment (skin in the game)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Don't give equity when:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Cash would work just as well",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• The relationship is short-term",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• The person doesn't understand/value equity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "STUDIO MODEL EQUITY STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Stakeholder",
+      "col_2": "Typical Range",
+      "col_3": "Rationale",
+      "col_4": "Vesting",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Studio (Founder)",
+      "col_2": "50-70%",
+      "col_3": "Created the opportunity, provides capital/support",
+      "col_4": "None (already vested)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Operator",
+      "col_2": "10-25%",
+      "col_3": "Runs day-to-day, creates operational value",
+      "col_4": "4 years, 1 year cliff",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Investors",
+      "col_2": "10-30%",
+      "col_3": "Provide capital for growth",
+      "col_4": "None (purchased)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Advisor Pool",
+      "col_2": "2-5%",
+      "col_3": "Strategic guidance, connections",
+      "col_4": "2 years, quarterly",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Future Hires",
+      "col_2": "5-10%",
+      "col_3": "Reserved for key future team",
+      "col_4": "Standard 4yr/1yr",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "DILUTION MATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Dilution = When new shares are created, existing % ownership decreases",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Example:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• You own 60% of 100 shares (60 shares)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Company issues 25 new shares to investor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Now 125 total shares, you still have 60",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Your ownership: 60/125 = 48%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• You were diluted from 60% to 48%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Dilution isn't bad if:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• The investment increases company value more than it dilutes you",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• 48% of $10M > 60% of $2M",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "DILUTION SCENARIOS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Scenario",
+      "col_2": "Pre-Money Val",
+      "col_3": "Investment",
+      "col_4": "Post-Money Val",
+      "col_5": "Investor Gets",
+      "col_6": "Studio After"
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Seed ($50K)",
+      "col_2": "$200K",
+      "col_3": "$50K",
+      "col_4": "$250K",
+      "col_5": "20%",
+      "col_6": "48% (from 60%)"
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Seed ($50K)",
+      "col_2": "$450K",
+      "col_3": "$50K",
+      "col_4": "$500K",
+      "col_5": "10%",
+      "col_6": "54% (from 60%)"
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Series A ($500K)",
+      "col_2": "$2M",
+      "col_3": "$500K",
+      "col_4": "$2.5M",
+      "col_5": "20%",
+      "col_6": "38% (from 48%)"
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Series A ($500K)",
+      "col_2": "$4.5M",
+      "col_3": "$500K",
+      "col_4": "$5M",
+      "col_5": "10%",
+      "col_6": "43% (from 48%)"
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "OPERATOR EQUITY FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Factor",
+      "col_2": "Lower Equity",
+      "col_3": "Higher Equity",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Risk",
+      "col_2": "Proven model, just needs execution",
+      "col_3": "Unproven, high failure risk",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Contribution",
+      "col_2": "Studio provides everything, operator executes",
+      "col_3": "Operator brings unique skills/assets",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Cash comp",
+      "col_2": "Market-rate salary",
+      "col_3": "Below-market or no salary",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Upside",
+      "col_2": "Smaller business ($1M exit)",
+      "col_3": "Larger business ($10M+ exit)",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Alternatives",
+      "col_2": "Operator has many options",
+      "col_3": "Operator is betting career on this",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "VESTING TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Standard: 4 years total, 1 year cliff",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Cliff = Must stay 1 year to get ANY equity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• After cliff, vest monthly or quarterly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Protects company from early departure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Acceleration:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Single trigger = Accelerate on acquisition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "• Double trigger = Accelerate on acquisition + termination",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EQUITY STRATEGY & PLANNING": "Recommendation: Double trigger for operators",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Equity Strategy & Planning",
+  "sheet_index": 176
+}

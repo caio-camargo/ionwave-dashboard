@@ -1,0 +1,77 @@
+{
+  "headers": [
+    "INFORMATION INTEGRATION SCORE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INFORMATION INTEGRATION SCORE": "Measuring how 'alive' and coherent the system is",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "INTEGRATION METRICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Metric",
+      "col_2": "Definition",
+      "col_3": "Target",
+      "col_4": "Current",
+      "col_5": "Score"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Documentation coverage",
+      "col_2": "% of processes documented",
+      "col_3": "100%",
+      "col_4": "[TBD]",
+      "col_5": "/10"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Information latency",
+      "col_2": "Time from event to record",
+      "col_3": "<24 hrs",
+      "col_4": "[TBD]",
+      "col_5": "/10"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Cross-reference accuracy",
+      "col_2": "Do sheets agree?",
+      "col_3": "100%",
+      "col_4": "[TBD]",
+      "col_5": "/10"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Decision traceability",
+      "col_2": "Can trace any decision to source",
+      "col_3": "100%",
+      "col_4": "[TBD]",
+      "col_5": "/10"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "Knowledge accessibility",
+      "col_2": "Time to find any info",
+      "col_3": "<5 min",
+      "col_4": "[TBD]",
+      "col_5": "/10"
+    },
+    {
+      "INFORMATION INTEGRATION SCORE": "TOTAL INTEGRATION SCORE: /50",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Information Integration Score",
+  "sheet_index": 877
+}

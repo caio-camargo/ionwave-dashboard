@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "FRAUD DETECTION"
+  ],
+  "rows": [
+    {
+      "FRAUD DETECTION": "Red flags checklist - what to look for"
+    },
+    {
+      "FRAUD DETECTION": "RED FLAGS BY CATEGORY"
+    },
+    {
+      "FRAUD DETECTION": "FINANCIAL"
+    },
+    {
+      "FRAUD DETECTION": "☐ Numbers don't reconcile across sources"
+    },
+    {
+      "FRAUD DETECTION": "☐ Round numbers that seem estimated"
+    },
+    {
+      "FRAUD DETECTION": "☐ Screenshots with inconsistent dates/times"
+    },
+    {
+      "FRAUD DETECTION": "☐ Reluctance to share platform access"
+    },
+    {
+      "FRAUD DETECTION": "☐ Bank balance doesn't match reported cash"
+    },
+    {
+      "FRAUD DETECTION": "☐ Revenue up but cash down (unexplained)"
+    },
+    {
+      "FRAUD DETECTION": "OPERATIONAL"
+    },
+    {
+      "FRAUD DETECTION": "☐ Inventory counts don't match 3PL"
+    },
+    {
+      "FRAUD DETECTION": "☐ Orders shipped but no tracking"
+    },
+    {
+      "FRAUD DETECTION": "☐ Customer complaints about unfulfilled orders"
+    },
+    {
+      "FRAUD DETECTION": "☐ Supplier says different story than Operator"
+    },
+    {
+      "FRAUD DETECTION": "☐ Can't produce basic documentation"
+    },
+    {
+      "FRAUD DETECTION": "BEHAVIORAL"
+    },
+    {
+      "FRAUD DETECTION": "☐ Increasingly delayed responses"
+    },
+    {
+      "FRAUD DETECTION": "☐ Excuses for missing reports"
+    },
+    {
+      "FRAUD DETECTION": "☐ Deflection when asked specific questions"
+    },
+    {
+      "FRAUD DETECTION": "☐ Stories change between conversations"
+    },
+    {
+      "FRAUD DETECTION": "☐ Reluctance to do video calls"
+    },
+    {
+      "FRAUD DETECTION": "☐ Requests for unusual payment arrangements"
+    },
+    {
+      "FRAUD DETECTION": "RELATED PARTY"
+    },
+    {
+      "FRAUD DETECTION": "☐ Vendors that can't be verified"
+    },
+    {
+      "FRAUD DETECTION": "☐ Payments to individuals not companies"
+    },
+    {
+      "FRAUD DETECTION": "☐ Family members as key vendors"
+    },
+    {
+      "FRAUD DETECTION": "☐ Unusually favorable terms from suppliers"
+    },
+    {
+      "FRAUD DETECTION": "☐ Kickback patterns in spending"
+    },
+    {
+      "FRAUD DETECTION": "IF FRAUD SUSPECTED"
+    },
+    {
+      "FRAUD DETECTION": "1. Document everything - screenshots, dates, specifics"
+    },
+    {
+      "FRAUD DETECTION": "2. Do NOT confront Operator directly"
+    },
+    {
+      "FRAUD DETECTION": "3. Escalate to Studio immediately"
+    },
+    {
+      "FRAUD DETECTION": "4. Preserve all evidence"
+    },
+    {
+      "FRAUD DETECTION": "5. Request direct platform access"
+    },
+    {
+      "FRAUD DETECTION": "6. Consider forensic accounting review"
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "CM Fraud Detection",
+  "sheet_index": 722
+}

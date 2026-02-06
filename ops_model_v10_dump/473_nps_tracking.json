@@ -1,0 +1,207 @@
+{
+  "headers": [
+    "NPS TRACKING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "NPS TRACKING": "Net Promoter Score - measuring customer loyalty",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "WHAT IS NPS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "THE QUESTION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "'On a scale of 0-10, how likely are you to recommend IonWave to a friend?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "SCORING:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• 9-10 = Promoters (loyal enthusiasts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• 7-8 = Passives (satisfied but vulnerable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• 0-6 = Detractors (unhappy, may damage brand)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "NPS = % Promoters - % Detractors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "Range: -100 to +100",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "NPS TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "Period",
+      "col_2": "Responses",
+      "col_3": "Promoters",
+      "col_4": "Passives",
+      "col_5": "Detractors",
+      "col_6": "NPS Score"
+    },
+    {
+      "NPS TRACKING": "HOW TO COLLECT NPS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "WHEN TO ASK:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Post-purchase (Day 14-21, after they've used product)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Quarterly for existing customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "TOOLS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Delighted (NPS-specific)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Typeform",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Klaviyo (post-purchase flow)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "• Simple Google Form",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "FOLLOW-UP QUESTION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "Always ask: 'What's the main reason for your score?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "NPS TRACKING": "This qualitative data is as valuable as the score.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "NPS Tracking",
+  "sheet_index": 473
+}

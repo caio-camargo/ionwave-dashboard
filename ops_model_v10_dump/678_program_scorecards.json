@@ -1,0 +1,415 @@
+{
+  "headers": [
+    "PROGRAM SCORECARDS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "PROGRAM SCORECARDS": "Each program graded independently — like departmental reviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 1: PRODUCT & SUPPLY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "Formulation finalized",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Manufacturer contracted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Packaging designed + ordered",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "3PL selected + integrated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "QC process documented",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Reorder triggers set",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Cost per unit validated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Backup supplier identified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 2: GROWTH & ACQUISITION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "Shopify store live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Product photography done",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "First VSL produced + tested",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Meta ads account live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Landing pages optimized",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Creator pipeline active",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "CPA below target",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "3+ winning ads running",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 3: RETENTION & REVENUE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "Klaviyo connected",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Welcome flow live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Abandoned cart flow live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Post-purchase flow live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Subscription option available",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Win-back flow live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Repeat purchase rate > 20%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Email revenue > 20% of total",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 4: FINANCE & LEGAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "LLC filed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Bank account open",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Bookkeeping current",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Monthly close < 5 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "All contracts signed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Tax obligations mapped",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Cash flow positive",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "3+ months runway",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 5: PEOPLE & CULTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "Operator hired + onboarded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "VA hired (if needed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "All roles documented (7 dimensions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Performance reviews on schedule",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Escalation paths working",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Daily standups happening",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Team NPS > 7",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Zero unplanned departures",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM 6: STRATEGY & INTELLIGENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Verification Item",
+      "col_2": "Status",
+      "col_3": "Grade",
+      "col_4": "Notes"
+    },
+    {
+      "PROGRAM SCORECARDS": "Competitive landscape mapped",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PMF score calculated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Trade Scorecard updated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Quarterly strategy review complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Product roadmap exists",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Market trends monitored",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Post-mortems on all killed TUPs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "Learnings feed into next semester",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PROGRAM SCORECARDS": "PROGRAM GRADE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 67,
+  "sheet_name": "Program Scorecards",
+  "sheet_index": 678
+}

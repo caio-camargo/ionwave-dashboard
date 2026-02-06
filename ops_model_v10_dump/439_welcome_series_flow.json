@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "WELCOME SERIES FLOW",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "WELCOME SERIES FLOW": "5-7 email sequence for new subscribers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "WELCOME SERIES STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Goal",
+      "col_5": "Content"
+    },
+    {
+      "WELCOME SERIES FLOW": "W1",
+      "col_2": "Immediate",
+      "col_3": "Welcome! Here's your [X]",
+      "col_4": "Deliver value, set expectations",
+      "col_5": "Welcome, brand story, deliver lead magnet"
+    },
+    {
+      "WELCOME SERIES FLOW": "W2",
+      "col_2": "Day 1",
+      "col_3": "Why we're different",
+      "col_4": "Education, differentiation",
+      "col_5": "78 minerals vs 3, ocean-sourced story"
+    },
+    {
+      "WELCOME SERIES FLOW": "W3",
+      "col_2": "Day 3",
+      "col_3": "[Name], have you tried this?",
+      "col_4": "Soft sell",
+      "col_5": "Social proof, product intro, CTA"
+    },
+    {
+      "WELCOME SERIES FLOW": "W4",
+      "col_2": "Day 5",
+      "col_3": "What [customer] said...",
+      "col_4": "Social proof",
+      "col_5": "Testimonials, reviews, results"
+    },
+    {
+      "WELCOME SERIES FLOW": "W5",
+      "col_2": "Day 7",
+      "col_3": "Your exclusive offer",
+      "col_4": "Conversion push",
+      "col_5": "Discount/offer, urgency"
+    },
+    {
+      "WELCOME SERIES FLOW": "W6",
+      "col_2": "Day 10",
+      "col_3": "Still thinking about it?",
+      "col_4": "Objection handling",
+      "col_5": "FAQ, guarantee, final push"
+    },
+    {
+      "WELCOME SERIES FLOW": "W7",
+      "col_2": "Day 14",
+      "col_3": "Last chance: [Offer]",
+      "col_4": "Final conversion",
+      "col_5": "Urgency, scarcity, strong CTA"
+    },
+    {
+      "WELCOME SERIES FLOW": "EMAIL 1 TEMPLATE (Welcome)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "SUBJECT: Welcome to IonWave! Here's your [X]% off",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "Hey [Name]!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "Welcome to the IonWave family. 🌊",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "You just took the first step toward real hydration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "(not the fake stuff with 3 minerals and a bunch of sugar).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "As promised, here's your exclusive code: WELCOME[X]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "[CTA BUTTON: Shop Now]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "Over the next few days, I'll share:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "• Why 78 minerals matters (and why most brands only have 3)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "• Real stories from customers who finally feel energized",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "• The science behind ocean-sourced electrolytes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "Talk soon,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "[Founder name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES FLOW": "P.S. This code expires in 7 days. Don't miss out.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Welcome Series Flow",
+  "sheet_index": 439
+}

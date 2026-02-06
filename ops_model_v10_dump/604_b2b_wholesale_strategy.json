@@ -1,0 +1,250 @@
+{
+  "headers": [
+    "B2B & WHOLESALE STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "B2B & WHOLESALE STRATEGY": "Selling to businesses: gyms, offices, clinics, retailers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "WHEN TO PURSUE B2B",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "☐ D2C proven (PMF achieved, unit economics work)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "☐ Production capacity available",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "☐ Brand has credibility (reviews, social proof)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "☐ Margin can support wholesale pricing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "DO NOT pursue B2B to 'save' a failing D2C business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "B2B should be expansion, not escape.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "B2B SEGMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Segment",
+      "col_2": "Why They Buy",
+      "col_3": "Decision Maker",
+      "col_4": "Volume",
+      "col_5": "Margin",
+      "col_6": "Priority",
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Gyms / CrossFit Boxes",
+      "col_2": "Resell to members, differentiation",
+      "col_3": "Owner / Manager",
+      "col_4": "Low-Med",
+      "col_5": "Medium",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Corporate Wellness",
+      "col_2": "Employee perks, health programs",
+      "col_3": "HR / Wellness Dir",
+      "col_4": "Medium",
+      "col_5": "High",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Clinics / Practitioners",
+      "col_2": "Recommend to patients",
+      "col_3": "Doctor / Practitioner",
+      "col_4": "Low",
+      "col_5": "High",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Hotels / Spas",
+      "col_2": "Premium amenity",
+      "col_3": "GM / Purchasing",
+      "col_4": "Medium",
+      "col_5": "Medium",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Sports Teams",
+      "col_2": "Team performance",
+      "col_3": "Coach / Trainer",
+      "col_4": "Medium",
+      "col_5": "Medium",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Subscription Boxes",
+      "col_2": "Include in curated boxes",
+      "col_3": "Curator / Buyer",
+      "col_4": "Variable",
+      "col_5": "Low",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Retail (Small)",
+      "col_2": "Health food stores, boutiques",
+      "col_3": "Owner / Buyer",
+      "col_4": "Low",
+      "col_5": "Low",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Retail (Large)",
+      "col_2": "Whole Foods, Sprouts, etc.",
+      "col_3": "Category Buyer",
+      "col_4": "High",
+      "col_5": "Very Low",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "WHOLESALE PRICING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Level",
+      "col_2": "Price",
+      "col_3": "Discount",
+      "col_4": "Notes",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Retail Price (MSRP)",
+      "col_2": "$49",
+      "col_3": "0%",
+      "col_4": "What consumer pays",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Wholesale (50% off)",
+      "col_2": "$24.50",
+      "col_3": "50%",
+      "col_4": "Standard retail markup",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Distributor (60% off)",
+      "col_2": "$19.60",
+      "col_3": "60%",
+      "col_4": "If using distributors",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Our COGS",
+      "col_2": "$[X]",
+      "col_3": "-",
+      "col_4": "Must have margin at wholesale",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "B2B PIPELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "B2B & WHOLESALE STRATEGY": "Company",
+      "col_2": "Segment",
+      "col_3": "Contact",
+      "col_4": "Status",
+      "col_5": "Volume Est",
+      "col_6": "Next Step",
+      "col_7": "Notes"
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "B2B & Wholesale Strategy",
+  "sheet_index": 604
+}

@@ -1,0 +1,34 @@
+{
+  "headers": [
+    "INFORMATION ARCHITECTURE"
+  ],
+  "rows": [
+    {
+      "INFORMATION ARCHITECTURE": "Where everything lives. Naming conventions. Version control."
+    },
+    {
+      "INFORMATION ARCHITECTURE": "FOLDER STRUCTURE:"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 01_Strategy/"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 02_Product/"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 03_Marketing/"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 04_Operations/"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 05_Finance/"
+    },
+    {
+      "INFORMATION ARCHITECTURE": "📁 06_Legal/"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Information Architecture",
+  "sheet_index": 825
+}

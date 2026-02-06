@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F10: Application System — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F10: Application System — VERIFICATION": "Cluster: FCL-1 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "How people apply. Form fields, screening criteria, routing to MC conversation.",
+      "col_2": null
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade application system model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "B (Good)",
+      "col_2": "Solid application system model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "C (Needs Work)",
+      "col_2": "Application System model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "D (Major Issues)",
+      "col_2": "Application System model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "F (Fail)",
+      "col_2": "Application System model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F10: Application System — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F10",
+  "sheet_index": 1126
+}

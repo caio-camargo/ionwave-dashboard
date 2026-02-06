@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "RISK REGISTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "RISK REGISTER": "Risk",
+      "col_2": "Likelihood",
+      "col_3": "Impact",
+      "col_4": "Score",
+      "col_5": "Mitigation"
+    },
+    {
+      "RISK REGISTER": "Supplier fails",
+      "col_2": "2",
+      "col_3": "5",
+      "col_4": "10",
+      "col_5": "Backup supplier identified"
+    },
+    {
+      "RISK REGISTER": "CAC exceeds $50",
+      "col_2": "3",
+      "col_3": "4",
+      "col_4": "12",
+      "col_5": "Kill criteria, pivot creative"
+    },
+    {
+      "RISK REGISTER": "FDA warning letter",
+      "col_2": "2",
+      "col_3": "5",
+      "col_4": "10",
+      "col_5": "Compliant claims only"
+    },
+    {
+      "RISK REGISTER": "Operator leaves",
+      "col_2": "2",
+      "col_3": "4",
+      "col_4": "8",
+      "col_5": "Documentation, cross-training"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Risk Register",
+  "sheet_index": 826
+}

@@ -1,0 +1,100 @@
+{
+  "headers": [
+    "TUP KILL CRITERIA"
+  ],
+  "rows": [
+    {
+      "TUP KILL CRITERIA": "When to shut down a TUP"
+    },
+    {
+      "TUP KILL CRITERIA": "AUTOMATIC KILL TRIGGERS"
+    },
+    {
+      "TUP KILL CRITERIA": "The following trigger automatic kill discussion (not automatic kill):"
+    },
+    {
+      "TUP KILL CRITERIA": "• Grade drops to D"
+    },
+    {
+      "TUP KILL CRITERIA": "• Cash runway < 30 days with no path to more"
+    },
+    {
+      "TUP KILL CRITERIA": "• Fraud or material misrepresentation"
+    },
+    {
+      "TUP KILL CRITERIA": "• Operator abandonment (>14 days no contact)"
+    },
+    {
+      "TUP KILL CRITERIA": "• Legal/regulatory action that threatens business"
+    },
+    {
+      "TUP KILL CRITERIA": "• 3 consecutive months of declining revenue + missed targets"
+    },
+    {
+      "TUP KILL CRITERIA": "KILL DECISION FRAMEWORK"
+    },
+    {
+      "TUP KILL CRITERIA": "Ask these questions:"
+    },
+    {
+      "TUP KILL CRITERIA": "1. Is there a path to PMF we haven't tried?"
+    },
+    {
+      "TUP KILL CRITERIA": "2. Would more capital solve the problem?"
+    },
+    {
+      "TUP KILL CRITERIA": "3. Would a different Operator solve the problem?"
+    },
+    {
+      "TUP KILL CRITERIA": "4. Is the market opportunity still valid?"
+    },
+    {
+      "TUP KILL CRITERIA": "5. What's the opportunity cost of continuing?"
+    },
+    {
+      "TUP KILL CRITERIA": "If NO to 1-4 or YES to 5 is compelling → Kill"
+    },
+    {
+      "TUP KILL CRITERIA": "KILL PROCESS"
+    },
+    {
+      "TUP KILL CRITERIA": "1. CM recommends kill with rationale"
+    },
+    {
+      "TUP KILL CRITERIA": "2. Studio reviews, confirms or challenges"
+    },
+    {
+      "TUP KILL CRITERIA": "3. Kill decision made by Trade (if large capital involved)"
+    },
+    {
+      "TUP KILL CRITERIA": "4. Operator notified, wind-down plan created"
+    },
+    {
+      "TUP KILL CRITERIA": "5. Wind down executed (30 days typical):"
+    },
+    {
+      "TUP KILL CRITERIA": "• Stop ad spend immediately"
+    },
+    {
+      "TUP KILL CRITERIA": "• Fulfill remaining orders"
+    },
+    {
+      "TUP KILL CRITERIA": "• Liquidate inventory"
+    },
+    {
+      "TUP KILL CRITERIA": "• Close accounts"
+    },
+    {
+      "TUP KILL CRITERIA": "• Final accounting"
+    },
+    {
+      "TUP KILL CRITERIA": "6. Post-mortem completed and documented"
+    },
+    {
+      "TUP KILL CRITERIA": "7. Lessons integrated into future ODDs"
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "TUP Kill Criteria",
+  "sheet_index": 693
+}

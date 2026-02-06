@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F9: Pass-the-Bottom — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Viral recruiting. Every participant tells their network. MC mentions openings. Referral tracking.",
+      "col_2": null
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade pass-the-bottom model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "B (Good)",
+      "col_2": "Solid pass-the-bottom model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "C (Needs Work)",
+      "col_2": "Pass-the-Bottom model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "D (Major Issues)",
+      "col_2": "Pass-the-Bottom model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "F (Fail)",
+      "col_2": "Pass-the-Bottom model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F9: Pass-the-Bottom — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F9",
+  "sheet_index": 1142
+}

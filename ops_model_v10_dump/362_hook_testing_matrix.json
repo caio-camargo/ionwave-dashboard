@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "HOOK TESTING MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "HOOK TESTING MATRIX": "Grid of hooks × angles. Track what wins.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "HOOK TESTING MATRIX": "Hook",
+      "col_2": "Science",
+      "col_3": "Comparison",
+      "col_4": "Problem",
+      "col_5": "Lifestyle"
+    },
+    {
+      "HOOK TESTING MATRIX": "\"78 vs 3\"",
+      "col_2": "🟢 2.3x",
+      "col_3": "🟢 2.1x",
+      "col_4": "🟡 1.4x",
+      "col_5": "🔴 0.8x"
+    },
+    {
+      "HOOK TESTING MATRIX": "\"Body is 70% ocean\"",
+      "col_2": "🟢 1.9x",
+      "col_3": "🟡 1.3x",
+      "col_4": "🟡 1.1x",
+      "col_5": "🟢 1.8x"
+    },
+    {
+      "HOOK TESTING MATRIX": "\"Why I switched\"",
+      "col_2": "🟡 1.2x",
+      "col_3": "🟢 2.5x",
+      "col_4": "🟡 1.3x",
+      "col_5": "🟡 1.1x"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Hook Testing Matrix",
+  "sheet_index": 362
+}

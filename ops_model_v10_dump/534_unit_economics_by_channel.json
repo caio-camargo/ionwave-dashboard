@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "UNIT ECONOMICS BY CHANNEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "UNIT ECONOMICS BY CHANNEL": "CAC and LTV by acquisition source.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Channel",
+      "col_2": "CAC",
+      "col_3": "LTV",
+      "col_4": "LTV:CAC",
+      "col_5": "Verdict"
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Meta Prospecting",
+      "col_2": "$45",
+      "col_3": "$130",
+      "col_4": "2.9x",
+      "col_5": "🟡 Monitor"
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Meta Retargeting",
+      "col_2": "$20",
+      "col_3": "$145",
+      "col_4": "7.3x",
+      "col_5": "🟢 Scale"
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Google Brand",
+      "col_2": "$15",
+      "col_3": "$150",
+      "col_4": "10x",
+      "col_5": "🟢 Max out"
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Influencer",
+      "col_2": "$30",
+      "col_3": "$140",
+      "col_4": "4.7x",
+      "col_5": "🟢 Expand"
+    },
+    {
+      "UNIT ECONOMICS BY CHANNEL": "Organic",
+      "col_2": "$0",
+      "col_3": "$160",
+      "col_4": "∞",
+      "col_5": "🟢 Invest"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Unit Economics by Channel",
+  "sheet_index": 534
+}

@@ -1,0 +1,407 @@
+{
+  "headers": [
+    "VERIFICATION FRAMEWORK — WHO CHECKS WHOM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "The Trade is the oversight mechanism. Documents verify people.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Nobody provides oversight on the VA. The VA Hiring Kit provides oversight on the VA.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Nobody provides oversight on the Operator. The ODD provides oversight on the Operator.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "The documents ARE the oversight. Each layer is verified by the documents built for that layer,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "checked by the person one level above in the delegation chain.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "The Trade Execution Tracker is the single view that tells anyone — Nilo, CoS, CM, an investor —",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "where the whole thing stands at any moment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "VERIFICATION CHAIN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Layer",
+      "col_2": "Role",
+      "col_3": "Verified By (Person)",
+      "col_4": "Verified Against (Documents)",
+      "col_5": "Verification Cadence",
+      "col_6": "Escalation If Failed"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "D1",
+      "col_2": "VA",
+      "col_3": "Nilo",
+      "col_4": "VA Hiring Kit: Screening Checklist, Pipeline Tracker, Project Plan milestones",
+      "col_5": "Daily Slack update, weekly milestone check",
+      "col_6": "Replace VA (Week 1 cost, not Week 10)"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "D2",
+      "col_2": "Chief of Staff",
+      "col_3": "Nilo",
+      "col_4": "CoS Assessment Workbook: Project plan milestones, Recruiter assessment quality, pipeline health",
+      "col_5": "Weekly 15-min check-in, milestone gates",
+      "col_6": "Address in check-in → formal warning → replace"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "D3",
+      "col_2": "Recruiter",
+      "col_3": "CoS",
+      "col_4": "Recruiter Contract: candidate volume, quality scores, timeline, success fee tied to hire",
+      "col_5": "Weekly pipeline report to CoS",
+      "col_6": "CoS escalates to Nilo if pipeline empty after 2 weeks"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "D4",
+      "col_2": "Operator",
+      "col_3": "CM + CoS",
+      "col_4": "ODD (679 tabs): Trade Execution Tracker milestones, Semester Report Cards, CRM Metrics Dashboard, financial targets",
+      "col_5": "Daily metrics, weekly report, semester review",
+      "col_6": "CM escalates to Studio per Escalation Architecture"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "D4.1",
+      "col_2": "Operator’s hires",
+      "col_3": "Operator",
+      "col_4": "Role Engineering: 7 dimensions defined before hire, Curriculum Template, TUP Assignment Board",
+      "col_5": "Weekly program review, semester grades",
+      "col_6": "Operator manages per School Model (remedial → warning → termination)"
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "NILO'S ACTUAL TOUCHPOINTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "The system is designed so Nilo's total involvement is ~8 hours over 11 weeks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "for the labor chain, then minimal ongoing oversight. Here's the actual time:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "PHASE 0 (Weeks 1-11):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Post VA job: 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Screen VA applicants: 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Hire VA + kickoff: 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Interview CoS finalists (3-5): 2-3 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Hire CoS: 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Interview Operator finalists (3-5): 2-3 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Hire Operator: 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Total: ~7-8 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "ONGOING (Post Week 11):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Weekly 15-min CoS check-in",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Monthly CM report review (30 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Semester review (2 hours, every 12 weeks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Total ongoing: ~2 hours/month",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Everything else is verified by documents checked by people",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "in the delegation chain. That's the whole point.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "HOW THE TRADE EXECUTION TRACKER WORKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "The Tracker is the single source of truth for project status.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "WHO UPDATES IT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Phase 0: VA updates pipeline rows. Nilo updates hiring decision rows.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Phase 1-2: Operator updates all rows. CoS verifies weekly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Phase 3-4: Operator updates. CM verifies metrics rows. CoS verifies ops rows.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "WHAT 'VERIFIED' MEANS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Each row has a Verification column that says exactly what done looks like.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "'Verified' status means someone checked the output against that column and it passed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Not 'I think it's done.' Not 'it's mostly done.' The verification criteria either pass or they don't.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "WHEN TO CHECK THE TRACKER:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Nilo: Once a week, 5 minutes. Are milestones green? Any blocks?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "CoS: Daily. Is the Operator updating? Are verification criteria being met?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "CM: Weekly. Are metrics rows matching financial targets?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VERIFICATION FRAMEWORK — WHO CHECKS WHOM": "Operator: Daily. This is your project plan. Update it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Verification Framework",
+  "sheet_index": 749
+}

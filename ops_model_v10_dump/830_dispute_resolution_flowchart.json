@@ -1,0 +1,72 @@
+{
+  "headers": [
+    "DISPUTE RESOLUTION FLOWCHART",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "Step-by-step conflict resolution - escalation ladder",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "Step",
+      "col_2": "Timeline",
+      "col_3": "Process"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "STEP 1: Direct Discussion",
+      "col_2": "48 hrs",
+      "col_3": "Parties discuss directly, document outcome"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "STEP 2: CM Mediation",
+      "col_2": "72 hrs",
+      "col_3": "CM facilitates discussion, proposes resolution"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "STEP 3: Studio Review",
+      "col_2": "1 week",
+      "col_3": "Studio reviews facts, makes binding decision"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "STEP 4: External Mediation",
+      "col_2": "2 weeks",
+      "col_3": "If >$10K at stake, professional mediator"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "STEP 5: Arbitration",
+      "col_2": "30 days",
+      "col_3": "Binding arbitration per contract terms"
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "PRINCIPLES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "• Good faith effort required at each step",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "• Documentation required throughout",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "• No retaliation for raising disputes",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DISPUTE RESOLUTION FLOWCHART": "• Confidentiality maintained",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Dispute Resolution Flowchart",
+  "sheet_index": 830
+}

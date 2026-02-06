@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S34: Conceptual Foundations — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Esoteric and philosophical underpinnings. Consciousness, complexity, emergence, alternative intellectual traditions.",
+      "col_2": null
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "TUP",
+      "col_2": "S34: Conceptual Foundations"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-0"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Owner",
+      "col_2": "Nilo"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Description",
+      "col_2": "Esoteric and philosophical underpinnings. Consciousness, complexity, emergence, alternative intellectual traditions."
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S34: Conceptual Foundations — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Conceptual Foundations model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S34",
+  "sheet_index": 955
+}

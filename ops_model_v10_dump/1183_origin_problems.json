@@ -1,0 +1,721 @@
+{
+  "headers": [
+    "ORIGIN PROBLEMS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ORIGIN PROBLEMS": "The original problem set that created the Trade. 68 problems across 10 categories.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "Source: spreadsheet_automation_problems_solutions.md (Nilo's raw thinking) + Vicioso Problems & Solutions tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "These are the problems. The Trade is the answer. Every design decision traces here.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "META FRAME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "META-1",
+      "col_2": "Company creation is artisanal — can't hire someone to finish/execute a 45% complete operating model",
+      "col_3": "Can't scale, can't delegate, everything depends on one person. The core problem.",
+      "col_4": "Standardize into 103 TUPs with tab structure, grading, AI co-pilot — anyone can execute from artifact alone",
+      "col_5": "M1"
+    },
+    {
+      "ORIGIN PROBLEMS": "META-2",
+      "col_2": "Solution must be cheap and easy — no elaborate enterprise systems",
+      "col_3": "Complex solutions won't be maintained or adopted. Google Workspace + spreadsheet or nothing.",
+      "col_4": "Spreadsheet + Drive + Calendar + AI = entire system. $0 beyond Google Workspace.",
+      "col_5": "M2"
+    },
+    {
+      "ORIGIN PROBLEMS": "META-3",
+      "col_2": "Unclear what's AI frontier vs organizational complexity",
+      "col_3": "Might be solving wrong problems or using wrong tools. Some problems are prompting problems, some are org design problems.",
+      "col_4": "Human-in-the-loop design. AI co-pilot augments, librarian routes, expert grades. Test which is which.",
+      "col_5": "M3"
+    },
+    {
+      "ORIGIN PROBLEMS": "META-4",
+      "col_2": "Fix 45% complete system vs start from single paragraph?",
+      "col_3": "Wrong approach wastes enormous effort. Growth approach has different problems than fix approach.",
+      "col_4": "Both. Trade IS the paragraph grown into 1181 tabs. IonWave proves it works.",
+      "col_5": "M4"
+    },
+    {
+      "ORIGIN PROBLEMS": "META-5",
+      "col_2": "Compression vs Comprehensiveness — when to zoom 100x vs stay high-level",
+      "col_3": "Over-complicate simple things OR over-simplify complex things. No framework for deciding.",
+      "col_4": "TUP tab structure defines zoom level. P-tab = compressed scope. C-tabs = expanded detail. Expert decides if depth is right.",
+      "col_5": "M5"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEPENDENCY & COMPLEXITY (10 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-1",
+      "col_2": "Each tab has dependencies to other tabs — can't edit in isolation",
+      "col_3": "Change in one place breaks another",
+      "col_4": "Cross-TUP Dependencies tab + librarian integrity checks",
+      "col_5": "D1"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-2",
+      "col_2": "Information change propagation — don't know what's affected",
+      "col_3": "Hidden contradictions accumulate silently",
+      "col_4": "Dependency map updated after each change; librarian propagates",
+      "col_5": "D2"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-3",
+      "col_2": "A single word can blow up the system",
+      "col_3": "Catastrophic failures from small edits. Non-obvious high-impact terms.",
+      "col_4": "Conceptual Index: 500-700 words per term prevents semantic drift",
+      "col_5": "D3"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-4",
+      "col_2": "Working memory overflow — 103 TUPs exceed human capacity",
+      "col_3": "Can't see whole system, miss connections",
+      "col_4": "Cluster structure groups TUPs; conductor sequences; dashboard shows state",
+      "col_5": "D4"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-5",
+      "col_2": "No cognitive scaffolding — no visualization of dependencies",
+      "col_3": "Have to manually trace connections every time",
+      "col_4": "Tab Dependencies Map + Drive structure mirrors Trade hierarchy",
+      "col_5": "D5"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-6",
+      "col_2": "Attention fragmentation — context-switching destroys flow",
+      "col_3": "Lose train of thought after 4 tab switches",
+      "col_4": "Flash sprints: one cluster at a time, 2-3 weeks. No tab switching.",
+      "col_5": "D6"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-7",
+      "col_2": "Can't comprehend relationships — dependencies invisible",
+      "col_3": "Cause-effect understanding impossible across 1181 tabs",
+      "col_4": "MC narrative layer makes relationships legible in conversation",
+      "col_5": "D7"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-8",
+      "col_2": "Can't project future states — 'if I change this, what breaks?'",
+      "col_3": "Fear of change, hidden consequences",
+      "col_4": "Snapshot + test + rollback. Librarian checks cross-references.",
+      "col_5": "D8"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-9",
+      "col_2": "Don't know sequencing of tab creation — circular dependencies",
+      "col_3": "Can't parallelize, wrong build order",
+      "col_4": "Cluster architecture defines build sequence. M0 thesis → clusters.",
+      "col_5": "Alt-A6"
+    },
+    {
+      "ORIGIN PROBLEMS": "DEP-10",
+      "col_2": "Expansion creates version control nightmares",
+      "col_3": "Half tabs reflect old model, half new",
+      "col_4": "TUP versioning: imagination locks on grade ≥ B. Amendments logged.",
+      "col_5": "Alt-A8"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUALITY & STANDARDS (8 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-1",
+      "col_2": "Each tab is not completed — placeholders, empty columns, missing logic",
+      "col_3": "Work never finishes, quality varies",
+      "col_4": "Expert grading: nothing locks below B. P-tab defines what complete means.",
+      "col_5": "Q1"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-2",
+      "col_2": "No vision for what each tab should look like",
+      "col_3": "Don't know what 'done' looks like. No reference.",
+      "col_4": "P-tab = scope + spec. Reference models tab has examples.",
+      "col_5": "Q2"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-3",
+      "col_2": "No defined way to audit each tab",
+      "col_3": "Bad work passes, good work unrecognized",
+      "col_4": "ACP grading: Attestation (true?), Completeness (everything?), Plausibility (works?)",
+      "col_5": "Q3"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-4",
+      "col_2": "No clear stopping criteria",
+      "col_3": "Perfectionism or premature completion",
+      "col_4": "Grade ≥ B = lock. Not perfect, good enough to execute from.",
+      "col_5": "Q4"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-5",
+      "col_2": "No shared vocabulary — terms mean different things",
+      "col_3": "'Lead' means 3 different things across tabs",
+      "col_4": "Conceptual Index with 500-700 word definitions",
+      "col_5": "Q5"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-6",
+      "col_2": "Implicit assumptions not captured",
+      "col_3": "Claude makes different assumptions than you",
+      "col_4": "Assumptions register with kill criteria. Validation conversations.",
+      "col_5": "Q6"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-7",
+      "col_2": "100 rounds of feedback until right",
+      "col_3": "Time and cost blow up, fatigue sets in",
+      "col_4": "Templates encode learning — AI starts at round 95, not round 1",
+      "col_5": "Q7"
+    },
+    {
+      "ORIGIN PROBLEMS": "QUAL-8",
+      "col_2": "Levels of abstraction not obvious to LLMs",
+      "col_3": "Claude doesn't flag 75% close rate is 15x industry standard",
+      "col_4": "Expert review catches what AI can't. Benchmarks in P-tabs.",
+      "col_5": "Q8"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARNING & CONTEXT (7 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-1",
+      "col_2": "Can't find reference models — best-in-class examples unavailable",
+      "col_3": "Reinvent the wheel, suboptimal solutions",
+      "col_4": "Reference Models tabs + Reference Deck - Shuman + expert networks",
+      "col_5": "L1"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-2",
+      "col_2": "Lost context between sessions — reasoning disappears",
+      "col_3": "Repeat same mistakes, rediscover same insights",
+      "col_4": "Artifact IS the context. Post-mortems capture lessons. Templates persist.",
+      "col_5": "L2"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-3",
+      "col_2": "Every prompt starts cold — no accumulated knowledge",
+      "col_3": "Re-explain decisions every time",
+      "col_4": "Templates ARE accumulated knowledge. AI co-pilot reads the Trade.",
+      "col_5": "L3"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-4",
+      "col_2": "Can't compose or reuse proven prompts",
+      "col_3": "When prompt works, can't apply to similar tabs",
+      "col_4": "Prompt library = Trade tab templates. Reuse across TUPs.",
+      "col_5": "L4"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-5",
+      "col_2": "No prompt performance history",
+      "col_3": "Repeat same prompting mistakes",
+      "col_4": "Post-mortems track what worked. Grade history shows patterns.",
+      "col_5": "L5"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-6",
+      "col_2": "Novel situations not captured — edge cases fall through",
+      "col_3": "Same gaps persist",
+      "col_4": "NO TEMPLATE flag → new template within 2 weeks (QMS)",
+      "col_5": "L6"
+    },
+    {
+      "ORIGIN PROBLEMS": "LEARN-7",
+      "col_2": "Knowledge stays in one person's head",
+      "col_3": "Bus factor = 1, scale impossible",
+      "col_4": "Lesson from PM A → template → PM B uses without Nilo",
+      "col_5": "L7"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXECUTION & SCALE (7 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-1",
+      "col_2": "Spreadsheet not easy for human to read vs narrative",
+      "col_3": "Can't understand WHY from rows",
+      "col_4": "MC narrative layer. Start Here tab. OOUP essay converts to prose.",
+      "col_5": "E1"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-2",
+      "col_2": "Can't zoom to important pieces during different conditions",
+      "col_3": "Can't quickly find what's urgent",
+      "col_4": "Dashboard + breaking points + conductor sequencing",
+      "col_5": "E2"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-3",
+      "col_2": "Improving tabs requires more space than pure AI compute",
+      "col_3": "Need research docs, analysis, alternatives",
+      "col_4": "Drive folder per cluster. Working docs alongside artifact.",
+      "col_5": "E3"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-4",
+      "col_2": "Claude doesn't have compute for full system",
+      "col_3": "Context window limits cross-tab analysis",
+      "col_4": "Chunk by cluster, not by tab. Librarian routes context.",
+      "col_5": "E4"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-5",
+      "col_2": "Prioritization is manual — which tab next?",
+      "col_3": "Guesswork, suboptimal sequencing",
+      "col_4": "Conductor sequences. Dependencies auto-trigger priority.",
+      "col_5": "E5"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-6",
+      "col_2": "Founder is the bottleneck",
+      "col_3": "Can't scale, burnout, single point of failure",
+      "col_4": "Flash teams execute from artifact. Founder sets initial conditions only.",
+      "col_5": "S1"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXEC-7",
+      "col_2": "System can't run without founder for 30 days",
+      "col_3": "No vacation, no leverage",
+      "col_4": "THIS IS THE CORE RESEARCH QUESTION. Can artifact replace founder?",
+      "col_5": "S5"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRING & PEOPLE (15 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-1",
+      "col_2": "Not a repeated profile — need rare skill combo",
+      "col_3": "Can't use standard recruiting",
+      "col_4": "PM co-founder model: Claude competency + domain curiosity. Test via sprint.",
+      "col_5": "H1"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-2",
+      "col_2": "Requires a recruiter",
+      "col_3": "Time investment to recruit is substantial",
+      "col_4": "MC pipeline + Nilo outbound + operator search tracker",
+      "col_5": "H2"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-3",
+      "col_2": "Don't have money to pay market rate ($150-200/hr)",
+      "col_3": "Free/equity work hard to attract",
+      "col_4": "Equity model: 0.3-0.5% per sprint vesting on grade ≥ B",
+      "col_5": "H3"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-4",
+      "col_2": "No infrastructure to make it appealing to do for free",
+      "col_3": "Project doesn't look professional",
+      "col_4": "The Trade IS the infrastructure. 1181 tabs = professional artifact.",
+      "col_5": "H4"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-5",
+      "col_2": "They may not complete it — no binding commitment",
+      "col_3": "Enthusiasm fades, other opportunities",
+      "col_4": "Equity vests on grade. No grade = no equity. Sprint structure = small commits.",
+      "col_5": "H5"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-6",
+      "col_2": "Don't have someone to manage them",
+      "col_3": "Founder bottleneck for all decisions",
+      "col_4": "Artifact manages: tabs + rubric + verification items = self-managing",
+      "col_5": "H6"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-7",
+      "col_2": "Not actually aligned when they start",
+      "col_3": "Your 'complete' differs from theirs",
+      "col_4": "P-tab defines scope. ACP grading provides objective criteria. Expert grades, not founder.",
+      "col_5": "H7"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-8",
+      "col_2": "Quality control bottleneck — you still review everything",
+      "col_3": "Review takes as long as doing it",
+      "col_4": "Multi-grader system: AI → Librarian → Expert. Founder overrides only.",
+      "col_5": "H8"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-9",
+      "col_2": "Async communication overhead",
+      "col_3": "2-week sprint becomes 6 weeks from Q&A latency",
+      "col_4": "AI co-pilot answers most questions. Librarian routes the rest. Zero meetings.",
+      "col_5": "H9"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-10",
+      "col_2": "Commitment uncertainty — might quit halfway",
+      "col_3": "60% done then disappear; context lost",
+      "col_4": "Sprint structure: 2-3 week commits. Context in artifact, not in person's head.",
+      "col_5": "H10"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-11",
+      "col_2": "IP/confidentiality concerns",
+      "col_3": "No legal protection; they could replicate",
+      "col_4": "PM agreement: IP assignment, equity vesting, NDA. Entity structure.",
+      "col_5": "H11"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-12",
+      "col_2": "Iteration friction — they want team environment",
+      "col_3": "Isolation demotivates",
+      "col_4": "MC creates community. Expert reviewers provide interaction. Eventually PM cohort.",
+      "col_5": "H12"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-13",
+      "col_2": "Don't know who commercializes — handoff undefined",
+      "col_3": "Spreadsheet complete, then what?",
+      "col_4": "PM does BOTH: imagination (build) AND implementation (launch). No handoff.",
+      "col_5": "H13"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-14",
+      "col_2": "Can't structure deal to own 80% when unincorporated",
+      "col_3": "Contributors expect 50/50",
+      "col_4": "Platform structure upfront: equity splits clear from day 1.",
+      "col_5": "H14"
+    },
+    {
+      "ORIGIN PROBLEMS": "HIRE-15",
+      "col_2": "Don't know how to get people to commit",
+      "col_3": "10 say interested, 2 start, 0 finish",
+      "col_4": "Sprint commitment is binary. Test sprint first. Equity only on grade.",
+      "col_5": "H15"
+    },
+    {
+      "ORIGIN PROBLEMS": "GENERATION-VERIFICATION GAP (4 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "GAP-1",
+      "col_2": "Can't identify high-risk vs low-risk components",
+      "col_3": "Either over-verify (waste) or under-verify (miss critical)",
+      "col_4": "Expert reviewers decide depth. Critical-path TUPs get dual review.",
+      "col_5": "Alt-A9"
+    },
+    {
+      "ORIGIN PROBLEMS": "GAP-2",
+      "col_2": "Can't detect load-bearing vs scaffolding elements",
+      "col_3": "Some components break everything if wrong, some don't matter",
+      "col_4": "Essential variables define load-bearing. Dependencies show cascading risk.",
+      "col_5": "Alt-A10"
+    },
+    {
+      "ORIGIN PROBLEMS": "GAP-3",
+      "col_2": "Can't decide verification depth per component",
+      "col_3": "No principle for allocating testing effort",
+      "col_4": "TUP criticality rating in P-tab. Higher criticality = deeper review.",
+      "col_5": "Alt-A11"
+    },
+    {
+      "ORIGIN PROBLEMS": "GAP-4",
+      "col_2": "Non-obvious high-impact words can blow up system (UNSOLVED)",
+      "col_3": "Can't predict which words matter until they explode",
+      "col_4": "Conceptual Index helps. But this remains genuinely unsolved. The paper should acknowledge it.",
+      "col_5": "Sub-19"
+    },
+    {
+      "ORIGIN PROBLEMS": "VERSION CONTROL & ROLLBACK (6 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-1",
+      "col_2": "No rollback mechanism — improvements that break things can't be undone",
+      "col_3": "Fear of making changes",
+      "col_4": "TUP versioning. Imagination locks. Amendments create new versions.",
+      "col_5": "V1"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-2",
+      "col_2": "No version control or change tracking",
+      "col_3": "Can't see what changed, changes happen without awareness",
+      "col_4": "Drive version history + librarian change log + sprint reports",
+      "col_5": "V2"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-3",
+      "col_2": "No observability layer — can't debug failures",
+      "col_3": "Black box execution",
+      "col_4": "Post-mortems required. Sprint reports. Grade commentary.",
+      "col_5": "V3"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-4",
+      "col_2": "No evaluation metrics",
+      "col_3": "'Better' is subjective without grades",
+      "col_4": "ACP grading. Grade history. Cumulative TUP grades.",
+      "col_5": "V4"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-5",
+      "col_2": "No error budgets or graceful degradation",
+      "col_3": "System assumes perfect execution",
+      "col_4": "Breaking points define thresholds. Conductor manages degraded mode.",
+      "col_5": "V5"
+    },
+    {
+      "ORIGIN PROBLEMS": "VER-6",
+      "col_2": "No invariants — no properties that must always be true",
+      "col_3": "Can't detect system corruption",
+      "col_4": "Librarian checks structural invariants. Dependencies must be consistent.",
+      "col_5": "V6"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXPANSION & UNFOLDING (8 problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Vicioso Ref"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-1",
+      "col_2": "How do you unfold a single paragraph into 200 tabs?",
+      "col_3": "No methodology for expanding narrative to structure",
+      "col_4": "Trade Anatomy + TUP template + cluster structure. Paragraph → levels → clusters → TUPs → tabs.",
+      "col_5": "Alt-A1"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-2",
+      "col_2": "Don't know right checkpoints for validating expansion",
+      "col_3": "Can't tell if on right path during build",
+      "col_4": "Phase gates (P-tab → AI draft → librarian review → expert grade)",
+      "col_5": "Alt-A2"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-3",
+      "col_2": "No protocols to zoom in at different levels",
+      "col_3": "Can't drill down systematically",
+      "col_4": "Level hierarchy: Trade → Passet → Level → Cluster → TUP → Tab",
+      "col_5": "Alt-A3"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-4",
+      "col_2": "Going to lower levels reveals higher-level insights",
+      "col_3": "Emergent properties not captured",
+      "col_4": "Post-mortems surface learnings. Templates updated. New TUPs created if gap found.",
+      "col_5": "Alt-A4"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-5",
+      "col_2": "No clear place to define unfolding logic",
+      "col_3": "Unfolding is implicit, inconsistent",
+      "col_4": "S4-Taxonomy defines hierarchy. P-tabs define per-TUP unfolding.",
+      "col_5": "Alt-A5"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-6",
+      "col_2": "Don't know sequencing of tab creation",
+      "col_3": "Circular dependencies, can't parallelize",
+      "col_4": "Dependency Graph + cluster architecture defines sequence. M0 first, always.",
+      "col_5": "Alt-A6"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-7",
+      "col_2": "No way to validate digital twin is 'complete'",
+      "col_3": "Might have 200 tabs but missing core components",
+      "col_4": "Failure Scenarios enumerate what can go wrong. If not covered → add TUP.",
+      "col_5": "Alt-A7"
+    },
+    {
+      "ORIGIN PROBLEMS": "EXP-8",
+      "col_2": "Expansion creates version control nightmares",
+      "col_3": "Half tabs reflect old model, half new",
+      "col_4": "Imagination lock on grade. Amendments create new version. Old version preserved.",
+      "col_5": "Alt-A8"
+    },
+    {
+      "ORIGIN PROBLEMS": "DESIGN PRINCIPLES (from the problems)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "#",
+      "col_2": "Principle",
+      "col_3": "What It Means",
+      "col_4": "Where Implemented",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "P1",
+      "col_2": "Verification items as universal currency",
+      "col_3": "Everything uses 'can a stranger execute this?' — contracts, QMS, payments, progress",
+      "col_4": "Grading System tab, V-tabs in every TUP",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "P2",
+      "col_2": "Two-pass always: narrative → component",
+      "col_3": "First understand the whole, then fix parts. Never fix everything at once.",
+      "col_4": "TUP Lifecycle: librarian (structural) → expert (substance)",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "P3",
+      "col_2": "Session = single atomic improvement",
+      "col_3": "Each sprint produces one scored, logged improvement per cluster",
+      "col_4": "Sprint structure, conductor sequencing",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "P4",
+      "col_2": "Prompt library is architecture",
+      "col_3": "The templates ARE the system, not implementation details",
+      "col_4": "P-tabs = encoded prompts. Tabs = reusable prompts.",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "P5",
+      "col_2": "Grading replaces completion",
+      "col_3": "Nothing is ever 'done' — just scored. Decide when good enough to stop.",
+      "col_4": "Grading System: A-F scale. B = lock threshold.",
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "TOTAL: 65 problems across 9 categories. 5 design principles. 1 unsolved (GAP-4: non-obvious high-impact words).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "CROSS-REFERENCE: S41-Problem Doc maps 21 of these to the research paper. Vicioso Problems & Solutions has the original 68.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ORIGIN PROBLEMS": "THE CLAIM: The Trade architecture, as implemented in IonWave's 1181 tabs, is a proposed solution to all 64 solved problems.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 101,
+  "sheet_name": "Origin Problems",
+  "sheet_index": 1183
+}

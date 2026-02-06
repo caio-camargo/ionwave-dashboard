@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "FDA-COMPLIANT CLAIMS LIBRARY"
+  ],
+  "rows": [
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "✅ APPROVED CLAIMS"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Supports hydration"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Contains 78 trace minerals"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Sourced from ocean water"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Supports electrolyte balance"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "❌ PROHIBITED CLAIMS"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Cures dehydration"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Treats mineral deficiency"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Prevents disease"
+    },
+    {
+      "FDA-COMPLIANT CLAIMS LIBRARY": "• Medical claims of any kind"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Compliant Claims",
+  "sheet_index": 256
+}

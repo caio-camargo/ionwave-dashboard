@@ -1,0 +1,187 @@
+{
+  "headers": [
+    "VENTURE PARTNER COMPENSATION",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "VENTURE PARTNER COMPENSATION": "Commission/success-fee structure for deal makers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "COMPENSATION PHILOSOPHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Venture Partners eat what they kill.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• No base salary (or minimal retainer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Compensation tied to closed deals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Upside unlimited if they perform",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Zero cost if they don't",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "This attracts deal makers, not relationship builders.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "COMPENSATION STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Deal Type",
+      "col_2": "Success Fee",
+      "col_3": "When Paid",
+      "col_4": "Cap"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Partnership (rev share)",
+      "col_2": "10% of first year revenue from deal",
+      "col_3": "Quarterly as revenue comes in",
+      "col_4": "$25K per deal"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Partnership (one-time)",
+      "col_2": "10% of deal value",
+      "col_3": "When deal closes",
+      "col_4": "$10K per deal"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Retail placement",
+      "col_2": "$2,500 per retailer",
+      "col_3": "When first PO ships",
+      "col_4": "No cap"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Wholesale account",
+      "col_2": "5% of first year revenue",
+      "col_3": "Quarterly",
+      "col_4": "$10K per account"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Investor intro (closed)",
+      "col_2": "2% of investment",
+      "col_3": "When funds wire",
+      "col_4": "$20K per round"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Influencer deal",
+      "col_2": "10% of first 90 days",
+      "col_3": "After 90 days",
+      "col_4": "$5K per deal"
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "OPTIONAL: RETAINER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "For proven Venture Partners with track record:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• $1,000-2,000/month retainer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Against commissions (retainer deducted from success fees)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Ensures some minimum effort/attention",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "• Review quarterly — cut if no deals closing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "For new/unproven VPs: No retainer. Commission only.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "EQUITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Generally NO equity for Venture Partners.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Why: They're compensated per deal. Equity creates misalignment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "Exception: If VP becomes ongoing strategic partner with",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "continuous value creation, consider 0.5-2% vesting equity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENTURE PARTNER COMPENSATION": "AFTER 12+ months of proven deal flow.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Venture Partner Compensation",
+  "sheet_index": 667
+}

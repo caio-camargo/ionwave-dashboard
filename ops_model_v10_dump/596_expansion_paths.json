@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "EXPANSION PATHS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "EXPANSION PATHS": "Post-PMF growth options — Amazon, Retail, B2B, International",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "EXPANSION OPTIONS MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Path",
+      "col_2": "When Ready",
+      "col_3": "Investment",
+      "col_4": "Margin Impact",
+      "col_5": "Complexity",
+      "col_6": "Upside"
+    },
+    {
+      "EXPANSION PATHS": "Amazon",
+      "col_2": "$50K+ MRR D2C",
+      "col_3": "$10-20K setup",
+      "col_4": "-15% (fees)",
+      "col_5": "Medium",
+      "col_6": "Large new customer pool"
+    },
+    {
+      "EXPANSION PATHS": "Retail (small)",
+      "col_2": "$100K+ MRR",
+      "col_3": "$25-50K",
+      "col_4": "-30-40%",
+      "col_5": "High",
+      "col_6": "Brand legitimacy, volume"
+    },
+    {
+      "EXPANSION PATHS": "Retail (big box)",
+      "col_2": "$500K+ MRR",
+      "col_3": "$100K+",
+      "col_4": "-40-50%",
+      "col_5": "Very High",
+      "col_6": "Mass scale"
+    },
+    {
+      "EXPANSION PATHS": "Wholesale/B2B",
+      "col_2": "$50K+ MRR",
+      "col_3": "$5-10K",
+      "col_4": "-20-30%",
+      "col_5": "Low",
+      "col_6": "Recurring, bulk orders"
+    },
+    {
+      "EXPANSION PATHS": "International (UK/EU)",
+      "col_2": "$100K+ MRR",
+      "col_3": "$20-50K",
+      "col_4": "Similar",
+      "col_5": "High",
+      "col_6": "New markets"
+    },
+    {
+      "EXPANSION PATHS": "International (other)",
+      "col_2": "$250K+ MRR",
+      "col_3": "$50K+",
+      "col_4": "Varies",
+      "col_5": "Very High",
+      "col_6": "Massive TAM"
+    },
+    {
+      "EXPANSION PATHS": "White label",
+      "col_2": "Any time",
+      "col_3": "$5K",
+      "col_4": "+20-30%",
+      "col_5": "Low",
+      "col_6": "Cash flow, volume"
+    },
+    {
+      "EXPANSION PATHS": "Line extensions",
+      "col_2": "Post-PMF",
+      "col_3": "$15-30K",
+      "col_4": "Similar",
+      "col_5": "Medium",
+      "col_6": "Wallet share, LTV"
+    },
+    {
+      "EXPANSION PATHS": "RECOMMENDED SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "1. AMAZON (after D2C PMF)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Why first: Large audience, manageable complexity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Key: Don't cannibalize D2C, use for incremental reach",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "2. WHOLESALE/B2B (parallel with Amazon)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Why: Low complexity, good margins, recurring",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Targets: Gyms, CrossFit boxes, wellness offices",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "3. LINE EXTENSIONS (6-12 months post-launch)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Why: Increase LTV from existing customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Options: Sleep formula, Energy formula, Variety packs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "4. RETAIL (only if brand is strong)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Why last: Margin hit, complexity, slotting fees",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Start: Natural/specialty (Whole Foods, Sprouts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "5. INTERNATIONAL (only if US is humming)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANSION PATHS": "Start with: UK, Canada, Australia (English, similar regs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Expansion Paths",
+  "sheet_index": 596
+}

@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "75 QUESTIONS PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "75 QUESTIONS PROTOCOL": "Operator creates doc with 75 questions and projected answers, sends for correction",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "THE PROCESS",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "1. Operator reads all source materials",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "2. Generates 75 questions about the business",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "3. Writes their projected answer for each",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "4. Sends to Studio for correction",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "5. Corrections reveal gaps in understanding",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "6. Iterate until alignment achieved",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "QUESTION CATEGORIES",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Unit Economics (15)",
+      "col_2": "COGS, margins, CAC, LTV, break-even"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Operations (15)",
+      "col_2": "Supplier, fulfillment, inventory, support"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Marketing (15)",
+      "col_2": "Channels, creative, positioning, funnel"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Finance (10)",
+      "col_2": "Cash flow, runway, funding, projections"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Strategy (10)",
+      "col_2": "Competition, differentiation, moats, risks"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "Team (10)",
+      "col_2": "Roles, responsibilities, communication, decisions"
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "EXAMPLE QUESTIONS",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "1. What is our all-in COGS including shipping to 3PL?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "2. At what CAC does this business stop making sense?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "3. How many days of inventory should we hold?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "4. What happens if our supplier fails?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "5. Why would someone choose us over LMNT?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "6. How do we know when to scale ad spend?",
+      "col_2": null
+    },
+    {
+      "75 QUESTIONS PROTOCOL": "7. What decisions can operator make without approval?",
+      "col_2": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "75 Questions Protocol",
+  "sheet_index": 910
+}

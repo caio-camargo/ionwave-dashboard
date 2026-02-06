@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "WIN-BACK OFFER LADDER",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "WIN-BACK OFFER LADDER": "Escalating offers for churned customers.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Timing",
+      "col_2": "Offer",
+      "col_3": "Message"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 1",
+      "col_2": "None",
+      "col_3": "Confirm + ask why"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 7",
+      "col_2": "10% off",
+      "col_3": "We miss you"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 14",
+      "col_2": "15% off + free ship",
+      "col_3": "Last chance"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 30",
+      "col_2": "20% off",
+      "col_3": "New product angle"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 60",
+      "col_2": "25% off 3 months",
+      "col_3": "Major value"
+    },
+    {
+      "WIN-BACK OFFER LADDER": "Day 90",
+      "col_2": "30% off",
+      "col_3": "Final goodbye"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Win-Back Offer Ladder",
+  "sheet_index": 484
+}

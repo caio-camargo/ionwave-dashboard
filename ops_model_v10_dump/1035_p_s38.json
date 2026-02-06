@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S38: Risk Management — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "What can go wrong. Legal risk, IP risk, coordination failure, key person risk. Mitigation plans.",
+      "col_2": null
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "TUP",
+      "col_2": "S38: Risk Management"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-3"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Owner",
+      "col_2": "PM (Finance)"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Description",
+      "col_2": "What can go wrong. Legal risk, IP risk, coordination failure, key person risk. Mitigation plans."
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S38: Risk Management — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Risk Management model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S38",
+  "sheet_index": 1035
+}

@@ -1,0 +1,430 @@
+{
+  "headers": [
+    "VERIFICATION — M0: TRADE THESIS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Trust: Strategic=Nilo | Domain=Nilo | Execution=Nilo | Vibes=Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Tab Name",
+      "col_2": "Verified By",
+      "col_3": "Trust Level",
+      "col_4": "What They Check",
+      "col_5": "Status",
+      "col_6": "Date",
+      "col_7": "Notes"
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Thesis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ODD-1 Complete Thesis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Initial Conditions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "The Equations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP 1 - The Biohacker",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP 2 - Wellness Mom",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP 3 - The Athlete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP 4 - Keto Carnivore",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP 5 - Chronic Fatigue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "ICP Collective",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Risks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Why 100K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Anti-Goals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Pre-Mortem",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Assumptions Register",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Confidence Levels",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Validation Milestones",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "PMF Sequencing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Unfair Advantages",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Why LMNT Could Be Wrong",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Why Equal Could Be Wrong",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Market Landscape Map",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Unit Economics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Competitive Intel",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Reference Model",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Decision Log",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "One-Way Two-Way Doors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Bifurcation Points",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Decision Framework",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Luck Surface Area",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Regret Minimization",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "PMF Proof",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Product Strategy & MVP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Computational PMF",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "Investor Narrative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "NOT STARTED",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "STATUS KEY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "NOT STARTED",
+      "col_2": "Tab not yet produced or reviewed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "AI DRAFT",
+      "col_2": "Claude generated first draft",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "IN REVIEW",
+      "col_2": "Sent to verifier, awaiting feedback",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "REVISION",
+      "col_2": "Feedback received, Claude revising",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "VERIFIED",
+      "col_2": "Verifier approved. Locked.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VERIFICATION — M0: TRADE THESIS": "BLOCKED",
+      "col_2": "Cannot verify — trust gap (no verifier assigned)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 46,
+  "sheet_name": "V-M0",
+  "sheet_index": 139
+}

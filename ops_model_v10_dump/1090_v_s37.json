@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S37: Studio Scaling — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "How Studio 4 grows. Multiple simultaneous Trades. Operator pipeline. Infrastructure scaling.",
+      "col_2": null
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade studio scaling model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "B (Good)",
+      "col_2": "Solid studio scaling model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "C (Needs Work)",
+      "col_2": "Studio Scaling model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "D (Major Issues)",
+      "col_2": "Studio Scaling model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "F (Fail)",
+      "col_2": "Studio Scaling model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S37: Studio Scaling — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S37",
+  "sheet_index": 1090
+}

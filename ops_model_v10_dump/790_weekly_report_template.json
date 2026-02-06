@@ -1,0 +1,16 @@
+{
+  "headers": [
+    "WEEKLY REPORT TEMPLATE"
+  ],
+  "rows": [
+    {
+      "WEEKLY REPORT TEMPLATE": "Exact format for weekly updates"
+    },
+    {
+      "WEEKLY REPORT TEMPLATE": "📈 WEEKLY REPORT - WEEK [X]\n[Date Range]\n\n═══════════════════════════════════\nSUMMARY\n═══════════════════════════════════\nRevenue: $[X] (vs target: $[X])\nOrders: [X] (vs target: [X])\nCAC: $[X] (vs target: $[X])\nROAS: [X] (vs target: [X])\n\n═══════════════════════════════════\nACQUISITION\n═══════════════════════════════════\nAd Spend: $[X]\nImpressions: [X]\nClicks: [X]\nCTR: [X]%\nCPC: $[X]\nPurchases: [X]\nTop Performing Ad: [Name]\nWorst Performing Ad: [Name]\n\n═══════════════════════════════════\nRETENTION\n═══════════════════════════════════\nEmail Revenue: $[X] ([X]% of total)\nNew Subscribers: [X]\nChurned: [X]\nNet Subscriber Change: [X]\n\n═══════════════════════════════════\nOPERATIONS\n═══════════════════════════════════\nOrders Fulfilled: [X]\nAvg Ship Time: [X] days\nSupport Tickets: [X]\nInventory Status: [X] days remaining\n\n═══════════════════════════════════\nWINS\n═══════════════════════════════════\n1. [Win]\n2. [Win]\n3. [Win]\n\n═══════════════════════════════════\nCHALLENGES\n═══════════════════════════════════\n1. [Challenge + mitigation]\n2. [Challenge + mitigation]\n\n═══════════════════════════════════\nNEXT WEEK PRIORITIES\n═══════════════════════════════════\n1. [Priority]\n2. [Priority]\n3. [Priority]\n\n═══════════════════════════════════\nDECISIONS NEEDED\n═══════════════════════════════════\n• [Decision needed from Studio]"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Weekly Report Template",
+  "sheet_index": 790
+}

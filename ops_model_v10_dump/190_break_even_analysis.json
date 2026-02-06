@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "BREAK-EVEN ANALYSIS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "BREAK-EVEN ANALYSIS": "How many orders to cover fixed costs?",
+      "col_2": null
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Fixed Costs (Monthly)",
+      "col_2": "Amount"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Shopify",
+      "col_2": "$79"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Klaviyo",
+      "col_2": "$45"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Other software",
+      "col_2": "$100"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Contractor/VA",
+      "col_2": "$500"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "TOTAL FIXED",
+      "col_2": "$824"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Contribution Margin",
+      "col_2": "Amount"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "AOV",
+      "col_2": "$55"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "COGS + Shipping",
+      "col_2": "$28"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Contribution",
+      "col_2": "$25.35"
+    },
+    {
+      "BREAK-EVEN ANALYSIS": "Break-even = $824 / $25.35 = 33 orders/month",
+      "col_2": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Break-Even Analysis",
+  "sheet_index": 190
+}

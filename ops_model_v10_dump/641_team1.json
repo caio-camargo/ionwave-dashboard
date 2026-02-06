@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "TEAM STRUCTURE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "TEAM STRUCTURE": "THE CONSTRAINT: 3-4 PMs MAXIMUM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TEAM STRUCTURE": "If we need more than 4 people, system is too complex.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TEAM STRUCTURE": "Role",
+      "col_2": "Scope",
+      "col_3": "Hours",
+      "col_4": "When"
+    },
+    {
+      "TEAM STRUCTURE": "1. Operator",
+      "col_2": "Everything",
+      "col_3": "40-50",
+      "col_4": "Pre-launch"
+    },
+    {
+      "TEAM STRUCTURE": "2. Creative PM",
+      "col_2": "Ads, UGC, video",
+      "col_3": "20-30",
+      "col_4": "Month 2"
+    },
+    {
+      "TEAM STRUCTURE": "3. Ops PM",
+      "col_2": "CS, inventory, 3PL",
+      "col_3": "20-30",
+      "col_4": "Month 3"
+    },
+    {
+      "TEAM STRUCTURE": "4. Growth PM",
+      "col_2": "New channels",
+      "col_3": "20-30",
+      "col_4": "Month 6+"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Team1",
+  "sheet_index": 641
+}

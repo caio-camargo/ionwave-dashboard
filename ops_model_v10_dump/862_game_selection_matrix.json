@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "GAME SELECTION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "GAME SELECTION MATRIX": "Which sub-games to play and in what order",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GAME SELECTION MATRIX": "Game",
+      "col_2": "Priority",
+      "col_3": "When to Play",
+      "col_4": "Win Condition",
+      "col_5": "Resources Required"
+    },
+    {
+      "GAME SELECTION MATRIX": "Acquisition",
+      "col_2": "1",
+      "col_3": "Month 1+",
+      "col_4": "CAC < $40",
+      "col_5": "$5-10K/mo ad spend"
+    },
+    {
+      "GAME SELECTION MATRIX": "Retention",
+      "col_2": "2",
+      "col_3": "Month 2+",
+      "col_4": "Churn < 8%",
+      "col_5": "Email/SMS platform"
+    },
+    {
+      "GAME SELECTION MATRIX": "Expansion",
+      "col_2": "3",
+      "col_3": "Month 6+",
+      "col_4": "AOV +20%",
+      "col_5": "New SKUs"
+    },
+    {
+      "GAME SELECTION MATRIX": "Referral",
+      "col_2": "4",
+      "col_3": "Month 4+",
+      "col_4": "20% organic",
+      "col_5": "Referral program"
+    },
+    {
+      "GAME SELECTION MATRIX": "Channel",
+      "col_2": "5",
+      "col_3": "Month 9+",
+      "col_4": "30% non-Meta",
+      "col_5": "TikTok, influencer"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Game Selection Matrix",
+  "sheet_index": 862
+}

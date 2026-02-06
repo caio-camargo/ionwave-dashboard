@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "IONWAVE TEAM STRUCTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "IONWAVE TEAM STRUCTURE": "Lean team designed for 7-week sprint. Scale after validation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "Role",
+      "col_2": "Name",
+      "col_3": "Scope",
+      "col_4": "Hours/Week",
+      "col_5": "Compensation",
+      "col_6": "Reports To"
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "Operator",
+      "col_2": "[TBD]",
+      "col_3": "Everything. Supplier, ads, LP, email, fulfillment, investors. Full ownership.",
+      "col_4": "50-60",
+      "col_5": "Equity (negotiated)",
+      "col_6": "Studio 4 / Nilo"
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "Compliance Manager",
+      "col_2": "[TBD - Studio]",
+      "col_3": "Daily check-ins, gate assessments, accountability, quality control",
+      "col_4": "5-10",
+      "col_5": "$500/mo (Studio)",
+      "col_6": "Studio 4 / Nilo"
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "Creative Support (PT)",
+      "col_2": "[TBD]",
+      "col_3": "Ad creation, video editing, design support. On-call for creative sprints.",
+      "col_4": "10-15",
+      "col_5": "$25-40/hr or per-project",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "VA / Admin (PT)",
+      "col_2": "[TBD]",
+      "col_3": "Influencer outreach, customer service, data entry, research",
+      "col_4": "10-20",
+      "col_5": "$10-20/hr",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "NOTES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "• Operator is the bottleneck and single point of accountability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "• Creative support engaged Week 2+ when ad volume ramps",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "• VA engaged Week 2+ for influencer outreach and CS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "• No full-time hires until post-validation (Month 2+)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE TEAM STRUCTURE": "• Studio provides oversight, not execution",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Team",
+  "sheet_index": 640
+}

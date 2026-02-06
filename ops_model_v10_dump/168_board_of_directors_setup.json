@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "BOARD OF DIRECTORS SETUP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "BOARD OF DIRECTORS SETUP": "When and how to set up a board",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "WHEN DO YOU NEED A BOARD?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "LLC: No formal board required (managing members)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "C-Corp: Board required by law (can be just founder initially)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "After raising: Investors often get board seats",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "TYPICAL PROGRESSION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Pre-funding: Founder only (1 person board)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Seed: Founder + 1 investor + 1 independent (3 person)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Series A+: Founder + investors + independents (5 person)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "BOARD COMPOSITION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Seat",
+      "col_2": "Who",
+      "col_3": "Role",
+      "col_4": "Voting"
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Founder Seat(s)",
+      "col_2": "CEO/Founders",
+      "col_3": "Run the company",
+      "col_4": "Yes"
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Investor Seat(s)",
+      "col_2": "Lead investor(s)",
+      "col_3": "Protect investment",
+      "col_4": "Yes"
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Independent Seat(s)",
+      "col_2": "Outside experts",
+      "col_3": "Objective advice",
+      "col_4": "Yes"
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Observer Seat(s)",
+      "col_2": "Other investors",
+      "col_3": "Information rights",
+      "col_4": "No"
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "BOARD MEETING CADENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Early Stage: Quarterly (or as needed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Growth Stage: Monthly or Bi-monthly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "Typical Agenda:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Financial review (15 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Key metrics and progress (15 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Strategic discussion topic (30-45 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOARD OF DIRECTORS SETUP": "• Administrative items (15 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Board of Directors Setup",
+  "sheet_index": 168
+}

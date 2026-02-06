@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT"
+  ],
+  "rows": [
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "Copy this template for each expert session. Fill in the specifics."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "TO: [Expert Name]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "FROM: [PM Name], Studio 4"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "RE: Review of [Model Name] — [X] tabs covering [domain description]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "CONTEXT:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "We're building a comprehensive operational model for launching a D2C electrolyte supplement."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "The model has 41 operating sub-models covering every business domain."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "Your domain is [domain]. We've used AI to generate a first draft of [X] tabs."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "We need 30-60 minutes of your time to tell us what's wrong, what's missing, and what's good."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "WHAT WE'RE SENDING YOU:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "[X] tabs from our operating model, covering: [list of tab names]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "WHAT WE NEED FROM YOU:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "1. Scan each tab (don't read every cell — scan for structure and content quality)"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "2. For each tab, rate: Expert-Grade / Acceptable / Needs Work / Embarrassing"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "3. Flag anything that's factually wrong or would make you lose credibility"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "4. Flag anything that's missing that a professional in this field would expect"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "5. Tell us what surprised you positively (so we know what AI does well)"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "YOU DO NOT NEED TO:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "- Fix anything yourself"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "- Write any content"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "- Fill any blanks"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "- Spend more than 60 minutes"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "FORMAT:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "You can do this live on a call (we'll take notes) or async (just reply to this email with notes)."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "Whatever is easier for you."
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "COMPENSATION:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "[Option A: $X flat fee for the session]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "[Option B: Access to the finished Trade model when complete]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "[Option C: Trade for equivalent advisory time in your area of interest]"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "TIMELINE:"
+    },
+    {
+      "PM BRIEF TEMPLATE — WHAT THE PM SENDS EACH EXPERT": "We'd like to schedule this for [week of X]. Does [date/time] work?"
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "PM Brief Template",
+  "sheet_index": 41
+}

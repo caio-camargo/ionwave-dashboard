@@ -1,0 +1,135 @@
+{
+  "headers": [
+    "ADVISOR HIT LIST - SPECIFIC NAMES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "TIER 1: SUPPLIERS (VALIDATE COGS - WEEK 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Name",
+      "col_2": "Role/Company",
+      "col_3": "Contact Path",
+      "col_4": "What We Learn",
+      "col_5": "Approach",
+      "col_6": "Priority"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Marc Biss",
+      "col_2": "President, Actimar/Biocean",
+      "col_3": "LinkedIn: search 'Marc Biss Actimar'",
+      "col_4": "COGS, MOQ, exclusivity",
+      "col_5": "Cold email + LinkedIn",
+      "col_6": "IMMEDIATE"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Laboratoires Quinton sales",
+      "col_2": "Quinton International",
+      "col_3": "quinton.bio contact form",
+      "col_4": "Benchmark pricing, quality specs",
+      "col_5": "Email inquiry",
+      "col_6": "IMMEDIATE"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Alibaba marine plasma suppliers",
+      "col_2": "Various",
+      "col_3": "alibaba.com search 'marine plasma'",
+      "col_4": "Alternative sourcing, pricing",
+      "col_5": "RFQ to 5+ suppliers",
+      "col_6": "IMMEDIATE"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "TIER 2: CATEGORY EXPERTS (DE-RISK EXECUTION)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Name",
+      "col_2": "Role/Company",
+      "col_3": "Contact Path",
+      "col_4": "What We Learn",
+      "col_5": "Approach",
+      "col_6": "Priority"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Robb Wolf",
+      "col_2": "LMNT Co-founder",
+      "col_3": "robbwolf.com, The Healthy Rebellion podcast",
+      "col_4": "Electrolyte category dynamics",
+      "col_5": "Podcast outreach, Twitter DM",
+      "col_6": "HIGH"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Travis Chambers",
+      "col_2": "Founder, Chamber.Media",
+      "col_3": "chamber.media, LinkedIn",
+      "col_4": "DTC video ad strategy",
+      "col_5": "Email, $150-300/hr consulting",
+      "col_6": "HIGH"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Andrew Youderian",
+      "col_2": "Founder, eCommerceFuel",
+      "col_3": "ecommercefuel.com",
+      "col_4": "DTC supplement operators in network",
+      "col_5": "Podcast pitch, community intro",
+      "col_6": "MEDIUM"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "TIER 3: POTENTIAL INVESTORS (FROM YOUR VP ICP LIST)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Name",
+      "col_2": "Role/Company",
+      "col_3": "Contact Path",
+      "col_4": "Why They Fit",
+      "col_5": "Approach",
+      "col_6": "Priority"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Sean Frank",
+      "col_2": "Ridge Wallet / Top Hat Ventures",
+      "col_3": "The Operators podcast, LinkedIn",
+      "col_4": "Active DTC angel, 9-fig exit",
+      "col_5": "Warm intro via podcast network",
+      "col_6": "Score: 10"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Matt Bertulli",
+      "col_2": "Pela Case / Lomi",
+      "col_3": "mattbertulli.com",
+      "col_4": "Explicitly angels in consumer",
+      "col_5": "Direct LinkedIn outreach",
+      "col_6": "Score: 9"
+    },
+    {
+      "ADVISOR HIT LIST - SPECIFIC NAMES": "Joe Valley",
+      "col_2": "Quiet Light Brokerage",
+      "col_3": "Quiet Light Podcast",
+      "col_4": "Knows exited supplement founders",
+      "col_5": "Podcast guest pitch",
+      "col_6": "Score: 8"
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Advisor Hit List",
+  "sheet_index": 914
+}

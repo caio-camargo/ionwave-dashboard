@@ -1,0 +1,271 @@
+{
+  "headers": [
+    "RECRUITING OPERATIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "RECRUITING OPERATIONS": "Dan Crowley funnel + cold email + platforms + pass-the-bottom. How recruiting actually runs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "THREE CHANNELS, ONE FUNNEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "All three channels feed into the same funnel:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "Application → MC Conversation → PM/Nilo Review → Onboarding",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "The channels differ in how people ENTER the funnel:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "Channel",
+      "col_2": "How It Works",
+      "col_3": "Volume",
+      "col_4": "Quality",
+      "col_5": "Who Runs It",
+      "col_6": "Cost"
+    },
+    {
+      "RECRUITING OPERATIONS": "INBOUND\n(Dan Crowley funnel)",
+      "col_2": "Content → lead magnet → email sequence → application.\nPeople come to us because they saw something compelling.",
+      "col_3": "Low initially, grows with content library.\n5-10 apps/week once content compounds.",
+      "col_4": "HIGHEST.\nSelf-selected. Already believe.",
+      "col_5": "Nilo makes content.\nClaude + Admin handle funnel ops.",
+      "col_6": "$0-30/mo (Kit + tools)"
+    },
+    {
+      "RECRUITING OPERATIONS": "COLD EMAIL\n(ListKit model)",
+      "col_2": "Targeted outreach to specific profiles.\nPM co-founder candidates, experts, product people.\nNot spam — personalized, relevant, with lead magnet attached.",
+      "col_3": "Medium. 50-100 emails/week per role.\nExpect 5-15% response rate.",
+      "col_4": "MEDIUM.\nGood targeting = good quality.\nNeeds tight ICP definition.",
+      "col_5": "Admin sends.\nNilo writes templates.\nClaude personalizes.",
+      "col_6": "ListKit or similar: $100-200/mo\nEmail infrastructure: $50/mo"
+    },
+    {
+      "RECRUITING OPERATIONS": "PLATFORMS\n(LinkedIn, Upwork, etc.)",
+      "col_2": "Job postings on relevant platforms.\nLinkedIn for PM co-founders.\nUpwork for admin.\nAngelList for operators.\nDribbble/Behance for product person.\nActing/film boards for MC.",
+      "col_3": "High. Lots of applicants.\nNeeds heavy screening.",
+      "col_4": "VARIABLE.\nLots of noise. Some gems.\nScreening is critical.",
+      "col_5": "Admin posts and screens.\nMC does first conversations.\nPM/Nilo decide.",
+      "col_6": "Most platforms: $0\nLinkedIn Premium: $60/mo (optional)"
+    },
+    {
+      "RECRUITING OPERATIONS": "PASS-THE-BOTTOM\n(Viral recruiting)",
+      "col_2": "Every person recruited tells their network.\nMC mentions \"we're hiring for X\" in daily updates.\nPM co-founders share with their professional networks.\nCast page has \"Apply\" slots that invite people in.",
+      "col_3": "Unpredictable but compounds.\nEach person brings 1-3 referrals.",
+      "col_4": "HIGHEST.\nReferred by someone already in the system.\nCultural fit pre-validated.",
+      "col_5": "Everyone.\nThis is automatic if the UX is good.",
+      "col_6": "$0"
+    },
+    {
+      "RECRUITING OPERATIONS": "WHO DOES WHAT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "NILO:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Makes content (F3 YouTube, social posts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Writes cold email templates (one time per role)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Final approval on all hires",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Does NOT manage the pipeline day-to-day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "ADMIN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Sends cold emails (personalized by Claude, reviewed by admin)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Posts on platforms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Screens incoming applications (first filter)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Schedules MC conversations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Manages the pipeline (spreadsheet or Notion)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "MC:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Has the first real conversation with every applicant (recorded)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Mentions open roles in daily updates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Introduces new cast members on camera",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "PM CO-FOUNDERS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Evaluate candidates for their specific cluster",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Recommend to Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "• Share postings with their networks (pass-the-bottom)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "This is lightweight. The funnel does the heavy lifting.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RECRUITING OPERATIONS": "Once content exists and the site is live, recruiting becomes pull not push.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Recruiting Operations",
+  "sheet_index": 84
+}

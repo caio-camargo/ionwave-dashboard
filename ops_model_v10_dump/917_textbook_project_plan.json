@@ -1,0 +1,51 @@
+{
+  "headers": [
+    "TEXTBOOK PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "TEXTBOOK PROJECT PLAN": "Turn this model into a physical printed playbook.",
+      "col_2": null
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "VISION: 250-320 page workbook with actual artifacts",
+      "col_2": null
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "Chapter",
+      "col_2": "Pages"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "1. Thesis",
+      "col_2": "15-20"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "2. Unit Economics",
+      "col_2": "10-15"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "3. Store Setup",
+      "col_2": "20-25"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "4. Ad Creative",
+      "col_2": "30-40"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "5. Investor Deck",
+      "col_2": "20-25"
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "TIMELINE: ~15-17 weeks",
+      "col_2": null
+    },
+    {
+      "TEXTBOOK PROJECT PLAN": "FORMAT: Spiral-bound, 8.5x11, full color",
+      "col_2": null
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Textbook Project Plan",
+  "sheet_index": 917
+}

@@ -1,0 +1,187 @@
+{
+  "headers": [
+    "CM DAILY OPERATIONS"
+  ],
+  "rows": [
+    {
+      "CM DAILY OPERATIONS": "Daily touchpoints, compliance logs, enforcement rhythm"
+    },
+    {
+      "CM DAILY OPERATIONS": "CORE PRINCIPLE"
+    },
+    {
+      "CM DAILY OPERATIONS": "ABSENCE OF EVIDENCE = NON-COMPLIANCE"
+    },
+    {
+      "CM DAILY OPERATIONS": "If it wasn't reported, it didn't happen."
+    },
+    {
+      "CM DAILY OPERATIONS": "If it wasn't documented, it doesn't exist."
+    },
+    {
+      "CM DAILY OPERATIONS": "Verbal assurances are disregarded."
+    },
+    {
+      "CM DAILY OPERATIONS": "Excuses and context are irrelevant to compliance status."
+    },
+    {
+      "CM DAILY OPERATIONS": "DAILY RHYTHM"
+    },
+    {
+      "CM DAILY OPERATIONS": "OPERATOR OBLIGATION (by 6pm local):"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Submit Daily Status Report in required format"
+    },
+    {
+      "CM DAILY OPERATIONS": "• No narrative padding, no excuses, just facts"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Missing report = automatic non-compliance flag"
+    },
+    {
+      "CM DAILY OPERATIONS": "CM OBLIGATION (by 9am next day):"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Review all submitted reports"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Log compliance status per operator"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Flag any deviation, delay, or missing report"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Escalate immediately if threshold breached"
+    },
+    {
+      "CM DAILY OPERATIONS": "DAILY STATUS REPORT TEMPLATE"
+    },
+    {
+      "CM DAILY OPERATIONS": "Operator submits this DAILY:"
+    },
+    {
+      "CM DAILY OPERATIONS": "Date: [YYYY-MM-DD]"
+    },
+    {
+      "CM DAILY OPERATIONS": "Operator: [Name]"
+    },
+    {
+      "CM DAILY OPERATIONS": "Venture: [Name]"
+    },
+    {
+      "CM DAILY OPERATIONS": "1. COMPLETED TODAY:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• [Task] — [Evidence link]"
+    },
+    {
+      "CM DAILY OPERATIONS": "• [Task] — [Evidence link]"
+    },
+    {
+      "CM DAILY OPERATIONS": "2. BLOCKED:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• [Blocker] — [What's needed to unblock]"
+    },
+    {
+      "CM DAILY OPERATIONS": "3. TOMORROW'S PRIORITY:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• [Task 1]"
+    },
+    {
+      "CM DAILY OPERATIONS": "• [Task 2]"
+    },
+    {
+      "CM DAILY OPERATIONS": "4. METRICS (if applicable):"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Spend: $X | Revenue: $X | CAC: $X | ROAS: X.X"
+    },
+    {
+      "CM DAILY OPERATIONS": "NO NARRATIVE. NO EXCUSES. JUST FACTS."
+    },
+    {
+      "CM DAILY OPERATIONS": "ROLLING COMPLIANCE LOG"
+    },
+    {
+      "CM DAILY OPERATIONS": "CM maintains per operator:"
+    },
+    {
+      "CM DAILY OPERATIONS": "| Date | Report Received | On Time | Complete | Issues Flagged | Escalated |"
+    },
+    {
+      "CM DAILY OPERATIONS": "|------|-----------------|---------|----------|----------------|-----------|"
+    },
+    {
+      "CM DAILY OPERATIONS": "| 2/1  | Yes             | Yes     | Yes      | None           | No        |"
+    },
+    {
+      "CM DAILY OPERATIONS": "| 2/2  | Yes             | No      | Yes      | Late (2hr)     | No        |"
+    },
+    {
+      "CM DAILY OPERATIONS": "| 2/3  | No              | N/A     | N/A      | Missing        | Yes       |"
+    },
+    {
+      "CM DAILY OPERATIONS": "Escalation triggers:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• 2 late reports in 7 days"
+    },
+    {
+      "CM DAILY OPERATIONS": "• 1 missing report"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Any falsified or misleading data"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Pattern of incomplete reports"
+    },
+    {
+      "CM DAILY OPERATIONS": "BOUNDARY ENFORCEMENT"
+    },
+    {
+      "CM DAILY OPERATIONS": "CM DOES:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Verify compliance against documented standards"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Flag deviations immediately"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Escalate without interpretation or mitigation"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Maintain professional distance"
+    },
+    {
+      "CM DAILY OPERATIONS": "CM DOES NOT:"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Accept emotional framing or excuses"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Negotiate or adapt standards"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Coach, mentor, or motivate"
+    },
+    {
+      "CM DAILY OPERATIONS": "• Soften feedback or delay escalation"
+    },
+    {
+      "CM DAILY OPERATIONS": "• 'Help' operators succeed — only verify compliance"
+    },
+    {
+      "CM DAILY OPERATIONS": "If operator says: 'But the context is...'"
+    },
+    {
+      "CM DAILY OPERATIONS": "CM response: 'The standard is X. You did/didn't meet it.'"
+    }
+  ],
+  "row_count": 59,
+  "sheet_name": "CM Daily Operations",
+  "sheet_index": 729
+}

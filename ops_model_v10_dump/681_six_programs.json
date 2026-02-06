@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "THE SIX PROGRAMS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "THE SIX PROGRAMS": "Every activity in the company falls under one of six programs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "Program",
+      "col_2": "Dean (Owner)",
+      "col_3": "Purpose",
+      "col_4": "Core TUPs",
+      "col_5": "Key Metric",
+      "col_6": "Semester Cadence"
+    },
+    {
+      "THE SIX PROGRAMS": "1. ACQUISITION",
+      "col_2": "Operator (or Growth Lead)",
+      "col_3": "Get new customers into the funnel",
+      "col_4": "VSL Production, Hook Testing, Ad Scaling, Content Production, Influencer Outreach, UGC Pipeline",
+      "col_5": "CPA + New Customer Count",
+      "col_6": "Every 12 weeks: new creative cycle"
+    },
+    {
+      "THE SIX PROGRAMS": "2. CONVERSION",
+      "col_2": "Operator",
+      "col_3": "Turn traffic into purchases",
+      "col_4": "Landing Page Optimization, Checkout Flow, Offer Stack Testing, Pricing Strategy, A/B Testing",
+      "col_5": "CVR + AOV",
+      "col_6": "Every 12 weeks: conversion audit + optimization"
+    },
+    {
+      "THE SIX PROGRAMS": "3. RETENTION",
+      "col_2": "Operator",
+      "col_3": "Keep customers buying and subscribing",
+      "col_4": "Email Sequences, Subscription Program, Loyalty Mechanics, Replenishment, Winback, Churn Prevention",
+      "col_5": "Repeat Rate + LTV + Churn Rate",
+      "col_6": "Every 12 weeks: retention deep dive"
+    },
+    {
+      "THE SIX PROGRAMS": "4. PRODUCT",
+      "col_2": "Operator (or Product Lead)",
+      "col_3": "Make the product excellent and evolving",
+      "col_4": "Quality Control, New SKU Development, Packaging, Supplier Management, Formulation Iteration",
+      "col_5": "NPS + Return Rate + COGS",
+      "col_6": "Every 12 weeks: product review + roadmap"
+    },
+    {
+      "THE SIX PROGRAMS": "5. OPERATIONS",
+      "col_2": "Operator",
+      "col_3": "Keep the machine running smoothly",
+      "col_4": "Fulfillment, Shipping, Customer Support, Inventory, Vendor Management, Legal Compliance",
+      "col_5": "Ship Time + Support CSAT + Stockout Rate",
+      "col_6": "Every 12 weeks: ops audit + process improvement"
+    },
+    {
+      "THE SIX PROGRAMS": "6. FINANCE",
+      "col_2": "Studio (via CoS/CM)",
+      "col_3": "Know the numbers, stay alive, grow",
+      "col_4": "P&L Management, Cash Flow, Unit Economics, Forecasting, Fundraising Prep, Tax/Compliance",
+      "col_5": "Margin + Runway + Revenue vs Plan",
+      "col_6": "Every 12 weeks: financial review + reforecast"
+    },
+    {
+      "THE SIX PROGRAMS": "PROGRAM INTERDEPENDENCIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "ACQUISITION feeds CONVERSION (traffic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "CONVERSION feeds RETENTION (new customers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "RETENTION feeds ACQUISITION (referrals, testimonials, LTV funds more spend)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "PRODUCT feeds CONVERSION + RETENTION (better product = better conversion + retention)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "OPERATIONS enables everything (if shipping breaks, nothing else matters)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "FINANCE measures everything (if you're out of money, nothing else matters)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "The virtuous cycle: Acquisition → Conversion → Retention → (funds more) Acquisition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THE SIX PROGRAMS": "The support structure: Product + Operations + Finance enable the cycle",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Six Programs",
+  "sheet_index": 681
+}

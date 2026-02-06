@@ -1,0 +1,412 @@
+{
+  "headers": [
+    "IONWAVE CAPABILITY REQUIREMENTS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "What you need to make each capability work",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "SUPPLIER & PRODUCT — COGS <$0.60, lead time <4 weeks",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Supplier shortlist (5+)",
+      "col_3": "5+ marine plasma suppliers with contact info, MOQs, pricing"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Sample orders placed",
+      "col_3": "Samples from top 3 suppliers, tracking numbers"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "QC criteria defined",
+      "col_3": "Taste test protocol, purity requirements, third-party testing"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Negotiated pricing locked",
+      "col_3": "Written quote <$0.60/sachet at MOQ 2500"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Packaging specs finalized",
+      "col_3": "Box design, sachet design, print-ready files"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Production timeline agreed",
+      "col_3": "Lead time <4 weeks confirmed in writing"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "META CREATIVE — 100+ ads tested, CAC <$40, CTR >1.5%",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Hook bank (100+)",
+      "col_3": "Organized by angle: science, transformation, comparison, curiosity, UGC"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Visual asset library",
+      "col_3": "Product shots (10+), lifestyle (5+), UGC clips (10+), B-roll"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Copy bank (50+ variations)",
+      "col_3": "Headlines, primary text, CTAs — see Ad Copy Bank sheet"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Competitor swipe file (50+)",
+      "col_3": "LMNT, Seaonic, electrolyte ads. Tagged by hook type"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Testing framework documented",
+      "col_3": "Hook test → visual test → copy test → audience test"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Naming conventions",
+      "col_3": "Campaign/ad set/ad naming. UTM structure"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "7",
+      "col_2": "Performance dashboard",
+      "col_3": "CAC, CTR, CVR, ROAS by ad. Updated daily"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "8",
+      "col_2": "Weekly creative brief",
+      "col_3": "New angles to test, assets needed, hypotheses"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "LANDING PAGE — CVR >2.5%, ATC >8%, <3s load",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "LP copy finalized",
+      "col_3": "See Landing Page Copy sheet — all sections written"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "LP design/build",
+      "col_3": "Designed and built on Shopify/Unbounce/Webflow"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Mobile optimization",
+      "col_3": "Tested on iOS + Android, <3s load"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Tracking pixels",
+      "col_3": "Meta pixel, Google Analytics, heatmaps (Hotjar)"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "A/B testing capability",
+      "col_3": "Tool to run split tests (built-in or Convert/VWO)"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "2+ variants ready",
+      "col_3": "At least 2 LP variants to test against each other"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "FUNNEL & CHECKOUT — AOV >$60, sub rate >40%, bump >15%",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Shopify store live",
+      "col_3": "Theme configured, product pages built, checkout working"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Subscription app installed",
+      "col_3": "Recharge or similar — subscription as default option"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Checkout bump configured",
+      "col_3": "Second box offer at checkout — see Upsell sheet"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Post-purchase upsell",
+      "col_3": "90-day bundle offer after purchase"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Payment processors",
+      "col_3": "Stripe/PayPal/Shop Pay configured"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Abandoned cart recovery",
+      "col_3": "Shopify + Klaviyo integration for cart emails"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "EMAIL FLOWS — Open >40%, click >3%, revenue >15%",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Klaviyo account",
+      "col_3": "Connected to Shopify, tracking working"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Welcome sequence built",
+      "col_3": "5 emails — see Email Welcome sheet"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Cart abandonment built",
+      "col_3": "3 emails — see Email Cart Abandoned sheet"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Post-purchase built",
+      "col_3": "7 emails — see Email Post-Purchase sheet"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Templates designed",
+      "col_3": "On-brand email templates for all flows"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Deliverability setup",
+      "col_3": "SPF/DKIM configured, domain authenticated"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "INFLUENCER PROGRAM — 10+ influencers, 3+ posts/week",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Influencer target list (50+)",
+      "col_3": "Micro-influencers 10K-50K, biohacker/wellness niche"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Outreach templates",
+      "col_3": "DM and email templates for initial contact"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Influencer brief",
+      "col_3": "What to post, key messages, hashtags, disclosure"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Tracking spreadsheet",
+      "col_3": "Influencer, followers, posts, engagement, conversions"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Product seeding process",
+      "col_3": "How to ship free product, tracking, follow-up"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Affiliate setup (optional)",
+      "col_3": "Unique codes or links for tracking"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "CUSTOMER SERVICE — <4hr response, CSAT >4.5",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Help desk tool",
+      "col_3": "Gorgias/Zendesk or Shopify inbox"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Response templates",
+      "col_3": "Shipping, refund, product questions — 10+ templates"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "FAQ page live",
+      "col_3": "Top 10 questions answered on site"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Refund policy defined",
+      "col_3": "Clear policy, 30-day guarantee process"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Escalation process",
+      "col_3": "When to escalate, who handles edge cases"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "FULFILLMENT — <48hr ship, damage <1%, cost <$4/order",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "3PL selected",
+      "col_3": "ShipBob/Deliverr/similar — contract signed"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Inventory shipped to 3PL",
+      "col_3": "First production run received and stocked"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Shopify integration",
+      "col_3": "Orders auto-sync, tracking auto-updates"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Packaging materials",
+      "col_3": "Boxes, inserts, tape — branded or plain"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Shipping rates configured",
+      "col_3": "Free over $X, flat rate, or calculated"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "ANALYTICS & REPORTING — Daily visibility, data-driven",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Tracking setup",
+      "col_3": "Meta pixel, GA4, Shopify analytics all firing"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Daily dashboard",
+      "col_3": "Revenue, CAC, ROAS, CVR visible at a glance"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Weekly report template",
+      "col_3": "What to report, to whom, format"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Attribution model",
+      "col_3": "How you credit conversions (first-click, last-click, etc)"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "Cohort tracking",
+      "col_3": "Subscription retention by signup week"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "INVESTOR RELATIONS — Raise closed in <3 weeks",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "#",
+      "col_2": "Requirement",
+      "col_3": "What Good Looks Like"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "1",
+      "col_2": "Pitch deck ready",
+      "col_3": "See Pitch Deck Slides sheet — 15 slides"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "2",
+      "col_2": "Investor FAQ ready",
+      "col_3": "See Investor FAQ sheet — full answers"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "3",
+      "col_2": "Data room",
+      "col_3": "Financials, projections, cap table, legal docs"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "4",
+      "col_2": "Investor pipeline (20+)",
+      "col_3": "Names, contact info, warm intro path"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "5",
+      "col_2": "SAFE template",
+      "col_3": "Standard YC SAFE, cap and terms defined"
+    },
+    {
+      "IONWAVE CAPABILITY REQUIREMENTS": "6",
+      "col_2": "Update cadence",
+      "col_3": "Weekly update template for investor communication"
+    }
+  ],
+  "row_count": 80,
+  "sheet_name": "Requirements",
+  "sheet_index": 835
+}

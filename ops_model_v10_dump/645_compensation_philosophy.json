@@ -1,0 +1,139 @@
+{
+  "headers": [
+    "COMPENSATION PHILOSOPHY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "COMPENSATION PHILOSOPHY": "How we think about paying people",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "OUR PHILOSOPHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "We believe in:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Pay fairly - not lowest possible, not highest possible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Equity for value creators - those who build long-term value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Transparency - people know how comp decisions are made",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Performance matters - high performers earn more over time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "COMPENSATION FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Role Type",
+      "col_2": "Cash",
+      "col_3": "Equity",
+      "col_4": "Notes"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Founder/CEO",
+      "col_2": "Below market (or none early)",
+      "col_3": "50-70%",
+      "col_4": "Equity is the upside"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Operator",
+      "col_2": "Below to at market",
+      "col_3": "10-25%",
+      "col_4": "Significant equity stake"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Full-time employee",
+      "col_2": "At market",
+      "col_3": "0.5-2%",
+      "col_4": "Competitive cash + equity"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Contractor",
+      "col_2": "At or above market",
+      "col_3": "Rarely",
+      "col_4": "Pay premium for flexibility"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "Advisor",
+      "col_2": "None",
+      "col_3": "0.25-1%",
+      "col_4": "Equity only"
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "MARKET DATA SOURCES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Levels.fyi (tech roles)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Glassdoor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• LinkedIn Salary",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Pave (startup specific)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Carta (equity benchmarks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPENSATION PHILOSOPHY": "• Ask founders at similar stage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Compensation Philosophy",
+  "sheet_index": 645
+}

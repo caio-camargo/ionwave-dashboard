@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "NAVIGATION — ADMIN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "NAVIGATION — ADMIN": "Operations backbone. Scheduling, filing, screening, platform posting, tool setup.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "WHAT YOU SEE",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "Task lists and calendars. Not model content.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "YOUR TABS (open these)",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Labor Architecture v3",
+      "col_2": "Tab #46"
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Recruiting Operations",
+      "col_2": "Tab #49"
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Recruiting Funnel",
+      "col_2": "Tab #50"
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Cluster Architecture",
+      "col_2": "Tab #52"
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Incorporation Model",
+      "col_2": "Tab #59"
+    },
+    {
+      "NAVIGATION — ADMIN": "→ Legal Checklist",
+      "col_2": "Tab #128"
+    },
+    {
+      "NAVIGATION — ADMIN": "WHAT YOU OWN",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "Cold email sending. Platform posting. Candidate screening (first filter). MC scheduling. Entity paperwork. Tool setup.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "WHAT YOU DON'T TOUCH",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — ADMIN": "Model content. Expert coordination. Hiring decisions. Strategy.",
+      "col_2": null
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "NAV-ADMIN",
+  "sheet_index": 19
+}

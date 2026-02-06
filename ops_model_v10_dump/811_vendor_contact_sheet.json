@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "VENDOR CONTACT SHEET",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "VENDOR CONTACT SHEET": "Every supplier/partner with contact info",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VENDOR CONTACT SHEET": "Vendor",
+      "col_2": "Type",
+      "col_3": "Contact Name",
+      "col_4": "Email",
+      "col_5": "Phone",
+      "col_6": "Account #",
+      "col_7": "Notes"
+    },
+    {
+      "VENDOR CONTACT SHEET": "[Supplier Name]",
+      "col_2": "Manufacturer",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": "[#]",
+      "col_7": "Primary supplier"
+    },
+    {
+      "VENDOR CONTACT SHEET": "[Backup Supplier]",
+      "col_2": "Manufacturer",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": "[#]",
+      "col_7": "Backup"
+    },
+    {
+      "VENDOR CONTACT SHEET": "[3PL Name]",
+      "col_2": "Fulfillment",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": "[#]",
+      "col_7": null
+    },
+    {
+      "VENDOR CONTACT SHEET": "[Agency]",
+      "col_2": "Creative",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VENDOR CONTACT SHEET": "[Accountant]",
+      "col_2": "Finance",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "VENDOR CONTACT SHEET": "[Lawyer]",
+      "col_2": "Legal",
+      "col_3": "[Name]",
+      "col_4": "[email]",
+      "col_5": "[phone]",
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Vendor Contact Sheet",
+  "sheet_index": 811
+}

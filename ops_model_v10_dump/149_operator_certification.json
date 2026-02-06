@@ -1,0 +1,28 @@
+{
+  "headers": [
+    "OPERATOR CERTIFICATION CHECKLIST"
+  ],
+  "rows": [
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Completed IonWave ops model review"
+    },
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Passed media buying assessment"
+    },
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Demonstrated Klaviyo proficiency"
+    },
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Completed Shopify store setup test"
+    },
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Passed inventory management quiz"
+    },
+    {
+      "OPERATOR CERTIFICATION CHECKLIST": "☐ Completed week 1 simulation"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Operator Certification",
+  "sheet_index": 149
+}

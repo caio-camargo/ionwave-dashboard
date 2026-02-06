@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "VALIDATION MILESTONES - GO/NO-GO GATES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "PHASE 1: SOURCING VALIDATION (Week 1-2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Milestone",
+      "col_2": "Success Criteria",
+      "col_3": "What It Proves",
+      "col_4": "Kill Trigger",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Supplier quotes received",
+      "col_2": "3+ quotes with MOQ and pricing",
+      "col_3": "Can we hit <$15 landed COGS?",
+      "col_4": "KILL if all >$20",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "No exclusivity blocks",
+      "col_2": "Confirm no Seaonic exclusive deal",
+      "col_3": "Can we legally enter market?",
+      "col_4": "KILL if blocked",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Sample quality acceptable",
+      "col_2": "Taste test, COA review",
+      "col_3": "Is product actually good?",
+      "col_4": "KILL if quality issues",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "PHASE 2: MARKET VALIDATION (Week 3-5)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Milestone",
+      "col_2": "Success Criteria",
+      "col_3": "What It Proves",
+      "col_4": "Kill/Iterate Trigger",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Landing page CVR",
+      "col_2": ">2.5% on 500+ visitors",
+      "col_3": "Offer resonates with market",
+      "col_4": "KILL if <2% after 3 LP tests",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Meta CTR",
+      "col_2": ">1.5% on winning creative",
+      "col_3": "Hook/angle works",
+      "col_4": "ITERATE if <1%, KILL if <0.5%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Meta CPM",
+      "col_2": "<$20",
+      "col_3": "Can reach ICP affordably",
+      "col_4": "ITERATE targeting, KILL if >$25",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Email capture rate",
+      "col_2": ">5% of visitors",
+      "col_3": "Building remarketing asset",
+      "col_4": "ITERATE if <3%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "PHASE 3: UNIT ECONOMICS VALIDATION (Week 6-8)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Milestone",
+      "col_2": "Success Criteria",
+      "col_3": "What It Proves",
+      "col_4": "Kill/Iterate Trigger",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Blended CAC",
+      "col_2": "<$40",
+      "col_3": "Acquisition is profitable",
+      "col_4": "KILL if >$50 after optimization",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "First order ROAS",
+      "col_2": ">1.5x",
+      "col_3": "Not losing money on first order",
+      "col_4": "ITERATE if 1-1.5x, KILL if <1x",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Subscription conversion",
+      "col_2": ">30% of orders",
+      "col_3": "LTV model works",
+      "col_4": "ITERATE funnel if <20%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Subscription M1 churn",
+      "col_2": "<15%",
+      "col_3": "Customers actually stick",
+      "col_4": "KILL if >25%",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "MINIMUM SPEND FOR STATISTICAL SIGNIFICANCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "To validate CAC with 95% confidence:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Need 100+ conversions minimum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "At $35 CAC target = $3,500 JUST for conversions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "Add 50% for failed creative = $5,000-7,000 total",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VALIDATION MILESTONES - GO/NO-GO GATES": "DO NOT claim 'validated CAC' with <50 conversions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Validation Milestones",
+  "sheet_index": 119
+}

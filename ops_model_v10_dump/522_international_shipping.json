@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "INTERNATIONAL SHIPPING STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "If/when we ship outside US.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "PHASE 1: US ONLY (Launch)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "Focus on US. Dont complicate.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "PHASE 2: Canada + UK (When US >$50K MRR)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "Country",
+      "col_2": "Duties",
+      "col_3": "Ship Cost"
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "Canada",
+      "col_2": "5-13% GST",
+      "col_3": "$15-20"
+    },
+    {
+      "INTERNATIONAL SHIPPING STRATEGY": "UK",
+      "col_2": "20% VAT",
+      "col_3": "$25-35"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "International Shipping",
+  "sheet_index": 522
+}

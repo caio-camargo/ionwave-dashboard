@@ -1,0 +1,23 @@
+{
+  "headers": [
+    "CONFIDENCE LEVELS BY ASSUMPTION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CONFIDENCE LEVELS BY ASSUMPTION": "HIGH",
+      "col_2": "Validated with real data"
+    },
+    {
+      "CONFIDENCE LEVELS BY ASSUMPTION": "MEDIUM",
+      "col_2": "Industry benchmarks or expert input"
+    },
+    {
+      "CONFIDENCE LEVELS BY ASSUMPTION": "LOW",
+      "col_2": "Best guess, needs validation"
+    }
+  ],
+  "row_count": 3,
+  "sheet_name": "Confidence Levels",
+  "sheet_index": 118
+}

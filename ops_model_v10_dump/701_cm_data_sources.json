@@ -1,0 +1,105 @@
+{
+  "headers": [
+    "DATA SOURCES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "DATA SOURCES": "Where each assessment input comes from",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DATA SOURCES": "Data Point",
+      "col_2": "Source",
+      "col_3": "Provider",
+      "col_4": "Frequency",
+      "col_5": "Format"
+    },
+    {
+      "DATA SOURCES": "Revenue",
+      "col_2": "Shopify",
+      "col_3": "Auto-pull / Operator",
+      "col_4": "Daily",
+      "col_5": "Dashboard"
+    },
+    {
+      "DATA SOURCES": "Ad Spend",
+      "col_2": "Meta/TikTok",
+      "col_3": "Operator",
+      "col_4": "Daily",
+      "col_5": "Dashboard"
+    },
+    {
+      "DATA SOURCES": "CAC",
+      "col_2": "Calculated",
+      "col_3": "Operator",
+      "col_4": "Weekly",
+      "col_5": "Spreadsheet"
+    },
+    {
+      "DATA SOURCES": "LTV",
+      "col_2": "Calculated",
+      "col_3": "Operator",
+      "col_4": "Monthly",
+      "col_5": "Spreadsheet"
+    },
+    {
+      "DATA SOURCES": "Cash Balance",
+      "col_2": "Bank",
+      "col_3": "Operator",
+      "col_4": "Weekly",
+      "col_5": "Screenshot"
+    },
+    {
+      "DATA SOURCES": "Inventory",
+      "col_2": "3PL",
+      "col_3": "Operator",
+      "col_4": "Weekly",
+      "col_5": "Report"
+    },
+    {
+      "DATA SOURCES": "Customer Count",
+      "col_2": "Shopify",
+      "col_3": "Auto-pull",
+      "col_4": "Daily",
+      "col_5": "Dashboard"
+    },
+    {
+      "DATA SOURCES": "NPS",
+      "col_2": "Survey tool",
+      "col_3": "Operator",
+      "col_4": "Monthly",
+      "col_5": "Report"
+    },
+    {
+      "DATA SOURCES": "Operator Updates",
+      "col_2": "Written report",
+      "col_3": "Operator",
+      "col_4": "Weekly",
+      "col_5": "Doc"
+    },
+    {
+      "DATA SOURCES": "Operator Interview",
+      "col_2": "Call/Video",
+      "col_3": "CM scheduled",
+      "col_4": "Monthly",
+      "col_5": "Notes"
+    },
+    {
+      "DATA SOURCES": "Stakeholder Feedback",
+      "col_2": "Interviews",
+      "col_3": "CM conducted",
+      "col_4": "Quarterly",
+      "col_5": "Notes"
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "CM Data Sources",
+  "sheet_index": 701
+}

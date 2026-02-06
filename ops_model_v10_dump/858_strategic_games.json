@@ -1,0 +1,32 @@
+{
+  "headers": [
+    "STRATEGIC GAMES WE'RE PLAYING",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "STRATEGIC GAMES WE'RE PLAYING": "Acquisition game",
+      "col_2": "CAC < LTV with margin",
+      "col_3": "Win by efficient spend"
+    },
+    {
+      "STRATEGIC GAMES WE'RE PLAYING": "Retention game",
+      "col_2": "Maximize repeat purchase",
+      "col_3": "Win by subscription"
+    },
+    {
+      "STRATEGIC GAMES WE'RE PLAYING": "Differentiation game",
+      "col_2": "78 minerals story",
+      "col_3": "Win by uniqueness"
+    },
+    {
+      "STRATEGIC GAMES WE'RE PLAYING": "Price game",
+      "col_2": "Premium but accessible",
+      "col_3": "Win by value"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Strategic Games",
+  "sheet_index": 858
+}

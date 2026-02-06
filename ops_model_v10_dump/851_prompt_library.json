@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "PROMPT LIBRARY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "PROMPT LIBRARY": "Tested, versioned prompts for each use case.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PROMPT LIBRARY": "Prompt Name",
+      "col_2": "Use Case",
+      "col_3": "Version"
+    },
+    {
+      "PROMPT LIBRARY": "Ad Hook Generator",
+      "col_2": "Generate hook variations",
+      "col_3": "v2"
+    },
+    {
+      "PROMPT LIBRARY": "Email Subject Generator",
+      "col_2": "Subject line ideas",
+      "col_3": "v1"
+    },
+    {
+      "PROMPT LIBRARY": "Customer Response",
+      "col_2": "Support drafts",
+      "col_3": "v3"
+    },
+    {
+      "PROMPT LIBRARY": "Competitor Analysis",
+      "col_2": "Analyze positioning",
+      "col_3": "v1"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Prompt Library",
+  "sheet_index": 851
+}

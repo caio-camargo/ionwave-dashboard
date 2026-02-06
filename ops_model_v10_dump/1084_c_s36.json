@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S36: Trade-to-SaaS — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "How the Trade becomes a software product. AI-powered Trade generator. Revenue model.",
+      "col_2": null
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Trade-to-SaaS (S36)"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S36: Trade-to-SaaS within SCL-5"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S36]"
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Trade-to-SaaS model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S36: Trade-to-SaaS — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S36",
+  "sheet_index": 1084
+}

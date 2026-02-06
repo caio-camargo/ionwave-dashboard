@@ -1,0 +1,364 @@
+{
+  "headers": [
+    "NEW PRODUCT / SKU EXPANSION FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "When and how to expand beyond the initial hero SKU. Don't expand too early.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "WHEN TO CONSIDER NEW PRODUCTS (Readiness Triggers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Trigger",
+      "col_2": "Threshold",
+      "col_3": "Why It Matters",
+      "col_4": "Status",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Hero SKU profitable",
+      "col_2": "LTV:CAC > 3x for 60+ days",
+      "col_3": "Don't expand until core is working",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Supply chain stable",
+      "col_2": "2+ suppliers, <5% stockout rate",
+      "col_3": "Can't manage complexity if basics broken",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Customer demand signal",
+      "col_2": ">50 requests for specific product",
+      "col_3": "Let customers pull, don't push",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Creative fatigue on hero",
+      "col_2": "Winning ads declining 20%+ ROAS",
+      "col_3": "New product = new creative angles",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Repeat customers plateau",
+      "col_2": "Repeat rate flat for 30+ days",
+      "col_3": "New SKU can reactivate churned customers",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Operational capacity",
+      "col_2": "<30 hrs/week on current ops",
+      "col_3": "Bandwidth to manage expansion",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Capital available",
+      "col_2": "$20K+ uncommitted cash",
+      "col_3": "New inventory = new capital tie-up",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "✅ Launch new product when 5+ of 7 triggers are met",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "PRODUCT EXPANSION OPTIONS (Ranked by Risk)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Type",
+      "col_2": "Example",
+      "col_3": "Risk Level",
+      "col_4": "Capital Needed",
+      "col_5": "Timeline"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Bundle/kit",
+      "col_2": "2-box bundle, starter kit",
+      "col_3": "LOW",
+      "col_4": "$0 (same inventory)",
+      "col_5": "1 week"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Format variation",
+      "col_2": "Travel drops, single sachets",
+      "col_3": "LOW-MED",
+      "col_4": "$3-5K",
+      "col_5": "4-6 weeks"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Flavor/variant",
+      "col_2": "Citrus, unflavored, etc.",
+      "col_3": "MEDIUM",
+      "col_4": "$5-10K",
+      "col_5": "6-8 weeks"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Complementary product",
+      "col_2": "Electrolyte + collagen",
+      "col_3": "MEDIUM",
+      "col_4": "$10-15K",
+      "col_5": "8-12 weeks"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Line extension",
+      "col_2": "Sport formula, sleep formula",
+      "col_3": "MED-HIGH",
+      "col_4": "$15-25K",
+      "col_5": "12-16 weeks"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "New category",
+      "col_2": "Protein, vitamins",
+      "col_3": "HIGH",
+      "col_4": "$25K+",
+      "col_5": "16+ weeks"
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "NEW PRODUCT LAUNCH PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Phase",
+      "col_2": "Duration",
+      "col_3": "Activities",
+      "col_4": "Gate Criteria",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "1. Validation",
+      "col_2": "2 weeks",
+      "col_3": "Customer survey, demand testing, competitor analysis",
+      "col_4": ">100 responses, >30% \"would buy\"",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "2. Sourcing",
+      "col_2": "2-4 weeks",
+      "col_3": "Supplier quotes, samples, COGS validation",
+      "col_4": "COGS within 20% of hero, quality approved",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "3. Creative",
+      "col_2": "2 weeks",
+      "col_3": "Photography, copy, ad concepts",
+      "col_4": "10+ ad variations ready",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "4. Soft Launch",
+      "col_2": "2 weeks",
+      "col_3": "Email to existing customers only, limited inventory",
+      "col_4": ">2% conversion from list, positive feedback",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "5. Paid Launch",
+      "col_2": "4 weeks",
+      "col_3": "Ads, LP, full inventory",
+      "col_4": "CAC within 30% of hero, ROAS >2x",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "6. Scale/Kill",
+      "col_2": "Week 10+",
+      "col_3": "Scale winners or discontinue",
+      "col_4": "Profitable at 50+ orders/week or kill",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "NEW PRODUCT KILL CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "COGS > 130% of hero product → Kill (margin too thin)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Email soft launch < 1% CVR → Kill (no demand)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "CAC > 150% of hero after 2 weeks → Kill (can't acquire)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Cannibalization > 30% of hero sales → Evaluate (may still be net positive)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Customer complaints > 5% → Kill (quality issue)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Stockout of hero to fund new SKU → Kill (priorities wrong)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "IONWAVE PRODUCT ROADMAP (Tentative)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Phase",
+      "col_2": "Timeline",
+      "col_3": "Product",
+      "col_4": "Rationale",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Launch",
+      "col_2": "Month 1-6",
+      "col_3": "Marine Plasma 30-pack",
+      "col_4": "Hero SKU, prove the model",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Bundle",
+      "col_2": "Month 4+",
+      "col_3": "2-box bundle, 3-month bundle",
+      "col_4": "Increase AOV, zero new inventory",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Format",
+      "col_2": "Month 6+",
+      "col_3": "Travel drops (TSA-friendly)",
+      "col_4": "Upsell to existing, new use case",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Variant",
+      "col_2": "Month 9+",
+      "col_3": "Unflavored vs. light citrus",
+      "col_4": "Capture preference segments",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Extension",
+      "col_2": "Month 12+",
+      "col_3": "Sport formula (higher sodium)",
+      "col_4": "Target athletes specifically",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Complement",
+      "col_2": "Month 12+",
+      "col_3": "Marine collagen",
+      "col_4": "Same supplier, same audience",
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "RESOURCES REQUIRED PER NEW SKU",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Inventory capital",
+      "col_2": "$5-15K tied up for 60-90 days",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Creative production",
+      "col_2": "10-20 new ad variations ($500-1500)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Photography",
+      "col_2": "$300-500 for product shots",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Landing page",
+      "col_2": "New LP or LP variant ($0 if template)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Email sequences",
+      "col_2": "Update flows with new product ($0)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Operator time",
+      "col_2": "10-20 hours for launch",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "NEW PRODUCT / SKU EXPANSION FRAMEWORK": "Testing budget",
+      "col_2": "$1-3K ad spend for validation",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 50,
+  "sheet_name": "New Product Launch",
+  "sheet_index": 597
+}

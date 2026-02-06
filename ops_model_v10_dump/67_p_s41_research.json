@@ -1,0 +1,210 @@
+{
+  "headers": [
+    "P-S41: APPLIED RESEARCH — PROJECT PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Turn the Trade into a documented research experiment. Get institutional affiliation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "SCOPE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "This TUP produces:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "1. A research design document publishable as a working paper",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "2. Institutional affiliation with 1-2 researchers (Princeton, Stanford, Max Planck)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "3. Data collection framework embedded in the Trade itself",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "4. A case study draft ready for submission to an academic journal or conference",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "DELIVERABLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "#",
+      "col_2": "Deliverable",
+      "col_3": "Format",
+      "col_4": "Done Criteria",
+      "col_5": "Due"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "1",
+      "col_2": "Research Design Document",
+      "col_3": "5-10 page PDF",
+      "col_4": "Research question, hypothesis, methodology, variables, measurement plan. Reviewed by at least one academic.",
+      "col_5": "Week 3"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "2",
+      "col_2": "Researcher Outreach (3-5 emails sent)",
+      "col_3": "Personalized emails",
+      "col_4": "Sent to top 3-5 targets. Tailored pitch per researcher. Follow-up plan.",
+      "col_5": "Week 2"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "3",
+      "col_2": "Institutional Affiliation (1 confirmed)",
+      "col_3": "Email confirmation or MOU",
+      "col_4": "At least one researcher agrees to collaborate. Terms defined.",
+      "col_5": "Week 6-8"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "4",
+      "col_2": "Data Collection Framework",
+      "col_3": "Spreadsheet tab or doc",
+      "col_4": "Defines what data is captured during production (hours, questions, grades, etc.). Embedded in librarian workflow.",
+      "col_5": "Week 3"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "5",
+      "col_2": "Case Study Draft",
+      "col_3": "15-25 page paper",
+      "col_4": "Written after production cycle. Results, analysis, implications. Co-authored with affiliated researcher if possible.",
+      "col_5": "Week 14-16"
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "OWNER & TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Owner: Flash sprint contributor with academic writing background",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "OR Danilo directly (this is his thesis, his language)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "OR Claude drafts, Danilo refines, researcher validates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Timeline:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Week 1-2: Research design drafted. Outreach emails sent.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Week 3-4: Data collection framework built. Responses from researchers.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Week 5-8: Affiliation confirmed. Data collection begins (passive, embedded).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Week 14-16: Production cycle complete. Case study written from collected data.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "Dependencies:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "• S33 Coordination Theory (the theoretical foundation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "• Flash Teams Model (the organizational methodology)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "• The entire production cycle (this IS the experiment)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "P-S41: APPLIED RESEARCH — PROJECT PLAN": "• Librarian workflow (data collection is embedded there)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "P-S41 Research",
+  "sheet_index": 67
+}

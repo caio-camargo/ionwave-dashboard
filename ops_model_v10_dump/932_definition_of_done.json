@@ -1,0 +1,307 @@
+{
+  "headers": [
+    "DEFINITION OF DONE (BY PHASE)",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DEFINITION OF DONE (BY PHASE)": "What 'complete' actually looks like - with artifacts and proof",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "'Done' is not a feeling. It's a state with evidence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "For each phase, we define:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• What must be TRUE (conditions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• What must EXIST (artifacts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• What must be PROVEN (evidence)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "If you can't point to the artifact, it's not done.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PHASE 0: TRADE SETUP - DONE WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Condition",
+      "col_2": "Artifact",
+      "col_3": "Location",
+      "col_4": "Status"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Operator signed",
+      "col_2": "Signed operator agreement (PDF)",
+      "col_3": "Google Drive / Legal folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Capital secured",
+      "col_2": "Bank statement showing funds OR signed term sheet",
+      "col_3": "Banking / Investor folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Entity exists",
+      "col_2": "Formation documents, EIN",
+      "col_3": "Legal folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Thesis documented",
+      "col_2": "Completed Trade Thesis tab",
+      "col_3": "This model",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Unit economics modeled",
+      "col_2": "Completed Unit Economics tab",
+      "col_3": "This model",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Kill criteria defined",
+      "col_2": "Completed Kill Criteria tab",
+      "col_3": "This model",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PRE-LAUNCH - DONE WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Condition",
+      "col_2": "Artifact",
+      "col_3": "Location",
+      "col_4": "Status"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Supplier confirmed",
+      "col_2": "Signed PO or supplier agreement",
+      "col_3": "Supplier folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Product ordered",
+      "col_2": "Order confirmation with ETA",
+      "col_3": "Supplier folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Shopify store built",
+      "col_2": "Live store URL (unlisted/password)",
+      "col_3": "Screenshot + URL",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Payments working",
+      "col_2": "Test transaction completed",
+      "col_3": "Screenshot of test order",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3PL set up",
+      "col_2": "Account active, test shipment sent",
+      "col_3": "3PL dashboard screenshot",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Landing page live",
+      "col_2": "Live URL",
+      "col_3": "Screenshot + URL",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3 ad creatives ready",
+      "col_2": "Uploaded to ad platform",
+      "col_3": "Ad manager screenshot",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Tracking working",
+      "col_2": "Test event firing",
+      "col_3": "Events manager screenshot",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Email flows built",
+      "col_2": "Flows active in Klaviyo/etc",
+      "col_3": "Screenshot of flows",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "LAUNCH - DONE WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Condition",
+      "col_2": "Artifact",
+      "col_3": "Location",
+      "col_4": "Status"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "First 10 orders shipped",
+      "col_2": "Shopify order list showing 10+ fulfilled",
+      "col_3": "Shopify screenshot",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Actual CAC measured",
+      "col_2": "CAC calculation with real numbers",
+      "col_3": "Unit Economics tab updated",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Actual COGS validated",
+      "col_2": "Real landed cost documented",
+      "col_3": "Unit Economics tab updated",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Customer feedback collected",
+      "col_2": "5+ customer responses",
+      "col_3": "Feedback doc / spreadsheet",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Go/no-go decision made",
+      "col_2": "Decision documented with rationale",
+      "col_3": "Decision log",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PMF - DONE WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Condition",
+      "col_2": "Artifact",
+      "col_3": "Location",
+      "col_4": "Status"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "CAC <$40 for 4+ weeks",
+      "col_2": "4 weeks of CAC data",
+      "col_3": "Metrics dashboard",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3+ winning ads",
+      "col_2": "Ad performance report",
+      "col_3": "Ad manager export",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Subscription rate >30%",
+      "col_2": "Subscription metrics",
+      "col_3": "Shopify/Recharge report",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Positive unit economics",
+      "col_2": "Contribution margin positive",
+      "col_3": "Unit Economics tab",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Organic referrals happening",
+      "col_2": "Referral tracking data",
+      "col_3": "Referral dashboard",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PMF declared",
+      "col_2": "Studio sign-off documented",
+      "col_3": "Decision log",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "SCALE / $100K MRR - DONE WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Condition",
+      "col_2": "Artifact",
+      "col_3": "Location",
+      "col_4": "Status"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "$100K MRR achieved",
+      "col_2": "Revenue report showing $100K month",
+      "col_3": "Shopify/Stripe report",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Unit economics hold at scale",
+      "col_2": "Metrics at scale documented",
+      "col_3": "Unit Economics tab",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Processes documented",
+      "col_2": "SOPs for all key processes",
+      "col_3": "SOP folder",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Operator <10 hrs/week",
+      "col_2": "Time tracking showing <10hrs",
+      "col_3": "Time log",
+      "col_4": "☐"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "No single points of failure",
+      "col_2": "SPOF audit complete",
+      "col_3": "SPOF Registry tab",
+      "col_4": "☐"
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Definition of Done",
+  "sheet_index": 932
+}

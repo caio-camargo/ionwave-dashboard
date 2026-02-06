@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "BRAND GUIDELINES",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "BRAND GUIDELINES": "How IonWave looks, sounds, feels.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "BRAND GUIDELINES": "COLORS:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "BRAND GUIDELINES": "Color",
+      "col_2": "Hex",
+      "col_3": "Usage"
+    },
+    {
+      "BRAND GUIDELINES": "Ocean Blue",
+      "col_2": "#1A5F7A",
+      "col_3": "Primary"
+    },
+    {
+      "BRAND GUIDELINES": "Mineral Teal",
+      "col_2": "#57C5B6",
+      "col_3": "Accent"
+    },
+    {
+      "BRAND GUIDELINES": "Sand",
+      "col_2": "#F5F5F0",
+      "col_3": "Background"
+    },
+    {
+      "BRAND GUIDELINES": "Deep Navy",
+      "col_2": "#0D2137",
+      "col_3": "Text"
+    },
+    {
+      "BRAND GUIDELINES": "TYPOGRAPHY:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "BRAND GUIDELINES": "Use",
+      "col_2": "Font",
+      "col_3": "Size"
+    },
+    {
+      "BRAND GUIDELINES": "Headlines",
+      "col_2": "Inter Bold",
+      "col_3": "24-48px"
+    },
+    {
+      "BRAND GUIDELINES": "Body",
+      "col_2": "Inter Regular",
+      "col_3": "14-16px"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Brand Guidelines",
+  "sheet_index": 265
+}

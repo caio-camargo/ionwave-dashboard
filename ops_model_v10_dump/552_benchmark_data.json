@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "INDUSTRY BENCHMARKS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "INDUSTRY BENCHMARKS": "Metric",
+      "col_2": "Industry Avg",
+      "col_3": "Top 10%",
+      "col_4": "Our Target"
+    },
+    {
+      "INDUSTRY BENCHMARKS": "CAC (supplements)",
+      "col_2": "$35-50",
+      "col_3": "$25-35",
+      "col_4": "<$40"
+    },
+    {
+      "INDUSTRY BENCHMARKS": "LTV:CAC",
+      "col_2": "2-3x",
+      "col_3": ">4x",
+      "col_4": ">3x"
+    },
+    {
+      "INDUSTRY BENCHMARKS": "Subscription rate",
+      "col_2": "30-40%",
+      "col_3": ">60%",
+      "col_4": ">50%"
+    },
+    {
+      "INDUSTRY BENCHMARKS": "Monthly churn",
+      "col_2": "8-12%",
+      "col_3": "<6%",
+      "col_4": "<8%"
+    },
+    {
+      "INDUSTRY BENCHMARKS": "Email revenue %",
+      "col_2": "20-30%",
+      "col_3": ">40%",
+      "col_4": ">30%"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Benchmark Data",
+  "sheet_index": 552
+}

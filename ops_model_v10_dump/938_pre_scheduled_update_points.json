@@ -1,0 +1,91 @@
+{
+  "headers": [
+    "PRE-SCHEDULED UPDATE POINTS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "When the plan itself gets revised - not ad hoc, scheduled",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Frequency",
+      "col_2": "Type",
+      "col_3": "Scope",
+      "col_4": "Participants"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Daily",
+      "col_2": "Metrics check",
+      "col_3": "Performance data only",
+      "col_4": "Operator"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Weekly",
+      "col_2": "Tactical review",
+      "col_3": "This week vs plan, next week adjustments",
+      "col_4": "Operator + CM"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Bi-weekly",
+      "col_2": "Sprint check",
+      "col_3": "Milestone progress, blocker resolution",
+      "col_4": "Operator + CM + Studio"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Monthly",
+      "col_2": "Strategic review",
+      "col_3": "Model assumptions, market changes",
+      "col_4": "Full team"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Quarterly",
+      "col_2": "Plan revision",
+      "col_3": "Full plan update, OKR reset",
+      "col_4": "Full team + advisors"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "Ad hoc",
+      "col_2": "Crisis response",
+      "col_3": "Major unexpected event",
+      "col_4": "As needed"
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "TRIGGER-BASED UPDATES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "• CAC exceeds $50 for 7 days → immediate review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "• Stockout imminent → immediate review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "• Major competitor move → 48-hour review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRE-SCHEDULED UPDATE POINTS": "• Regulatory change → immediate review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Pre-Scheduled Update Points",
+  "sheet_index": 938
+}

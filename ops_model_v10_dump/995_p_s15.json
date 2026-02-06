@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S15: Advertorial Engine — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Cluster: SCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "How Trade models become lead magnets. Fernando Oliver swipe file model. Extract → package → gate → distribute.",
+      "col_2": null
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "TUP",
+      "col_2": "S15: Advertorial Engine"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-2"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Owner",
+      "col_2": "Conductor"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Description",
+      "col_2": "How Trade models become lead magnets. Fernando Oliver swipe file model. Extract → package → gate → distribute."
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S15: Advertorial Engine — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Advertorial Engine model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S15",
+  "sheet_index": 995
+}

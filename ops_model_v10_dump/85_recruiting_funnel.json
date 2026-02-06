@@ -1,0 +1,273 @@
+{
+  "headers": [
+    "THE RECRUITING FUNNEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "THE RECRUITING FUNNEL": "Every person we recruit goes through a Dan Crowley-grade funnel. Built once, swapped per role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "THE INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Dan Crowley doesn't cold DM people and say 'want to join Client Ascension?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "He makes content. Content pulls people in. They opt in. They get a sequence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "By the time they talk to a human, they already believe.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "We need the same thing for every role we're recruiting.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "The PM co-founder, the expert, the MC, the product person, the CoS, investors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Each one gets a funnel. Same architecture. Different content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "This is a ONE-TIME BUILD. You build the funnel infrastructure once.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Then you swap the lead magnet, the video, the email sequence per role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "THE FUNNEL (UNIVERSAL ARCHITECTURE)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Stage",
+      "col_2": "What Happens",
+      "col_3": "Content",
+      "col_4": "Tool",
+      "col_5": "Conversion Goal"
+    },
+    {
+      "THE RECRUITING FUNNEL": "1. AWARENESS\n(Top of Funnel)",
+      "col_2": "Target sees content about the IonWave system in THEIR domain",
+      "col_3": "Short video (MC or Nilo explaining the model relevant to their role)\nSocial post / thread\nReddit comment in relevant subreddit",
+      "col_4": "YouTube, Twitter, LinkedIn, TikTok, Reddit",
+      "col_5": "Click to learn more"
+    },
+    {
+      "THE RECRUITING FUNNEL": "2. LEAD MAGNET\n(Opt-In)",
+      "col_2": "Target downloads the advertorial for their domain",
+      "col_3": "Swipe file / template / checklist from the Advertorial Engine\nGated behind email opt-in",
+      "col_4": "Kit (ConvertKit) landing page\nSimple, Fernando Oliver style",
+      "col_5": "Email captured"
+    },
+    {
+      "THE RECRUITING FUNNEL": "3. NURTURE\n(Email Sequence)",
+      "col_2": "5-7 emails over 10-14 days showing what this is and why it matters",
+      "col_3": "Email 1: The resource + \"here's what we're building\"\nEmail 2: MC conversation clip (the system in action)\nEmail 3: The career booster angle (what you get)\nEmail 4: Behind the scenes (the Trade, the clusters, the cast)\nEmail 5: Social proof (who else is involved, Nilo's background)\nEmail 6: The ask (\"we're looking for [role]\")\nEmail 7: Application link + FAQ",
+      "col_4": "Kit email automation",
+      "col_5": "Application submitted"
+    },
+    {
+      "THE RECRUITING FUNNEL": "4. APPLICATION\n(Qualification)",
+      "col_2": "Target fills out a role-specific application form",
+      "col_3": "Short form: name, background, relevant experience, why interested, portfolio/LinkedIn\nNot a job application. A \"tell us about yourself\" form.",
+      "col_4": "Typeform or Tally\nSimple, mobile-friendly",
+      "col_5": "Qualified applicant"
+    },
+    {
+      "THE RECRUITING FUNNEL": "5. MC CONVERSATION\n(First Touch)",
+      "col_2": "MC has a recorded conversation with the applicant. Gets to know them. Explains the project in detail. Answers questions.",
+      "col_3": "This is NOT an interview. It's a conversation.\nMC asks: \"What are you working on? What excites you? What would you build if you could?\"\nThe conversation is content too — posted on the site as cast page material.",
+      "col_4": "Zoom/Riverside recording\nMC has a conversation guide (not a script)",
+      "col_5": "Mutual fit confirmed"
+    },
+    {
+      "THE RECRUITING FUNNEL": "6. PM / NILO REVIEW\n(Decision)",
+      "col_2": "PM co-founder reviews application + MC conversation. Recommends to Nilo. Nilo approves.",
+      "col_3": "PM writes a 1-paragraph recommendation.\nNilo reviews and approves/rejects.",
+      "col_4": "Async (Slack/email)",
+      "col_5": "Offer extended"
+    },
+    {
+      "THE RECRUITING FUNNEL": "7. ONBOARDING\n(Welcome)",
+      "col_2": "New team member gets site access, cluster assignment, contract, first MC conversation about their scope.",
+      "col_3": "Welcome email with site password\nCluster orientation doc\nContract (C- tab)\nFirst MC recorded conversation: \"Welcome to the cast\"",
+      "col_4": "Site access + Slack + tools",
+      "col_5": "Producing within 48 hrs"
+    },
+    {
+      "THE RECRUITING FUNNEL": "ROLE-SPECIFIC FUNNEL VARIATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Role",
+      "col_2": "Lead Magnet",
+      "col_3": "Key Email Angle",
+      "col_4": "MC Conversation Focus",
+      "col_5": "Decision Maker"
+    },
+    {
+      "THE RECRUITING FUNNEL": "PM Co-Founder",
+      "col_2": "Business model template or cluster-specific framework",
+      "col_3": "\"Be a co-founder. Own a cluster. Build something real.\"",
+      "col_4": "\"What's your PM experience? What excites you about this scope?\"",
+      "col_5": "Nilo"
+    },
+    {
+      "THE RECRUITING FUNNEL": "Expert Reviewer",
+      "col_2": "Domain-specific checklist or audit framework",
+      "col_3": "\"Your name on a verified, funded model. 10-20 hrs. Published credit.\"",
+      "col_4": "\"Walk me through how you'd evaluate this. What does good look like?\"",
+      "col_5": "PM co-founder + Nilo"
+    },
+    {
+      "THE RECRUITING FUNNEL": "MC",
+      "col_2": "N/A (content IS the magnet — they see the existing videos and want in)",
+      "col_3": "\"Host 200+ hours of content. Be the face of a DAO launch.\"",
+      "col_4": "\"Tell me about yourself. (MC audition IS the conversation)\"",
+      "col_5": "Nilo"
+    },
+    {
+      "THE RECRUITING FUNNEL": "Product Person",
+      "col_2": "Site design template or component library",
+      "col_3": "\"Build the best portfolio piece of your career. Equity + credit.\"",
+      "col_4": "\"Show me your favorite project. What would you do differently here?\"",
+      "col_5": "PM co-founder + Nilo"
+    },
+    {
+      "THE RECRUITING FUNNEL": "Admin",
+      "col_2": "Operations checklist or SOP template",
+      "col_3": "\"Venture studio ops experience. YC-backed founder reference.\"",
+      "col_4": "\"How do you stay organized? Walk me through your workflow.\"",
+      "col_5": "PM co-founder"
+    },
+    {
+      "THE RECRUITING FUNNEL": "CoS (IonWave)",
+      "col_2": "D2C launch playbook or operator scorecard",
+      "col_3": "\"Run a funded D2C brand. Full operator equity.\"",
+      "col_4": "\"What would you do in the first 30 days? How would you prioritize?\"",
+      "col_5": "Nilo (final)"
+    },
+    {
+      "THE RECRUITING FUNNEL": "Investor",
+      "col_2": "Trade thesis summary or market analysis",
+      "col_3": "\"Watch a company being built in real time. The most transparent launch ever.\"",
+      "col_4": "N/A (investors talk to Nilo directly)",
+      "col_5": "Nilo"
+    },
+    {
+      "THE RECRUITING FUNNEL": "BUILD COST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "One-time build:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "• 1 Kit (ConvertKit) account: free tier or $29/mo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "• 1 Typeform/Tally account: free tier",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "• 7 email templates: Claude writes, PM reviews (2-3 hrs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "• 1 landing page template: replicate per lead magnet (1-2 hrs to design once)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "• Lead magnet production: Claude extracts from Trade, PM packages (1-2 hrs per magnet)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Total: ~$0-30/mo + 10-15 hrs of initial setup.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "THE RECRUITING FUNNEL": "Then each new role just swaps the content into the existing infrastructure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Recruiting Funnel",
+  "sheet_index": 85
+}

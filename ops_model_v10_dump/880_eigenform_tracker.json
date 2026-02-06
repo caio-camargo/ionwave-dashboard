@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "EIGENFORM TRACKER",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "EIGENFORM TRACKER": "Self-referential patterns that reproduce themselves. Good loops vs bad loops.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "An eigenform is a pattern that recreates itself through its own operation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "Some eigenforms are virtuous (success breeds success). Some are vicious (failure breeds failure).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "Identify them. Amplify the good ones. Break the bad ones.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "VIRTUOUS EIGENFORMS (Amplify These)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "Pattern",
+      "col_2": "Name",
+      "col_3": "Strength",
+      "col_4": "How to Amplify"
+    },
+    {
+      "EIGENFORM TRACKER": "Good reviews → More sales → More reviews",
+      "col_2": "Social proof flywheel",
+      "col_3": "Strong",
+      "col_4": "Invest in review collection"
+    },
+    {
+      "EIGENFORM TRACKER": "Profitable CAC → More budget → More data → Better CAC",
+      "col_2": "Optimization flywheel",
+      "col_3": null,
+      "col_4": "Reinvest learnings"
+    },
+    {
+      "EIGENFORM TRACKER": "Good content → Organic traffic → Email list → More content ideas",
+      "col_2": "Content flywheel",
+      "col_3": null,
+      "col_4": "Build content engine"
+    },
+    {
+      "EIGENFORM TRACKER": "Happy customers → Referrals → Similar customers → Happy customers",
+      "col_2": "Customer flywheel",
+      "col_3": null,
+      "col_4": "Delight customers"
+    },
+    {
+      "EIGENFORM TRACKER": "Documentation → Faster onboarding → More capacity → Better docs",
+      "col_2": "Knowledge flywheel",
+      "col_3": null,
+      "col_4": "Document everything"
+    },
+    {
+      "EIGENFORM TRACKER": "VICIOUS EIGENFORMS (Break These)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "Pattern",
+      "col_2": "Name",
+      "col_3": "Strength",
+      "col_4": "How to Amplify"
+    },
+    {
+      "EIGENFORM TRACKER": "Stockout → Lost sales → Cash crunch → Can't reorder → Stockout",
+      "col_2": "Inventory death spiral",
+      "col_3": null,
+      "col_4": "Buffer inventory"
+    },
+    {
+      "EIGENFORM TRACKER": "Bad reviews → Lower conversion → Higher CAC → Desperation → Bad experience",
+      "col_2": "Quality death spiral",
+      "col_3": null,
+      "col_4": "Fix quality first"
+    },
+    {
+      "EIGENFORM TRACKER": "Overwork → Mistakes → More work to fix → More overwork",
+      "col_2": "Burnout spiral",
+      "col_3": null,
+      "col_4": "Rest and delegate"
+    },
+    {
+      "EIGENFORM TRACKER": "Unclear roles → Confusion → Rework → More confusion",
+      "col_2": "Coordination spiral",
+      "col_3": null,
+      "col_4": "Define roles clearly"
+    },
+    {
+      "EIGENFORM TRACKER": "Technical debt → Slower shipping → More shortcuts → More debt",
+      "col_2": "Tech debt spiral",
+      "col_3": null,
+      "col_4": "Pay down debt"
+    },
+    {
+      "EIGENFORM TRACKER": "EIGENFORM INTERVENTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "To AMPLIFY virtuous: Identify leverage point, invest resources there",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "To BREAK vicious: Identify the weakest link in the loop, intervene there",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EIGENFORM TRACKER": "Example: Inventory death spiral → Break at 'Can't reorder' by maintaining cash reserve",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Eigenform Tracker",
+  "sheet_index": 880
+}

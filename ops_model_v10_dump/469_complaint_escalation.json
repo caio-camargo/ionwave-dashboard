@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "COMPLAINT ESCALATION PROCESS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "COMPLAINT ESCALATION PROCESS": "How to handle customer complaints at each severity level",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "ESCALATION TIERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "Tier",
+      "col_2": "Type",
+      "col_3": "Examples",
+      "col_4": "Owner",
+      "col_5": "Response Time",
+      "col_6": "Resolution"
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "Tier 1",
+      "col_2": "Standard",
+      "col_3": "Where is my order? How do I use?",
+      "col_4": "Support",
+      "col_5": "<24 hrs",
+      "col_6": "Answer question"
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "Tier 2",
+      "col_2": "Issue",
+      "col_3": "Wrong item, damaged, minor complaint",
+      "col_4": "Support",
+      "col_5": "<12 hrs",
+      "col_6": "Fix + small gesture"
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "Tier 3",
+      "col_2": "Angry",
+      "col_3": "Demands refund, threatens review",
+      "col_4": "Operator",
+      "col_5": "<4 hrs",
+      "col_6": "Make it right + extra"
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "Tier 4",
+      "col_2": "Crisis",
+      "col_3": "Health issue, legal threat, viral post",
+      "col_4": "Studio",
+      "col_5": "<1 hr",
+      "col_6": "Personal outreach"
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "TIER 3-4 PLAYBOOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "When customer is angry or situation is serious:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "1. ACKNOWLEDGE - Validate their frustration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "'I completely understand why you're upset.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "2. APOLOGIZE - Take responsibility",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "'I'm sorry this happened. This isn't the experience we want.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "3. ACT - Fix it immediately",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "'Here's what I'm going to do right now...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "4. ADD - Go above and beyond",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "'And I'd like to [free product/full refund/extra gesture]'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "5. FOLLOW UP - Check back",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "'I'll personally check in tomorrow to make sure everything is resolved.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "ESCALATION TRIGGERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "AUTO-ESCALATE to Tier 3+ if:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Customer mentions lawyer/lawsuit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Customer mentions health issue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Customer threatens social media/review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Customer uses profanity or ALL CAPS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Same customer contacts 3+ times",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPLAINT ESCALATION PROCESS": "☐ Complaint involves safety",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Complaint Escalation",
+  "sheet_index": 469
+}

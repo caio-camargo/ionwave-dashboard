@@ -1,0 +1,127 @@
+{
+  "headers": [
+    "TAB DEPENDENCIES MAP",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "TAB DEPENDENCIES MAP": "Which tabs feed into which - the wiring diagram",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "UPSTREAM → DOWNSTREAM FLOWS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Source Tab",
+      "col_2": null,
+      "col_3": "Feeds Into"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Unit Economics",
+      "col_2": "→",
+      "col_3": "Cash Flow Model, Financial Model, Portfolio Reality Check"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "ICP tabs",
+      "col_2": "→",
+      "col_3": "Creative Strategy, Ad Copy Bank, Email flows"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Supplier Evaluation",
+      "col_2": "→",
+      "col_3": "COGS in Unit Economics, Inventory Forecast"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Competitive Intel",
+      "col_2": "→",
+      "col_3": "Pricing, Positioning, Creative angles"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "The Equations",
+      "col_2": "→",
+      "col_3": "All financial tabs, Kill criteria"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Win Criteria Definition",
+      "col_2": "→",
+      "col_3": "Red Flag Dashboard, Review Gates"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Brand Guidelines",
+      "col_2": "→",
+      "col_3": "All creative tabs, Listing Optimization"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Assumptions Register",
+      "col_2": "→",
+      "col_3": "Scenario Planning, Sensitivity Analysis"
+    },
+    {
+      "TAB DEPENDENCIES MAP": "CRITICAL DEPENDENCIES (If X changes, must update Y)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "COGS changes",
+      "col_2": "Unit Economics → Cash Flow → Scenario Planning → Kill Criteria",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "CAC changes",
+      "col_2": "Unit Economics → Portfolio Reality Check → Red Flag Dashboard",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Price changes",
+      "col_2": "Unit Economics → Revenue projections → Cash Flow",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "Supplier changes",
+      "col_2": "Supplier Evaluation → Lead times → Restock Framework → Inventory",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "ICP changes",
+      "col_2": "All ICP tabs → Creative Strategy → Ad Copy → Email flows",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "DEPENDENCY CLUSTERS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "FINANCE CLUSTER",
+      "col_2": "Unit Economics, Cash Flow, 13-Week, Working Capital, Scenarios, Break-Even",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "CUSTOMER CLUSTER",
+      "col_2": "ICP tabs, Voice of Customer, Customer Research, Interview Engine",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "MARKETING CLUSTER",
+      "col_2": "Creative Strategy, Ad tabs, Email tabs, Content Calendar",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "OPS CLUSTER",
+      "col_2": "Supplier, Inventory, 3PL, Restock, Fulfillment tabs",
+      "col_3": null
+    },
+    {
+      "TAB DEPENDENCIES MAP": "GOVERNANCE CLUSTER",
+      "col_2": "Decision Log, Changes Tracker, Audit Trail, Sign-Off Gates",
+      "col_3": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Tab Dependencies Map",
+  "sheet_index": 754
+}

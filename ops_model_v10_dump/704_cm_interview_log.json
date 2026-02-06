@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "INTERVIEW LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "INTERVIEW LOG": "Record of all assessment interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "Date",
+      "col_2": "Interviewee",
+      "col_3": "Role",
+      "col_4": "Type",
+      "col_5": "Key Topics",
+      "col_6": "Sentiment",
+      "col_7": "Notes/Flags"
+    },
+    {
+      "INTERVIEW LOG": "SENTIMENT SCALE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "5 = Very Positive (confident, enthusiastic, no concerns)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "4 = Positive (good progress, minor concerns)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "3 = Neutral (mixed signals, watching)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "2 = Negative (significant concerns, struggling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "INTERVIEW LOG": "1 = Very Negative (major issues, loss of confidence)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "CM Interview Log",
+  "sheet_index": 704
+}

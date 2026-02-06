@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S6: Recruiting Engine — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "How flash contributors are sourced. Platform strategy, cold email, referrals, pass-the-bottom.",
+      "col_2": null
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade recruiting engine model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "B (Good)",
+      "col_2": "Solid recruiting engine model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "C (Needs Work)",
+      "col_2": "Recruiting Engine model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "D (Major Issues)",
+      "col_2": "Recruiting Engine model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "F (Fail)",
+      "col_2": "Recruiting Engine model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S6: Recruiting Engine — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S6",
+  "sheet_index": 962
+}

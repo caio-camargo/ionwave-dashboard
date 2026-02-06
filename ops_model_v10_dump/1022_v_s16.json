@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S16: Studio Financial Model — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Studio 4 financials. Equity budget, cost structure, revenue model, fundraise assumptions.",
+      "col_2": null
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade studio financial model model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "B (Good)",
+      "col_2": "Solid studio financial model model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "C (Needs Work)",
+      "col_2": "Studio Financial Model model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "D (Major Issues)",
+      "col_2": "Studio Financial Model model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "F (Fail)",
+      "col_2": "Studio Financial Model model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S16: Studio Financial Model — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S16",
+  "sheet_index": 1022
+}

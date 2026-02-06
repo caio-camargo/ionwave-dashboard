@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "NAVIGATION — MC",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "NAVIGATION — MC": "Master of Ceremonies. Has conversations with everyone about every model. Records daily updates.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "WHAT YOU SEE",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "Whatever model they're covering that week. Plus their own role spec and conversation schedule.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "YOUR TABS (open these)",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "→ MC Role Spec",
+      "col_2": "Tab #56"
+    },
+    {
+      "NAVIGATION — MC": "→ MC Conversation Map",
+      "col_2": "Tab #58"
+    },
+    {
+      "NAVIGATION — MC": "→ Series Producer Role",
+      "col_2": "Tab #57"
+    },
+    {
+      "NAVIGATION — MC": "→ Participant UX Journey",
+      "col_2": "Tab #51"
+    },
+    {
+      "NAVIGATION — MC": "→ Career Booster Frame",
+      "col_2": "Tab #53"
+    },
+    {
+      "NAVIGATION — MC": "WHAT YOU OWN",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "4-10 hrs of recorded conversations per model. Daily 60-90 sec updates. Recruiting conversations with applicants.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "WHAT YOU DON'T TOUCH",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — MC": "Model content. Admin tasks. Screening (that's admin). Strategy (that's Nilo/PM).",
+      "col_2": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "NAV-MC",
+  "sheet_index": 18
+}

@@ -1,0 +1,287 @@
+{
+  "headers": [
+    "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "What blocks what. Including system-level tasks that don't live in any single TUP.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "ONE-TIME SYSTEM TASKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "These tasks must happen but don't belong to any single TUP. They're infrastructure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Task",
+      "col_2": "Category",
+      "col_3": "Blocks",
+      "col_4": "Owner",
+      "col_5": "Status",
+      "col_6": "Notes"
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Form legal entity (LLC/C-Corp)",
+      "col_2": "Legal",
+      "col_3": "All contracts, equity grants, banking",
+      "col_4": "Nilo + Lawyer",
+      "col_5": "Not started",
+      "col_6": "Delaware C-Corp likely. See I1-I6 cluster."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Open bank account",
+      "col_2": "Legal",
+      "col_3": "All payments, payroll, vendor orders",
+      "col_4": "Nilo + Admin",
+      "col_5": "Not started",
+      "col_6": "Mercury or similar. Needs EIN first."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Get EIN",
+      "col_2": "Legal",
+      "col_3": "Bank account, hiring, tax filing",
+      "col_4": "Nilo",
+      "col_5": "Not started",
+      "col_6": "IRS online, same day."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Set up 1Password / credential vault",
+      "col_2": "Ops",
+      "col_3": "All tool access, team onboarding",
+      "col_4": "Nilo",
+      "col_5": "Not started",
+      "col_6": "Before ANY hires. Central credential management."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Set up Google Workspace",
+      "col_2": "Ops",
+      "col_3": "Drive structure, email, docs",
+      "col_4": "Nilo + Admin",
+      "col_5": "Not started",
+      "col_6": "Set up Google Workspace (ops domain: launchionwave.com)"
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Create Google Drive folder structure",
+      "col_2": "Ops",
+      "col_3": "All file management, artifact storage",
+      "col_4": "Librarian",
+      "col_5": "Not started",
+      "col_6": "Trade → Level → Cluster → TUP → Tabs mirror."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Set up Slack (or comms tool)",
+      "col_2": "Ops",
+      "col_3": "All team communication",
+      "col_4": "Nilo",
+      "col_5": "Not started",
+      "col_6": "Channel per cluster? Or channel per role?"
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Create cap table",
+      "col_2": "Legal/Finance",
+      "col_3": "All equity grants, investor conversations",
+      "col_4": "Nilo + Lawyer",
+      "col_5": "Not started",
+      "col_6": "Carta or spreadsheet. Needs entity first."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Draft operator/PM agreement template",
+      "col_2": "Legal",
+      "col_3": "All PM co-founder hires",
+      "col_4": "Nilo + Lawyer",
+      "col_5": "Not started",
+      "col_6": "IP assignment, equity vesting, scope, kill criteria."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Draft expert reviewer agreement",
+      "col_2": "Legal",
+      "col_3": "All expert reviews",
+      "col_4": "Nilo + Lawyer",
+      "col_5": "Not started",
+      "col_6": "Scope, compensation (equity or cash), confidentiality."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Set up Shopify store (customer domain TBD — e.g. drinkionwave.com, getionwave.com)",
+      "col_2": "Product",
+      "col_3": "All product/funnel testing",
+      "col_4": "Product person",
+      "col_5": "Not started",
+      "col_6": "Customer-facing domain. Separate from launchionwave.com (ops). Domain decided in brand exercise (F0)."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Register trademark",
+      "col_2": "Legal",
+      "col_3": "Brand use, packaging finalization",
+      "col_4": "Lawyer",
+      "col_5": "Not started",
+      "col_6": "IonWave name + logo. USPTO."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Set up accounting (QuickBooks)",
+      "col_2": "Finance",
+      "col_3": "All financial tracking, tax prep",
+      "col_4": "Admin",
+      "col_5": "Not started",
+      "col_6": "Chart of accounts aligned to Unit Economics tab."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Insurance (general liability)",
+      "col_2": "Legal",
+      "col_3": "Product sales, operations",
+      "col_4": "Admin + Lawyer",
+      "col_5": "Not started",
+      "col_6": "Product liability especially for supplements."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "FDA compliance check",
+      "col_2": "Regulatory",
+      "col_3": "Product launch, label finalization",
+      "col_4": "Regulatory expert",
+      "col_5": "Not started",
+      "col_6": "DSHEA compliance. Supplement facts panel review."
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "CRITICAL TUP-TO-TUP DEPENDENCIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "If TUP A isn't done, TUP B can't start or is degraded.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "Upstream TUP",
+      "col_2": "Downstream TUP",
+      "col_3": "What Flows",
+      "col_4": "Severity",
+      "col_5": "Notes",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M0: Thesis",
+      "col_2": "ALL TUPs",
+      "col_3": "Core thesis, ICP, positioning, kill criteria",
+      "col_4": "BLOCKING",
+      "col_5": "Nothing moves without M0",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M1: Product Spec",
+      "col_2": "M2: Supplier Selection",
+      "col_3": "What we're making → who can make it",
+      "col_4": "BLOCKING",
+      "col_5": "Can't source without spec",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M1: Product Spec",
+      "col_2": "M3: Label & Packaging",
+      "col_3": "Formula → supplement facts panel",
+      "col_4": "BLOCKING",
+      "col_5": "FDA compliance depends on formula",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M2: Supplier Selection",
+      "col_2": "M4: COGS & Pricing",
+      "col_3": "Actual costs → unit economics",
+      "col_4": "BLOCKING",
+      "col_5": "Can't price without real COGS",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M4: COGS & Pricing",
+      "col_2": "M16: Unit Economics",
+      "col_3": "Price/COGS → margins → financial model",
+      "col_4": "BLOCKING",
+      "col_5": "Financial model needs real numbers",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M0: Thesis (ICP)",
+      "col_2": "M6: Funnel Strategy",
+      "col_3": "Who we're selling to → how we reach them",
+      "col_4": "STRONG",
+      "col_5": "ICP shapes entire funnel",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M6: Funnel Strategy",
+      "col_2": "M11: Creative Strategy",
+      "col_3": "Funnel architecture → creative needs",
+      "col_4": "STRONG",
+      "col_5": "Creative serves the funnel",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "M11: Creative Strategy",
+      "col_2": "M13: Media Buying",
+      "col_3": "What creative exists → what to run",
+      "col_4": "STRONG",
+      "col_5": "Can't buy media without creative",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "F0: Brand Identity",
+      "col_2": "ALL Funnel TUPs",
+      "col_3": "Brand guidelines → all customer-facing work",
+      "col_4": "STRONG",
+      "col_5": "Visual identity, voice, positioning",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "S2: Recruiting Engine",
+      "col_2": "ALL PM hires",
+      "col_3": "How we find/evaluate/close people",
+      "col_4": "STRONG",
+      "col_5": "Recruiting system before recruiting people",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "I1: Entity Formation",
+      "col_2": "I4: Cap Table",
+      "col_3": "Entity exists → can issue equity",
+      "col_4": "BLOCKING",
+      "col_5": "Legal sequence",
+      "col_6": null
+    },
+    {
+      "CROSS-TUP DEPENDENCIES & ONE-TIME TASKS": "I4: Cap Table",
+      "col_2": "ALL equity grants",
+      "col_3": "Cap table exists → can grant equity to PMs, experts",
+      "col_4": "BLOCKING",
+      "col_5": "No equity without cap table",
+      "col_6": null
+    }
+  ],
+  "row_count": 34,
+  "sheet_name": "Cross-TUP Dependencies",
+  "sheet_index": 1179
+}

@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "PRODUCT-MARKET FIT PROOF POINTS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "Metric",
+      "col_2": "Target",
+      "col_3": "Actual",
+      "col_4": "Source"
+    },
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "Repeat purchase rate",
+      "col_2": ">30%",
+      "col_3": "[TBD]",
+      "col_4": "Shopify data"
+    },
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "Subscription conversion",
+      "col_2": ">50%",
+      "col_3": "[TBD]",
+      "col_4": "Checkout data"
+    },
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "NPS score",
+      "col_2": ">50",
+      "col_3": "[TBD]",
+      "col_4": "Survey"
+    },
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "Organic growth %",
+      "col_2": ">20%",
+      "col_3": "[TBD]",
+      "col_4": "Attribution"
+    },
+    {
+      "PRODUCT-MARKET FIT PROOF POINTS": "Churn rate",
+      "col_2": "<8%",
+      "col_3": "[TBD]",
+      "col_4": "Subscription data"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "PMF Proof",
+  "sheet_index": 135
+}

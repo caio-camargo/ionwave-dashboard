@@ -1,0 +1,62 @@
+{
+  "headers": [
+    "SMS STRATEGY & COMPLIANCE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SMS STRATEGY & COMPLIANCE": "SMS rules and flows. TCPA compliance.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "COMPLIANCE (TCPA):",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "✓ Explicit opt-in required",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "✓ Easy opt-out (STOP)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "✓ Only 8am-9pm recipient time",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "✗ NEVER buy SMS lists",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "Use Case",
+      "col_2": "Channel",
+      "col_3": "Why"
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "Shipping notification",
+      "col_2": "SMS",
+      "col_3": "Time-sensitive"
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "Flash sale",
+      "col_2": "SMS",
+      "col_3": "Urgency"
+    },
+    {
+      "SMS STRATEGY & COMPLIANCE": "Weekly newsletter",
+      "col_2": "Email",
+      "col_3": "Long-form"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "SMS Strategy",
+  "sheet_index": 427
+}

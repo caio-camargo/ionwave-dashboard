@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "INCIDENT MANAGEMENT PROTOCOL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "Severity classification, escalation, post-mortem.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "Severity",
+      "col_2": "Definition",
+      "col_3": "Response Time"
+    },
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "SEV 1 - Critical",
+      "col_2": "Business stopped",
+      "col_3": "<1 hour"
+    },
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "SEV 2 - High",
+      "col_2": "Major impaired",
+      "col_3": "<4 hours"
+    },
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "SEV 3 - Medium",
+      "col_2": "Degraded",
+      "col_3": "<24 hours"
+    },
+    {
+      "INCIDENT MANAGEMENT PROTOCOL": "SEV 4 - Low",
+      "col_2": "Minor issue",
+      "col_3": "<48 hours"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Incident Management",
+  "sheet_index": 805
+}

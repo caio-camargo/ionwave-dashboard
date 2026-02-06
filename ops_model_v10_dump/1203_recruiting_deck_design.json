@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "RECRUITING PITCH DECK — DESIGN SPEC",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Visual spec for AI generation or manual design. One consistent template across all 5 slides.",
+      "col_2": null
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "DESIGN SYSTEM",
+      "col_2": null
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Background",
+      "col_2": "Dark navy (#0D1B2A) or charcoal (#1B2838). Not black — too harsh. Not white — too corporate."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Primary text",
+      "col_2": "White (#FFFFFF) for headlines. Light gray (#E0E0E0) for body."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Accent color",
+      "col_2": "Electric blue (#4FC3F7) or IonWave brand color (TBD). Used for highlights, borders, key numbers."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Font — headlines",
+      "col_2": "Inter Bold or similar geometric sans-serif. Large (36-48pt). Left-aligned."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Font — body",
+      "col_2": "Inter Regular. 16-20pt. Left-aligned. Generous line spacing."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Layout",
+      "col_2": "Left-heavy. Headline top-left. Body below. Right side: supporting visual (AI-generated product render, team photo, or abstract). 60/40 text-to-visual ratio."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Logo",
+      "col_2": "IonWave wordmark top-right. Small. Consistent placement every slide."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Slide numbers",
+      "col_2": "Bottom-right. \"1/5\" format. Small."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "NO",
+      "col_2": "No gradients. No stock photos. No clip art. No bullet point icons. No \"startup pitch deck\" templates from Canva. This should look like it was designed by someone with taste."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Mood reference",
+      "col_2": "Bloomberg terminal meets Stripe's marketing site meets MKBHD thumbnails. Professional but not boring. Dark but not edgy."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "AI generation prompt",
+      "col_2": "\"Generate a 16:9 presentation slide with dark navy background (#0D1B2A). White bold sans-serif headline top-left. Body text in light gray below. Right side has a subtle abstract geometric pattern in electric blue. Clean, minimal, professional. No stock photos. Stripe/Bloomberg aesthetic.\""
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "DISTRIBUTION",
+      "col_2": null
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Format",
+      "col_2": "PDF (sendable via email/DM). Also as Notion page (linkable). Also as 5 images for social/Discord."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "When to send",
+      "col_2": "BEFORE any recruiting call. The candidate reads this first. The call is to answer questions, not to explain what you're building."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Customization",
+      "col_2": "Slides 1-4 are identical for everyone. Slide 5 is customized per role. Recruiter swaps Slide 5 template for each candidate."
+    },
+    {
+      "RECRUITING PITCH DECK — DESIGN SPEC": "Update cadence",
+      "col_2": "Update Slide 4 (Who's Already In) every time someone new joins. The deck gets more compelling as the team grows."
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Recruiting Deck - Design",
+  "sheet_index": 1203
+}

@@ -1,0 +1,294 @@
+{
+  "headers": [
+    "IONWAVE DECISION FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE DECISION FRAMEWORK": "Clear go/no-go gates. What defines success? When do we kill?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "DECISION PHILOSOPHY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "• Kill fast, learn faster. Better to lose $5K quickly than $50K slowly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "• Data over hope. If numbers don't work after fair test, pivot or kill.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "• Gates are commitments. Don't move goalposts when results disappoint.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "• One person decides. Operator has authority, CM has veto on process only.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "STAGE GATES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Gate",
+      "col_2": "When",
+      "col_3": "GO Criteria",
+      "col_4": "KILL Criteria",
+      "col_5": "Decision Owner"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G1: Supplier",
+      "col_2": "Week 2",
+      "col_3": "COGS <$0.60/sachet confirmed from 2+ suppliers",
+      "col_4": "All quotes >$0.75 after negotiation",
+      "col_5": "Operator"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G2: Product",
+      "col_2": "Week 2",
+      "col_3": "Samples pass taste test (>70% approval)",
+      "col_4": "Samples taste bad or fail QC",
+      "col_5": "Operator"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G3: Tech Ready",
+      "col_2": "Week 3",
+      "col_3": "Store live, tracking firing, email flows built",
+      "col_4": "Critical tech blockers unresolved",
+      "col_5": "Operator"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G4: First Traffic",
+      "col_2": "Week 4",
+      "col_3": "Ads running, first sales coming in",
+      "col_4": "Account suspended, no ads possible",
+      "col_5": "Operator"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G5: Unit Econ",
+      "col_2": "Week 6",
+      "col_3": "CAC <$50 with 30+ conversions",
+      "col_4": "CAC >$60 after $3K spend + iteration",
+      "col_5": "Operator + Studio"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G6: Profitability",
+      "col_2": "Week 7",
+      "col_3": "ROAS >1.4x blended for 7 days",
+      "col_4": "ROAS <1.2x after optimization",
+      "col_5": "Operator + Studio"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "G7: Scale Ready",
+      "col_2": "Month 2",
+      "col_3": "Unit economics positive, systems working",
+      "col_4": "Persistent losses, unfixable issues",
+      "col_5": "Studio"
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "IMMEDIATE KILL TRIGGERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "COGS > $0.75/sachet",
+      "col_2": "Unit economics impossible at any reasonable scale",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "CAC > $60 after $5K spend",
+      "col_2": "Acquisition cost makes business unviable",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "ROAS < 1.2x after 3 weeks",
+      "col_2": "Losing too much money to continue",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Product quality issues",
+      "col_2": "Customer complaints, safety concerns",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Legal/compliance blockers",
+      "col_2": "FDA warning, trademark dispute, etc.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Operator unavailable",
+      "col_2": "Can't execute without dedicated operator",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "PIVOT TRIGGERS (Adjust, Don't Kill)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "CAC $40-60",
+      "col_2": "Test different angles, audiences, creative. Improve LP conversion.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "ROAS 1.2-1.4x",
+      "col_2": "Optimize funnel, reduce COGS, increase AOV with bundles.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Churn > 15%",
+      "col_2": "Improve product experience, add retention flows.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Low subscription rate",
+      "col_2": "Adjust pricing, positioning, or subscription benefits.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Creative fatigue",
+      "col_2": "Accelerate creative production, test new formats.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "SUCCESS DEFINITION (What 'Good' Looks Like)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Week 7",
+      "col_2": "ROAS >1.5x, CAC <$40, 100+ orders, positive contribution margin",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Month 3",
+      "col_2": "$15K+ MRR, >40% subscription rate, <12% churn, systems running",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Month 6",
+      "col_2": "$30K+ MRR, profitable, investor raise complete or bootstrapping",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "Month 12",
+      "col_2": "$75K+ MRR, clear path to $1M ARR, PE-ready metrics",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "DECISION PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "1. Operator presents data at each gate (not opinions, data)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "2. CM validates data accuracy and completeness",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "3. Compare to pre-defined GO/KILL criteria",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "4. If clear: Execute decision immediately",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "5. If unclear: Studio makes final call within 24 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE DECISION FRAMEWORK": "6. Document decision and reasoning in Drive",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 40,
+  "sheet_name": "Decision Framework",
+  "sheet_index": 132
+}

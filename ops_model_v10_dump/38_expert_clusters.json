@@ -1,0 +1,215 @@
+{
+  "headers": [
+    "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "Group models by domain so one expert calibrates multiple models in one session.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "Cluster",
+      "col_2": "Expert Type",
+      "col_3": "Models Covered",
+      "col_4": "Tab Count",
+      "col_5": "Session Time",
+      "col_6": "What They Review"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "A. Finance",
+      "col_2": "CFO / FP&A / Startup Finance",
+      "col_3": "M3 Financial Model, M4 Fundraising, M25 Financial Ops, M10 Pricing & Offer",
+      "col_4": "45",
+      "col_5": "60-90 min",
+      "col_6": "P&L realism, cash flow assumptions, unit economics, cap table, fundraising materials, pricing psychology"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "B. Product & Supply",
+      "col_2": "Supplement Formulator / CPG Ops",
+      "col_3": "M5 Product Formulation, M6 Supply Chain, M7 Regulatory & FDA, M24 Fulfillment & Inventory",
+      "col_4": "49",
+      "col_5": "60-90 min",
+      "col_6": "Formulation science, supplier evaluation, FDA compliance, COA standards, 3PL selection, inventory math"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "C. Brand & Creative",
+      "col_2": "D2C Brand Director / Creative Director",
+      "col_3": "M8 Brand & Packaging, M12 Ad Creative, M11 VSL Production, M15 Landing Pages & Conversion",
+      "col_4": "74",
+      "col_5": "60-90 min",
+      "col_6": "Brand identity, packaging, ad creative quality, VSL structure, landing page conversion, visual standards"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "D. Media & Growth",
+      "col_2": "Meta Media Buyer / Growth Marketer",
+      "col_3": "M13 Media Buying, M14 Testing & Optimization, M16 Content & SEO, M29 PR & Communications",
+      "col_4": "36",
+      "col_5": "60 min",
+      "col_6": "Ad account structure, scaling rules, attribution, testing protocol, kill criteria, channel strategy"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "E. Retention & CRM",
+      "col_2": "Klaviyo Expert / Retention Marketer",
+      "col_3": "M17 Email & SMS, M18 Email Lifecycle Flows, M19 Customer Lifecycle & CRM, M20 Customer Support, M21 Subscription & Retention",
+      "col_4": "50",
+      "col_5": "60-90 min",
+      "col_6": "Email flow architecture, segmentation, automation triggers, churn prediction, subscription psychology, NPS"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "F. Customer & Market",
+      "col_2": "UX Researcher / Consumer Insights",
+      "col_3": "M27 Customer Research, M22 Referral & Community, M23 Influencer & Creator, M28 Market & Expansion",
+      "col_4": "71",
+      "col_5": "60-90 min",
+      "col_6": "Interview methodology, psychographic depth, JTBD rigor, language quality, influencer strategy, market sizing"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "G. Legal & Entity",
+      "col_2": "Startup Attorney",
+      "col_3": "M2 Entity & Legal, M9 Ecommerce Infrastructure",
+      "col_4": "25",
+      "col_5": "30-45 min",
+      "col_6": "Entity structure, cap table, IP assignment, terms of service, compliance, Shopify legal requirements"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "H. Operations & Systems",
+      "col_2": "COO / Ops Consultant",
+      "col_3": "M31 Hiring & Roles, M32 School Model, M35 Execution Plans, M36 Operational Infrastructure, M30 Analytics",
+      "col_4": "124",
+      "col_5": "90-120 min",
+      "col_6": "Org design, hiring process, meeting rhythms, SOPs, RACI, risk management, KPI frameworks"
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "MODELS NOT REQUIRING EXTERNAL EXPERT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "Models",
+      "col_2": "Why No Expert Needed",
+      "col_3": "Who Reviews",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M0 Trade Thesis (37 tabs)",
+      "col_2": "This is Nilo's domain. The thesis is the founder's conviction, not an expert's opinion.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M1 Labor Chain (16 tabs)",
+      "col_2": "Studio 4 proprietary system. Already proven across 5 companies. Nilo is the expert.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M33 Governance & CM (46 tabs)",
+      "col_2": "Studio 4 proprietary system. CM framework is Nilo's design.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M34 Trade Architecture (24 tabs)",
+      "col_2": "Meta-model. Only person who can review is the person who designed it.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M37 AI & Automation (5 tabs)",
+      "col_2": "PM + Claude iterate. No external expert needed.",
+      "col_3": "PM",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M38 Strategic Frameworks (44 tabs)",
+      "col_2": "Nilo's coordination theory. Proprietary intellectual property.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M39 Conceptual & Philosophical (14 tabs)",
+      "col_2": "Nilo's frameworks. No external expert exists for this.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M40 Navigation & Command (18 tabs)",
+      "col_2": "Internal navigation. PM reviews for usability.",
+      "col_3": "PM",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "M26 Competitive Intelligence (11 tabs)",
+      "col_2": "Research task, not expertise task. PM + Claude fill from public data.",
+      "col_3": "PM",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "8 external experts cover 32 models (474 tabs).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "Nilo reviews 7 models (195 tabs) — all proprietary Studio 4 IP.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "PM reviews 2 models (16 tabs) — navigation and competitive research.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPERT CLUSTERS — 8 EXPERTS COVER 41 MODELS": "Total: 41 models, 681 tabs, full coverage.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Expert Clusters",
+  "sheet_index": 38
+}

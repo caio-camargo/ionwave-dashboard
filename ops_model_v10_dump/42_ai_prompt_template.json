@@ -1,0 +1,121 @@
+{
+  "headers": [
+    "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL"
+  ],
+  "rows": [
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "The PM uses this template to generate first drafts and revisions for each model."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "FIRST DRAFT PROMPT"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "You are filling [Model Name] ([X] tabs) for the IonWave Trade."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "CONTEXT:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- IonWave is a premium marine plasma electrolyte supplement sold D2C via Meta ads"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Target customer: endurance athletes, biohackers, wellness-focused adults"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Price point: ~$45/bottle, tiered (1/3/6), subscription option"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- GTM: VSL-driven Meta ads funnel (reference: Emma Relief / Konscious)"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Channel: Shopify D2C first, Amazon phase 2"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "[Paste M0 Trade Thesis summary here — the locked strategic inputs]"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "TABS TO FILL:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "[List each tab name with its current skeleton/headers]"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "INSTRUCTIONS:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Fill every tab completely. No placeholders like 'TBD' or 'insert here'."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Be specific to IonWave. Generic advice = failure."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Write at the level that would impress a [domain expert type]."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Flag any assumptions you're making with [ASSUMPTION: reason]."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Flag any gaps you can't fill without human input with [NEEDS INPUT: what's needed]."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Where numbers are required, use realistic estimates with stated basis."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "QUALITY BAR:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "A domain expert in [domain] should review your output and think:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "'This is better than what most companies in this space actually have.'"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "Not 'this is a nice template.' Not 'this is a good start.'"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "It should be the actual working document, not a document about the document."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "REVISION PROMPT (After Expert Feedback)"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "You previously filled [Model Name] for the IonWave Trade."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "A [domain expert type] reviewed your output. Here is their feedback:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "[Paste expert markup/notes here]"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "INSTRUCTIONS:"
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- Address every piece of feedback. Do not skip any."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For items rated 'Embarrassing' — rewrite completely."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For items rated 'Needs Work' — revise with specific fixes."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For items rated 'Acceptable' — minor polish only."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For items rated 'Expert-Grade' — do not change."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For anything flagged as factually wrong — fix and cite correct information."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "- For anything flagged as missing — add it."
+    },
+    {
+      "AI PROMPT TEMPLATE — HOW PM INSTRUCTS CLAUDE PER MODEL": "After revision, list every change you made and which feedback item it addresses."
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "AI Prompt Template",
+  "sheet_index": 42
+}

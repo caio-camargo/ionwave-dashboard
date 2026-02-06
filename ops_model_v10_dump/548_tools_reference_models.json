@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "TOOLS & REFERENCE MODELS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "TOOLS & REFERENCE MODELS": "Tool",
+      "col_2": "Category",
+      "col_3": "URL"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Shopify",
+      "col_2": "Store",
+      "col_3": "shopify.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Klaviyo",
+      "col_2": "Email/SMS",
+      "col_3": "klaviyo.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Meta Ads",
+      "col_2": "Advertising",
+      "col_3": "business.facebook.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Triple Whale",
+      "col_2": "Attribution",
+      "col_3": "triplewhale.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Recharge",
+      "col_2": "Subscriptions",
+      "col_3": "rechargepayments.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "ShipBob",
+      "col_2": "3PL",
+      "col_3": "shipbob.com"
+    },
+    {
+      "TOOLS & REFERENCE MODELS": "Gorgias",
+      "col_2": "Support",
+      "col_3": "gorgias.com"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Tools & Reference Models",
+  "sheet_index": 548
+}

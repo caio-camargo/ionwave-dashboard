@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "SCREENING INTERVIEW GUIDE"
+  ],
+  "rows": [
+    {
+      "SCREENING INTERVIEW GUIDE": "Background"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Walk me through your D2C experience"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Results"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Best result you achieved? What drove it?"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Process"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "How do you approach launching a new product?"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Learning"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Tell me about something you taught yourself"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Motivation"
+    },
+    {
+      "SCREENING INTERVIEW GUIDE": "Why this opportunity vs starting your own brand?"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Screening Interview",
+  "sheet_index": 652
+}

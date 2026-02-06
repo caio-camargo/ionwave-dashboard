@@ -1,0 +1,192 @@
+{
+  "headers": [
+    "AD PSYCHOLOGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "AD PSYCHOLOGY": "The psychological principles that make ads convert",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "CIALDINI'S 6 PRINCIPLES OF PERSUASION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "1. RECIPROCITY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: Give something first, people feel obligated to give back",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Free guide, free sample, valuable content before asking",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "2. COMMITMENT/CONSISTENCY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: Once someone commits small, they'll commit big",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Get them to engage, comment, or take small action first",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "3. SOCIAL PROOF",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: People follow what others do",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Reviews, testimonials, '10,000 customers', 'sold out 3x'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "4. AUTHORITY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: People trust experts and credentials",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Doctor endorsements, research citations, founder expertise",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "5. LIKING",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: People buy from people they like",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Relatable founder, UGC from people like them, shared values",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "6. SCARCITY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Principle: People want what's limited",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "In ads: Limited stock, limited time offer, exclusive access",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "EMOTIONAL TRIGGERS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Trigger",
+      "col_2": "Psychology",
+      "col_3": "Example"
+    },
+    {
+      "AD PSYCHOLOGY": "FEAR",
+      "col_2": "Fear of missing out, fear of consequences",
+      "col_3": "What happens if you don't fix this..."
+    },
+    {
+      "AD PSYCHOLOGY": "DESIRE",
+      "col_2": "Want for transformation, better life",
+      "col_3": "Imagine waking up with energy..."
+    },
+    {
+      "AD PSYCHOLOGY": "FRUSTRATION",
+      "col_2": "Tired of the problem",
+      "col_3": "Sick of feeling exhausted?"
+    },
+    {
+      "AD PSYCHOLOGY": "CURIOSITY",
+      "col_2": "Need to know more",
+      "col_3": "The secret nobody talks about..."
+    },
+    {
+      "AD PSYCHOLOGY": "BELONGING",
+      "col_2": "Want to be part of group",
+      "col_3": "Join 10,000 people who..."
+    },
+    {
+      "AD PSYCHOLOGY": "PRIDE",
+      "col_2": "Want to be seen as smart/healthy",
+      "col_3": "People who take health seriously..."
+    },
+    {
+      "AD PSYCHOLOGY": "HOPE",
+      "col_2": "Belief things can be better",
+      "col_3": "There is a solution..."
+    },
+    {
+      "AD PSYCHOLOGY": "COGNITIVE BIASES TO USE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD PSYCHOLOGY": "Anchoring",
+      "col_2": "First number sets expectations",
+      "col_3": "Was $99, now $49"
+    },
+    {
+      "AD PSYCHOLOGY": "Loss Aversion",
+      "col_2": "Losses hurt more than gains",
+      "col_3": "Don't miss out, stop losing energy"
+    },
+    {
+      "AD PSYCHOLOGY": "Bandwagon Effect",
+      "col_2": "Follow the crowd",
+      "col_3": "Everyone's switching to..."
+    },
+    {
+      "AD PSYCHOLOGY": "Halo Effect",
+      "col_2": "One positive trait = all positive",
+      "col_3": "Ocean-sourced = healthy = premium"
+    },
+    {
+      "AD PSYCHOLOGY": "Confirmation Bias",
+      "col_2": "Seek info that confirms beliefs",
+      "col_3": "You knew something was wrong..."
+    },
+    {
+      "AD PSYCHOLOGY": "Status Quo Bias",
+      "col_2": "Prefer current state",
+      "col_3": "Risk-free trial, easy to try"
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "Ad Psychology",
+  "sheet_index": 345
+}

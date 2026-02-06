@@ -1,0 +1,208 @@
+{
+  "headers": [
+    "CUSTOMER ARCHETYPE PROFILES"
+  ],
+  "rows": [
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "5-7 detailed personas with names, photos, full backstories"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "ARCHETYPE 1: KETO KEVIN"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Demographics: Male, 35-45, $100K+ income, suburban"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Diet: Strict keto 2+ years, tracks macros religiously"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Lifestyle: Desk job, works out 4x/week, biohacker curious"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Pain points:"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Keto flu when starting, electrolyte crashes"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Current solution (LMNT) works but expensive"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Wants 'cleaner' more 'natural' option"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Wife thinks he spends too much on supplements"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Triggers: Podcast ad, keto influencer recommendation, Reddit thread"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Objections: 'I already have LMNT', 'Is this actually different?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Decision drivers: Science, ingredients, trusted endorsement"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Quote: 'I've optimized everything else, why wouldn't I optimize my electrolytes?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "ARCHETYPE 2: CROSSFIT CLAIRE"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Demographics: Female, 28-38, active lifestyle, urban/suburban"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Diet: Paleo-ish, not strict but avoids processed food"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Lifestyle: CrossFit 5x/week, runs on weekends, competitive"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Pain points:"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Cramps during WODs"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Hates sugary sports drinks"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Needs something that travels to gym"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Wants clean label she can Instagram"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Triggers: Gym buddy recommendation, sees it in someone's bag"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Objections: 'Is it worth the price?', 'Will it taste salty?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Decision drivers: Taste, convenience, clean label, community proof"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Quote: 'I put so much effort into my workout, why would I drink garbage after?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "ARCHETYPE 3: BIOHACKER BEN"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Demographics: Male, 30-50, tech/finance, high income, urban"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Diet: Experiments constantly (carnivore, fasting, etc.)"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Lifestyle: Optimizes everything, tracks with Oura/Whoop, cold plunge"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Pain points:"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Wants the BEST, not just good enough"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Frustrated by 'incomplete' synthetic electrolytes"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Researches obsessively before buying"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Willing to pay premium for premium"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Triggers: Huberman/Attia mention, deep Reddit thread, PubMed rabbit hole"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Objections: 'Where's the data?', 'Who's behind this?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Decision drivers: Science, sourcing transparency, uniqueness"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Quote: 'If it doesn't have published research, I'm not interested.'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "ARCHETYPE 4: FASTING FIONA"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Demographics: Female, 35-55, health-conscious, any income level"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Diet: Intermittent fasting (16:8 or longer), some keto overlap"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Lifestyle: Busy professional or mom, health is priority but time is scarce"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Pain points:"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Feels terrible during fasting window (headaches, fatigue)"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Worried about 'breaking fast' with electrolytes"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Doesn't want sugar or artificial sweeteners"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Needs something simple that works"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Triggers: Fasting group recommendation, sees someone else using it"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Objections: 'Will this break my fast?', 'I don't want to feel bloated'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Decision drivers: Zero calorie, clean ingredients, fasting-approved"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Quote: 'I just want to feel good during my fast without overthinking it.'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "ARCHETYPE 5: WEEKEND WARRIOR WILL"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Demographics: Male, 30-45, moderate income, suburban"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Diet: Tries to eat healthy, not strict about anything"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Lifestyle: Plays sports on weekends, occasional gym, active but not obsessed"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Pain points:"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Gets cramps/dehydrated after weekend activities"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Doesn't want to drink Gatorade (too much sugar)"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Not a 'supplement guy' but knows he needs something"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "• Wants simple, not complicated"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Triggers: Cramp episode, friend recommendation, simple ad"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Objections: 'Do I really need this?', 'Isn't water enough?'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Decision drivers: Simplicity, price, 'it just works'"
+    },
+    {
+      "CUSTOMER ARCHETYPE PROFILES": "Quote: 'I don't want to become a supplement bro, I just want to not cramp.'"
+    }
+  ],
+  "row_count": 66,
+  "sheet_name": "Customer Archetypes",
+  "sheet_index": 579
+}

@@ -1,0 +1,193 @@
+{
+  "headers": [
+    "CM CAPACITY MODEL",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CM CAPACITY MODEL": "How many operators per CM, workload math, scaling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "TIME PER OPERATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Activity",
+      "col_2": "Frequency",
+      "col_3": "Time",
+      "col_4": "Monthly Total"
+    },
+    {
+      "CM CAPACITY MODEL": "Review daily report",
+      "col_2": "Daily (20x/mo)",
+      "col_3": "10 min",
+      "col_4": "3.3 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Log compliance status",
+      "col_2": "Daily (20x/mo)",
+      "col_3": "5 min",
+      "col_4": "1.7 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Weekly summary",
+      "col_2": "Weekly (4x/mo)",
+      "col_3": "20 min",
+      "col_4": "1.3 hrs"
+    },
+    {
+      "CM CAPACITY MODEL": "Monthly assessment",
+      "col_2": "Monthly",
+      "col_3": "60 min",
+      "col_4": "1.0 hr"
+    },
+    {
+      "CM CAPACITY MODEL": "Escalation handling",
+      "col_2": "As needed (~2x/mo)",
+      "col_3": "30 min",
+      "col_4": "1.0 hr"
+    },
+    {
+      "CM CAPACITY MODEL": "Ad hoc issues",
+      "col_2": "As needed",
+      "col_3": "Varies",
+      "col_4": "1.0 hr"
+    },
+    {
+      "CM CAPACITY MODEL": "TOTAL PER OPERATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "~9-10 hrs/mo"
+    },
+    {
+      "CM CAPACITY MODEL": "CAPACITY CALCULATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Assuming part-time CM (~20 hrs/week = 80 hrs/month):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Available hours: 80",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Hours per operator: 10",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Admin/overhead: 10 hrs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Buffer: 10 hrs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "MAX OPERATORS PER CM: 6",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "Recommended load: 4-5 operators",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "(Leaves room for surge, escalations, onboarding new operators)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "SCALING TRIGGERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "ADD SECOND CM WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• 5+ active operators",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Escalation rate >20%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• CM reports capacity strain",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• Response time degrading",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "CM COMPENSATION SCALING:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• 1-3 operators: $500/mo base",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• 4-5 operators: $750/mo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• 6 operators: $1,000/mo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CM CAPACITY MODEL": "• 7+: Hire second CM instead",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "CM Capacity Model",
+  "sheet_index": 730
+}

@@ -1,0 +1,107 @@
+{
+  "headers": [
+    "ASSET NAMING CONVENTION",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "ASSET NAMING CONVENTION": "How to name every file - consistency is critical",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "GENERAL FORMAT",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "[Type]_[Category]_[Descriptor]_[Version]_[Date]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "BY ASSET TYPE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "Type",
+      "col_2": "Format",
+      "col_3": "Example"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Ads",
+      "col_2": "Ad_[Format]_[Hook#]_[Angle]_v[#]",
+      "col_3": "Ad_Static_Hook3_Minerals_v2"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Videos",
+      "col_2": "Vid_[Type]_[Length]_v[#]",
+      "col_3": "Vid_VSL_60s_v1"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Emails",
+      "col_2": "Email_[Flow]_[#]_v[#]",
+      "col_3": "Email_Welcome_01_v3"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Landing Pages",
+      "col_2": "LP_[Name]_[Section]_v[#]",
+      "col_3": "LP_Main_Hero_v2"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Images",
+      "col_2": "Img_[Type]_[Descriptor]_v[#]",
+      "col_3": "Img_Product_Lifestyle_v1"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Documents",
+      "col_2": "Doc_[Type]_[Date]",
+      "col_3": "Doc_SupplierQuote_20260115"
+    },
+    {
+      "ASSET NAMING CONVENTION": "Screenshots",
+      "col_2": "SS_[What]_[Date]",
+      "col_3": "SS_AdPerformance_20260115"
+    },
+    {
+      "ASSET NAMING CONVENTION": "RULES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• No spaces - use underscores",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• No special characters except underscore and hyphen",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• Always include version number",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• Date format: YYYYMMDD",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• Keep names under 50 characters",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ASSET NAMING CONVENTION": "• Be descriptive but concise",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Asset Naming Convention",
+  "sheet_index": 294
+}

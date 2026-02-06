@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S22: Site Architecture — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S22: Site Architecture — CONTRACT": "Cluster: SCL-4 | Owner: Series Producer",
+      "col_2": null
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "How the site is structured. Pages, content types, navigation. Password-protected investor view.",
+      "col_2": null
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Site Architecture (S22)"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S22: Site Architecture within SCL-4"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S22]"
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Site Architecture model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S22: Site Architecture — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S22",
+  "sheet_index": 1044
+}

@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "DECISION DOCUMENTATION"
+  ],
+  "rows": [
+    {
+      "DECISION DOCUMENTATION": "How to document important decisions"
+    },
+    {
+      "DECISION DOCUMENTATION": "WHY DOCUMENT DECISIONS"
+    },
+    {
+      "DECISION DOCUMENTATION": "• Remember WHY we decided something"
+    },
+    {
+      "DECISION DOCUMENTATION": "• Avoid re-litigating the same decision"
+    },
+    {
+      "DECISION DOCUMENTATION": "• Onboard new team members faster"
+    },
+    {
+      "DECISION DOCUMENTATION": "• Learn from good and bad decisions"
+    },
+    {
+      "DECISION DOCUMENTATION": "• Create accountability"
+    },
+    {
+      "DECISION DOCUMENTATION": "DECISION DOCUMENT TEMPLATE"
+    },
+    {
+      "DECISION DOCUMENTATION": "DECISION: [Title]"
+    },
+    {
+      "DECISION DOCUMENTATION": "DATE: _______________"
+    },
+    {
+      "DECISION DOCUMENTATION": "DECISION MAKER: _______________"
+    },
+    {
+      "DECISION DOCUMENTATION": "PARTICIPANTS: _______________"
+    },
+    {
+      "DECISION DOCUMENTATION": "CONTEXT:"
+    },
+    {
+      "DECISION DOCUMENTATION": "[What situation prompted this decision?]"
+    },
+    {
+      "DECISION DOCUMENTATION": "OPTIONS CONSIDERED:"
+    },
+    {
+      "DECISION DOCUMENTATION": "1. [Option A] - Pros: ___ Cons: ___"
+    },
+    {
+      "DECISION DOCUMENTATION": "2. [Option B] - Pros: ___ Cons: ___"
+    },
+    {
+      "DECISION DOCUMENTATION": "3. [Option C] - Pros: ___ Cons: ___"
+    },
+    {
+      "DECISION DOCUMENTATION": "DECISION:"
+    },
+    {
+      "DECISION DOCUMENTATION": "[What did we decide?]"
+    },
+    {
+      "DECISION DOCUMENTATION": "RATIONALE:"
+    },
+    {
+      "DECISION DOCUMENTATION": "[Why did we choose this option?]"
+    },
+    {
+      "DECISION DOCUMENTATION": "EXPECTED OUTCOME:"
+    },
+    {
+      "DECISION DOCUMENTATION": "[What do we expect to happen?]"
+    },
+    {
+      "DECISION DOCUMENTATION": "REVIEW DATE:"
+    },
+    {
+      "DECISION DOCUMENTATION": "[When will we evaluate if this was the right call?]"
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Decision Documentation",
+  "sheet_index": 813
+}

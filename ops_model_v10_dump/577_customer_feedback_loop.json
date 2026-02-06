@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "CUSTOMER FEEDBACK LOOP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CUSTOMER FEEDBACK LOOP": "Ongoing customer integration beyond interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "FEEDBACK CHANNELS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Channel",
+      "col_2": "Frequency",
+      "col_3": "Who Reviews",
+      "col_4": "Action Trigger",
+      "col_5": "Log Location"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Customer Interviews",
+      "col_2": "Weekly until 50, then monthly",
+      "col_3": "Operator",
+      "col_4": "Insights synthesis",
+      "col_5": "Interview Tracker"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Post-Purchase Survey",
+      "col_2": "Every order",
+      "col_3": "Operator",
+      "col_4": "NPS < 7",
+      "col_5": "Survey tool"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Product Reviews",
+      "col_2": "Daily check",
+      "col_3": "Operator",
+      "col_4": "Any < 3 stars",
+      "col_5": "Review dashboard"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Support Tickets",
+      "col_2": "Real-time",
+      "col_3": "Support",
+      "col_4": "Repeat issues",
+      "col_5": "Helpdesk"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Social Mentions",
+      "col_2": "Daily",
+      "col_3": "Operator",
+      "col_4": "Negative sentiment",
+      "col_5": "Social tool"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Email Replies",
+      "col_2": "Real-time",
+      "col_3": "Operator",
+      "col_4": "Any feedback",
+      "col_5": "Inbox"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Churn Surveys",
+      "col_2": "Every cancel",
+      "col_3": "Operator",
+      "col_4": "All reviewed",
+      "col_5": "Survey tool"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "NPS Surveys",
+      "col_2": "Monthly",
+      "col_3": "Operator",
+      "col_4": "Score change",
+      "col_5": "Survey tool"
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "WEEKLY CUSTOMER INSIGHT RITUAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "Every Friday, Operator spends 30 min:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Review all feedback from the week",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Identify top 3 themes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Update Insights Synthesis tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Flag any urgent issues",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Identify 1 action to take based on feedback",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "☐ Schedule next week's interview (if needed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "CUSTOMER ADVISORY BOARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "After 50 customers, consider forming a Customer Advisory Board:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "• 5-10 highly engaged customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "• Quarterly calls to get feedback",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "• Early access to new products",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "• Discounts in exchange for feedback",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER FEEDBACK LOOP": "• Source of testimonials and referrals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Customer Feedback Loop",
+  "sheet_index": 577
+}

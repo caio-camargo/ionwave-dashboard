@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "WORK SHOWN STANDARDS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WORK SHOWN STANDARDS": "What constitutes proof of work done",
+      "col_2": null
+    },
+    {
+      "WORK SHOWN STANDARDS": "Ads",
+      "col_2": "Screenshot of ad in Ads Manager + performance after 24hrs"
+    },
+    {
+      "WORK SHOWN STANDARDS": "Emails",
+      "col_2": "Screenshot of flow in Klaviyo + send confirmation"
+    },
+    {
+      "WORK SHOWN STANDARDS": "Store changes",
+      "col_2": "Before/after screenshots + changelog entry"
+    },
+    {
+      "WORK SHOWN STANDARDS": "Research",
+      "col_2": "Summary doc with sources cited"
+    },
+    {
+      "WORK SHOWN STANDARDS": "Decisions",
+      "col_2": "Written rationale + alternatives considered"
+    },
+    {
+      "WORK SHOWN STANDARDS": "Meetings",
+      "col_2": "Notes with action items + attendees"
+    },
+    {
+      "WORK SHOWN STANDARDS": "INSUFFICIENT PROOF",
+      "col_2": null
+    },
+    {
+      "WORK SHOWN STANDARDS": "• \"I did it\" without evidence",
+      "col_2": null
+    },
+    {
+      "WORK SHOWN STANDARDS": "• Screenshots without context/timestamps",
+      "col_2": null
+    },
+    {
+      "WORK SHOWN STANDARDS": "• Verbal-only updates",
+      "col_2": null
+    },
+    {
+      "WORK SHOWN STANDARDS": "• Summary without underlying data",
+      "col_2": null
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Work Shown Standards",
+  "sheet_index": 737
+}

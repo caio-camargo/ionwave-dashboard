@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "EVIDENCE STANDARDS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "EVIDENCE STANDARDS": "What counts as verified? Documentation requirements.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "Data Point",
+      "col_2": "Acceptable Evidence",
+      "col_3": "Not Acceptable",
+      "col_4": "Verification Method",
+      "col_5": "Frequency"
+    },
+    {
+      "EVIDENCE STANDARDS": "Revenue",
+      "col_2": "Shopify export, Stripe dashboard",
+      "col_3": "Self-reported number",
+      "col_4": "Direct platform access or timestamped screenshot",
+      "col_5": "Weekly"
+    },
+    {
+      "EVIDENCE STANDARDS": "Cash Balance",
+      "col_2": "Bank statement, bank screenshot with date",
+      "col_3": "Verbal confirmation",
+      "col_4": "Bank login or official statement",
+      "col_5": "Weekly"
+    },
+    {
+      "EVIDENCE STANDARDS": "Ad Spend",
+      "col_2": "Platform export with date range",
+      "col_3": "Rounded estimates",
+      "col_4": "Direct platform access",
+      "col_5": "Weekly"
+    },
+    {
+      "EVIDENCE STANDARDS": "Inventory",
+      "col_2": "3PL report, warehouse screenshot",
+      "col_3": "Self count without photo",
+      "col_4": "3PL system access",
+      "col_5": "Monthly"
+    },
+    {
+      "EVIDENCE STANDARDS": "CAC",
+      "col_2": "Calculation showing spend/customers",
+      "col_3": "Single number without backup",
+      "col_4": "Verify source numbers",
+      "col_5": "Weekly"
+    },
+    {
+      "EVIDENCE STANDARDS": "Customer Count",
+      "col_2": "Shopify customer export",
+      "col_3": "Estimate",
+      "col_4": "Platform access",
+      "col_5": "Weekly"
+    },
+    {
+      "EVIDENCE STANDARDS": "Contracts Signed",
+      "col_2": "Executed PDF with signatures",
+      "col_3": "Verbal agreement",
+      "col_4": "Review actual document",
+      "col_5": "As needed"
+    },
+    {
+      "EVIDENCE STANDARDS": "SCREENSHOT REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "• Must show current date/time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "• Must show full URL or platform name",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "• Must show relevant data unobstructed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "• No editing or cropping that removes context",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EVIDENCE STANDARDS": "• Prefer direct platform access over screenshots when possible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "CM Evidence Standards",
+  "sheet_index": 721
+}

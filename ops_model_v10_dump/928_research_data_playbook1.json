@@ -1,0 +1,430 @@
+{
+  "headers": [
+    "RESEARCH & DATA PLAYBOOK"
+  ],
+  "rows": [
+    {
+      "RESEARCH & DATA PLAYBOOK": "How to actually gather the inputs this model needs - tactical instructions"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "THE PROBLEM"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "This model has tabs for ICP, competitive intel, hooks library, etc."
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "But WHERE does that information come from?"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "This playbook tells you exactly how to gather it."
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "No research = garbage in, garbage out."
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. REDDIT/COMMUNITY RESEARCH"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Understand how your ICP talks, what they want, what they complain about"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TARGET SUBREDDITS:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/keto, r/carnivore, r/fasting, r/biohackers"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/Supplements, r/nutrition"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/crossfit, r/fitness, r/running"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHAT TO CAPTURE:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Exact language they use to describe problems"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Questions they ask (these become content/ads)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Products they mention (competitors)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Complaints about existing products (opportunities)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Success stories (proof points, testimonials format)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW TO DO IT:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Manual method (1-2 hours):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Search subreddit for 'electrolytes', 'dehydration', 'minerals', 'keto flu'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Sort by Top (all time, past year)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Read top 20 posts + comments"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. Copy/paste compelling language into a Google Doc"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "5. Tag by theme (problem, solution, competitor, language)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Automated method:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Use tools like:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Gummysearch.com (paid, easy)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Reddit API + Python script (free, technical)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Export comments via PRAW library"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Export to spreadsheet"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Analyze for patterns"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill these tabs with findings:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• ICP tabs (language, pain points)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Competitive Intel (mentions, complaints)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Hooks Library (questions they ask)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Voice of Customer"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. CUSTOMER INTERVIEWS"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Deep understanding of why people buy (or don't)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHO TO INTERVIEW:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Your customers (if you have them)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Competitor customers (find via reviews, Reddit)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• People in target ICP who haven't bought"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW MANY: 5-10 is usually enough for patterns"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW TO FIND THEM:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Post in relevant subreddits (offer $25 Amazon card)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• DM people who commented on relevant posts"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Friends/network who fit ICP"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Respondent.io, UserInterviews.com (paid recruiting)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "INTERVIEW SCRIPT (30 min):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Opening (5 min):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'Tell me about yourself and your health/fitness routine'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Problem exploration (10 min):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'When did you first think about electrolytes?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What problem were you trying to solve?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What have you tried? What worked/didn't?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Solution exploration (10 min):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What do you currently use?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What do you like/dislike about it?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'If you could wave a magic wand, what would be different?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Buying behavior (5 min):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'Where do you buy supplements?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What makes you try a new brand?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• 'What would make you switch from your current product?'"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Record (with permission) and transcribe"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Pull quotes into ICP tabs"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Identify patterns across interviews"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. COMPETITOR RESEARCH"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Understand the landscape, find gaps, steal what works"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "COMPETITORS TO RESEARCH:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• LMNT, Drip Drop, Liquid IV, Nuun, Ultima"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Any brand your ICPs mention"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHAT TO CAPTURE:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Product:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Ingredients, dosing, form factor"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Price per serving"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Packaging, branding"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Marketing:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Website (screenshot, save)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Ads (Facebook Ad Library - search their brand)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Email (sign up for their list, save emails)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Social (what content works)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Reviews:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Amazon reviews (read 1-star and 5-star)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• What do people love? (copy it)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• What do people hate? (your opportunity)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW TO DO IT:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Facebook Ad Library (free):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Go to facebook.com/ads/library"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Search competitor name"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Screenshot their active ads"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Note hooks, angles, formats"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Amazon reviews (free):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Find competitor products"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Read 50+ reviews"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Copy/paste best quotes"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Sign up for emails:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Use separate email"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Buy their product (write off as research)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Screenshot every email for 30 days"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Competitive Intel tab"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. HOOKS & ANGLES RESEARCH"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Build library of proven attention-grabbers"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHERE TO FIND HOOKS:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Competitor ads (Facebook Ad Library):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• First 3 seconds of video ads"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Headlines of image ads"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Save the ones that grab YOU"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Reddit/forum post titles:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Top posts have proven hooks"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Questions = hooks ('Why do I feel...')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. YouTube thumbnails/titles:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Health/fitness channels"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• High view count = good hook"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. Tabloid headlines:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Cosmo, Men's Health covers"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• They A/B test constantly"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "5. Email subject lines:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Your own inbox (what did you open?)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Competitor emails"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOOK CATEGORIES TO BUILD:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Problem hooks ('Still tired after 8 hours of sleep?')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Curiosity hooks ('The mineral 90% of people are missing')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Transformation hooks ('How I fixed my energy in 7 days')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Comparison hooks ('Why I switched from LMNT')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Objection hooks ('I thought electrolytes were just for athletes')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Science hooks ('The science behind ocean minerals')"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Hooks Library with 50+ hooks"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "RESEARCH CALENDAR"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PHASE 0 RESEARCH (Before Pre-Launch):"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Week 1: Reddit deep dive (4 hours)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Week 1: Competitor research (4 hours)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Week 2: 5 customer interviews (5 hours)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Week 2: Hooks research (2 hours)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "ONGOING RESEARCH:"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Weekly: Check competitor ads (30 min)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Weekly: Read new Reddit posts (30 min)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Monthly: 2-3 customer interviews (2 hours)"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• After each ad test: Update hooks library"
+    }
+  ],
+  "row_count": 140,
+  "sheet_name": "Research & Data Playbook1",
+  "sheet_index": 928
+}

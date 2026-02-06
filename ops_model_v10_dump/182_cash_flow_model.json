@@ -1,0 +1,466 @@
+{
+  "headers": [
+    "IONWAVE 60-DAY CASH FLOW MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Day-by-day cash position showing when money comes in vs goes out. Based on realistic payment timings.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "KEY TIMING ASSUMPTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Stripe initial hold",
+      "col_2": "10 days (new merchant)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Stripe ongoing payout",
+      "col_2": "3 days rolling after initial hold",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Meta billing threshold",
+      "col_2": "$250 initially, then $750, then $2000",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Supplier terms (realistic)",
+      "col_2": "50% deposit, 50% before shipment",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Supplier lead time",
+      "col_2": "14-21 days from order to ship",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "3PL receiving",
+      "col_2": "3-5 days after supplier ships",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Starting capital",
+      "col_2": "$15,000",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "60-DAY CASH FLOW PROJECTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Day",
+      "col_2": "Event",
+      "col_3": "Cash In",
+      "col_4": "Cash Out",
+      "col_5": "Running Balance",
+      "col_6": "Notes",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 0,
+      "col_2": "Starting Capital",
+      "col_3": 15000,
+      "col_4": null,
+      "col_5": 15000,
+      "col_6": "Initial investment",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 1,
+      "col_2": "Domain + Shopify setup",
+      "col_3": null,
+      "col_4": 150,
+      "col_5": 14850,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 2,
+      "col_2": "Supplier samples (3 suppliers)",
+      "col_3": null,
+      "col_4": 400,
+      "col_5": 14450,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 3,
+      "col_2": "LLC filing + misc",
+      "col_3": null,
+      "col_4": 300,
+      "col_5": 14150,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 7,
+      "col_2": "Supplier deposit (500 units × $7 × 50%)",
+      "col_3": null,
+      "col_4": 1750,
+      "col_5": 12400,
+      "col_6": "50% deposit on first order",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 10,
+      "col_2": "Tools (Klaviyo, Canva, etc)",
+      "col_3": null,
+      "col_4": 100,
+      "col_5": 12300,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 14,
+      "col_2": "Packaging design",
+      "col_3": null,
+      "col_4": 300,
+      "col_5": 12000,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 18,
+      "col_2": "Supplier balance (50% before ship)",
+      "col_3": null,
+      "col_4": 1750,
+      "col_5": 10250,
+      "col_6": "Inventory ships after payment",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 21,
+      "col_2": "First ads launched ($50/day)",
+      "col_3": null,
+      "col_4": 250,
+      "col_5": 10000,
+      "col_6": "Meta bills at $250 threshold",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 25,
+      "col_2": "Creative support (freelancer)",
+      "col_3": null,
+      "col_4": 500,
+      "col_5": 9500,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 26,
+      "col_2": "Ad spend continues",
+      "col_3": null,
+      "col_4": 250,
+      "col_5": 9250,
+      "col_6": "Second $250 billing",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 28,
+      "col_2": "First sales start ($500 revenue)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": 9250,
+      "col_6": "Revenue in Stripe, not yet paid out",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 30,
+      "col_2": "3PL setup + receiving",
+      "col_3": null,
+      "col_4": 300,
+      "col_5": 8950,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 31,
+      "col_2": "Ad spend (scaling to $100/day)",
+      "col_3": null,
+      "col_4": 500,
+      "col_5": 8450,
+      "col_6": "$500 billing threshold",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 35,
+      "col_2": "More sales ($1500 cumulative)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": 8450,
+      "col_6": "Still in Stripe hold",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 38,
+      "col_2": "FIRST STRIPE PAYOUT",
+      "col_3": 2000,
+      "col_4": null,
+      "col_5": 10450,
+      "col_6": "10-day hold cleared, first $2K released",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 40,
+      "col_2": "Ad spend (now $150/day)",
+      "col_3": null,
+      "col_4": 750,
+      "col_5": 9700,
+      "col_6": "$750 threshold",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 41,
+      "col_2": "Stripe payout",
+      "col_3": 800,
+      "col_4": null,
+      "col_5": 10500,
+      "col_6": "Rolling 3-day payouts begin",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 44,
+      "col_2": "Stripe payout",
+      "col_3": 1200,
+      "col_4": null,
+      "col_5": 11700,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 45,
+      "col_2": "Second inventory order (50% deposit)",
+      "col_3": null,
+      "col_4": 2500,
+      "col_5": 9200,
+      "col_6": "Reorder before stockout",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 47,
+      "col_2": "Stripe payout",
+      "col_3": 1500,
+      "col_4": null,
+      "col_5": 10700,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 50,
+      "col_2": "Ad spend ($200/day now)",
+      "col_3": null,
+      "col_4": 1000,
+      "col_5": 9700,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 50,
+      "col_2": "Stripe payout",
+      "col_3": 1800,
+      "col_4": null,
+      "col_5": 11500,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 52,
+      "col_2": "VA support",
+      "col_3": null,
+      "col_4": 400,
+      "col_5": 11100,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 53,
+      "col_2": "Stripe payout",
+      "col_3": 2000,
+      "col_4": null,
+      "col_5": 13100,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 55,
+      "col_2": "Second inventory balance",
+      "col_3": null,
+      "col_4": 2500,
+      "col_5": 10600,
+      "col_6": "Pay before ship",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 56,
+      "col_2": "Stripe payout",
+      "col_3": 2200,
+      "col_4": null,
+      "col_5": 12800,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 58,
+      "col_2": "Ad spend",
+      "col_3": null,
+      "col_4": 1200,
+      "col_5": 11600,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": 60,
+      "col_2": "Stripe payout",
+      "col_3": 2500,
+      "col_4": null,
+      "col_5": 14100,
+      "col_6": "End of 60 days",
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Total Cash In (60 days)",
+      "col_2": "$14,000 (sales) + $15,000 (capital) = $29,000",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Total Cash Out (60 days)",
+      "col_2": "~$14,900",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Ending Balance",
+      "col_2": "~$14,100",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Lowest Point",
+      "col_2": "Day 45: $9,200 (after 2nd inventory deposit)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Cash Cycles Completed",
+      "col_2": "~3 (not 10-15 as sometimes claimed)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Buffer Required",
+      "col_2": "Minimum $8K to avoid cash crunch",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "WEEKLY ACTUALS TRACKING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE 60-DAY CASH FLOW MODEL": "Week",
+      "col_2": "Starting Cash",
+      "col_3": "Revenue In",
+      "col_4": "Expenses Out",
+      "col_5": "Ending Cash",
+      "col_6": "vs Projected",
+      "col_7": "Notes"
+    }
+  ],
+  "row_count": 50,
+  "sheet_name": "Cash Flow Model",
+  "sheet_index": 182
+}

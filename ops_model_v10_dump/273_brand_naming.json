@@ -1,0 +1,349 @@
+{
+  "headers": [
+    "BRAND NAMING FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "BRAND NAMING FRAMEWORK": "How to generate, evaluate, and secure a brand name",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "NAMING CRITERIA (Score 1-5 each)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Criterion",
+      "col_2": "Why It Matters",
+      "col_3": "Weight",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Memorable",
+      "col_2": "Can someone recall it after hearing once?",
+      "col_3": "15%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Spellable",
+      "col_2": "Can they type it without asking?",
+      "col_3": "15%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Pronounceable",
+      "col_2": "Can they say it out loud confidently?",
+      "col_3": "10%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Meaningful",
+      "col_2": "Does it connect to the product/benefit?",
+      "col_3": "10%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Distinctive",
+      "col_2": "Does it stand out from competitors?",
+      "col_3": "15%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Domain available",
+      "col_2": ".com available or acquirable <$5K?",
+      "col_3": "15%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Trademark clear",
+      "col_2": "No conflicts in USPTO Class 005?",
+      "col_3": "15%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Social handles",
+      "col_2": "@name available on IG, TikTok, Twitter?",
+      "col_3": "5%",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "NAME GENERATION METHODS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Type",
+      "col_2": "Description",
+      "col_3": "Examples",
+      "col_4": "Pros/Cons",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Descriptive",
+      "col_2": "Describes what it does",
+      "col_3": "MarineMinerals, OceanElectrolytes",
+      "col_4": "Clear but generic, hard to trademark",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Invented",
+      "col_2": "Made-up word",
+      "col_3": "Quintonix, Ionvea, Plasmera",
+      "col_4": "Unique, trademarkable, but meaningless",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Compound",
+      "col_2": "Two words combined",
+      "col_3": "IonWave, DeepPure, SaltFlow",
+      "col_4": "Best of both: meaningful + distinctive",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Metaphor",
+      "col_2": "Evokes feeling",
+      "col_3": "Tide, Drift, Current",
+      "col_4": "Emotional but may not connect to product",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Founder/Origin",
+      "col_2": "Named after person/place",
+      "col_3": "Quinton (scientist)",
+      "col_4": "Story-rich but may feel dated",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Acronym",
+      "col_2": "Letters from phrase",
+      "col_3": "LMNT (element)",
+      "col_4": "Can be clever or confusing",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "NAME EVALUATION SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Name Candidate",
+      "col_2": "Memorable",
+      "col_3": "Spellable",
+      "col_4": "Domain",
+      "col_5": "Trademark",
+      "col_6": "Total",
+      "col_7": "Status"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "IonWave",
+      "col_2": "4",
+      "col_3": "5",
+      "col_4": "?",
+      "col_5": "?",
+      "col_6": null,
+      "col_7": "⬜ Check"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "DeepMinerals",
+      "col_2": "3",
+      "col_3": "5",
+      "col_4": "?",
+      "col_5": "?",
+      "col_6": null,
+      "col_7": "⬜ Check"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "Quintonix",
+      "col_2": "3",
+      "col_3": "3",
+      "col_4": "?",
+      "col_5": "?",
+      "col_6": null,
+      "col_7": "⬜ Check"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "MarinePlasma",
+      "col_2": "3",
+      "col_3": "4",
+      "col_4": "?",
+      "col_5": "?",
+      "col_6": null,
+      "col_7": "⬜ Check"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "OceanIon",
+      "col_2": "4",
+      "col_3": "5",
+      "col_4": "?",
+      "col_5": "?",
+      "col_6": null,
+      "col_7": "⬜ Check"
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "[Your idea]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "[Your idea]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "[Your idea]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "PRE-COMMIT VALIDATION CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "USPTO trademark search (Class 005 dietary supplements)",
+      "col_3": "https://tmsearch.uspto.gov",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "Google search (no major conflicts)",
+      "col_3": "\"[name]\" + supplements",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "Domain check (.com available or <$5K)",
+      "col_3": "namecheap.com, afternic.com",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "Social handles check",
+      "col_3": "namecheckr.com",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "International check (no bad meanings)",
+      "col_3": "Google translate, ask native speakers",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "Say it out loud 10 times",
+      "col_3": "Does it feel right?",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BRAND NAMING FRAMEWORK": "⬜",
+      "col_2": "Text it to 5 friends",
+      "col_3": "Can they spell it back?",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 37,
+  "sheet_name": "Brand Naming",
+  "sheet_index": 273
+}

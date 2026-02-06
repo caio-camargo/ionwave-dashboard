@@ -1,0 +1,427 @@
+{
+  "headers": [
+    "MARKET LANDSCAPE MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "MARKET LANDSCAPE MAP": "Deep competitive intelligence — 25-35 hour heavy lift",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "PURPOSE & RELATIONSHIP TO THESIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "What this produces: Deep competitive intelligence on 10-12 competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "(direct, indirect, substitutes) that validates Strategic Thesis and",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "identifies specific positioning wedge.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Relationship to Strategic Thesis:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• ST contains directional research (achievable in extended Claude session)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Market Landscape is the HEAVY LIFT requiring tools, manual collection,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "verification (25-35 hours of actual work)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Output: Structured spreadsheet + supporting evidence folder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Strategic synthesis may be separate deliverable reformatting this data.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "COMPONENT 1: COMPETITIVE INTELLIGENCE GRID",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Time: 15-20 hours | Primary deliverable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Field",
+      "col_2": "Description",
+      "col_3": "Data Source",
+      "col_4": "Example"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Brand name",
+      "col_2": "Company name",
+      "col_3": "Website",
+      "col_4": "LMNT"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Website",
+      "col_2": "URL",
+      "col_3": "Direct",
+      "col_4": "drinklmnt.com"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Pricing structure",
+      "col_2": "Price points, bundles",
+      "col_3": "Website",
+      "col_4": "$45/30 servings, subscription $39"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Top 5 features",
+      "col_2": "Emphasized benefits (not exhaustive)",
+      "col_3": "Website/ads",
+      "col_4": "Zero sugar, keto, sodium-focused"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Positioning claim",
+      "col_2": "Their stated value prop",
+      "col_3": "Homepage",
+      "col_4": "\"Salty electrolytes. Zero sugar.\""
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Monthly traffic",
+      "col_2": "Visitors + sources",
+      "col_3": "SEMrush",
+      "col_4": "2.1M/mo, 40% organic"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Social presence",
+      "col_2": "Followers + engagement",
+      "col_3": "Platform",
+      "col_4": "450K IG, 2.3% engagement"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Customer sentiment",
+      "col_2": "From actual reviews",
+      "col_3": "Amazon/reviews",
+      "col_4": "4.6/5, 12K reviews"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Strengths (2-3)",
+      "col_2": "Evidence-based, specific",
+      "col_3": "Analysis",
+      "col_4": "Podcast presence, brand loyalty"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Weaknesses (2-3)",
+      "col_2": "Data-backed vulnerabilities",
+      "col_3": "Reviews/analysis",
+      "col_4": "Synthetic only, premium price"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Notes/URLs",
+      "col_2": "Verification links",
+      "col_3": "All sources",
+      "col_4": "[links to all data]"
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Competitors to analyze: 10-12 total",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• 5-7 direct competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• 2-3 indirect competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• 2-3 substitutes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "COMPONENT 2: MARKET SIZING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Time: 2-4 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• TAM/SAM/SOM waterfall with methodology",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Data sources cited (IBISWorld, Statista, trade associations, SEC filings)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Growth rates (3-year trend)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Geographic scope definition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Calculation logic transparent and verifiable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "COMPONENT 3: TRAFFIC & SEO ANALYSIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Time: 3-5 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Top 15-20 keywords with search volume",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Competitor ranking positions for category terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Paid vs organic breakdown by competitor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Seasonal trends if applicable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• SEMrush exports saved as evidence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "COMPONENT 4: CUSTOMER VOICE RESEARCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Time: 4-6 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Review sentiment patterns BY COMPETITOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Actual customer language (quoted phrases)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Pain points and unmet needs identified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Comparison mentions (when customers cite alternatives)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Source URLs for all reviews cited",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "COMPONENT 5: POSITIONING ANALYSIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Time: 2-3 hours (human strategic judgment after data)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Perceptual positioning map (competitors on 2 axes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Positioning clusters identified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• White space opportunities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Our recommended position with rationale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Competitive response strategy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "AI-FIRST WORKFLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "WHERE AI GENUINELY HELPS (20-30% time savings):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Customer review pattern analysis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Competitive positioning synthesis from collected data",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Strength/weakness draft generation (requires heavy human editing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Cross-referencing data for inconsistencies",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "WHERE HUMAN DOES THE WORK:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Pricing, features, traffic data collection",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• SEMrush analysis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Social metrics recording",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "• Strategic judgment on threats and positioning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MARKET LANDSCAPE MAP": "Claude's role: Execution guide and quality controller, NOT data collector.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 69,
+  "sheet_name": "Market Landscape Map",
+  "sheet_index": 124
+}

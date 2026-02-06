@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S17: Studio Entity & Legal — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Entity structure. DAO formation. Jurisdiction. Two-company model. Legal compliance.",
+      "col_2": null
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade studio entity & legal model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "B (Good)",
+      "col_2": "Solid studio entity & legal model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "C (Needs Work)",
+      "col_2": "Studio Entity & Legal model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "D (Major Issues)",
+      "col_2": "Studio Entity & Legal model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "F (Fail)",
+      "col_2": "Studio Entity & Legal model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S17: Studio Entity & Legal — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S17",
+  "sheet_index": 1026
+}

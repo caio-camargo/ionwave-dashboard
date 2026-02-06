@@ -1,0 +1,497 @@
+{
+  "headers": [
+    "IONWAVE 30-DAY PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE 30-DAY PLAN": "Day-by-day execution across 4 parallel workstreams",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 1: FOUNDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Day",
+      "col_2": "Supplier & Product",
+      "col_3": "Ads & Creative",
+      "col_4": "Funnel & Tech",
+      "col_5": "Ops & Admin"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "1",
+      "col_2": "Research 10+ marine plasma suppliers",
+      "col_3": "Audit competitor ads (LMNT, Seaonic)",
+      "col_4": "Purchase domain",
+      "col_5": "File LLC"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "1",
+      "col_2": "Send RFQ to top 5 suppliers",
+      "col_3": "Start competitor swipe file",
+      "col_4": "Create Shopify store",
+      "col_5": "Open Mercury bank account"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "2",
+      "col_2": "Follow up on supplier responses",
+      "col_3": "Draft first 10 ad concepts",
+      "col_4": "Install theme, configure settings",
+      "col_5": "Set up Google Workspace"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "2",
+      "col_2": "Order samples from top 3",
+      "col_3": "Build hook bank (50+ hooks)",
+      "col_4": "Install Meta pixel",
+      "col_5": "Create project folder structure"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "3",
+      "col_2": "Create packaging design brief",
+      "col_3": "Create visual asset list needed",
+      "col_4": "Connect Klaviyo",
+      "col_5": "Draft influencer outreach template"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "3",
+      "col_2": "Send brief to designers",
+      "col_3": "Competitor copy analysis",
+      "col_4": "Set up GA4",
+      "col_5": "Build influencer target list (30+)"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "4",
+      "col_2": "Review designer proposals",
+      "col_3": "First 10 ad creatives produced",
+      "col_4": "Build product page (draft)",
+      "col_5": "Start influencer outreach"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "4",
+      "col_2": "Negotiate pricing with suppliers",
+      "col_3": "Review and iterate creatives",
+      "col_4": "Build landing page v1 (draft)",
+      "col_5": "Set up Notion/Sheets for tracking"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "5",
+      "col_2": "Select packaging design direction",
+      "col_3": "20 ad creatives ready",
+      "col_4": "Landing page v1 live",
+      "col_5": "Send 20+ influencer DMs"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "5",
+      "col_2": "Confirm sample shipping dates",
+      "col_3": "Ad copy bank complete (50+)",
+      "col_4": "Product page live",
+      "col_5": "Follow up on outreach"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 1 CHECKPOINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Deliverables",
+      "col_2": "5+ supplier quotes, samples ordered, packaging brief sent",
+      "col_3": "20 creatives, 50+ hooks, swipe file",
+      "col_4": "Store live, LP v1 live, tracking working",
+      "col_5": "LLC filed, bank open, 30+ influencers contacted"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 2: BUILD & TEST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Day",
+      "col_2": "Supplier & Product",
+      "col_3": "Ads & Creative",
+      "col_4": "Funnel & Tech",
+      "col_5": "Ops & Admin"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "6",
+      "col_2": "Track sample shipments",
+      "col_3": "Produce 10 more creatives",
+      "col_4": "Configure checkout (sub default)",
+      "col_5": "Influencer call #1"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "6",
+      "col_2": "Research 3PL options",
+      "col_3": "Brief video editor on VSL",
+      "col_4": "Set up checkout bump",
+      "col_5": "Draft customer service templates"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "7",
+      "col_2": "Get 3PL quotes",
+      "col_3": "30 total creatives ready",
+      "col_4": "Build welcome email sequence",
+      "col_5": "Influencer call #2"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "7",
+      "col_2": "Compare 3PL pricing/features",
+      "col_3": "VSL script draft complete",
+      "col_4": "Build cart abandonment emails",
+      "col_5": "Set up help desk (Gorgias/Zendesk)"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "8",
+      "col_2": "Receive first samples",
+      "col_3": "Review VSL draft, feedback",
+      "col_4": "Email sequences in Klaviyo",
+      "col_5": "First influencer confirmed"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "8",
+      "col_2": "Taste test samples (5 people)",
+      "col_3": "Produce 10 more creatives",
+      "col_4": "Test email flows",
+      "col_5": "Ship product to influencer"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "9",
+      "col_2": "Document taste test feedback",
+      "col_3": "40 total creatives ready",
+      "col_4": "Build post-purchase upsell",
+      "col_5": "Second influencer confirmed"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "9",
+      "col_2": "Select winning supplier",
+      "col_3": "Finalize ad naming conventions",
+      "col_4": "Configure upsell flow",
+      "col_5": "Refund policy drafted"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "10",
+      "col_2": "Negotiate final pricing",
+      "col_3": "50 total creatives ready",
+      "col_4": "Full funnel QA test",
+      "col_5": "FAQ page drafted"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "10",
+      "col_2": "Place first inventory order (500 units)",
+      "col_3": "Set up Meta campaigns (paused)",
+      "col_4": "Fix any funnel issues",
+      "col_5": "Third influencer confirmed"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 2 CHECKPOINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Deliverables",
+      "col_2": "Supplier selected, COGS confirmed, 500 units ordered",
+      "col_3": "50 creatives, VSL in progress, campaigns ready",
+      "col_4": "Full funnel live, emails working, upsells configured",
+      "col_5": "3PL selected, 3+ influencers confirmed, CS ready"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 3: LAUNCH ADS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Day",
+      "col_2": "Supplier & Product",
+      "col_3": "Ads & Creative",
+      "col_4": "Funnel & Tech",
+      "col_5": "Ops & Admin"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "11",
+      "col_2": "Track inventory production",
+      "col_3": "LAUNCH: First $500 ad spend",
+      "col_4": "Monitor funnel performance",
+      "col_5": "Ship more influencer product"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "11",
+      "col_2": "Finalize 3PL onboarding",
+      "col_3": "Daily: Check ad performance",
+      "col_4": "Track LP conversion rate",
+      "col_5": "Respond to influencer questions"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "12",
+      "col_2": "Confirm inventory ship date",
+      "col_3": "Identify early winners/losers",
+      "col_4": "A/B test LP headline",
+      "col_5": "First influencer post goes live"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "12",
+      "col_2": "Send packaging files to supplier",
+      "col_3": "Iterate on winning hooks",
+      "col_4": "Fix any conversion issues",
+      "col_5": "Track influencer performance"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "13",
+      "col_2": "QC checklist for incoming inventory",
+      "col_3": "Kill worst 20% of ads",
+      "col_4": "Build LP v2 based on data",
+      "col_5": "Second influencer post"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "13",
+      "col_2": "Prepare 3PL for inventory receipt",
+      "col_3": "Launch 10 new creatives",
+      "col_4": "Test different CTA copy",
+      "col_5": "Collect influencer content for ads"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "14",
+      "col_2": "Inventory ships to 3PL",
+      "col_3": "Scale winning ads 2x budget",
+      "col_4": "LP v2 live",
+      "col_5": "Third influencer post"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "14",
+      "col_2": "Test order through system",
+      "col_3": "Total spend: ~$1,500",
+      "col_4": "Email performance review",
+      "col_5": "Weekly influencer check-in"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "15",
+      "col_2": "First real orders possible",
+      "col_3": "60 total creatives tested",
+      "col_4": "Optimize email subject lines",
+      "col_5": "Week 3 performance review"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "15",
+      "col_2": "Ship first customer orders",
+      "col_3": "Document what is working",
+      "col_4": "Funnel conversion analysis",
+      "col_5": "Investor pipeline warmup"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 3 CHECKPOINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Deliverables",
+      "col_2": "Inventory at 3PL, first orders shipped",
+      "col_3": "$1.5K spent, early winners identified, 60 creatives tested",
+      "col_4": "LP v2 live, funnel optimized, emails performing",
+      "col_5": "3+ influencer posts live, investor pipeline started"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 4: OPTIMIZE & SCALE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Day",
+      "col_2": "Supplier & Product",
+      "col_3": "Ads & Creative",
+      "col_4": "Funnel & Tech",
+      "col_5": "Ops & Admin"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "16",
+      "col_2": "Monitor fulfillment quality",
+      "col_3": "Scale winners to $200/day",
+      "col_4": "Deep funnel analysis",
+      "col_5": "Collect first reviews"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "16",
+      "col_2": "Track customer delivery times",
+      "col_3": "Kill all <1.5 ROAS ads",
+      "col_4": "Checkout optimization",
+      "col_5": "Investor deck draft"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "17",
+      "col_2": "Handle any fulfillment issues",
+      "col_3": "Launch 20 new creatives",
+      "col_4": "Test pricing ($59 vs $49)",
+      "col_5": "Send review request emails"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "17",
+      "col_2": "Reorder inventory if needed",
+      "col_3": "Test new audiences",
+      "col_4": "Subscription rate analysis",
+      "col_5": "Investor FAQ prep"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "18",
+      "col_2": "QC returned orders",
+      "col_3": "VSL goes live in ads",
+      "col_4": "Email sequence optimization",
+      "col_5": "First investor outreach"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "18",
+      "col_2": "Supplier relationship check-in",
+      "col_3": "80 total creatives tested",
+      "col_4": "Post-purchase survey live",
+      "col_5": "Data room setup"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "19",
+      "col_2": "Plan next inventory order",
+      "col_3": "Analyze winning patterns",
+      "col_4": "Implement survey learnings",
+      "col_5": "Investor meeting #1"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "19",
+      "col_2": "Forecast Month 2 needs",
+      "col_3": "Creative refresh planning",
+      "col_4": "LP v3 if data supports",
+      "col_5": "Customer testimonial collection"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "20",
+      "col_2": "Lock Month 2 supplier order",
+      "col_3": "100 total creatives tested",
+      "col_4": "Full funnel metrics review",
+      "col_5": "Week 4 performance review"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "20",
+      "col_2": "Optimize fulfillment costs",
+      "col_3": "Week 4 ad performance review",
+      "col_4": "Unit economics validation",
+      "col_5": "GO/NO-GO preparation"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "WEEK 4 / MONTH 1 CHECKPOINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Deliverables",
+      "col_2": "Fulfillment running smooth, Month 2 inventory ordered",
+      "col_3": "100 creatives tested, winners identified, CAC known",
+      "col_4": "Full funnel optimized, unit economics validated",
+      "col_5": "Investor materials ready, first meetings done"
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "SUCCESS CRITERIA: END OF MONTH 1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Metric",
+      "col_2": "Target",
+      "col_3": "How to Measure",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "COGS per sachet",
+      "col_2": "<$0.60",
+      "col_3": "Supplier invoice",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Ads tested",
+      "col_2": "100+",
+      "col_3": "Meta Ads Manager",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "CAC",
+      "col_2": "<$40 (trending to $30)",
+      "col_3": "Ad spend / purchases",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "LP Conversion",
+      "col_2": ">2.5%",
+      "col_3": "LP visits / purchases",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Subscription rate",
+      "col_2": ">40%",
+      "col_3": "Sub orders / total orders",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "AOV",
+      "col_2": ">$55",
+      "col_3": "Revenue / orders",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Orders shipped",
+      "col_2": "50+",
+      "col_3": "Shopify",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Influencer posts",
+      "col_2": "5+",
+      "col_3": "Manual tracking",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Unit economics",
+      "col_2": "Validated Y/N",
+      "col_3": "CAC < contribution margin",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE 30-DAY PLAN": "Investor pipeline",
+      "col_2": "5+ warm leads",
+      "col_3": "CRM/tracker",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 69,
+  "sheet_name": "30-Day Plan",
+  "sheet_index": 776
+}

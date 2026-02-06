@@ -1,0 +1,224 @@
+{
+  "headers": [
+    "CLAIMS SUBSTANTIATION FILE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Studies and evidence backing each claim we make",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "FTC requires 'competent and reliable scientific evidence'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "for any claim made in advertising.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "If challenged, we must produce this file.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "No substantiation = fines, forced refunds, injunctions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "CLAIM SUBSTANTIATION MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Claim We Make",
+      "col_2": "Type",
+      "col_3": "Supporting Evidence",
+      "col_4": "Strength",
+      "col_5": "Risk"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "78 ocean minerals",
+      "col_2": "Factual",
+      "col_3": "Supplier CoA, lab analysis",
+      "col_4": "Strong",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Supports hydration",
+      "col_2": "Structure/Function",
+      "col_3": "General electrolyte science",
+      "col_4": "Strong",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Zero sugar",
+      "col_2": "Factual",
+      "col_3": "Lab analysis",
+      "col_4": "Strong",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Ocean-sourced",
+      "col_2": "Factual",
+      "col_3": "Supplier documentation",
+      "col_4": "Strong",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Supports muscle function",
+      "col_2": "Structure/Function",
+      "col_3": "Established nutrient science",
+      "col_4": "Strong",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Better than synthetic",
+      "col_2": "Comparative",
+      "col_3": "Need: bioavailability studies",
+      "col_4": "Weak",
+      "col_5": "Medium"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "Matches plasma profile",
+      "col_2": "Scientific",
+      "col_3": "Need: specific studies",
+      "col_4": "Medium",
+      "col_5": "Medium"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "More complete",
+      "col_2": "Comparative",
+      "col_3": "Competitor label comparison",
+      "col_4": "Medium",
+      "col_5": "Low"
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "EVIDENCE TO GATHER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Studies on ocean mineral absorption vs synthetic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Studies on trace mineral benefits",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Studies on electrolyte requirements for active individuals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Studies on keto/low-carb electrolyte needs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Blood plasma mineral composition research",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Deep ocean water research (Japan has extensive studies)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "☐ Bioavailability comparisons by mineral form",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "CLAIMS TO AVOID UNTIL SUBSTANTIATED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "✗ 'More bioavailable' (need comparative study)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "✗ 'Better absorption' (need clinical data)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "✗ 'Identical to blood plasma' (need precise analysis)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "✗ Any specific health outcome claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CLAIMS SUBSTANTIATION FILE": "✗ Superiority claims without head-to-head data",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "Claims Substantiation",
+  "sheet_index": 254
+}

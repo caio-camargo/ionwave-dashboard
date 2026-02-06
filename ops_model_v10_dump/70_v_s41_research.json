@@ -1,0 +1,112 @@
+{
+  "headers": [
+    "V-S41: APPLIED RESEARCH — VERIFICATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "GRADING RUBRIC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Grade",
+      "col_2": "Research Design",
+      "col_3": "Institutional Affiliation",
+      "col_4": "Data Collection",
+      "col_5": "Case Study"
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "A",
+      "col_2": "Publishable research design. Clear question, methodology, variables. Reviewed by academic.",
+      "col_3": "1+ confirmed researcher affiliation at top institution (Princeton, Stanford, Max Planck).",
+      "col_4": "Complete data captured for all variables throughout production cycle.",
+      "col_5": "Draft accepted for publication or presented at conference."
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "B",
+      "col_2": "Solid research design. Minor gaps. Reviewed by someone with academic experience.",
+      "col_3": "1+ researcher engaged in ongoing conversation. Affiliation likely.",
+      "col_4": "Most data captured. Some gaps in early weeks.",
+      "col_5": "Complete draft. Publishable quality. Submission pending."
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "C",
+      "col_2": "Research design exists but has methodological gaps. Not yet reviewed externally.",
+      "col_3": "Emails sent. Responses received. No formal commitment.",
+      "col_4": "Partial data. Framework exists but inconsistently followed.",
+      "col_5": "Draft started. Needs significant revision."
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "D",
+      "col_2": "Research design is vague or incomplete. No external review.",
+      "col_3": "Emails sent. No meaningful responses.",
+      "col_4": "Minimal data collected. Framework not embedded.",
+      "col_5": "No draft or very early draft only."
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "F",
+      "col_2": "No research design produced.",
+      "col_3": "No outreach attempted.",
+      "col_4": "No data collection.",
+      "col_5": "No case study."
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "SIGN-OFF",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Affiliated researcher, if engaged. Otherwise: academic with org design experience.]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Date",
+      "col_2": "[date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Comments",
+      "col_2": "[feedback]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "V-S41: APPLIED RESEARCH — VERIFICATION": "Nilo Sign-Off",
+      "col_2": "[☐]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "V-S41 Research",
+  "sheet_index": 70
+}

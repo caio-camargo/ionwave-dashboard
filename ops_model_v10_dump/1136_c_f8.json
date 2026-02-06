@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F8: Platform Recruiting — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Cluster: FCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "LinkedIn, Upwork, AngelList, Dribbble. Posting templates, screening criteria, response handling.",
+      "col_2": null
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Platform Recruiting (F8)"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F8: Platform Recruiting within FCL-2"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F8]"
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Platform Recruiting model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F8: Platform Recruiting — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F8",
+  "sheet_index": 1136
+}

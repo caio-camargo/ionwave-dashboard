@@ -1,0 +1,329 @@
+{
+  "headers": [
+    "ODD-5: ENTITY FORMATION GUIDE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Step-by-step guide to legal existence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "ENTITY TYPE DECISION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Entity Type",
+      "col_2": "Best For",
+      "col_3": "Tax Treatment",
+      "col_4": "Fundraising",
+      "col_5": "Complexity"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Sole Proprietorship",
+      "col_2": "Testing, not serious",
+      "col_3": "Pass-through",
+      "col_4": "Cannot raise",
+      "col_5": "None"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "LLC (Single Member)",
+      "col_2": "Small, no investors",
+      "col_3": "Pass-through",
+      "col_4": "Difficult",
+      "col_5": "Low"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "LLC (Multi-Member)",
+      "col_2": "Partners, no VC",
+      "col_3": "Pass-through",
+      "col_4": "Possible",
+      "col_5": "Medium"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "S-Corp",
+      "col_2": "Profitable, tax savings",
+      "col_3": "Pass-through",
+      "col_4": "Limited",
+      "col_5": "Medium"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "C-Corp (Delaware)",
+      "col_2": "Raising from VCs/Angels",
+      "col_3": "Double tax",
+      "col_4": "Standard",
+      "col_5": "High"
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "RECOMMENDATION FOR IONWAVE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "START: Delaware LLC (simple, flexible)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "CONVERT TO: Delaware C-Corp when raising priced equity round",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Why Delaware?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• Investor-familiar jurisdiction",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• Well-established corporate law",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• Court of Chancery expertise",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• Can operate anywhere",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "FORMATION CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 1. Choose entity type",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 2. Choose jurisdiction (recommend: Delaware)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 3. Choose registered agent (Incfile, Northwest, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 4. File formation documents",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• LLC: Certificate of Formation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "• Corp: Certificate of Incorporation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 5. Get EIN (IRS, free, online)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 6. Draft operating agreement (LLC) or bylaws (Corp)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 7. Open business bank account",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 8. Register for state taxes (if required)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 9. Get business licenses (if required)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ 10. Set up accounting (QuickBooks, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "FORMATION PROVIDERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Provider",
+      "col_2": "Cost (Basic)",
+      "col_3": "Registered Agent",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Stripe Atlas",
+      "col_2": "$500",
+      "col_3": "Included 1yr",
+      "col_4": "Best for C-Corp, includes bank",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Clerky",
+      "col_2": "$500+",
+      "col_3": "Separate",
+      "col_4": "Best legal docs for startups",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Northwest",
+      "col_2": "$225",
+      "col_3": "$125/yr",
+      "col_4": "Good budget option",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "Incfile",
+      "col_2": "$0 + state fees",
+      "col_3": "$119/yr",
+      "col_4": "Cheapest",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "LegalZoom",
+      "col_2": "$150+",
+      "col_3": "$299/yr",
+      "col_4": "Most known, not cheapest",
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "POST-FORMATION SETUP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ EIN obtained: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Bank account opened at: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Registered agent: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Operating agreement/Bylaws signed: ☐ Yes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Initial capital contributed: $_______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Cap table set up: ☐ Yes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Accounting software: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-5: ENTITY FORMATION GUIDE": "☐ Business insurance obtained: ☐ Yes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "ODD-5 Entity Formation Guide",
+  "sheet_index": 166
+}

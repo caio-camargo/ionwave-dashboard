@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "MIRCH DETECTOR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "MIRCH DETECTOR": "Flag things that LOOK like progress but aren't. Naming without integration. Form without substance.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "WHAT IS MIRCH?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Mirch = fake compression that adds noise without meaning. Naming without integration.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "It LOOKS organized, professional, complete. But there's no real substance behind it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "MIRCH WARNING SIGNS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Beautiful formatting, no insight",
+      "col_2": "Fancy deck with no actual decisions made",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Lots of meetings, no outcomes",
+      "col_2": "10 hours of meetings, 0 action items completed",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Renamed things, nothing changed",
+      "col_2": "\"Pivoted strategy\" but doing same thing",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Dashboard with no decisions",
+      "col_2": "Tracking 50 metrics, acting on 0",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Process without purpose",
+      "col_2": "Checklist exists but doesn't improve quality",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Activity metrics, not outcome metrics",
+      "col_2": "Measuring \"ads created\" not \"revenue generated\"",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Reorganization without results",
+      "col_2": "New org chart, same dysfunction",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "• Plans without execution",
+      "col_2": "Beautiful roadmap, nothing shipped",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "MIRCH AUDIT (Weekly)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Activity This Week",
+      "col_2": "Looks Like Progress?",
+      "col_3": "Actual Outcome",
+      "col_4": "Mirch?",
+      "col_5": "Keep/Cut?"
+    },
+    {
+      "MIRCH DETECTOR": "THE TEST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Ask: 'Did this move MRR?' If not, ask: 'Did this directly enable something that will move MRR?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "If no to both → it's probably Mirch. Cut it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "BILLBOARD PHENOMENON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Something beautiful to the creator (who compressed 6 months into it) is noise to strangers.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Your 50-page strategy doc might be Mirch to everyone except you.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIRCH DETECTOR": "Test: Can someone else recover the value in <10 minutes? If not, compress further or cut.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Mirch Detector",
+  "sheet_index": 898
+}

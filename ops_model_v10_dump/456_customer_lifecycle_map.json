@@ -1,0 +1,61 @@
+{
+  "headers": [
+    "CUSTOMER LIFECYCLE MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CUSTOMER LIFECYCLE MAP": "Journey from first touch to advocate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Stage",
+      "col_2": "Timeframe",
+      "col_3": "Goal",
+      "col_4": "Touchpoints"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Awareness",
+      "col_2": "Day 0",
+      "col_3": "Capture attention",
+      "col_4": "Ad"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Interest",
+      "col_2": "Day 0-3",
+      "col_3": "Build desire",
+      "col_4": "LP, retargeting"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Purchase",
+      "col_2": "Day 1-14",
+      "col_3": "Confirm decision",
+      "col_4": "Order confirm"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Onboarding",
+      "col_2": "Day 3-10",
+      "col_3": "Great first use",
+      "col_4": "How-to content"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Retention",
+      "col_2": "Day 30-90",
+      "col_3": "Build habit",
+      "col_4": "Value content"
+    },
+    {
+      "CUSTOMER LIFECYCLE MAP": "Advocacy",
+      "col_2": "Day 180+",
+      "col_3": "Amplify voice",
+      "col_4": "Referral program"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Customer Lifecycle Map",
+  "sheet_index": 456
+}

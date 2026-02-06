@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S8: Series Production — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "How the content series is produced. Narrative arc, episode planning, cast management, story bible.",
+      "col_2": null
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "TUP",
+      "col_2": "S8: Series Production"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-1"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Owner",
+      "col_2": "Librarian"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Description",
+      "col_2": "How the content series is produced. Narrative arc, episode planning, cast management, story bible."
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S8: Series Production — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Series Production model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S8",
+  "sheet_index": 967
+}

@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "ATTRIBUTION MODEL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "ATTRIBUTION MODEL": "How we measure what actually works.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ATTRIBUTION MODEL": "Layer",
+      "col_2": "Tool",
+      "col_3": "Cost"
+    },
+    {
+      "ATTRIBUTION MODEL": "Platform data",
+      "col_2": "Meta Ads Manager",
+      "col_3": "Free"
+    },
+    {
+      "ATTRIBUTION MODEL": "Shopify",
+      "col_2": "Shopify reports",
+      "col_3": "Free"
+    },
+    {
+      "ATTRIBUTION MODEL": "UTM tracking",
+      "col_2": "Google Analytics 4",
+      "col_3": "Free"
+    },
+    {
+      "ATTRIBUTION MODEL": "Post-purchase survey",
+      "col_2": "Fairing/KnoCommerce",
+      "col_3": "$100-300/mo"
+    },
+    {
+      "ATTRIBUTION MODEL": "Third-party",
+      "col_2": "Triple Whale",
+      "col_3": "$300-500/mo"
+    },
+    {
+      "ATTRIBUTION MODEL": "Key metric: MER = Total Revenue / Total Ad Spend",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Attribution Model",
+  "sheet_index": 361
+}

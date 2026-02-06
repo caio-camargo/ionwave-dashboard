@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "INTERNAL TEAM STRUCTURE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "INTERNAL TEAM STRUCTURE": "Phase 1 (0-$25K MRR)",
+      "col_2": null
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Team: Operator only",
+      "col_2": "1 person does everything"
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Phase 2 ($25K-$50K MRR)",
+      "col_2": null
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Team: Operator + Creative PM",
+      "col_2": "Split ads/content"
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Phase 3 ($50K-$100K MRR)",
+      "col_2": null
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Team: Add Ops PM",
+      "col_2": "Split operations"
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Phase 4 ($100K+ MRR)",
+      "col_2": null
+    },
+    {
+      "INTERNAL TEAM STRUCTURE": "Team: Add Growth PM",
+      "col_2": "New channel expansion"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Internal Team",
+  "sheet_index": 642
+}

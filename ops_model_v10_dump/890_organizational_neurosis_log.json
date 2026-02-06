@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "ORGANIZATIONAL NEUROSIS LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Pathological patterns we keep repeating. Name them to break them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "WHAT IS ORGANIZATIONAL NEUROSIS?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Repeated dysfunctional patterns. 'Every time X happens, we do Y, which makes X worse.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Like individual neurosis but at organizational level. Hard to see from inside.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "IDENTIFIED NEUROSES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Neurosis Name",
+      "col_2": "Trigger",
+      "col_3": "Our Dysfunctional Response",
+      "col_4": "Why It Makes Things Worse",
+      "col_5": "Healthy Alternative",
+      "col_6": "Status"
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Panic Scaling",
+      "col_2": "Revenue dips",
+      "col_3": "Throw more ad spend at it",
+      "col_4": "Burns cash on unoptimized ads",
+      "col_5": "Diagnose root cause first",
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Perfection Paralysis",
+      "col_2": "New creative needed",
+      "col_3": "Iterate endlessly before launching",
+      "col_4": "Delays learning, kills velocity",
+      "col_5": "Ship MVP, iterate live",
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Hero Mode",
+      "col_2": "Crisis occurs",
+      "col_3": "One person works 80hrs to fix",
+      "col_4": "Burns out key people, no systems",
+      "col_5": "Build systems, distribute load",
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Shiny Object",
+      "col_2": "New opportunity appears",
+      "col_3": "Drop current focus, chase it",
+      "col_4": "Never finish anything",
+      "col_5": "Finish current before starting new",
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "Blame Deflection",
+      "col_2": "Something fails",
+      "col_3": "Find external cause",
+      "col_4": "Never fix internal issues",
+      "col_5": "Ask \"what could WE have done?\"",
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "TREATMENT: PROPORTIONING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "1. NAME the neurosis (awareness is first step)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "2. NOTICE when trigger occurs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "3. PAUSE before automatic response",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "4. CHOOSE healthy alternative consciously",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ORGANIZATIONAL NEUROSIS LOG": "5. CELEBRATE when you break the pattern",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Organizational Neurosis Log",
+  "sheet_index": 890
+}

@@ -1,0 +1,155 @@
+{
+  "headers": [
+    "HOW TO USE THIS MODEL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "HOW TO USE THIS MODEL": "Operator onboarding to the spreadsheet itself",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "FIRST TIME SETUP (Day 1)",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "1. Read \"0. Start Here\" tab completely",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "2. Read \"Grand Unifying Dictionary\" - learn our terms",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "3. Read \"The Equations\" - understand the business math",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "4. Read \"The Games\" - understand strategic principles",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "5. Read \"Win Criteria Definition\" - know what winning looks like",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "6. Read \"Game Physics Rulebook\" - know the rules",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "7. Skim all tab names to understand scope",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "8. Ask Claude any questions about concepts",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "DAILY USE",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Check \"Key Metrics Dashboard\" first thing",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Log any decisions in \"Decision Log\"",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Update \"Changes Tracker\" if anything changes",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Reference specific tabs for SOPs/playbooks as needed",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Use \"Grand Unifying Dictionary\" when terms are unclear",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "WEEKLY USE",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Update all \"Data Freshness: Weekly\" tabs (see Data Freshness Requirements)",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Run \"Cross-Tab Validation\" check",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Review \"Red Flag Dashboard\" for any kill criteria approaching",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Update \"Paradigm Shift Log\" if any major changes",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Archive previous week's reports",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "FINDING THINGS",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Strategy questions:",
+      "col_2": "Thesis, The Games, Win Criteria"
+    },
+    {
+      "HOW TO USE THIS MODEL": "• How to do X:",
+      "col_2": "Search for \"Playbook\" or \"Protocol\" tabs"
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Who owns what:",
+      "col_2": "Tab Ownership Matrix, RACI Matrix"
+    },
+    {
+      "HOW TO USE THIS MODEL": "• What a term means:",
+      "col_2": "Grand Unifying Dictionary, Glossary"
+    },
+    {
+      "HOW TO USE THIS MODEL": "• Current status:",
+      "col_2": "Key Metrics Dashboard, Cash Flow Monitoring"
+    },
+    {
+      "HOW TO USE THIS MODEL": "• What to do next:",
+      "col_2": "Week by Week Narrative, 30-Day Plan"
+    },
+    {
+      "HOW TO USE THIS MODEL": "GOLDEN RULES",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "1. Never delete tabs - archive if obsolete",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "2. Log every decision in Decision Log",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "3. Update Changes Tracker when modifying any tab",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "4. Use exact terms from Grand Unifying Dictionary",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "5. Check Tab Ownership before editing someone else's tab",
+      "col_2": null
+    },
+    {
+      "HOW TO USE THIS MODEL": "6. Run Cross-Tab Validation after major updates",
+      "col_2": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "How to Use This Model",
+  "sheet_index": 759
+}

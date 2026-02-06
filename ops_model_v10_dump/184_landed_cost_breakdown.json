@@ -1,0 +1,357 @@
+{
+  "headers": [
+    "IONWAVE LANDED COST BREAKDOWN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "True cost per unit from supplier to customer's door. No hidden costs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "COST PER SACHET (30 sachets per box)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Cost Component",
+      "col_2": "Low Estimate",
+      "col_3": "Base Estimate",
+      "col_4": "High Estimate",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Marine plasma (raw material)",
+      "col_2": "$0.25",
+      "col_3": "$0.35",
+      "col_4": "$0.45",
+      "col_5": "From Biocean/Actimar quotes"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Sachet packaging",
+      "col_2": "$0.05",
+      "col_3": "$0.08",
+      "col_4": "$0.10",
+      "col_5": "Foil sachet with printing"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Filling/labor",
+      "col_2": "$0.03",
+      "col_3": "$0.05",
+      "col_4": "$0.08",
+      "col_5": "Contract manufacturing"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "QC/testing",
+      "col_2": "$0.02",
+      "col_3": "$0.03",
+      "col_4": "$0.05",
+      "col_5": "Batch testing, certificates"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "SUBTOTAL PER SACHET",
+      "col_2": "$0.35",
+      "col_3": "$0.51",
+      "col_4": "$0.68",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "COST PER BOX (30 sachets)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Cost Component",
+      "col_2": "Low Estimate",
+      "col_3": "Base Estimate",
+      "col_4": "High Estimate",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "30 Sachets (from above)",
+      "col_2": "$10.50",
+      "col_3": "$15.30",
+      "col_4": "$20.40",
+      "col_5": "30 × per-sachet cost"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Outer box packaging",
+      "col_2": "$0.80",
+      "col_3": "$1.20",
+      "col_4": "$1.80",
+      "col_5": "Printed box with insert"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Freight (sea, per unit)",
+      "col_2": "$0.30",
+      "col_3": "$0.50",
+      "col_4": "$0.80",
+      "col_5": "Container shipping allocated"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Customs/duties (HS 2106.90)",
+      "col_2": "$0.40",
+      "col_3": "$0.60",
+      "col_4": "$0.90",
+      "col_5": "~4-6% for dietary supplements"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "US freight to 3PL",
+      "col_2": "$0.20",
+      "col_3": "$0.30",
+      "col_4": "$0.50",
+      "col_5": "Trucking from port"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "3PL receiving fee",
+      "col_2": "$0.15",
+      "col_3": "$0.25",
+      "col_4": "$0.40",
+      "col_5": "Per-unit inbound fee"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "LANDED COST PER BOX",
+      "col_2": "$12.35",
+      "col_3": "$18.15",
+      "col_4": "$24.80",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "FULFILLMENT COST (per order shipped)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Cost Component",
+      "col_2": "Low Estimate",
+      "col_3": "Base Estimate",
+      "col_4": "High Estimate",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Pick & pack fee",
+      "col_2": "$2.00",
+      "col_3": "$2.50",
+      "col_4": "$3.50",
+      "col_5": "3PL per-order fee"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Shipping (USPS/UPS)",
+      "col_2": "$4.00",
+      "col_3": "$5.50",
+      "col_4": "$7.00",
+      "col_5": "Depends on zone, weight"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Packaging materials",
+      "col_2": "$0.30",
+      "col_3": "$0.50",
+      "col_4": "$0.80",
+      "col_5": "Mailer, tape, insert"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "FULFILLMENT PER ORDER",
+      "col_2": "$6.30",
+      "col_3": "$8.50",
+      "col_4": "$11.30",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "TOTAL COGS SUMMARY (1-box order)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": null,
+      "col_2": "Low",
+      "col_3": "Base",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Landed cost (1 box)",
+      "col_2": "$12.35",
+      "col_3": "$18.15",
+      "col_4": "$24.80",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Fulfillment",
+      "col_2": "$6.30",
+      "col_3": "$8.50",
+      "col_4": "$11.30",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Payment processing (3%)",
+      "col_2": "$1.41",
+      "col_3": "$1.41",
+      "col_4": "$1.41",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "TOTAL COGS",
+      "col_2": "$20.06",
+      "col_3": "$28.06",
+      "col_4": "$37.51",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Revenue (1 box @ $47)",
+      "col_2": "$47.00",
+      "col_3": "$47.00",
+      "col_4": "$47.00",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "GROSS PROFIT",
+      "col_2": "$26.94",
+      "col_3": "$18.94",
+      "col_4": "$9.49",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "GROSS MARGIN",
+      "col_2": "57%",
+      "col_3": "40%",
+      "col_4": "20%",
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "⚠️ CRITICAL: Our model assumes 70% margin. Base case shows 40%. We need to hit LOW estimates or adjust pricing.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "OPTIONS TO IMPROVE MARGIN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "1. Negotiate supplier pricing closer to LOW estimates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "2. Increase box price to $59 (raises margin to ~52% at base)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "3. Push subscription which has lower fulfillment cost per $ (monthly recurring)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "4. Bundle offers (2-box) to spread fulfillment across higher AOV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "5. Source packaging separately for better pricing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "ACTUAL VS ESTIMATED COSTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Component",
+      "col_2": "Estimated",
+      "col_3": "Actual",
+      "col_4": "Variance",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Product (raw)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Packaging - Box",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Packaging - Insert",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Packaging - Label",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Freight to 3PL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "Customs/Duties",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LANDED COST BREAKDOWN": "TOTAL LANDED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Landed Cost Breakdown",
+  "sheet_index": 184
+}

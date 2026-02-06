@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "OPEN DECISIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "OPEN DECISIONS": "ID",
+      "col_2": "Category",
+      "col_3": "Decision",
+      "col_4": "Why It Matters",
+      "col_5": "Deadline",
+      "col_6": "Owner",
+      "col_7": "Priority"
+    },
+    {
+      "OPEN DECISIONS": "D-01",
+      "col_2": "Sourcing",
+      "col_3": "Which supplier for marine plasma?",
+      "col_4": "Determines entire COGS structure",
+      "col_5": "Week 1",
+      "col_6": "Operator",
+      "col_7": "BLOCKING"
+    },
+    {
+      "OPEN DECISIONS": "D-02",
+      "col_2": "Differentiation",
+      "col_3": "Price only OR taste/purity/format?",
+      "col_4": "Defines competitive position and creative strategy",
+      "col_5": "Week 2",
+      "col_6": "GM + Rhen",
+      "col_7": "BLOCKING"
+    },
+    {
+      "OPEN DECISIONS": "D-03",
+      "col_2": "Pricing",
+      "col_3": "$59 (price leader) or $65 (value match)?",
+      "col_4": "Affects margin and positioning",
+      "col_5": "Week 2",
+      "col_6": "GM",
+      "col_7": "BLOCKING"
+    },
+    {
+      "OPEN DECISIONS": "D-04",
+      "col_2": "Format",
+      "col_3": "Sachets vs concentrate vs both?",
+      "col_4": "COGS, differentiation, complexity",
+      "col_5": "Week 2",
+      "col_6": "Operator",
+      "col_7": "BLOCKING"
+    },
+    {
+      "OPEN DECISIONS": "D-05",
+      "col_2": "Hero hook",
+      "col_3": "Which creative angle to lead with?",
+      "col_4": "Determines ad strategy",
+      "col_5": "Week 3",
+      "col_6": "Operator + Rhen",
+      "col_7": "HIGH"
+    },
+    {
+      "OPEN DECISIONS": "D-06",
+      "col_2": "Target ICP",
+      "col_3": "Biohackers vs athletes vs fasters vs general wellness?",
+      "col_4": "Affects targeting and messaging",
+      "col_5": "Week 3",
+      "col_6": "Operator",
+      "col_7": "HIGH"
+    },
+    {
+      "OPEN DECISIONS": "D-07",
+      "col_2": "Launch market",
+      "col_3": "US only vs US+Canada?",
+      "col_4": "Regulatory, shipping, complexity",
+      "col_5": "Week 4",
+      "col_6": "GM",
+      "col_7": "MEDIUM"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Decisions",
+  "sheet_index": 128
+}

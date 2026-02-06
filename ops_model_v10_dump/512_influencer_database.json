@@ -1,0 +1,72 @@
+{
+  "headers": [
+    "INFLUENCER & CREATOR DATABASE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9",
+    "col_10",
+    "col_11"
+  ],
+  "rows": [
+    {
+      "INFLUENCER & CREATOR DATABASE": "Name",
+      "col_2": "Platform",
+      "col_3": "Followers",
+      "col_4": "Niche",
+      "col_5": "Rate",
+      "col_6": "Status",
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null,
+      "col_11": null
+    },
+    {
+      "INFLUENCER & CREATOR DATABASE": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null,
+      "col_11": null
+    },
+    {
+      "INFLUENCER & CREATOR DATABASE": "INFLUENCER PERFORMANCE TRACKING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null,
+      "col_11": null
+    },
+    {
+      "INFLUENCER & CREATOR DATABASE": "Influencer",
+      "col_2": "Campaign",
+      "col_3": "Date",
+      "col_4": "Cost",
+      "col_5": "Impressions",
+      "col_6": "Clicks",
+      "col_7": "Orders",
+      "col_8": "Revenue",
+      "col_9": "ROAS",
+      "col_10": "CPA",
+      "col_11": "Notes"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Influencer Database",
+  "sheet_index": 512
+}

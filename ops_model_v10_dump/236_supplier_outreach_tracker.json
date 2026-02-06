@@ -1,0 +1,33 @@
+{
+  "headers": [
+    "SUPPLIER OUTREACH TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9",
+    "col_10",
+    "col_11"
+  ],
+  "rows": [
+    {
+      "SUPPLIER OUTREACH TRACKER": "Supplier Name",
+      "col_2": "Contact",
+      "col_3": "Email",
+      "col_4": "Date Contacted",
+      "col_5": "Response",
+      "col_6": "Quote Received",
+      "col_7": "MOQ",
+      "col_8": "Lead Time",
+      "col_9": "Status",
+      "col_10": "Next Step",
+      "col_11": "Notes"
+    }
+  ],
+  "row_count": 1,
+  "sheet_name": "Supplier Outreach Tracker",
+  "sheet_index": 236
+}

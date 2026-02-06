@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S12: Career Booster — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "How participation creates career value. Portfolio artifacts, credentials, network access.",
+      "col_2": null
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "TUP",
+      "col_2": "S12: Career Booster"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-1"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Owner",
+      "col_2": "Librarian"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Description",
+      "col_2": "How participation creates career value. Portfolio artifacts, credentials, network access."
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S12: Career Booster — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Career Booster model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S12",
+  "sheet_index": 983
+}

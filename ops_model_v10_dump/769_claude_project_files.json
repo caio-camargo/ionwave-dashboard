@@ -1,0 +1,117 @@
+{
+  "headers": [
+    "CLAUDE PROJECT FILES",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CLAUDE PROJECT FILES": "Exact files that go in the Claude project for AI assistance",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CLAUDE PROJECT FILES": "CORE DOCUMENTS (Always in Project)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CLAUDE PROJECT FILES": "File Name",
+      "col_2": "Contents",
+      "col_3": "Update Frequency"
+    },
+    {
+      "CLAUDE PROJECT FILES": "IonWave_Ops_Model_v9.xlsx",
+      "col_2": "This file - master ops model",
+      "col_3": "Updated weekly"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Brand_Guidelines.pdf",
+      "col_2": "Visual identity, colors, fonts, tone",
+      "col_3": "Updated when brand evolves"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Operator_Agreement.pdf",
+      "col_2": "Signed contract with operator",
+      "col_3": "Static after signing"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Unit_Economics_Model.xlsx",
+      "col_2": "Detailed financial model",
+      "col_3": "Updated with actuals monthly"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Competitive_Analysis.docx",
+      "col_2": "Deep-dive on LMNT, competitors",
+      "col_3": "Updated quarterly"
+    },
+    {
+      "CLAUDE PROJECT FILES": "REFERENCE DOCUMENTS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CLAUDE PROJECT FILES": "Studio_Methodology.pdf",
+      "col_2": "How Studio 4 operates",
+      "col_3": "Rarely changes"
+    },
+    {
+      "CLAUDE PROJECT FILES": "PMI_Framework_Excerpts.pdf",
+      "col_2": "Project management standards",
+      "col_3": "Static"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Danilo_Essays/",
+      "col_2": "Trust vs care, effort measurement, etc.",
+      "col_3": "As written"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Example_Ops_Models/",
+      "col_2": "Multiply, Amazon Blueprint, etc.",
+      "col_3": "Reference only"
+    },
+    {
+      "CLAUDE PROJECT FILES": "ACTIVE WORK FILES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CLAUDE PROJECT FILES": "Weekly_Reports/",
+      "col_2": "Operator weekly updates",
+      "col_3": "Added weekly"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Decision_Log.xlsx",
+      "col_2": "All decisions made",
+      "col_3": "Updated as decisions happen"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Meeting_Notes/",
+      "col_2": "All meeting transcripts",
+      "col_3": "Added after each meeting"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Customer_Interviews/",
+      "col_2": "Interview transcripts",
+      "col_3": "Added as conducted"
+    },
+    {
+      "CLAUDE PROJECT FILES": "Ad_Performance/",
+      "col_2": "Weekly ad exports",
+      "col_3": "Added weekly"
+    },
+    {
+      "CLAUDE PROJECT FILES": "FOLDER STRUCTURE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CLAUDE PROJECT FILES": "/IonWave Claude Project\n├── /Core\n│   ├── IonWave_Ops_Model_v9.xlsx\n│   ├── Brand_Guidelines.pdf\n│   └── Unit_Economics_Model.xlsx\n├── /Reference\n│   ├── Studio_Methodology.pdf\n│   └── /Example_Models\n├── /Active\n│   ├── /Weekly_Reports\n│   ├── /Meeting_Notes\n│   └── Decision_Log.xlsx\n└── /Archive\n    └── /Previous_Versions",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Claude Project Files",
+  "sheet_index": 769
+}

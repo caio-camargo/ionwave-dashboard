@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "VIRTUAL TWIN SPECIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Blueprint for simulating the business before building",
+      "col_2": null
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "WHAT WE SIMULATE BEFORE SPENDING",
+      "col_2": null
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Unit economics model",
+      "col_2": "Run 100 scenarios with different CAC/LTV assumptions"
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Cash flow projection",
+      "col_2": "Model 12 months with best/base/worst cases"
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Funnel simulation",
+      "col_2": "Expected traffic → conversion → revenue"
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Inventory simulation",
+      "col_2": "Order timing, stockout risk, cash tie-up"
+    },
+    {
+      "VIRTUAL TWIN SPECIFICATION": "Competitor response",
+      "col_2": "What if LMNT drops price 20%?"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Virtual Twin Spec",
+  "sheet_index": 909
+}

@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "VOICE OF CUSTOMER DATABASE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VOICE OF CUSTOMER DATABASE": "Actual words customers use - for copy, ads, and messaging",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "WHY COLLECT VOC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "The best copy uses the customer's OWN words.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Don't guess what they say - capture it exactly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "VoC tells you:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• How they describe the problem",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• How they describe the solution",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• What words resonate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• What emotional state they're in",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "VOC COLLECTION LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Date",
+      "col_2": "Source",
+      "col_3": "Category",
+      "col_4": "Exact Quote",
+      "col_5": "Useful For"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": null,
+      "col_2": "Reddit r/keto",
+      "col_3": "Problem",
+      "col_4": "\"I'm drinking so much water but I still feel like crap\"",
+      "col_5": "Hook"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": null,
+      "col_2": "Review",
+      "col_3": "Result",
+      "col_4": "\"My brain fog literally disappeared after 3 days\"",
+      "col_5": "Testimonial"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": null,
+      "col_2": "Support email",
+      "col_3": "Objection",
+      "col_4": "\"How is this different from the $10 stuff at CVS?\"",
+      "col_5": "FAQ"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": null,
+      "col_2": "Customer interview",
+      "col_3": "Desire",
+      "col_4": "\"I just want to feel like I did in my 20s\"",
+      "col_5": "Angle"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": null,
+      "col_2": "Amazon review (competitor)",
+      "col_3": "Complaint",
+      "col_4": "\"Tastes like chemicals and didn't do anything\"",
+      "col_5": "Comparison"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "WHERE TO FIND VOC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Your own reviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Competitor reviews (Amazon, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Reddit (r/keto, r/fasting, r/supplements, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Facebook groups",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Customer support emails",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Customer interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Social media comments",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Survey responses",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Voice of Customer Database",
+  "sheet_index": 560
+}

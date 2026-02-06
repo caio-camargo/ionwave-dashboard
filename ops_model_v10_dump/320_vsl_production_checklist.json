@@ -1,0 +1,245 @@
+{
+  "headers": [
+    "VSL PRODUCTION CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL PRODUCTION CHECKLIST": "Everything needed to produce a VSL from script to live ad",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "PRE-PRODUCTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Item",
+      "col_2": "Status",
+      "col_3": "Owner",
+      "col_4": "Due",
+      "col_5": "Notes"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Research: 10 competitor VSLs analyzed",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 1-2",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Research: Top 20 hooks in category documented",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 1-2",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Research: Customer objections list (10+)",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 1-2",
+      "col_5": "From reviews, Reddit, comments"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Script: 3 hook variants written",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 3",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Script: Full VSL script (12 blocks)",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 3-4",
+      "col_5": "Use Script Architecture tab"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Script: Read-aloud test passed",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 4",
+      "col_5": "<4 min, natural flow"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Script: Founder approved",
+      "col_2": "☐",
+      "col_3": "Studio",
+      "col_4": "Day 5",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Talent: UGC creator contracted",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 3",
+      "col_5": "Or self-filmed if bootstrapping"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Talent: Brief sent with script + reference videos",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 5",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Assets: Product shots (5+ angles)",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 3",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Assets: B-roll footage sourced",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 4",
+      "col_5": "Lifestyle, ingredients, results"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Landing page: Matches VSL offer exactly",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 5",
+      "col_5": "Same language, same price, same guarantee"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "PRODUCTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Raw footage received from creator",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 7",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Edit: Hooks cut as standalone 5-sec clips",
+      "col_2": "☐",
+      "col_3": "Operator/Editor",
+      "col_4": "Day 8",
+      "col_5": "5 variants"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Edit: Full VSL assembled (Variant A)",
+      "col_2": "☐",
+      "col_3": "Operator/Editor",
+      "col_4": "Day 8-9",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Edit: Full VSL assembled (Variant B)",
+      "col_2": "☐",
+      "col_3": "Operator/Editor",
+      "col_4": "Day 8-9",
+      "col_5": "Different hook or mechanism"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Captions added (burned in)",
+      "col_2": "☐",
+      "col_3": "Editor",
+      "col_4": "Day 9",
+      "col_5": "85% of mobile viewers watch muted"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Thumbnail/cover frame selected",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 9",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Quality check: Audio clear, no dead air, CTA visible",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 10",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Final exports: 9:16 (Stories/Reels), 1:1 (Feed), 16:9 (YouTube)",
+      "col_2": "☐",
+      "col_3": "Editor",
+      "col_4": "Day 10",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "LAUNCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Meta Ads: Campaign created (CBO, purchase objective)",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Meta Ads: 2 ad sets (broad + interest-based)",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Meta Ads: Both VSL variants uploaded",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Meta Ads: Pixel firing correctly on landing page",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": "TEST before spend"
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Budget set: $50-100/day per variant",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Tracking: UTMs added to all ad links",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "Tracking: GA4 + Meta conversion events confirmed",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": null
+    },
+    {
+      "VSL PRODUCTION CHECKLIST": "GO LIVE",
+      "col_2": "☐",
+      "col_3": "Operator",
+      "col_4": "Day 11",
+      "col_5": "Monitor hourly for first 24 hrs"
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "VSL Production Checklist",
+  "sheet_index": 320
+}

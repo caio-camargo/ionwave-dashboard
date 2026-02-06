@@ -1,0 +1,737 @@
+{
+  "headers": [
+    "ROLE INDEX — WHO SEES WHAT",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Every person gets a slice. The librarian uses this to build Google Drive folders per person.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "📚 LIBRARIAN (Trade Custodian)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: EVERYTHING. Maintains the master. Extracts slices for everyone else.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tabs they actively manage:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Name",
+      "col_2": "Purpose",
+      "col_3": "Action"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "0. Start Here",
+      "col_2": "Master navigation",
+      "col_3": "Keep updated with current tab count and structure"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Three-Level Architecture",
+      "col_2": "System map",
+      "col_3": "Reference — update if levels change"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Parallel Execution Map",
+      "col_2": "Timeline",
+      "col_3": "Update status colors weekly"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Dependency Graph",
+      "col_2": "What blocks what",
+      "col_3": "Reference — update if dependencies change"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Studio Model Map",
+      "col_2": "S0-S40 inventory",
+      "col_3": "Track which S-models exist vs planned"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Funnel Model Map",
+      "col_2": "F0-F20 inventory",
+      "col_3": "Track which F-models exist vs planned"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Trust Protocol",
+      "col_2": "Who verifies what",
+      "col_3": "Update as Nilo fills in names"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Role Index (this tab)",
+      "col_2": "Who sees what",
+      "col_3": "Update as roles are filled"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "ALL P- tabs",
+      "col_2": "Project plans",
+      "col_3": "Ensure all fields populated before handoff"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "ALL C- tabs",
+      "col_2": "Contracts",
+      "col_3": "File signed contracts, update status"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "ALL V- tabs",
+      "col_2": "Verification sheets",
+      "col_3": "Track verification status, report to Nilo"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "👑 NILO (Dean / Founder)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: CL-0 models + final verification + trust protocol + strategic decisions.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Scope",
+      "col_2": "Tabs",
+      "col_3": "What Nilo Does With These"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-0: Thesis & Meta\n(Nilo produces directly)",
+      "col_2": "P-S1, P-S2, P-S3, P-M0, P-M34, P-M38, P-M39, P-M40\n+ all content tabs in these models\n+ V-S1, V-S2, V-S3, V-M0, V-M34, V-M38, V-M39, V-M40",
+      "col_3": "Produces with Claude. Reviews. Locks."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Trust Protocol",
+      "col_2": "Trust Protocol tab",
+      "col_3": "Fills in names. Identifies gaps. This is Nilo's decision alone."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Final Verification\n(all models)",
+      "col_2": "V- tabs for ALL models (quick scan)",
+      "col_3": "Final sign-off. Checks that every V-tab is green before Trade is locked."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Three-Level Architecture",
+      "col_2": "Architecture tabs",
+      "col_3": "Strategic decisions about structure. Rare edits."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Fundraising",
+      "col_2": "S3, M4, S29, S30 content tabs",
+      "col_3": "Investor conversations. Deck. Terms."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "🎯 PM CO-FOUNDERS (one per cluster)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Each PM co-founder ONLY sees their cluster. The librarian extracts these into a Google Drive folder.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-1: Product & Science — PM Co-Founder #1",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M5, M6, M7, M8",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P-M5, P-M6, P-M7, P-M8",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C-M5, C-M6, C-M7, C-M8",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP-M5, IP-M6, IP-M7, IP-M8",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M5, M6, M7, M8",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V-M5, V-M6, V-M7, V-M8",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-2: Money & Legal — PM Co-Founder #2",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M2, M3, M4, M25",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P-M2, P-M3, P-M4, P-M25",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C-M2, C-M3, C-M4, C-M25",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP-M2, IP-M3, IP-M4, IP-M25",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M2, M3, M4, M25",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V-M2, V-M3, V-M4, V-M25",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-3: DR & Creative — PM Co-Founder #3",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M11, M12, M13, M14, M15",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P-M11 thru P-M15",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C-M11 thru C-M15",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP-M11 thru IP-M15",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M11, M12, M13, M14, M15",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V-M11 thru V-M15",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-4: Retention & Lifecycle — PM Co-Founder #4",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M17, M18, M19, M20, M21, M22",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P-M17 thru P-M22",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C-M17 thru C-M22",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP-M17 thru IP-M22",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M17, M18, M19, M20, M21, M22",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V-M17 thru V-M22",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-5: Growth & Market — PM Co-Founder #5",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M10, M16, M23, M26, M27, M28, M29",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P- for M10, M16, M23, M26-M29",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C- for same",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP- for same",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M10, M16, M23, M26, M27, M28, M29",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V- for same",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-6: Ops & Infra — PM Co-Founder #6",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M1, M9, M24, M30, M31, M35, M36, M37",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P- for M1, M9, M24, M30-M31, M35-M37",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C- for same",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP- for same",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M1, M9, M24, M30, M31, M35, M36, M37",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V- for same",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "CL-7: Governance & School — PM Co-Founder #7",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Models: M32, M33",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab Type",
+      "col_2": "Tabs",
+      "col_3": "What PM Does"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Project Plans",
+      "col_2": "P-M32, P-M33",
+      "col_3": "Fill in owner, timeline, milestones, budget. This is their roadmap."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Contracts",
+      "col_2": "C-M32, C-M33",
+      "col_3": "Review and sign. Defines their scope and comp."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Industry Perspectives",
+      "col_2": "IP-M32, IP-M33",
+      "col_3": "Research and fill in. Or use MC conversations as source."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content Tabs",
+      "col_2": "All content tabs for M32, M33",
+      "col_3": "Produce with Claude. Review AI output. Incorporate expert feedback."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Verification",
+      "col_2": "V-M32, V-M33",
+      "col_3": "Track verification status. Coordinate with expert reviewer."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "🎤 MC (Master of Ceremonies)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: MC Role Spec + MC Conversation Map + whichever model they're recording about this week.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How MC Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "MC Role Spec",
+      "col_2": "Their job description",
+      "col_3": "Read once. Reference as needed."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "MC Conversation Map",
+      "col_2": "Who to talk to, about what, for how long",
+      "col_3": "THIS IS THEIR DAILY PLANNER. Open every morning. What conversations today?"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "P-[model] for current model",
+      "col_2": "Context for today's conversation",
+      "col_3": "Read before each conversation. Know what this model is about."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "IP-[model] for current model",
+      "col_2": "Industry context",
+      "col_3": "Skim before conversation. Know what questions to ask."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "VA Daily Update Spec",
+      "col_2": "How to do daily videos",
+      "col_3": "Production guide. Format, length, quality standards."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Career Booster Frame",
+      "col_2": "What they get out of this",
+      "col_3": "Motivation. Reminder of why this matters for their career."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "🎬 DAN JAMES / THAKOS (Funnel Operator)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: Funnel Level tabs ONLY. Does not need to know the business or studio level exists.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How Dan James Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Funnel Model Map (F0-F20)",
+      "col_2": "His scope",
+      "col_3": "Master reference for what he owns."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Dan James Integration",
+      "col_2": "His deal and deliverables",
+      "col_3": "Contract reference."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Advertorial Engine",
+      "col_2": "How lead magnets get produced",
+      "col_3": "Source material for packaging."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Swipe File Catalog",
+      "col_2": "Inventory of lead magnets",
+      "col_3": "What to build and distribute."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Recruiting Funnel",
+      "col_2": "Funnel architecture",
+      "col_3": "The system he's building."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Recruiting Operations",
+      "col_2": "Channels and tactics",
+      "col_3": "Cold email + platforms + pass-the-bottom."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Funnel Level",
+      "col_2": "Revenue models",
+      "col_3": "Course, DFY, SaaS — what he's selling."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Career Booster Frame",
+      "col_2": "Why people join",
+      "col_3": "Messaging for recruiting content."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "🧑‍🔬 EXPERT REVIEWER",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: Content tabs + V-tab for their cluster ONLY. Smallest slice.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How Expert Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "IP-[model] for their cluster",
+      "col_2": "Industry context",
+      "col_3": "Read first. Does the industry perspective make sense?"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Content tabs for their cluster",
+      "col_2": "The work to review",
+      "col_3": "Read every tab. Mark: CORRECT / WRONG / INCOMPLETE / MISLEADING."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "V-[model] for their cluster",
+      "col_2": "Grading sheet",
+      "col_3": "Sign off on each tab. Grade overall model A/B/C/D/F."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Expert Reviewer Spec",
+      "col_2": "Their engagement terms",
+      "col_3": "What's expected. Timeline. Compensation."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "📋 ADMIN",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: Operational tabs. Task lists. Pipelines. Does not need model content.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How Admin Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Labor Architecture v3",
+      "col_2": "Who to hire and when",
+      "col_3": "Recruiting reference."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Cluster Architecture",
+      "col_2": "What clusters exist and who owns them",
+      "col_3": "Pipeline tracking."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Recruiting Operations",
+      "col_2": "Channels and tactics",
+      "col_3": "Daily execution guide for outreach."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Parallel Execution Map",
+      "col_2": "What's happening this week",
+      "col_3": "Scheduling reference."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Incorporation Model",
+      "col_2": "Entity filing tasks",
+      "col_3": "Checklist for filings."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Participant UX Journey",
+      "col_2": "Onboarding standards",
+      "col_3": "How to welcome new people."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "🎬 SERIES PRODUCER",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: MC system + content calendar + narrative structure. Quality control over all video content.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How Series Producer Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Series Producer Role",
+      "col_2": "Their job description and scope",
+      "col_3": "Reference."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "MC Role Spec",
+      "col_2": "MC management",
+      "col_3": "How to prep, coach, and give notes to the MC."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "MC Conversation Map",
+      "col_2": "Content calendar",
+      "col_3": "What conversations when. Episode planning."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Site Map",
+      "col_2": "Where content lives",
+      "col_3": "What goes on the site and in what order."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "VA Daily Update Spec",
+      "col_2": "Production standards",
+      "col_3": "Quality bar for all video content."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Participant UX Journey",
+      "col_2": "Audience experience",
+      "col_3": "How viewers experience the content."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "💻 PRODUCT PERSON",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: Site spec + site map + brand. Builds the sites. Short engagement.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Tab",
+      "col_2": "Purpose",
+      "col_3": "How Product Person Uses It"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Site Spec",
+      "col_2": "What to build",
+      "col_3": "Technical and design requirements."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Site Map",
+      "col_2": "8 pages defined",
+      "col_3": "Page-by-page spec."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Product Person Brief",
+      "col_2": "Their job description and deliverables",
+      "col_3": "Contract reference."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Product Person Pitch",
+      "col_2": "The deal",
+      "col_3": "Equity terms, timeline, career booster."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Brand Guidelines (M8)",
+      "col_2": "Visual identity",
+      "col_3": "Colors, fonts, logo, style."
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "💰 INVESTOR",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Sees: THE SITE. Not this spreadsheet. The site IS the investor interface.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "What They See",
+      "col_2": "Source Tab",
+      "col_3": "How It Reaches Them"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Password-protected site",
+      "col_2": "Site Spec + Site Map",
+      "col_3": "URL + password sent by Nilo"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Daily video updates (MC)",
+      "col_2": "VA Daily Update Spec",
+      "col_3": "On the site, updated daily"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "MC conversations (long form)",
+      "col_2": "MC Conversation Map",
+      "col_3": "On the site, searchable library"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "The cast page",
+      "col_2": "Site Map (Cast section)",
+      "col_3": "Growing roster of team members"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "The numbers",
+      "col_2": "M3 Financial Model (summary)",
+      "col_3": "Investor-facing page on site"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "The system visualization",
+      "col_2": "Trade Architecture (simplified)",
+      "col_3": "Interactive on site"
+    },
+    {
+      "ROLE INDEX — WHO SEES WHAT": "Data room (post-interest)",
+      "col_2": "M4 Investor FAQ + S29 Studio Fundraise",
+      "col_3": "Google Drive shared on request"
+    }
+  ],
+  "row_count": 145,
+  "sheet_name": "Role Index",
+  "sheet_index": 15
+}

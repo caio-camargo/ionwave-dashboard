@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "EMAIL SEGMENTATION STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "EMAIL SEGMENTATION STRATEGY": "Who gets what email.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "Segment",
+      "col_2": "Definition",
+      "col_3": "Content",
+      "col_4": "Frequency"
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "VIPs",
+      "col_2": "3+ orders or >$200 LTV",
+      "col_3": "Early access, exclusives",
+      "col_4": "2x/week max"
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "Active Subs",
+      "col_2": "Active subscription",
+      "col_3": "Value content, tips",
+      "col_4": "1-2x/week"
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "At-Risk",
+      "col_2": "Skipped shipment",
+      "col_3": "Re-engagement, survey",
+      "col_4": "1x/week"
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "One-Time",
+      "col_2": "Purchased, no sub",
+      "col_3": "Convert to sub",
+      "col_4": "1x/week"
+    },
+    {
+      "EMAIL SEGMENTATION STRATEGY": "Dormant",
+      "col_2": "No purchase 60+ days",
+      "col_3": "Win-back offers",
+      "col_4": "2x/month"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Email Segmentation",
+  "sheet_index": 420
+}

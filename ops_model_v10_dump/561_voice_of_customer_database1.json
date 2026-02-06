@@ -1,0 +1,181 @@
+{
+  "headers": [
+    "VOICE OF CUSTOMER DATABASE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "VOICE OF CUSTOMER DATABASE": "Actual language customers use - for copy and ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "The best copy uses the customer's exact words.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "They've already found the perfect way to describe their problem.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Mining reviews, forums, and interviews for language is gold.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "HOW TO COLLECT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "SOURCES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Amazon reviews (yours and competitors)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Reddit (r/keto, r/fasting, r/Biohackers, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Facebook groups",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Customer support tickets",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Customer interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Survey responses",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Social media comments",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "WHAT TO CAPTURE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• How they describe the problem",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• How they describe the desired outcome",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Specific words and phrases they use",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "• Emotional language",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "VOC DATABASE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "Quote",
+      "col_2": "Source",
+      "col_3": "Category",
+      "col_4": "Use In"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"I was so tired by 2pm every day I could barely function\"",
+      "col_2": "Reddit",
+      "col_3": "Problem - Energy",
+      "col_4": "Ad hook"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"Keto flu hit me like a truck\"",
+      "col_2": "FB Group",
+      "col_3": "Problem - Keto",
+      "col_4": "Ad hook"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"I drink so much water but I still feel dehydrated\"",
+      "col_2": "Review",
+      "col_3": "Problem - Hydration",
+      "col_4": "Ad hook"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"My brain fog finally cleared up\"",
+      "col_2": "Review",
+      "col_3": "Result - Mental",
+      "col_4": "Testimonial"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"I actually have energy past 3pm now\"",
+      "col_2": "Review",
+      "col_3": "Result - Energy",
+      "col_4": "Testimonial"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"Why didn't anyone tell me about this sooner\"",
+      "col_2": "Review",
+      "col_3": "Result - Discovery",
+      "col_4": "Social proof"
+    },
+    {
+      "VOICE OF CUSTOMER DATABASE": "\"Tastes way better than I expected\"",
+      "col_2": "Review",
+      "col_3": "Product - Taste",
+      "col_4": "Objection handling"
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "Voice of Customer Database1",
+  "sheet_index": 561
+}

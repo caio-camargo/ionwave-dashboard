@@ -1,0 +1,133 @@
+{
+  "headers": [
+    "ASSESSMENT CALENDAR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ASSESSMENT CALENDAR": "What gets assessed when",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "ASSESSMENT CADENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "Frequency",
+      "col_2": "Assessment Type",
+      "col_3": "Inputs Required",
+      "col_4": "Output",
+      "col_5": "Due"
+    },
+    {
+      "ASSESSMENT CALENDAR": "Daily",
+      "col_2": "KPI Check",
+      "col_3": "Dashboard metrics",
+      "col_4": "Flags if thresholds breached",
+      "col_5": "EOD"
+    },
+    {
+      "ASSESSMENT CALENDAR": "Weekly",
+      "col_2": "Pulse Report",
+      "col_3": "KPIs, Operator update, blockers",
+      "col_4": "Weekly summary",
+      "col_5": "Friday"
+    },
+    {
+      "ASSESSMENT CALENDAR": "Monthly",
+      "col_2": "Full Assessment",
+      "col_3": "All KPIs, financials, interviews",
+      "col_4": "Monthly report + grade",
+      "col_5": "5th of month"
+    },
+    {
+      "ASSESSMENT CALENDAR": "Quarterly",
+      "col_2": "Deep Dive",
+      "col_3": "Full audit, strategy review",
+      "col_4": "Quarterly report + formal grade",
+      "col_5": "Q+15 days"
+    },
+    {
+      "ASSESSMENT CALENDAR": "Annual",
+      "col_2": "Comprehensive Review",
+      "col_3": "Full year analysis, benchmarking",
+      "col_4": "Annual grade + recommendation",
+      "col_5": "Jan 31"
+    },
+    {
+      "ASSESSMENT CALENDAR": "MONTHLY CALENDAR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "Day",
+      "col_2": "Activity",
+      "col_3": "Owner",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "1st",
+      "col_2": "Prior month books closed",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "2nd",
+      "col_2": "Financials submitted",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "3rd",
+      "col_2": "KPI report submitted",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "3rd-4th",
+      "col_2": "CM review of submissions",
+      "col_3": "Compliance Mgr",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "4th",
+      "col_2": "Operator interview (if needed)",
+      "col_3": "Compliance Mgr",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "5th",
+      "col_2": "Monthly report + grade published",
+      "col_3": "Compliance Mgr",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ASSESSMENT CALENDAR": "5th-7th",
+      "col_2": "Investor dashboard updated",
+      "col_3": "Compliance Mgr",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "CM Assessment Calendar",
+  "sheet_index": 700
+}

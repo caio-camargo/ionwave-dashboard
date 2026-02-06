@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "INITIAL CONDITIONS CHECKLIST"
+  ],
+  "rows": [
+    {
+      "INITIAL CONDITIONS CHECKLIST": "Everything that MUST be true before launch - no exceptions"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "LEGAL/ENTITY"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ LLC formed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ EIN obtained"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Business bank account"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ TM search complete"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "SUPPLIER"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Contract signed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ MOQ confirmed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Lead time confirmed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ COA received"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "3PL"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Contract signed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Rates confirmed"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Integration tested"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Inventory received"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "STORE"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Shopify live"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Checkout tested"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Tracking verified"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Payment processing"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "MARKETING"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Brand guidelines final"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ First 20 ads ready"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Email flows live"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Tracking pixels"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "TEAM"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Operator onboarded"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ CM assigned"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Access granted"
+    },
+    {
+      "INITIAL CONDITIONS CHECKLIST": "☐ Communication setup"
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Initial Conditions Checklist",
+  "sheet_index": 870
+}

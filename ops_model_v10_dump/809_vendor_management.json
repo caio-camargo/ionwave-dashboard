@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "VENDOR MANAGEMENT FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "Evaluate, onboard, monitor, offboard vendors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "Vendor",
+      "col_2": "Category",
+      "col_3": "Monthly Cost",
+      "col_4": "Review"
+    },
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "Shopify",
+      "col_2": "Platform",
+      "col_3": "$79",
+      "col_4": "Quarterly"
+    },
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "Klaviyo",
+      "col_2": "Email",
+      "col_3": "$45+",
+      "col_4": "Quarterly"
+    },
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "3PL",
+      "col_2": "Fulfillment",
+      "col_3": "Variable",
+      "col_4": "Monthly"
+    },
+    {
+      "VENDOR MANAGEMENT FRAMEWORK": "Supplier",
+      "col_2": "Product",
+      "col_3": "Variable",
+      "col_4": "Monthly"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Vendor Management",
+  "sheet_index": 809
+}

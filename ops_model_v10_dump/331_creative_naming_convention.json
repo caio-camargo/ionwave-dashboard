@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "CREATIVE NAMING CONVENTION",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CREATIVE NAMING CONVENTION": "Systematic naming: [BRAND]_[HOOK]_[ANGLE]_[FORMAT]_[VERSION]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "Component",
+      "col_2": "Code",
+      "col_3": "Example"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "BRAND",
+      "col_2": "IW",
+      "col_3": "IonWave"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "HOOK",
+      "col_2": "H01-H99",
+      "col_3": "Hook number"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "ANGLE",
+      "col_2": "A01=Science, A02=Comparison",
+      "col_3": "Angle type"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "FORMAT",
+      "col_2": "ST10/VID15/UGC",
+      "col_3": "Static/Video/UGC"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "VERSION",
+      "col_2": "v1, v2...",
+      "col_3": "Iteration"
+    },
+    {
+      "CREATIVE NAMING CONVENTION": "Example: IW_H03_A02_VID15_v2",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Creative Naming Convention",
+  "sheet_index": 331
+}

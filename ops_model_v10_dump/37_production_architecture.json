@@ -1,0 +1,133 @@
+{
+  "headers": [
+    "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT"
+  ],
+  "rows": [
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "The project plan for producing the Trade itself. Not the business — the document."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "THE PROBLEM"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "41 operating models need to go from skeleton to expert-grade."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "If one person does this sequentially, it takes 6+ months and they burn out."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "If 41 experts each own a model, coordination overhead kills you."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "If AI fills everything unsupervised, quality is mediocre across the board."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "The answer is a production loop: AI generates, expert calibrates, PM manages."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "THE PRODUCTION LOOP (Per Model)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Step 1: AI DRAFT — Claude fills all tabs in the model from skeleton to first draft. (~1-2 hours per model)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Input: skeleton tabs + M0 thesis + reference models + any existing content"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Output: complete first draft of every tab, flagged assumptions, known gaps"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Step 2: EXPERT CALIBRATION — Domain expert reviews AI draft and gives feedback. (~30-60 min per model)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Input: AI draft + list of specific questions for the expert"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Output: markup (what's wrong, what's missing, what's impressive, what's embarrassing)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "The expert does NOT fill tabs. They tell you what good looks like."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Step 3: AI REVISION — Claude incorporates expert feedback and produces second draft. (~1 hour per model)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Input: first draft + expert markup"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Output: revised draft that addresses every piece of feedback"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Step 4: PM REVIEW — PM checks revised draft against expert feedback. (~30 min per model)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Input: revised draft + original expert markup"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Output: sign-off OR back to Step 3 with specific fixes"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Step 5: LOCK — Model is marked complete. PM logs it in Production Tracker. (~5 min)"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Criteria: expert feedback addressed, no open flags, PM signed off"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Total time per model: ~3-4 hours of AI work + 30-60 min of expert time + 30-60 min of PM time"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Total for 41 models: ~120-160 hours AI + ~25-40 hours expert + ~25-40 hours PM"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Calendar time with one PM running 2-3 models/week: ~14-20 weeks"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "THE ROLES"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "PM (1 person, the whole time):"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Owns the production schedule. Runs the loop for every model."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Prepares AI prompts. Sends expert briefs. Reviews output. Logs progress."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Does NOT need to be a domain expert in anything. Needs to be organized and relentless."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "This is a 10-15 hr/week role for ~16 weeks."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "AI (Claude, unlimited):"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Generates first drafts. Incorporates feedback. Produces revisions."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Gets better over time as expert calibration accumulates across models."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Each completed model becomes training data for the next one."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Domain Experts (8-10 people, 2-4 hours each):"
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "One expert covers a CLUSTER of related models, not one model each."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "They review AI output and say what's wrong. They do not write anything."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Engagement: one 30-60 min call per cluster, async follow-up if needed."
+    },
+    {
+      "PRODUCTION ARCHITECTURE — HOW 41 MODELS GET BUILT": "Paid per session or traded for access to finished Trade."
+    }
+  ],
+  "row_count": 41,
+  "sheet_name": "Production Architecture",
+  "sheet_index": 37
+}

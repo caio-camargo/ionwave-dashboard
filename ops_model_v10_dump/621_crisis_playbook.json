@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "CRISIS PLAYBOOK"
+  ],
+  "rows": [
+    {
+      "CRISIS PLAYBOOK": "Product quality issue"
+    },
+    {
+      "CRISIS PLAYBOOK": "Response: Stop sales, investigate, communicate, refund"
+    },
+    {
+      "CRISIS PLAYBOOK": "Negative viral post"
+    },
+    {
+      "CRISIS PLAYBOOK": "Response: Respond quickly, address concerns, DM privately"
+    },
+    {
+      "CRISIS PLAYBOOK": "Supplier failure"
+    },
+    {
+      "CRISIS PLAYBOOK": "Response: Activate backup, communicate delays"
+    },
+    {
+      "CRISIS PLAYBOOK": "Ad account ban"
+    },
+    {
+      "CRISIS PLAYBOOK": "Response: Appeal, diversify channels, document"
+    },
+    {
+      "CRISIS PLAYBOOK": "Chargeback spike"
+    },
+    {
+      "CRISIS PLAYBOOK": "Response: Investigate, improve support, review fraud"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Crisis Playbook",
+  "sheet_index": 621
+}

@@ -1,0 +1,95 @@
+{
+  "headers": [
+    "OBSERVATIONS LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "OBSERVATIONS LOG": "Platform notes on Owner/Operator behavior",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "Date",
+      "col_2": "Category",
+      "col_3": "Observation",
+      "col_4": "Severity",
+      "col_5": "Action Taken",
+      "col_6": "Resolved"
+    },
+    {
+      "OBSERVATIONS LOG": "OBSERVATION CATEGORIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Responsiveness - Speed and quality of communication",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Deliverable Quality - Reports, updates, work product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Process Adherence - Following established procedures",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Decision Making - Quality and timeliness of decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Transparency - Openness about issues and challenges",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Coachability - Response to feedback and guidance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "OBSERVATIONS LOG": "• Red Flags - Concerning behaviors or patterns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "CM Observations Log",
+  "sheet_index": 706
+}

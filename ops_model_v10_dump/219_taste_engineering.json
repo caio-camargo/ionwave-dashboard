@@ -1,0 +1,303 @@
+{
+  "headers": [
+    "TASTE ENGINEERING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "TASTE ENGINEERING": "Flavor systems, sweeteners, masking — making it taste good",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "THE TASTE CHALLENGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Electrolytes taste BAD:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "• Sodium = salty (obvious)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "• Potassium = bitter, metallic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "• Magnesium = bitter, chalky",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "• Trace minerals = mineral/earthy taste",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Most customers won't drink it if it tastes bad.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Taste is a primary churn driver.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "SWEETENER OPTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Sweetener",
+      "col_2": "Type",
+      "col_3": "Taste Profile",
+      "col_4": "Pros",
+      "col_5": "Cons",
+      "col_6": "Used By"
+    },
+    {
+      "TASTE ENGINEERING": "Sugar",
+      "col_2": "Natural",
+      "col_3": "Clean sweet",
+      "col_4": "Tastes good",
+      "col_5": "Calories, not keto",
+      "col_6": "Liquid IV"
+    },
+    {
+      "TASTE ENGINEERING": "Stevia",
+      "col_2": "Natural",
+      "col_3": "Sweet + slight bitter",
+      "col_4": "Zero cal, natural",
+      "col_5": "Aftertaste for some",
+      "col_6": "LMNT"
+    },
+    {
+      "TASTE ENGINEERING": "Monk fruit",
+      "col_2": "Natural",
+      "col_3": "Clean sweet",
+      "col_4": "Zero cal, no aftertaste",
+      "col_5": "Expensive",
+      "col_6": "Premium brands"
+    },
+    {
+      "TASTE ENGINEERING": "Erythritol",
+      "col_2": "Sugar alcohol",
+      "col_3": "Clean sweet",
+      "col_4": "Zero cal, bulking",
+      "col_5": "Cooling effect",
+      "col_6": "Some keto brands"
+    },
+    {
+      "TASTE ENGINEERING": "Sucralose",
+      "col_2": "Artificial",
+      "col_3": "Very sweet",
+      "col_4": "Stable, cheap",
+      "col_5": "Artificial label",
+      "col_6": "Drip Drop"
+    },
+    {
+      "TASTE ENGINEERING": "Aspartame",
+      "col_2": "Artificial",
+      "col_3": "Sweet",
+      "col_4": "Cheap",
+      "col_5": "Bad reputation",
+      "col_6": "Avoid"
+    },
+    {
+      "TASTE ENGINEERING": "Allulose",
+      "col_2": "Rare sugar",
+      "col_3": "Like sugar",
+      "col_4": "Natural, no spike",
+      "col_5": "Expensive, GI for some",
+      "col_6": "Premium brands"
+    },
+    {
+      "TASTE ENGINEERING": "FLAVOR MASKING STRATEGIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "1. CITRIC ACID — Sour masks bitter/salty",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "2. SALT ENHANCERS — Make salt taste saltier (use less)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "3. BITTER BLOCKERS — Specific compounds that block bitter receptors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "4. FLAVOR COMPLEXITY — Layered flavors distract from off-notes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "5. COLD SERVE — Cold dulls taste perception (recommend serving cold)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Best practice: Citrus flavors (lemon, lime, orange) work best",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "with electrolytes because sour + salty is familiar (like sports drinks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "FLAVOR LINEUP DECISION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Launch flavors (pick 3-4):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Citrus Lime (safest, most familiar)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Lemon (classic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Orange (familiar)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Unflavored (for purists who add to coffee/smoothie)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Watermelon (trendy)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "☐ Berry (broad appeal)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Recommendation: Start with Citrus Lime + Unflavored",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TASTE ENGINEERING": "Test before expanding. Fewer SKUs = simpler ops.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "Taste Engineering",
+  "sheet_index": 219
+}

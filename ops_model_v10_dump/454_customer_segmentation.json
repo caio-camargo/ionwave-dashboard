@@ -1,0 +1,84 @@
+{
+  "headers": [
+    "CUSTOMER SEGMENTATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CUSTOMER SEGMENTATION": "How we slice the customer base for targeted action",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Segment",
+      "col_2": "Definition",
+      "col_3": "Size Target",
+      "col_4": "Strategy",
+      "col_5": "Key Automation"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Prospects (Email Only)",
+      "col_2": "Opted in, never purchased",
+      "col_3": "30-40% of list",
+      "col_4": "Nurture → First purchase",
+      "col_5": "Welcome Series"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "One-Timers",
+      "col_2": "1 purchase, no repeat",
+      "col_3": "25-35% of customers",
+      "col_4": "Convert to repeat buyer",
+      "col_5": "Replenishment + Subscription Offer"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Repeat Buyers",
+      "col_2": "2+ purchases, no subscription",
+      "col_3": "15-25% of customers",
+      "col_4": "Convert to subscriber",
+      "col_5": "Subscription pitch + VIP path"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Subscribers",
+      "col_2": "Active subscription",
+      "col_3": "10-20% of customers",
+      "col_4": "Retain + upsell + activate as advocate",
+      "col_5": "VIP Recognition + Referral"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "VIPs",
+      "col_2": "3+ purchases OR $200+ LTV OR active referrer",
+      "col_3": "5-10% of customers",
+      "col_4": "White-glove treatment, ambassador program",
+      "col_5": "Exclusive offers + early access"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "At-Risk",
+      "col_2": "Churn risk score >70 OR 45+ days since purchase",
+      "col_3": "10-15% of active",
+      "col_4": "Intervention before lapse",
+      "col_5": "Churn Intervention automation"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Lapsed",
+      "col_2": "60-90 days, no purchase",
+      "col_3": "10-20% of historical",
+      "col_4": "Win back or sunset",
+      "col_5": "Winback sequence"
+    },
+    {
+      "CUSTOMER SEGMENTATION": "Churned",
+      "col_2": "90+ days, no engagement",
+      "col_3": "20-30% of historical",
+      "col_4": "Clean from active list, suppress ads",
+      "col_5": "Sunset + Suppression"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Customer Segmentation",
+  "sheet_index": 454
+}

@@ -1,0 +1,106 @@
+{
+  "headers": [
+    "POST-MORTEM TEMPLATE"
+  ],
+  "rows": [
+    {
+      "POST-MORTEM TEMPLATE": "How to analyze what went wrong (or right)"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "WHEN TO DO A POST-MORTEM"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• After any significant failure or incident"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• After a project completes (good or bad)"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• After a major launch"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• After losing a big customer or deal"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• After an unexpected success (learn what worked)"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "POST-MORTEM TEMPLATE"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "INCIDENT/PROJECT: _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "DATE: _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "PARTICIPANTS: _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "WHAT HAPPENED:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[Factual timeline of events]"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "IMPACT:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[What was the impact? Revenue, customers, time, reputation?]"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "ROOT CAUSE ANALYSIS:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[Why did this happen? Use '5 Whys' technique]"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• Why? _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• Why? _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• Why? _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• Why? _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "• Why? (Root cause) _______________"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "WHAT WENT WELL:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[What worked, even if outcome was bad?]"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "WHAT WENT WRONG:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[What failed or could have been better?]"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "ACTION ITEMS:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "☐ [Action] - Owner: ___ - Due: ___"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "☐ [Action] - Owner: ___ - Due: ___"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "☐ [Action] - Owner: ___ - Due: ___"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "HOW DO WE PREVENT THIS IN THE FUTURE:"
+    },
+    {
+      "POST-MORTEM TEMPLATE": "[Systemic changes, not just 'be more careful']"
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Post-Mortem Template",
+  "sheet_index": 815
+}

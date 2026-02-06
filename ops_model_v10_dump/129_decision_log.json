@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "DECISION LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "DECISION LOG": "Major decisions documented with rationale.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DECISION LOG": "Decision #",
+      "col_2": "Date",
+      "col_3": "Decision",
+      "col_4": "Rationale",
+      "col_5": "Made By"
+    },
+    {
+      "DECISION LOG": "D001",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DECISION LOG": "D002",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "DECISION LOG": "D003",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Decision Log",
+  "sheet_index": 129
+}

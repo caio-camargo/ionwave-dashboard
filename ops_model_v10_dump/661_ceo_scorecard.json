@@ -1,0 +1,133 @@
+{
+  "headers": [
+    "CEO EVALUATION SCORECARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CEO EVALUATION SCORECARD": "Rate each candidate 1-5 on each dimension",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Candidate: _______________",
+      "col_2": null,
+      "col_3": "Date: _______________",
+      "col_4": null,
+      "col_5": "Interviewer: _______________"
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Dimension",
+      "col_2": "Weight",
+      "col_3": "Score (1-5)",
+      "col_4": "Weighted",
+      "col_5": "Notes"
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Strategic Vision",
+      "col_2": "15%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Execution Track Record",
+      "col_2": "20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Leadership & Team Building",
+      "col_2": "15%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Industry Knowledge",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Financial Acumen",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Communication",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Culture Fit",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Motivation & Commitment",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "TOTAL WEIGHTED SCORE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "RECOMMENDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "☐ Strong Hire  ☐ Hire  ☐ No Hire  ☐ Strong No Hire",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Key Strengths:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Key Concerns:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO EVALUATION SCORECARD": "Additional Notes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "CEO Scorecard",
+  "sheet_index": 661
+}

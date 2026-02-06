@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S7: MC System — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S7: MC System — VERIFICATION": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "How the MC operates. Conversation types, entertainment spec, prep sheets, recording workflow.",
+      "col_2": null
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade mc system model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "B (Good)",
+      "col_2": "Solid mc system model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "C (Needs Work)",
+      "col_2": "MC System model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "D (Major Issues)",
+      "col_2": "MC System model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "F (Fail)",
+      "col_2": "MC System model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S7: MC System — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S7",
+  "sheet_index": 966
+}

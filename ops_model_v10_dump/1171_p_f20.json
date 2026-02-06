@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-F20: Funnel Scaling — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "How to grow the funnel. Paid ads, partnerships, affiliate programs, speaking.",
+      "col_2": null
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "TUP",
+      "col_2": "F20: Funnel Scaling"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Cluster",
+      "col_2": "FCL-3"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Owner",
+      "col_2": "Funnel Builder"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Description",
+      "col_2": "How to grow the funnel. Paid ads, partnerships, affiliate programs, speaking."
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-F20: Funnel Scaling — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Funnel Scaling model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-F20",
+  "sheet_index": 1171
+}

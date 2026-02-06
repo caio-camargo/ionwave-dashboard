@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "RETURNS & EXCHANGES PROCESS"
+  ],
+  "rows": [
+    {
+      "RETURNS & EXCHANGES PROCESS": "Customer requests return → what happens?"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "POLICY:"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "• 30-day money-back on first order"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "• Opened product: Full refund, keep it"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "• Unopened: Full refund, we pay return"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "PROCESS:"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "1. Verify order"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "2. Ask reason"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "3. Process refund in Shopify"
+    },
+    {
+      "RETURNS & EXCHANGES PROCESS": "4. Log in tracker"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Returns & Exchanges",
+  "sheet_index": 472
+}

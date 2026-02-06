@@ -1,0 +1,277 @@
+{
+  "headers": [
+    "MECHANISM OF ACTION",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "MECHANISM OF ACTION": "How electrolytes actually work in the body — real science",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "WHY YOU NEED TO KNOW THIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "If you can't explain HOW it works, you can't:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Write compelling copy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Answer customer questions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Train influencers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Defend against skeptics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "This is the foundation of credibility.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "ELECTROLYTE BASICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "WHAT ARE ELECTROLYTES?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Minerals that carry electric charge when dissolved in water.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "They conduct electricity in your body.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "WHY DO WE NEED THEM?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Nerve signaling (brain to muscles)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Muscle contraction (including heart)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Fluid balance (inside vs outside cells)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• pH balance (acid-base equilibrium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Nutrient transport (into cells)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "WHAT DEPLETES THEM?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Sweating (obvious)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Urination (especially on keto/low-carb)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Diarrhea/vomiting",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Inadequate diet",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Certain medications (diuretics)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Alcohol",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Caffeine (mild effect)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "HOW EACH MINERAL WORKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Mineral",
+      "col_2": "Primary Function",
+      "col_3": "Mechanism",
+      "col_4": "Deficiency Symptoms"
+    },
+    {
+      "MECHANISM OF ACTION": "Sodium",
+      "col_2": "Fluid balance",
+      "col_3": "Creates osmotic gradient pulling water into/out of cells",
+      "col_4": "Headache, fatigue, confusion, cramps"
+    },
+    {
+      "MECHANISM OF ACTION": "Potassium",
+      "col_2": "Nerve/muscle",
+      "col_3": "Maintains resting membrane potential for nerve firing",
+      "col_4": "Weakness, cramps, irregular heartbeat"
+    },
+    {
+      "MECHANISM OF ACTION": "Magnesium",
+      "col_2": "Energy + relax",
+      "col_3": "300+ enzyme reactions, muscle relaxation, ATP production",
+      "col_4": "Cramps, anxiety, poor sleep, weakness"
+    },
+    {
+      "MECHANISM OF ACTION": "Chloride",
+      "col_2": "Digestion + pH",
+      "col_3": "Forms stomach acid (HCl), maintains pH balance",
+      "col_4": "Poor digestion, pH imbalance"
+    },
+    {
+      "MECHANISM OF ACTION": "Calcium",
+      "col_2": "Muscle contraction",
+      "col_3": "Triggers muscle fiber contraction when released",
+      "col_4": "Cramps, numbness, heart issues"
+    },
+    {
+      "MECHANISM OF ACTION": "Phosphorus",
+      "col_2": "Energy (ATP)",
+      "col_3": "Component of ATP (energy currency)",
+      "col_4": "Weakness, bone pain, confusion"
+    },
+    {
+      "MECHANISM OF ACTION": "WHY TRACE MINERALS MATTER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Trace minerals are COFACTORS for enzymes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Enzymes are proteins that make reactions happen.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Without the right cofactor, the enzyme doesn't work.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "Example: Zinc",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Cofactor for 300+ enzymes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "• Without zinc: immune dysfunction, slow healing, taste loss",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "The body needs SMALL amounts of MANY minerals,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "not LARGE amounts of FEW minerals.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "MECHANISM OF ACTION": "This is our core argument against synthetic electrolytes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 44,
+  "sheet_name": "Mechanism of Action",
+  "sheet_index": 222
+}

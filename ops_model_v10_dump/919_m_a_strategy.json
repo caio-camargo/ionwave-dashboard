@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "EXIT & M&A STRATEGY",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "EXIT & M&A STRATEGY": "$1-5M revenue",
+      "col_2": null
+    },
+    {
+      "EXIT & M&A STRATEGY": "Buyer: Micro-PE, aggregators",
+      "col_2": "Multiple: 2-4x revenue"
+    },
+    {
+      "EXIT & M&A STRATEGY": "$5-15M revenue",
+      "col_2": null
+    },
+    {
+      "EXIT & M&A STRATEGY": "Buyer: Strategic acquirers",
+      "col_2": "Multiple: 3-5x revenue"
+    },
+    {
+      "EXIT & M&A STRATEGY": "$15M+ revenue",
+      "col_2": null
+    },
+    {
+      "EXIT & M&A STRATEGY": "Buyer: PE growth equity",
+      "col_2": "Multiple: 4-6x revenue"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "M&A Strategy",
+  "sheet_index": 919
+}

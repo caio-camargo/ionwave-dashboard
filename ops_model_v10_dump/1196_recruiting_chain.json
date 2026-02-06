@@ -1,0 +1,266 @@
+{
+  "headers": [
+    "RECRUITING CHAIN — WHO FINDS WHO",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Nobody finds 30 people. Everyone finds 2-3. The chain distributes recruiting load.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "THE SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Step",
+      "col_2": "Who Hires",
+      "col_3": "Who They Find",
+      "col_4": "How",
+      "col_5": "Hiring Authority"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "0",
+      "col_2": "Nilo",
+      "col_3": "Elaine (Librarian) — DONE",
+      "col_4": "Already hired.",
+      "col_5": "Nilo (direct)"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "1",
+      "col_2": "Nilo",
+      "col_3": "Recruiter",
+      "col_4": "Cold hire. Upwork, LinkedIn, job boards. This is the ONE critical cold hire Nilo must make personally.",
+      "col_5": "Nilo (direct)"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "2",
+      "col_2": "Nilo",
+      "col_3": "MC",
+      "col_4": "Cold hire. Content creator communities, YouTube, podcast networks. Can overlap with Recruiter search.",
+      "col_5": "Nilo (direct)"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "3",
+      "col_2": "Recruiter",
+      "col_3": "Conductor",
+      "col_4": "Cold source from ops/coordinator communities. Recruiter screens, Nilo approves.",
+      "col_5": "Nilo approves. Recruiter sources + screens."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "4",
+      "col_2": "Recruiter",
+      "col_3": "PM Co-Founders (7-10)",
+      "col_4": "Cold source from Upwork, LinkedIn, PM communities. Rolling — source as clusters activate.",
+      "col_5": "Nilo approves persistent. Conductor onboards."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "5",
+      "col_2": "Recruiter",
+      "col_3": "Expert Advisors (8-12)",
+      "col_4": "Cold source from LinkedIn, industry communities, conference speaker lists. Domain-specific sourcing.",
+      "col_5": "Nilo approves. PM coordinates review timing."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "6",
+      "col_2": "Recruiter",
+      "col_3": "Series Producer",
+      "col_4": "Film/podcast production networks. Lower priority — MC can self-direct initially.",
+      "col_5": "Nilo approves."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "7",
+      "col_2": "Recruiter",
+      "col_3": "Funnel Builder",
+      "col_4": "Marketing/funnel communities. Activates when funnel clusters ready.",
+      "col_5": "Nilo approves."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "8",
+      "col_2": "Recruiter",
+      "col_3": "Steward",
+      "col_4": "Ops/audit-minded person. Week 0 or early Week 1.",
+      "col_5": "Nilo approves."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "9",
+      "col_2": "MC (passive)",
+      "col_3": "Inbound interest from show audience",
+      "col_4": "The show IS recruiting. People watch, get interested, reach out. MC funnels them to Recruiter for screening.",
+      "col_5": "Recruiter screens. Nilo approves."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "NILO'S RECRUITING LOAD: 2 HIRES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Nilo personally finds the Recruiter and MC. That's it. Two people.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Everything else flows through the Recruiter. Nilo approves, doesn't source.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Nilo is on-call SME for PMs who have domain questions. Formal process — PM submits question via shared doc, Nilo responds async.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "This is the minimum viable founder involvement in people. Below this, nothing moves.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "PM → NILO DOMAIN QUESTION PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "PMs don't need domain expertise. They need to know how to ask Nilo.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Step",
+      "col_2": "Action",
+      "col_3": "Who",
+      "col_4": "Format",
+      "col_5": "SLA"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "1",
+      "col_2": "PM encounters domain question while producing a TUP with Claude",
+      "col_3": "PM",
+      "col_4": "N/A — this is the trigger",
+      "col_5": "N/A"
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "2",
+      "col_2": "PM writes the question in the shared Domain Questions doc. Includes: TUP name, tab name, specific question, what Claude suggested, why PM isn't sure.",
+      "col_3": "PM",
+      "col_4": "Shared Google Doc or Notion page. One running doc for all PMs.",
+      "col_5": "PM posts within 1 hour of encountering question."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "3",
+      "col_2": "Nilo responds async in the same doc. Direct answer, or \"Claude's suggestion is correct, proceed,\" or \"here's what's wrong and why.\"",
+      "col_3": "Nilo",
+      "col_4": "Same shared doc. Written response. Not a call.",
+      "col_5": "Nilo responds within 24 hours. If urgent (blocking), PM flags and Nilo responds within 4 hours."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "4",
+      "col_2": "PM incorporates answer into TUP. Cites \"per Nilo, [date]\" in the tab for audit trail.",
+      "col_3": "PM",
+      "col_4": "Tab content with attribution.",
+      "col_5": "Same day as Nilo's response."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "5",
+      "col_2": "If question recurs across PMs (same question asked 3+ times), Librarian adds answer to a FAQ tab so future PMs don't need to ask.",
+      "col_3": "Librarian",
+      "col_4": "FAQ tab (auto-generated from Domain Questions doc).",
+      "col_5": "Weekly review of questions doc."
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "RECRUITER JOB SPEC (for Nilo to post)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Title",
+      "col_2": "Recruiter / Talent Sourcer — Venture Studio (Equity Only)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "One-liner",
+      "col_2": "Find 20+ people for a venture studio launching an electrolyte company. Cold sourcing. Zero budget. Equity compensation.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "What you'll do",
+      "col_2": "Source PM co-founders, domain expert advisors, an ops coordinator, and specialists from Upwork, LinkedIn, job boards, and niche communities. Write compelling outreach and job posts. Screen candidates. Pass qualified people to founder for final approval. Maintain pipeline tracker.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "What you won't do",
+      "col_2": "Manage people after they're hired. Make hiring decisions (founder approves). Do the actual work of any other role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Comp",
+      "col_2": "0.5% equity. No cash. Vests monthly over 12+ weeks.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Time commitment",
+      "col_2": "10-15 hrs/week during heavy sourcing (Weeks 0-4). 5-8 hrs/week steady state. Compatible with other work.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Why you'd say yes",
+      "col_2": "\"I assembled a 30+ person team for a venture studio from scratch with zero budget.\" That's the resume line. Plus 0.5% equity in a company designed to be fundable.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Ideal profile",
+      "col_2": "You've recruited before — even informally. You're comfortable cold-messaging strangers on LinkedIn. You write well. You're resourceful. You don't need to understand electrolytes or supplements — you need to understand how to find people who do.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "RECRUITING CHAIN — WHO FINDS WHO": "Red flag",
+      "col_2": "If you need hand-holding on where to post or what to write, this isn't the role. The Recruiter figures it out.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "Recruiting Chain",
+  "sheet_index": 1196
+}

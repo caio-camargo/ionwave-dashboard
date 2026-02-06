@@ -1,0 +1,427 @@
+{
+  "headers": [
+    "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "EMAIL 1 — IMMEDIATE (Order Confirmation)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Subject: Your minerals are on the way 🌊",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Preview: Here's what to expect (and what to do first)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hey {{first_name}},",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Your IonWave is officially on its way.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Order #{{order_number}}",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "{{product_name}} — {{quantity}}",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "You should receive tracking info within 24 hours, and your box will arrive in 3-5 business days.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "WHILE YOU WAIT:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Before your first sachet arrives, here's the one thing that makes the biggest difference:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Take it first thing in the morning. Empty stomach. Before coffee.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "This gives your body the best window for absorption. Most customers who feel the difference fastest follow this ritual.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "That's it. Tear, pour, drink. 30 seconds.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "We're excited to have you. Welcome to IonWave.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— The IonWave Team",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "P.S. Questions before your box arrives? Just reply to this email. We read everything.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "EMAIL 2 — DAY 1 (Getting Started)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Subject: How to get the most from your first sachet",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Preview: The 30-second ritual that changes everything",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hey {{first_name}},",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Your box should be arriving soon (or maybe it's already there).",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Here's how to make the most of it:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "THE IONWAVE RITUAL:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "☀️ Morning, empty stomach",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "💧 8oz water (room temp or cold)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "📦 Tear one sachet",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "⏱️ Drink immediately",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "That's the whole thing. 30 seconds.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "WHAT TO EXPECT:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Taste: Mildly mineral, like high-quality spring water. Some people add it to juice, but plain water works great.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "First 3 days: Most people notice subtle shifts—slightly more stable energy, less afternoon fog.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Days 4-14: This is when the real changes show up. More consistent energy. Better recovery. Clearer thinking.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Days 15-30: Full system integration. This is what proper mineralization feels like.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "The key is consistency. One sachet, every day. Don't skip.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Your body has been running on depleted minerals for years. Give it 30 days to remember what balanced feels like.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Talk soon,",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "The IonWave Team",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "EMAIL 3 — DAY 3 (Brand Story)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Subject: Why we started IonWave (the real reason)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Preview: It started with a 125-year-old discovery...",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hey {{first_name}},",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Quick story about why IonWave exists.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "In 1897, a French scientist named René Quinton discovered something wild:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Human blood plasma is 98% identical to seawater.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Same minerals. Same ratios. Same ionic structure.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "He spent the rest of his life proving that marine plasma could restore mineral balance in the human body. French hospitals used it for decades. The research is solid.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "So why hasn't everyone heard of this?",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Because the supplement industry makes more money selling you synthetic pills. Isolated compounds that cost pennies to produce, marked up 10x.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Marine plasma doesn't fit that model. It's harder to source. Harder to standardize. Can't be patented.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "But it's what your body actually recognizes.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "That's why we started IonWave. Not to create another supplement brand. To make Quinton's discovery accessible to anyone who wants to feel the difference.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "78 minerals. Harvested from 30 meters below the ocean surface. The same form your body has used for millions of years.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "No synthetic shortcuts. No factory compounds. Just pure ocean minerals.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "We're glad you're here.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— The IonWave Team",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "P.S. Want to go deeper? Here's the research: [LINK]",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "EMAIL 4 — DAY 5 (Social Proof)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Subject: What our community is saying",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Preview: Real results from real people",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hey {{first_name}},",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "You've been using IonWave for a few days now. Curious how others describe the experience?",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "---",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "\"I've tried every electrolyte brand. LMNT, Drip Drop, all of them. IonWave is the first one where I actually FELT different. My HRV is up, my energy is stable, and I cancelled three other supplements.\"",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— Marcus T., Austin",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "---",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "\"As a trainer, I recommend this to all my clients now. The difference in their recovery is visible. Real ocean minerals instead of lab-made stuff matters.\"",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— Jennifer R., Los Angeles",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "---",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "\"I was skeptical. $59 for seawater? But three weeks in, my afternoon fatigue is gone. Just gone. I'm a believer.\"",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— David K., New York",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "---",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "\"My sleep score went up 12 points in two weeks. Only thing I changed was adding IonWave in the morning.\"",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— Sarah M., Denver",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "---",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Everyone's body is different. But if you're consistent—one sachet, every morning—you'll likely start noticing your own version of these results.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Keep going.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— The IonWave Team",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "EMAIL 5 — DAY 7 (Check-In)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Subject: Quick check-in: how's it going?",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Preview: We want to hear from you",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hey {{first_name}},",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "One week in. How are you feeling?",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "BY NOW, MOST PEOPLE NOTICE:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "✓ More stable energy (fewer crashes)",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "✓ Less brain fog, especially afternoon",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "✓ Better hydration that actually lasts",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "✓ Subtle but real improvement in recovery",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "If you're feeling these things — amazing. It means your body is responding to proper mineralization.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "If you're not feeling much yet — that's okay too.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Some bodies take 2-3 weeks to fully respond, especially if you've been mineral-depleted for a long time. Stick with it. The changes are cumulative.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "ONE REQUEST:",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Hit reply and tell me one thing you've noticed. Good, bad, or just different.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "I read every response. And your feedback helps us make IonWave better for everyone.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Here's to week two.",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "— The IonWave Team",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "P.S. Running low? Your subscription automatically renews, so you'll never miss a day. Need to adjust your delivery schedule? [Manage Subscription]",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "═══════════════════════════════════════════════════════════",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "PERFORMANCE METRICS",
+      "col_2": null
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Emails Sent (MTD)",
+      "col_2": "[X]"
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Open Rate",
+      "col_2": "[X]%"
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Click Rate",
+      "col_2": "[X]%"
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Conversion Rate",
+      "col_2": "[X]%"
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Revenue (MTD)",
+      "col_2": "$[X]"
+    },
+    {
+      "IONWAVE WELCOME EMAIL SEQUENCE (5 EMAILS)": "Revenue/Email",
+      "col_2": "$[X]"
+    }
+  ],
+  "row_count": 104,
+  "sheet_name": "Email Welcome",
+  "sheet_index": 435
+}

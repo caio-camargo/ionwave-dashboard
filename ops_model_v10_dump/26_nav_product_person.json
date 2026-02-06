@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "NAVIGATION — PRODUCT PERSON",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "NAVIGATION — PRODUCT PERSON": "Builds the 2 sites. Consumer-grade. Cinematic. 2-3 week sprint.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "WHAT YOU SEE",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "Site spec only. Plus brand assets.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "YOUR TABS (open these)",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "→ Product Person Brief",
+      "col_2": "Tab #44"
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "→ Site Spec",
+      "col_2": "Tab #41"
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "→ Site Map",
+      "col_2": "Tab #42"
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "→ VA Daily Update Spec",
+      "col_2": "Tab #43"
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "→ Participant UX Journey",
+      "col_2": "Tab #51"
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "WHAT YOU OWN",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "Both sites. Design. Build. CMS. Video hosting. Mobile. Speed.",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "WHAT YOU DON'T TOUCH",
+      "col_2": null
+    },
+    {
+      "NAVIGATION — PRODUCT PERSON": "Trade content. Business models. Fundraising. Hiring.",
+      "col_2": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "NAV-PRODUCT PERSON",
+  "sheet_index": 26
+}

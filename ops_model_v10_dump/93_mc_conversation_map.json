@@ -1,0 +1,385 @@
+{
+  "headers": [
+    "MC CONVERSATION MAP — PER MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "MC CONVERSATION MAP — PER MODEL": "4-10 hours of recorded conversations per model. Here's who the MC talks to and what they cover.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "Model",
+      "col_2": "Hours",
+      "col_3": "Who MC Interviews",
+      "col_4": "Core Questions",
+      "col_5": "Output"
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "S1: Production",
+      "col_2": "4",
+      "col_3": "Nilo, PM co-founder",
+      "col_4": "How does a Trade get built? What does Claude do vs humans? How does expert calibration work? What makes a good vs bad model?",
+      "col_5": "How-the-sausage-gets-made series. Viewers understand the production system."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "S2: Labor",
+      "col_2": "4",
+      "col_3": "Nilo, PM co-founder, MC reflects on own experience",
+      "col_4": "How did each person get hired? What was the ask? Why did they say yes? What would they change? How does the chain work?",
+      "col_5": "Recruiting content. Future hires watch this and self-select."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "S3: Infrastructure",
+      "col_2": "6",
+      "col_3": "Nilo (deep), PM co-founder, CoS",
+      "col_4": "What is the coordination hedgefund? Why two companies? What is the DAO structure? Where does the money come from? What is the tech roadmap?",
+      "col_5": "Investor-grade content. The thesis explained by the founder to a curious outsider."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M0: Thesis",
+      "col_2": "6",
+      "col_3": "Nilo (deep)",
+      "col_4": "Why electrolytes? Why now? Who is the customer? What is the bet? What kills this? What does winning look like?",
+      "col_5": "Origin story. Why this company exists. The MC pushes back on assumptions."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M1: Labor Deploy",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "Who are we hiring? In what order? How do we find them? What does the operator look like?",
+      "col_5": "Behind the scenes of building the team."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M2: Entity & Legal",
+      "col_2": "4",
+      "col_3": "PM co-founder, Lawyer",
+      "col_4": "Why Delaware? What is the cap table? How does equity work? What does the DAO structure mean legally?",
+      "col_5": "Demystifying incorporation. MC asks the questions first-time founders have."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M3: Financial Model",
+      "col_2": "4",
+      "col_3": "PM co-founder, CFO-type advisor",
+      "col_4": "What do the numbers say? Are we going to make money? What are the assumptions? What breaks the model?",
+      "col_5": "Financial transparency. Numbers explained to a non-finance person."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M4: Fundraising",
+      "col_2": "6",
+      "col_3": "Nilo, CoS",
+      "col_4": "How much are we raising? From whom? What do investors get? What is the pitch? What are investors asking?",
+      "col_5": "Fundraising in real time. Investors watching see radical transparency."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M5: Formulation",
+      "col_2": "6",
+      "col_3": "Formulation expert",
+      "col_4": "What is in this product? Why these ingredients? What does the science say? How is this different from LMNT?",
+      "col_5": "Science content. The MC asks what every consumer wants to know."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M6: Supply Chain",
+      "col_2": "4",
+      "col_3": "Supply chain expert, PM co-founder",
+      "col_4": "Where does this get made? How long does it take? What can go wrong? How much does it cost?",
+      "col_5": "Manufacturing demystified."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M7: Regulatory",
+      "col_2": "4",
+      "col_3": "Regulatory consultant",
+      "col_4": "What can we legally say? What can't we say? What does FDA compliance mean? What do other brands get wrong?",
+      "col_5": "Compliance explained. Builds trust with sophisticated consumers."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M8: Brand",
+      "col_2": "6",
+      "col_3": "Creative director, Nilo",
+      "col_4": "What does the brand look like? Why these colors? Why this name? What feeling are we going for? How does packaging work?",
+      "col_5": "Brand reveal content. High engagement."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M9: Ecommerce",
+      "col_2": "4",
+      "col_3": "Product Person, PM co-founder",
+      "col_4": "What tools are we using? How does the store work? What does the customer experience feel like?",
+      "col_5": "Tech walkthrough. Useful for anyone building D2C."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M10: Pricing",
+      "col_2": "4",
+      "col_3": "Nilo, PM co-founder",
+      "col_4": "How much does it cost? Why that price? What are the margins? How do subscriptions work?",
+      "col_5": "Pricing transparency. Bold move that builds trust."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M11: VSL",
+      "col_2": "6",
+      "col_3": "DR creative, Nilo",
+      "col_4": "What is a VSL? How does direct response work? What makes a good hook? How do you test?",
+      "col_5": "DR education content. The MC learns direct response on camera."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M12: Ad Creative",
+      "col_2": "6",
+      "col_3": "DR creative, PM co-founder",
+      "col_4": "What do the ads look like? How many do we need? What makes an ad work? What is creative testing?",
+      "col_5": "Ad creative process. Interesting to other founders and marketers."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M13: Media Buying",
+      "col_2": "6",
+      "col_3": "Media buyer",
+      "col_4": "Where do ads run? How much do we spend? How do we know if it's working? What is ROAS? What is attribution?",
+      "col_5": "Media buying demystified. MC asks what every founder wonders."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M14: Testing",
+      "col_2": "4",
+      "col_3": "Media buyer, PM co-founder",
+      "col_4": "How do we know what works? What is A/B testing? How many tests do we run? What does statistical significance mean?",
+      "col_5": "Experimentation explained. Scientific method applied to ads."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M15: Landing Pages",
+      "col_2": "4",
+      "col_3": "CRO expert, Product Person",
+      "col_4": "What does the landing page look like? Why is it structured this way? What converts?",
+      "col_5": "Conversion psychology walkthrough."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M16: Content & SEO",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What content do we create beyond ads? How does SEO work for supplements? What is the long game?",
+      "col_5": "Content strategy overview."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M17: Email & SMS",
+      "col_2": "4",
+      "col_3": "Klaviyo expert",
+      "col_4": "What emails do customers get? When? Why? How does segmentation work? What is good open rate?",
+      "col_5": "Email marketing walkthrough."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M18: Email Flows",
+      "col_2": "4",
+      "col_3": "Klaviyo expert",
+      "col_4": "Walk me through the welcome series. What about abandoned cart? How do win-back flows work?",
+      "col_5": "Lifecycle email deep dive."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M19: CRM",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What is a CRM? How do we track customers? What is LTV? How do cohorts work?",
+      "col_5": "Customer data explained."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M20: Support",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What happens when someone has a problem? How fast do we respond? What is the 11-star experience?",
+      "col_5": "Customer care philosophy."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M21: Subscription",
+      "col_2": "4",
+      "col_3": "Retention expert",
+      "col_4": "How does subscription work? Why do people cancel? How do we keep them? What is churn?",
+      "col_5": "Subscription business model explained."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M22: Referral",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "How do we get customers to tell friends? What is the referral program? How does community work?",
+      "col_5": "Growth loop explanation."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M23: Influencer",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "How do we work with creators? What do we pay them? How do we find the right ones?",
+      "col_5": "Creator economy walkthrough."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M24: Fulfillment",
+      "col_2": "4",
+      "col_3": "3PL expert, PM co-founder",
+      "col_4": "How does the product get to the customer? What is a 3PL? What can go wrong? How fast is shipping?",
+      "col_5": "Fulfillment logistics explained."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M25: FinOps",
+      "col_2": "4",
+      "col_3": "CFO-type advisor",
+      "col_4": "How do we track money? What is bookkeeping? What reports do we look at? How do we know if we're healthy?",
+      "col_5": "Financial operations basics."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M26: Competitive Intel",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "Who are our competitors? What are they doing? Where are we different? What are we worried about?",
+      "col_5": "Competitive landscape overview."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M27: Customer Research",
+      "col_2": "6",
+      "col_3": "Nilo, PM co-founder",
+      "col_4": "Who is our customer? What do they care about? What language do they use? What are their objections?",
+      "col_5": "Customer deep dive. Rich content."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M28: Market Expansion",
+      "col_2": "4",
+      "col_3": "Nilo, PM co-founder",
+      "col_4": "Where do we go after DTC? Amazon? Retail? B2B? International? What is the long-term vision?",
+      "col_5": "Future vision content."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M29: PR",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "How do we get press? What is our story? What if something goes wrong publicly?",
+      "col_5": "Communications strategy."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M30: Analytics",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What numbers do we look at? How often? What are red flags? What does the dashboard show?",
+      "col_5": "Metrics explained."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M31: Hiring",
+      "col_2": "4",
+      "col_3": "PM co-founder, Nilo",
+      "col_4": "How do we hire? What roles? What do we look for? How do we evaluate people?",
+      "col_5": "Hiring philosophy."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M32: School Model",
+      "col_2": "6",
+      "col_3": "Nilo (deep)",
+      "col_4": "What is the school model? What are semesters? What is graduation? How does this apply to business?",
+      "col_5": "Novel framework explained. Nilo teaches the MC."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M33: Governance & CM",
+      "col_2": "8",
+      "col_3": "Nilo (deep)",
+      "col_4": "What is a Compliance Manager? Why does grading matter? How does governance work? How is this different from a normal startup?",
+      "col_5": "Core proprietary framework. Extensive. Nilo's deepest content."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M34: Trade Architecture",
+      "col_2": "6",
+      "col_3": "Nilo (deep)",
+      "col_4": "What is the Trade? Why 842 tabs? How does it all connect? What is the map of maps?",
+      "col_5": "Meta-content. How the system itself works."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M35: Execution Rhythms",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What does a day look like? A week? A month? How do we stay on track?",
+      "col_5": "Operating cadence walkthrough."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M36: Ops Infrastructure",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "What are SOPs? How does knowledge management work? What if someone quits?",
+      "col_5": "Ops infrastructure basics."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M37: AI & Automation",
+      "col_2": "4",
+      "col_3": "Nilo, PM co-founder",
+      "col_4": "How does AI help? What does Claude do? What is automatable? What isn't?",
+      "col_5": "AI in business operations explained."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M38: Strategic Frameworks",
+      "col_2": "10",
+      "col_3": "Nilo (deep, multiple sessions)",
+      "col_4": "What is coordination theory? What are the games? What is requisite variety? What is an eigenform? Walk me through each framework.",
+      "col_5": "The intellectual foundation. Multiple episodes. Nilo's philosophy made accessible."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M39: Conceptual",
+      "col_2": "8",
+      "col_3": "Nilo (deep, multiple sessions)",
+      "col_4": "What is implicate order? How does Bohm apply to business? What is the 75 questions protocol? Why does beauty matter?",
+      "col_5": "Deep philosophy. The why behind everything. Most unique content."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M40: Navigation",
+      "col_2": "4",
+      "col_3": "PM co-founder",
+      "col_4": "How does someone new use this system? What is the command center? Where do you start?",
+      "col_5": "Onboarding content. New hires watch this first."
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "TOTALS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "Total conversation hours across all 44 models: ~212 hours",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "At 2 sessions/day averaging 2 hours each: ~53 working days = ~10 weeks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "These don't all happen at once. They happen as each model enters production.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M0 + S3 conversations happen in Week 1-2 (the thesis and infrastructure).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "M2-M4 conversations happen in Week 2-3 (entity, financials, fundraising).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC CONVERSATION MAP — PER MODEL": "Everything else happens on the production schedule as models get built.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 53,
+  "sheet_name": "MC Conversation Map",
+  "sheet_index": 93
+}

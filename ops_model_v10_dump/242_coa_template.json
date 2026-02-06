@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "What to require from supplier, how to read it",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "WHAT IS A CoA?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Certificate of Analysis = Official document from manufacturer/lab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "proving product meets specifications.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Every batch should have a CoA.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "No CoA = don't accept the shipment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "REQUIRED CoA SECTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Section",
+      "col_2": "What It Contains",
+      "col_3": "What to Look For",
+      "col_4": "Red Flag"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Product ID",
+      "col_2": "Name, lot #, date",
+      "col_3": "Matches your order",
+      "col_4": "Wrong product/lot"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Manufacturer",
+      "col_2": "Company, facility, contact",
+      "col_3": "Legitimate company",
+      "col_4": "No contact info"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Physical specs",
+      "col_2": "Appearance, color, odor",
+      "col_3": "Matches description",
+      "col_4": "Unexpected appearance"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Mineral content",
+      "col_2": "Each mineral with amount",
+      "col_3": "Matches label claims",
+      "col_4": "Missing minerals or wrong amounts"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Heavy metals",
+      "col_2": "Lead, mercury, arsenic, cadmium",
+      "col_3": "Below FDA limits",
+      "col_4": "Any above limits"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Microbiological",
+      "col_2": "Bacteria, yeast, mold counts",
+      "col_3": "Within safe limits",
+      "col_4": "Any positive pathogen"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Contaminants",
+      "col_2": "Pesticides, solvents, etc.",
+      "col_3": "Not detected",
+      "col_4": "Any detected"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Test methods",
+      "col_2": "How each test was done",
+      "col_3": "Standard methods (USP, AOAC)",
+      "col_4": "No methods listed"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Lab info",
+      "col_2": "Lab name, accreditation",
+      "col_3": "Third-party, accredited",
+      "col_4": "In-house only"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Signature",
+      "col_2": "QA sign-off with date",
+      "col_3": "Signed and dated",
+      "col_4": "Missing signature"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "HEAVY METAL LIMITS (FDA)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Metal",
+      "col_2": "FDA Limit",
+      "col_3": "Our Spec (Stricter)",
+      "col_4": "Why It Matters"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Lead",
+      "col_2": "<3 ppm",
+      "col_3": "<1 ppm",
+      "col_4": "Neurotoxin, accumulates"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Mercury",
+      "col_2": "<0.5 ppm",
+      "col_3": "<0.1 ppm",
+      "col_4": "Neurotoxin"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Arsenic",
+      "col_2": "<10 ppm",
+      "col_3": "<3 ppm",
+      "col_4": "Carcinogen"
+    },
+    {
+      "CERTIFICATE OF ANALYSIS (CoA) TEMPLATE": "Cadmium",
+      "col_2": "<4.1 ppm",
+      "col_3": "<1 ppm",
+      "col_4": "Kidney damage"
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "CoA Template",
+  "sheet_index": 242
+}

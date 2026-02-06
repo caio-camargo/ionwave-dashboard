@@ -1,0 +1,532 @@
+{
+  "headers": [
+    "S4: IMPLEMENTATION PASSET SPEC",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "How to build File 2. Time × Roles. Tasks extracted from the Imagination Passet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "WHAT THE IMPLEMENTATION PASSET IS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "A separate spreadsheet file. Same Trade, different mode.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Imagination Passet: 103 TUPs organized by DOMAIN. 'Here's how media buying works.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Implementation Passet: ~80 TUPs organized by TIME. 'Here's what everyone does in Month 2.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Each implementation TUP points back to its source in the imagination passet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "The imagination passet is the textbook. The implementation passet is the semester schedule.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "STRUCTURE: TIME × ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Each tab is a time block. Within each tab, tasks are grouped by role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "You open 'Month 2' and you see:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "COS / GM:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Finalize 3PL contract (source: M24 Fulfillment) — Due: Week 5",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Approve first creative batch (source: M12 Ad Creative) — Due: Week 6",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "MEDIA BUYER:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Launch Meta campaign batch 1 at $500/day (source: M13) — Due: Week 5",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Set up attribution tracking (source: M30 Analytics) — Due: Week 5",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "EMAIL / LIFECYCLE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Welcome flow live in Klaviyo (source: M17 Email) — Due: Week 6",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ Abandoned cart flow live (source: M17) — Due: Week 7",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "FULFILLMENT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "☐ First inventory shipment to 3PL (source: M24) — Due: Week 6",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Every task has: description, source TUP, owner role, due date, status, dependencies.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "TIME CLUSTERS (the ~80 tabs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Cluster",
+      "col_2": "Time Block",
+      "col_3": "Tabs",
+      "col_4": "What Happens",
+      "col_5": "Key Roles Active"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-0\nPRE-LAUNCH\nFOUNDATION",
+      "col_2": "Month 1\n(Weeks 1-4)",
+      "col_3": "4 weekly tabs\n+ 1 summary",
+      "col_4": "Entity formed. Bank open. Product formulation locked. First inventory ordered. Site live. Brand finalized. First hires made (media buyer, email, CX).",
+      "col_5": "CoS (runs everything)\nFormulator (product)\nLawyer (entity)\nDesigner (brand)"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-1\nSOFT LAUNCH",
+      "col_2": "Month 2\n(Weeks 5-8)",
+      "col_3": "4 weekly tabs\n+ 1 summary",
+      "col_4": "First ads running. Landing pages live. Email flows active. Fulfillment tested with soft launch orders. Analytics tracking confirmed. First 50-100 orders.",
+      "col_5": "CoS\nMedia buyer\nEmail/lifecycle\nFulfillment ops\nCX agent"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-2\nVALIDATION",
+      "col_2": "Month 3\n(Weeks 9-12)",
+      "col_3": "4 weekly tabs\n+ 1 summary",
+      "col_4": "ROAS validated or killed. Subscription flow live. Retention metrics baseline established. Creative testing cadence running. Support processes stable.",
+      "col_5": "CoS\nMedia buyer\nEmail/lifecycle\nCreative\nSupport"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-3\nSCALE",
+      "col_2": "Months 4-6\n(Weeks 13-24)",
+      "col_3": "3 monthly tabs\n+ 1 quarter summary",
+      "col_4": "Scale ad spend from $500/day to $2-5K/day. Influencer partnerships live. Content/SEO started. Referral program launched. Second product consideration.",
+      "col_5": "CoS\nMedia buyer\nInfluencer mgr\nContent\nGrowth"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-4\nOPTIMIZE",
+      "col_2": "Months 7-12\n(Weeks 25-48)",
+      "col_3": "6 monthly tabs\n+ 1 half-year summary",
+      "col_4": "Profitability targets. LTV:CAC optimization. Retention improvements. Team scaling. Operational efficiency. Market expansion consideration.",
+      "col_5": "CoS\nFull team\nCFO (fractional)\nHR/hiring"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-5\nEXPAND",
+      "col_2": "Months 13-18\n(Weeks 49-72)",
+      "col_3": "6 monthly tabs\n+ 1 summary",
+      "col_4": "New channels. New products. New markets. Series A prep if applicable. Team maturity. Process documentation.",
+      "col_5": "CoS\nFull team\nNilo (strategic)"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "ICL-6\nONGOING OPS",
+      "col_2": "Repeating",
+      "col_3": "~10 template tabs\n(weekly/monthly cadences)",
+      "col_4": "Recurring tasks that never end. Weekly creative reviews. Monthly P&L review. Quarterly strategy. Annual planning.",
+      "col_5": "CoS\nFull team"
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "TOTAL: ~50-55 time-block tabs + ~10 ongoing templates + ~10 summary/dashboard tabs + ~5 reference tabs = ~75-80 tabs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "TAB TEMPLATE (what each time-block tab looks like)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Column",
+      "col_2": "What It Contains",
+      "col_3": "Example",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "A: Task ID",
+      "col_2": "Unique identifier",
+      "col_3": "IMP-M2-001",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "B: Task",
+      "col_2": "What needs to happen",
+      "col_3": "File Delaware C-Corp incorporation",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "C: Source TUP",
+      "col_2": "Which imagination TUP this comes from",
+      "col_3": "M2: Entity & Legal",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "D: Source Tab",
+      "col_2": "Specific tab reference",
+      "col_3": "M2-Formation",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "E: Owner Role",
+      "col_2": "Which role is responsible",
+      "col_3": "CoS",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "F: Owner Name",
+      "col_2": "Actual person (filled when hired)",
+      "col_3": "[TBD]",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "G: Due Date",
+      "col_2": "When it must be done",
+      "col_3": "2026-03-15",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "H: Dependencies",
+      "col_2": "What must be done before this",
+      "col_3": "IMP-M2-000 (lawyer retained)",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "I: Status",
+      "col_2": "Not Started / In Progress / Blocked / Done",
+      "col_3": "In Progress",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "J: Notes",
+      "col_2": "Context, blockers, updates",
+      "col_3": "Lawyer reviewing draft, expects 48hrs",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "K: Verified",
+      "col_2": "Does the completed task match the imagination spec?",
+      "col_3": "☐",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "HOW TO BUILD IT (extraction process)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "The implementation passet is EXTRACTED from the imagination passet, not invented fresh.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 1: Take each verified imagination TUP (V-tab grade A or B)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 2: Read the content tabs and P-tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 3: Extract every action implied by the model ('set up Meta account' from M13)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 4: Assign a time block (when does this action happen relative to launch?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 5: Assign an owner role (who does this?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 6: Identify dependencies (what must be done first?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Step 7: Place into the correct time-block tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Multiple imagination TUPs can merge into fewer implementation tasks:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "M5 (Formulation) + M6 (Supply Chain) + M7 (Regulatory) →",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "'Get product made' (a sequence of ~15 tasks across Months 1-2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "One imagination TUP can spawn tasks across multiple time blocks:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "M13 (Media Buying) →",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Month 1: Set up accounts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Month 2: Launch first campaigns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Month 3: Validate ROAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Month 4-6: Scale spend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Ongoing: Weekly creative refresh",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "WHO BUILDS IT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "The CoS builds the implementation passet as their first act.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "They read the verified imagination passet (the textbook).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "They extract every task into time blocks.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "The librarian helps with file management.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Claude helps with extraction (reading TUPs and generating task lists).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "WHEN:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "After the imagination passet is graded and approaching lock.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "Probably Week 10-12 of the imagination production cycle.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: IMPLEMENTATION PASSET SPEC": "The CoS is hired during this window specifically for this purpose.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 74,
+  "sheet_name": "S4-Implementation Spec",
+  "sheet_index": 8
+}

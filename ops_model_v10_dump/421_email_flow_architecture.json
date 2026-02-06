@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "EMAIL FLOW ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "EMAIL FLOW ARCHITECTURE": "Every automated email flow you need",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "CORE FLOWS (Must Have)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Flow",
+      "col_2": "Trigger",
+      "col_3": "Emails",
+      "col_4": "Goal",
+      "col_5": "Revenue Impact"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Welcome Series",
+      "col_2": "Sign up / First purchase",
+      "col_3": "4-6",
+      "col_4": "Build relationship, educate",
+      "col_5": "Foundation"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Abandoned Cart",
+      "col_2": "Add to cart, no purchase",
+      "col_3": "3",
+      "col_4": "Recover sale",
+      "col_5": "5-15% of revenue"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Abandoned Checkout",
+      "col_2": "Started checkout, no complete",
+      "col_3": "3",
+      "col_4": "Recover sale",
+      "col_5": "3-8% of revenue"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Post-Purchase",
+      "col_2": "After purchase",
+      "col_3": "5-7",
+      "col_4": "Onboard, reduce regret, get reviews",
+      "col_5": "LTV driver"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Win-Back",
+      "col_2": "No purchase in 60-90 days",
+      "col_3": "3-4",
+      "col_4": "Re-engage lapsed",
+      "col_5": "2-5% of revenue"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "SECONDARY FLOWS (Nice to Have)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Flow",
+      "col_2": "Trigger",
+      "col_3": "Emails",
+      "col_4": "Goal",
+      "col_5": "Revenue Impact"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Browse Abandon",
+      "col_2": "Viewed product, no cart",
+      "col_3": "2",
+      "col_4": "Nudge to cart",
+      "col_5": "1-3% of revenue"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Replenishment",
+      "col_2": "X days since purchase",
+      "col_3": "2-3",
+      "col_4": "Remind to reorder",
+      "col_5": "Repeat purchase"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Subscription Upsell",
+      "col_2": "One-time buyer",
+      "col_3": "3",
+      "col_4": "Convert to subscription",
+      "col_5": "LTV driver"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Review Request",
+      "col_2": "X days after delivery",
+      "col_3": "2",
+      "col_4": "Get reviews",
+      "col_5": "Social proof"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Referral",
+      "col_2": "After positive experience",
+      "col_3": "2",
+      "col_4": "Get referrals",
+      "col_5": "New customers"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "Birthday",
+      "col_2": "On birthday",
+      "col_3": "1",
+      "col_4": "Delight + sale",
+      "col_5": "Engagement"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "VIP",
+      "col_2": "High LTV customers",
+      "col_3": "Ongoing",
+      "col_4": "Retain best customers",
+      "col_5": "Retention"
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "FLOW PRIORITY ORDER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "BUILD IN THIS ORDER:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "1. Abandoned Cart (highest revenue impact)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "2. Welcome Series (foundation for everything)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "3. Post-Purchase (drives LTV)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "4. Abandoned Checkout",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "5. Win-Back",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "6. Replenishment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EMAIL FLOW ARCHITECTURE": "7. Everything else",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Email Flow Architecture",
+  "sheet_index": 421
+}

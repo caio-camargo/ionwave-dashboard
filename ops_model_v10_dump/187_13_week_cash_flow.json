@@ -1,0 +1,91 @@
+{
+  "headers": [
+    "13-WEEK CASH FLOW FORECAST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "13-WEEK CASH FLOW FORECAST": "Week-by-week cash in/out.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "Category",
+      "col_2": "Wk1",
+      "col_3": "Wk2",
+      "col_4": "Wk3",
+      "col_5": "Wk4"
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "CASH IN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "Shopify Sales",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "Subscription Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "CASH OUT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "Inventory",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "Ad Spend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "3PL/Shipping",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "NET CASH FLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "13-WEEK CASH FLOW FORECAST": "ENDING CASH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "13-Week Cash Flow",
+  "sheet_index": 187
+}

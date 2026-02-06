@@ -1,0 +1,207 @@
+{
+  "headers": [
+    "FDA STRUCTURE/FUNCTION CLAIMS GUIDE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "What we CAN say vs what we CAN'T — with examples",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "THE BASIC RULE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "Supplements CANNOT claim to:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Diagnose, treat, cure, or prevent any disease",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "Supplements CAN claim to:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Affect structure or function of the body",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Support general well-being",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "The line is: DISEASE vs BODY FUNCTION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "ALLOWED vs NOT ALLOWED EXAMPLES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "NOT Allowed (Disease Claim)",
+      "col_2": "ALLOWED (Structure/Function)",
+      "col_3": "Why"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Prevents dehydration\"",
+      "col_2": "\"Supports hydration\"",
+      "col_3": "Dehydration = medical condition"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Treats muscle cramps\"",
+      "col_2": "\"Supports muscle function\"",
+      "col_3": "Cramps = symptom/condition"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Cures fatigue\"",
+      "col_2": "\"Supports energy levels\"",
+      "col_3": "Cure = treatment claim"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Prevents heart disease\"",
+      "col_2": "\"Supports cardiovascular health\"",
+      "col_3": "Heart disease = disease"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Reduces blood pressure\"",
+      "col_2": "\"Supports healthy blood pressure\"",
+      "col_3": "Reduces = drug-like claim"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"For diabetics\"",
+      "col_2": "\"Supports healthy blood sugar already in normal range\"",
+      "col_3": "Diabetes = disease"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Treats headaches\"",
+      "col_2": "\"Supports normal nerve function\"",
+      "col_3": "Headache = symptom"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"Boosts immune system to prevent colds\"",
+      "col_2": "\"Supports immune function\"",
+      "col_3": "Colds = disease"
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "SAFE CLAIM LANGUAGE FOR IONWAVE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports hydration'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports electrolyte balance'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports muscle function'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports nerve function'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports energy production'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports mineral intake'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports recovery after exercise'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Supports healthy metabolism'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ '78 naturally occurring minerals'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Ocean-sourced trace minerals'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "✓ 'Zero sugar, zero artificial ingredients'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "REQUIRED DISCLAIMER",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "If making structure/function claims, MUST include:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "\"These statements have not been evaluated by the Food and Drug",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "Administration. This product is not intended to diagnose, treat,",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "cure, or prevent any disease.\"",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "This must appear on:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Product label",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Website (any page with claims)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FDA STRUCTURE/FUNCTION CLAIMS GUIDE": "• Ads (or link to it)",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 39,
+  "sheet_name": "FDA Claims Guide",
+  "sheet_index": 252
+}

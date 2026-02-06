@@ -1,0 +1,879 @@
+{
+  "headers": [
+    "S41: RESEARCHER MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "S41: RESEARCHER MAP": "Who to pitch. What they get. What we get. Priority order.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "FLASH TEAMS / ORGANIZATIONAL DESIGN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Researcher",
+      "col_2": "Institution",
+      "col_3": "Why They Care",
+      "col_4": "What They Get",
+      "col_5": "What We Get",
+      "col_6": "Priority"
+    },
+    {
+      "S41: RESEARCHER MAP": "Melissa Valentine",
+      "col_2": "Stanford HAI\nManagement Science",
+      "col_3": "She INVENTED flash teams. We're running her model in the wild at 103-TUP scale.",
+      "col_4": "Real-world case study of flash teams. Publishable data. Validation of her theory.",
+      "col_5": "\"Research Collaborator, Stanford HAI\"\nFlash teams credential.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Michael Bernstein",
+      "col_2": "Stanford CS\nHAI Co-Author",
+      "col_3": "Co-wrote the flash teams book. Studies crowd computing + AI-augmented work.",
+      "col_4": "Same as Valentine. Plus: Claude as AI co-pilot data.",
+      "col_5": "Stanford CS affiliation. AI-augmented work angle.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "SWARM INTELLIGENCE / COLLECTIVE BEHAVIOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Researcher",
+      "col_2": "Institution",
+      "col_3": "Why They Care",
+      "col_4": "What They Get",
+      "col_5": "What We Get",
+      "col_6": "Priority"
+    },
+    {
+      "S41: RESEARCHER MAP": "Radhika Nagpal",
+      "col_2": "Princeton\nRobotics",
+      "col_3": "Founded/sold company (Root → iRobot). Builds robot swarms. Entrepreneurial mindset.",
+      "col_4": "Human swarm data. Bridge paper between robotic + human coordination.",
+      "col_5": "\"Research Contributor, Princeton Robotics\"\nEntrepreneurial + academic credential.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Iain Couzin",
+      "col_2": "Max Planck\nAnimal Behavior",
+      "col_3": "THE name in collective behavior. 100K+ citations. Royal Society Fellow.",
+      "col_4": "Human collective behavior case study. Bridges animal → human.",
+      "col_5": "\"Research Collaborator, Max Planck\"\nMaximum prestige.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Simon Levin",
+      "col_2": "Princeton\nEcology",
+      "col_3": "National Medal of Science. Complex adaptive systems. Works with Couzin.",
+      "col_4": "Venture studio as complex adaptive system case study.",
+      "col_5": "Princeton connection. Prestige.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Simon Garnier",
+      "col_2": "NJIT\nSwarm Lab",
+      "col_3": "Rising star. Collaborates with Nagpal. More accessible.",
+      "col_4": "Applied swarm intelligence data. Publication opportunity.",
+      "col_5": "Entry point to Nagpal network.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Vijay Kumar",
+      "col_2": "Penn Engineering\n(Dean)",
+      "col_3": "Multi-agent aerial robots. Famous TED talk. Industry connections.",
+      "col_4": "Human multi-agent coordination data.",
+      "col_5": "Penn Engineering credential. Network.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Marco Dorigo",
+      "col_2": "Brussels\nIRIDIA",
+      "col_3": "Invented ant colony optimization. 100K+ citations.",
+      "col_4": "Human \"foraging\" systems for talent/opportunities.",
+      "col_5": "ACO credential. EU network.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Deborah Gordon",
+      "col_2": "Stanford\nBiology",
+      "col_3": "Ant collective intelligence. 30+ years. Stanford.",
+      "col_4": "Ant colony → human organization bridge.",
+      "col_5": "Stanford Biology credential.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "OUTREACH STRATEGY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "PRIORITY 1 (send first week):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "1. Melissa Valentine + Michael Bernstein (Stanford) — we're running THEIR model",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "2. Radhika Nagpal (Princeton) — entrepreneurial, builds actual swarms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "PRIORITY 2 (send week 2 if no response from P1):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "3. Iain Couzin (Max Planck) — maximum prestige",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "4. Simon Garnier (NJIT) — accessible, entry to Nagpal network",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "PRIORITY 3 (opportunistic):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "5. Deborah Gordon (Stanford) — if Valentine connects us",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "6. Vijay Kumar (Penn) — if we want Penn connection",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "THE PITCH (universal frame):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "'We're running a 103-model coordination experiment using Stanford's flash teams model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "40-60 distributed contributors, zero centralized management, coordinated only by a",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "shared artifact and an AI co-pilot. We have full instrumented data. Want to co-author?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Valentine/Bernstein get the flash teams frame.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Nagpal/Couzin get the swarm intelligence frame.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Both are true. Same experiment, different lens.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "INVESTOR-RESEARCHERS (VC + MECHANISM DESIGN)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "These people think about coordination mechanisms professionally AND deploy capital. The pitch is stealth: 'feedback on this paper.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Researcher",
+      "col_2": "Institution",
+      "col_3": "Why They Care",
+      "col_4": "What They Get",
+      "col_5": "What We Get",
+      "col_6": "Priority"
+    },
+    {
+      "S41: RESEARCHER MAP": "Tim Roughgarden",
+      "col_2": "a16z crypto\nHead of Research\n+ Columbia CS",
+      "col_3": "Algorithmic mechanism design god. Literally wrote the textbook. Now runs research inside a crypto VC. Built \"research within VC\" — exactly the model.",
+      "col_4": "Real-world case study of mechanism design applied to organizational coordination. Novel application of his theory.",
+      "col_5": "a16z crypto research credential.\nDirect line to $7B+ crypto fund.\nMechanism design validation.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Dan Robinson",
+      "col_2": "Paradigm\nGP & Head of Research",
+      "col_3": "Invented Uniswap mechanisms. Built industrial research org within VC. Called Paradigm a \"weird experiment\" that worked. Ships code + publishes papers.",
+      "col_4": "Human coordination mechanism case study. Bridge between protocol mechanism design and organizational mechanism design.",
+      "col_5": "Paradigm research credential.\nDirect line to top crypto fund.\n\"Research within VC\" peer validation.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Scott Kominers",
+      "col_2": "a16z crypto\nResearch Partner\n+ Harvard Business School",
+      "col_3": "Mechanism design + marketplaces + NFTs. Harvard professor who also works inside a16z. Bridges academia + practice perfectly. Publishes on incentive design.",
+      "col_4": "Novel marketplace design case study. Flash team coordination as marketplace mechanism. Equity allocation as auction theory.",
+      "col_5": "Harvard Business School + a16z crypto dual credential.\nAcademic + investor validation.",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Chris Dixon",
+      "col_2": "a16z crypto\nFounder/Managing Partner\n$7B+ AUM",
+      "col_3": "Wrote \"Read Write Own.\" Leads entire crypto fund. Thinks about ownership, coordination, and decentralized networks at the thesis level.",
+      "col_4": "Studio 4 as \"Read Write Own\" applied to venture creation. Ownership-first coordination model.",
+      "col_5": "a16z crypto investment relationship.\nHighest-level VC validation.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Ali Yahya",
+      "col_2": "a16z crypto\nGeneral Partner",
+      "col_3": "Co-leads a16z crypto with Dixon. Technical focus. Thinks about protocol design and network effects.",
+      "col_4": "Technical case study of coordination protocol design applied to human organizations.",
+      "col_5": "a16z crypto technical validation.\nInvestment relationship.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Dan Boneh",
+      "col_2": "a16z crypto\nSenior Research Advisor\n+ Stanford CS",
+      "col_3": "Stanford CS professor. Co-directs Stanford Blockchain Research Center. Cryptography + protocol design. Academic heavyweight inside a16z.",
+      "col_4": "Novel application of distributed systems principles to organizational coordination.",
+      "col_5": "Stanford CS + a16z dual credential.\nStanford Blockchain Research connection.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Georgios Konstantopoulos",
+      "col_2": "Paradigm\nGP & CTO",
+      "col_3": "Built Foundry toolkit. Kept showing up in Paradigm portfolio companies before they hired him. Builder-turned-investor. Ships infrastructure.",
+      "col_4": "Infrastructure perspective on coordination tooling. Trade as coordination infrastructure.",
+      "col_5": "Paradigm technical credential.\nBuilder validation.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Charlie Noyes",
+      "col_2": "Paradigm\nGeneral Partner",
+      "col_3": "High school blockchain research recognized by NASA/Intel. Dropped out of MIT to join Pantera. Young, technical, pattern-recognizer.",
+      "col_4": "Novel coordination pattern. New organizational primitive.",
+      "col_5": "Paradigm GP relationship.\nEarly-stage pattern recognition.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Jesse Walden",
+      "col_2": "Variant Fund\nFounder",
+      "col_3": "Progressive decentralization thesis. Media-tech-crypto intersection. Thinks about how organizations decentralize over time.",
+      "col_4": "Studio 4 as progressive decentralization case study. Trade = the coordination artifact that enables decentralization.",
+      "col_5": "Variant Fund relationship.\nProgressive decentralization credential.",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Joel Monegro",
+      "col_2": "Placeholder VC\nPartner",
+      "col_3": "Fat protocols thesis author. Mechanism design focus. Thinks about where value accrues in decentralized systems.",
+      "col_4": "Value accrual in decentralized venture creation. Where does value accumulate in the Trade model?",
+      "col_5": "Placeholder relationship.\nFat protocols framework applied to org design.",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "PROTOCOL FOUNDERS — STEALTH PAPER TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Massively rich technical people who designed their own protocols. Relevant to coordination, governance, mechanism design.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "These people get the paper as 'feedback request.' They respond to ideas, not pitches.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Person",
+      "col_2": "Protocol / Role",
+      "col_3": "Net Worth\n(Approx)",
+      "col_4": "Why Relevant",
+      "col_5": "Stealth Angle",
+      "col_6": "Priority"
+    },
+    {
+      "S41: RESEARCHER MAP": "Vitalik Buterin",
+      "col_2": "Ethereum\nCo-founder",
+      "col_3": "~$1B+",
+      "col_4": "Writes obsessively about coordination, governance, DAOs, quadratic funding. Co-authored \"Liberal Radicalism\" with Glen Weyl. Recently proposed AI-powered DAO reformation. Thinks about EXACTLY this problem — decentralized agents coordinating without central control — in code. You do it in org design.",
+      "col_5": "\"Your work on coordination mechanisms in blockchain governance informed how I think about coordination artifacts in organizational design. Would love your feedback on this working paper.\"",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Balaji Srinivasan",
+      "col_2": "Network State\nEx-CTO Coinbase\nEx-GP a16z",
+      "col_3": "~$100M-1B+",
+      "col_4": "Wrote \"The Network State\" — assembling digital communities that coordinate to crowdfund territory. Stanford BS/MS/PhD. Started The Network School (Malaysia, 2024). His 7-step network state process maps almost perfectly onto the Trade lifecycle. Building the POLITICAL version of what you're building the BUSINESS version of.",
+      "col_5": "\"The Trade is a network state for venture creation. Same architecture: cloud-first community, coordination artifact, decentralized agents, emergent territory. Different substrate.\"",
+      "col_6": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Emin Gün Sirer",
+      "col_2": "Avalanche\nCo-founder\n+ Cornell CS Prof",
+      "col_3": "~$500M+",
+      "col_4": "Designed Avalanche consensus inspired by GOSSIP NETWORKS. Still runs IC3 research group at Cornell mentoring PhDs. Academic + founder + rich. Gossip network angle is directly relevant — information propagation in decentralized systems is exactly what the librarian does in the Trade.",
+      "col_5": "\"Avalanche's gossip-based consensus maps onto how information propagates through the Trade. The librarian IS a gossip protocol for organizational knowledge.\"",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Sreeram Kannan",
+      "col_2": "EigenLayer\nFounder\n+ UW Professor",
+      "col_3": "~$100M+\n($15B TVL)",
+      "col_4": "PhD in information theory. Applied info theory math to cryptoeconomic security design. Still part-time academic advising grad students on mechanism design. Published at IEEE INFOCOM 2025. Academic-founder hybrid like Nagpal. Restaking = borrowing security = borrowing coordination capacity.",
+      "col_5": "\"EigenLayer lets protocols borrow security. The Trade lets ventures borrow coordination. Same principle — shared infrastructure for decentralized systems.\"",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Stani Kulechov",
+      "col_2": "Aave + Lens Protocol\nFounder",
+      "col_3": "~$100M+",
+      "col_4": "Created Aave (largest DeFi lending). Helped draft EU MiCA standards. Founded Lens Protocol (decentralized social graph). Aave governance IS decentralized coordination of capital allocation. Lens IS decentralized coordination of social relationships.",
+      "col_5": "\"Aave coordinates capital allocation without a bank. The Trade coordinates venture creation without a CEO. Both are coordination protocols replacing centralized intermediaries.\"",
+      "col_6": "⭐⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Hayden Adams",
+      "col_2": "Uniswap\nCreator",
+      "col_3": "~$100M+",
+      "col_4": "Automated market maker IS a coordination mechanism. Solves double coincidence of wants without central exchange. Deeply technical on mechanism design. Dan Robinson (Paradigm) invented the core mechanisms.",
+      "col_5": "\"Uniswap coordinates buyers and sellers without an exchange. The Trade coordinates operators and experts without management. Both are automated coordination mechanisms.\"",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Anatoly Yakovenko",
+      "col_2": "Solana\nCo-founder",
+      "col_3": "~$200-500M",
+      "col_4": "Designed proof-of-history consensus. Qualcomm systems engineer background. Less directly relevant to coordination theory but deeply technical on distributed systems consensus — which IS coordination at the protocol level.",
+      "col_5": "\"Solana's proof-of-history creates shared temporal reference for distributed nodes. The Trade's P-tabs create shared structural reference for distributed contributors.\"",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Gavin Wood",
+      "col_2": "Polkadot + Substrate\nEthereum Co-founder",
+      "col_3": "~$500M+",
+      "col_4": "Wrote Ethereum Yellow Paper. Designed Polkadot — entire thesis is interoperability between AUTONOMOUS CHAINS. Substrate lets you build custom chains that coordinate. Coordination between autonomous systems is the exact problem.",
+      "col_5": "\"Polkadot coordinates autonomous chains. Studio 4 coordinates autonomous ventures. Both solve the interoperability problem for sovereign systems.\"",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Charles Hoskinson",
+      "col_2": "Cardano\nFounder\nEthereum Co-founder",
+      "col_3": "~$500M+",
+      "col_4": "Deep on governance and formal verification. Talks about decentralized governance extensively. More political than coordination-theoretical but thinks about institutional design.",
+      "col_5": "\"Cardano's governance model is formal. The Trade's governance model is artifact-mediated. Both attempt to make decentralized decision-making rigorous.\"",
+      "col_6": "⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Ilia Polosukhin",
+      "col_2": "NEAR Protocol\nCo-founder",
+      "col_3": "~$100M+",
+      "col_4": "Co-authored \"Attention Is All You Need\" (the Transformer paper that created modern AI). Ukrainian engineer. NEAR's BOS lets developers compose across chains. Composability IS coordination. Also bridges AI + crypto.",
+      "col_5": "\"NEAR enables composability across chains. The Trade enables composability across ventures. Plus: Claude as AI co-pilot in the Trade = your Transformer work applied to organizational intelligence.\"",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "Andre Cronje",
+      "col_2": "Yearn Finance + Fantom\nDir. of Engineering",
+      "col_3": "~$50-200M",
+      "col_4": "Built Yearn Finance's \"fair launch\" — distributed governance to early users. Ships code first, blogs later. \"I Test In Prod\" philosophy. Built Solidly v3 AMM with ve(3,3) gauges. DeFi builder culture icon.",
+      "col_5": "\"Yearn's fair launch distributed governance to contributors. The Trade distributes equity to flash team contributors. Both reward the builders, not the capitalists.\"",
+      "col_6": "⭐⭐⭐"
+    },
+    {
+      "S41: RESEARCHER MAP": "UPDATED OUTREACH STRATEGY — THREE AUDIENCES, ONE PAPER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "THE PAPER: 'Coordination Artifacts as Management Substitutes: A 104-TUP Experiment in Decentralized Venture Creation'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Three audiences. Same paper. Different framing.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "AUDIENCE 1: STEALTH PAPER TARGETS (send first)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Frame: 'I'd love your feedback on this working paper.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "They read it. They realize it's real. They respond or forward.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 1 (Week 1):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "1. Vitalik Buterin — coordination + governance + DAOs. His exact topic.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "2. Balaji Srinivasan — network state for venture creation. His exact thesis.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "3. Tim Roughgarden (a16z) — mechanism design applied to orgs. His exact field.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "4. Dan Robinson (Paradigm) — research within VC. His exact model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 2 (Week 2, if Wave 1 doesn't hit):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "5. Scott Kominers (a16z + Harvard) — marketplace mechanism design.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "6. Emin Gün Sirer (Avalanche + Cornell) — gossip networks + academic-founder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "7. Jesse Walden (Variant) — progressive decentralization thesis.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 3 (Opportunistic):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "8. Sreeram Kannan (EigenLayer + UW) — info theory + mechanism design.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "9. Stani Kulechov (Aave + Lens) — decentralized coordination protocols.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "10. Joel Monegro (Placeholder) — fat protocols + value accrual.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "AUDIENCE 2: ACADEMIC RESEARCHERS (send simultaneously)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Frame: 'We're running your model in the wild. Want to co-author?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 1 (Week 1):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "1. Melissa Valentine + Michael Bernstein (Stanford HAI) — flash teams. THEIR model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "2. Radhika Nagpal (Princeton) — swarm robotics + entrepreneurial.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 2 (Week 2):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "3. Iain Couzin (Max Planck) — collective behavior. Maximum prestige.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "4. Simon Garnier (NJIT) — accessible, entry to Nagpal network.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "WAVE 3 (Opportunistic):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "5. Deborah Gordon (Stanford) — ant collective intelligence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "6. Vijay Kumar (Penn) — multi-agent aerial robots.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "7. Dan Boneh (Stanford + a16z) — bridges both audiences.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "AUDIENCE 3: INVESTMENT CONVERSATIONS (later, after validation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "Frame: 'Princeton/Stanford is studying our model. Here's the data room.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "1. Chris Dixon (a16z) — Read Write Own thesis.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "2. Ali Yahya (a16z) — technical co-lead.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "3. Georgios Konstantopoulos (Paradigm) — infrastructure builder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "4. Charlie Noyes (Paradigm) — pattern recognizer.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "TOTAL CONTACT LIST: 26 PEOPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "═══════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "ANY ONE of these responding turns into: credential, investment lead, co-author,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "or network access to everyone else on the list.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "S41: RESEARCHER MAP": "The paper does the work. You just have to write it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 108,
+  "sheet_name": "S41-Researcher Map",
+  "sheet_index": 72
+}

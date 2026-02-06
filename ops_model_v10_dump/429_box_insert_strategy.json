@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "BOX INSERT STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "BOX INSERT STRATEGY": "What goes IN the box. Unboxing = brand moment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOX INSERT STRATEGY": "Insert",
+      "col_2": "Purpose",
+      "col_3": "When",
+      "col_4": "Cost"
+    },
+    {
+      "BOX INSERT STRATEGY": "Thank you card",
+      "col_2": "Personal touch",
+      "col_3": "Every order",
+      "col_4": "$0.15"
+    },
+    {
+      "BOX INSERT STRATEGY": "How-to guide",
+      "col_2": "Usage help",
+      "col_3": "First order",
+      "col_4": "$0.25"
+    },
+    {
+      "BOX INSERT STRATEGY": "Referral card",
+      "col_2": "$10 give/$10 get",
+      "col_3": "Every order",
+      "col_4": "$0.15"
+    },
+    {
+      "BOX INSERT STRATEGY": "Sample",
+      "col_2": "Cross-sell",
+      "col_3": "Every 3rd order",
+      "col_4": "$1-3"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Box Insert Strategy",
+  "sheet_index": 429
+}

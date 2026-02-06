@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "PATH DEPENDENCY MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PATH DEPENDENCY MAP": "Which past decisions constrain future options? What degrees of freedom remain?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Path dependency: Early choices constrain later options. Some doors close once you walk through others.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Know what you're locked into vs what you can still change.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "LOCKED IN (Hard/Expensive to Change)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Decision Made",
+      "col_2": "When",
+      "col_3": "What It Locks Us Into",
+      "col_4": "Cost to Change",
+      "col_5": "Should We Reconsider?"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Brand name: IonWave",
+      "col_2": "T=0",
+      "col_3": "All marketing, domain, etc.",
+      "col_4": "Very high",
+      "col_5": "No"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Product formulation",
+      "col_2": "T=0",
+      "col_3": "Supplier, claims, positioning",
+      "col_4": "High",
+      "col_5": "Only if PMF fails"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Shopify platform",
+      "col_2": "Pre-launch",
+      "col_3": "Tech stack, integrations",
+      "col_4": "Medium",
+      "col_5": "Not now"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Price point: ~$49",
+      "col_2": "Launch",
+      "col_3": "Margins, positioning",
+      "col_4": "Medium",
+      "col_5": "Test variations"
+    },
+    {
+      "PATH DEPENDENCY MAP": "D2C first strategy",
+      "col_2": "T=0",
+      "col_3": "Capabilities, focus",
+      "col_4": "Low",
+      "col_5": "Revisit at $50K MRR"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Meta as primary channel",
+      "col_2": "Launch",
+      "col_3": "Skills, creative, data",
+      "col_4": "Low",
+      "col_5": "Diversify gradually"
+    },
+    {
+      "PATH DEPENDENCY MAP": "STILL FLEXIBLE (Can Change Easily)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Area",
+      "col_2": "Status",
+      "col_3": "Flexibility",
+      "col_4": "Cost to Change",
+      "col_5": "When to Reconsider"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Ad creative approach",
+      "col_2": "Ongoing",
+      "col_3": "Can always change",
+      "col_4": "Very low",
+      "col_5": "Constantly"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Email strategy",
+      "col_2": "Ongoing",
+      "col_3": "Can rebuild flows",
+      "col_4": "Low",
+      "col_5": "If not working"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Pricing specifics",
+      "col_2": "Ongoing",
+      "col_3": "Can test and adjust",
+      "col_4": "Low",
+      "col_5": "Test regularly"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Landing pages",
+      "col_2": "Ongoing",
+      "col_3": "Can rebuild anytime",
+      "col_4": "Very low",
+      "col_5": "Optimize continuously"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Target ICP focus",
+      "col_2": "Ongoing",
+      "col_3": "Can shift messaging",
+      "col_4": "Low",
+      "col_5": "Based on data"
+    },
+    {
+      "PATH DEPENDENCY MAP": "Team structure",
+      "col_2": "Early",
+      "col_3": "Can reorganize",
+      "col_4": "Medium",
+      "col_5": "If not working"
+    },
+    {
+      "PATH DEPENDENCY MAP": "DEGREES OF FREEDOM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Highly constrained: Brand, product, platform",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Moderately constrained: Pricing, channel mix, team",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "Very flexible: Creative, messaging, tactics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PATH DEPENDENCY MAP": "→ Focus optimization energy on flexible areas. Accept constraints where locked in.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Path Dependency Map",
+  "sheet_index": 884
+}

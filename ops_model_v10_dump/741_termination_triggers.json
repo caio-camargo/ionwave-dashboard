@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "TERMINATION TRIGGERS"
+  ],
+  "rows": [
+    {
+      "TERMINATION TRIGGERS": "What specifically causes exit - no surprises"
+    },
+    {
+      "TERMINATION TRIGGERS": "IMMEDIATE TERMINATION (For Cause)"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Fraud, theft, or misappropriation of funds"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Gross negligence causing material harm"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Breach of confidentiality"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Falsification of records or metrics"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Failure to perform duties for 5+ consecutive days without notice"
+    },
+    {
+      "TERMINATION TRIGGERS": "TERMINATION WITH NOTICE (Performance)"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Missing 3+ milestones without valid explanation"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Consistently below \"Meets\" standard for 30+ days"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Failure to implement feedback after 2 warnings"
+    },
+    {
+      "TERMINATION TRIGGERS": "• Loss of required capability (e.g., ad account banned)"
+    },
+    {
+      "TERMINATION TRIGGERS": "MUTUAL TERMINATION"
+    },
+    {
+      "TERMINATION TRIGGERS": "Either party may terminate with 14 days written notice"
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "Termination Triggers",
+  "sheet_index": 741
+}

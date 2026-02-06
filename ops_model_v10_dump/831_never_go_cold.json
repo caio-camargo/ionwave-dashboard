@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "NEVER GO COLD NETWORK",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "NEVER GO COLD NETWORK": "Build relationships so you never cold outreach",
+      "col_2": null
+    },
+    {
+      "NEVER GO COLD NETWORK": "Suppliers",
+      "col_2": "Know 3+ backup suppliers personally"
+    },
+    {
+      "NEVER GO COLD NETWORK": "3PLs",
+      "col_2": "Relationships with 2-3 fulfillment partners"
+    },
+    {
+      "NEVER GO COLD NETWORK": "Creators",
+      "col_2": "Network of 20+ UGC creators"
+    },
+    {
+      "NEVER GO COLD NETWORK": "Advisors",
+      "col_2": "Industry experts who take your calls"
+    },
+    {
+      "NEVER GO COLD NETWORK": "Operators",
+      "col_2": "Other D2C founders for benchmarking"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Never Go Cold",
+  "sheet_index": 831
+}

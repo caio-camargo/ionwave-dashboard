@@ -1,0 +1,868 @@
+{
+  "headers": [
+    "365-DAY PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "365-DAY PLAN": "From launch to $100K MRR - the full year roadmap",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "YEAR 1 NORTH STAR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "END STATE: $100K MRR with path to profitability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "This means:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• ~2,000 customers at $50 AOV (or equivalent)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Sustainable CAC (<$40)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Positive contribution margin",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Retention >60%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Scalable operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "QUARTERLY BREAKDOWN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Quarter",
+      "col_2": "Phase",
+      "col_3": "Focus",
+      "col_4": "Target MRR",
+      "col_5": "Key Milestones"
+    },
+    {
+      "365-DAY PLAN": "Q1 (Days 1-90)",
+      "col_2": "TABLE SET + TEST",
+      "col_3": "Find PMF",
+      "col_4": "$5-10K",
+      "col_5": "First sale, 3+ winning ads"
+    },
+    {
+      "365-DAY PLAN": "Q2 (Days 91-180)",
+      "col_2": "SCALE",
+      "col_3": "Grow efficiently",
+      "col_4": "$20-30K",
+      "col_5": "Sustainable CAC, retention system"
+    },
+    {
+      "365-DAY PLAN": "Q3 (Days 181-270)",
+      "col_2": "OPTIMIZE",
+      "col_3": "Improve economics",
+      "col_4": "$50-60K",
+      "col_5": "LTV increase, CAC decrease"
+    },
+    {
+      "365-DAY PLAN": "Q4 (Days 271-365)",
+      "col_2": "ACCELERATE",
+      "col_3": "Hit $100K",
+      "col_4": "$100K",
+      "col_5": "Channel expansion, team growth"
+    },
+    {
+      "365-DAY PLAN": "Q1: TABLE SET + TEST (Days 1-90)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "See: 90-Day Plan for detailed breakdown",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Key Outcomes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Product launched",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ 100+ ads tested",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ PMF decision made (scale/pivot/kill)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ $5-10K MRR (if scaling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Resources:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Team: Operator (full-time)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Budget: $15-25K (inventory + ads + ops)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Risks:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• No winning ads → Pivot creative strategy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Supply issues → Backup supplier",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Cash burn too fast → Reduce test budget",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Q2: SCALE (Days 91-180)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Goal: Grow while maintaining unit economics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 4:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Scale ad spend to $200-500/day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Add TikTok as second channel",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Build subscription program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Launch referral program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 5:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Scale ad spend to $500-1000/day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Hire first contractor (creative)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Optimize email retention flows",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Launch loyalty program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 6:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Reach $20-30K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Stabilize operations for scale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Build creative production system",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Quarterly review and plan Q3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Key Outcomes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ $20-30K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ CAC stable at <$40",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Second channel working",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Subscription rate >30%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Resources:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Team: Operator + 1 contractor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Budget: $30-50K (increased inventory, ad spend)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Q3: OPTIMIZE (Days 181-270)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Goal: Improve economics, build moat",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 7:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Deep retention analysis by cohort",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ A/B test pricing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Negotiate better supplier terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Launch win-back campaigns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 8:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Introduce upsells/cross-sells",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Build community (FB group or similar)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Launch ambassador program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Explore B2B opportunities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 9:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Reach $50-60K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Document all SOPs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Build dashboard for all KPIs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Plan Q4 acceleration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Key Outcomes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ $50-60K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ LTV increased 20%+",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ CAC decreased or stable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Community launched",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Operations documented",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Resources:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Team: Operator + 2-3 contractors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Consider: First full-time hire",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Q4: ACCELERATE (Days 271-365)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Goal: Hit $100K MRR, prepare for Year 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 10:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Scale ad spend to $2-3K/day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Launch Google/YouTube ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Holiday season preparation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Inventory for Q4 demand",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 11:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Black Friday / holiday campaigns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ PR push (if warranted)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Influencer gifting campaign",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Prepare Year 2 plan",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "MONTH 12:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Hit $100K MRR 🎯",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Annual retrospective",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Year 2 planning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Team expansion plan",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Consider fundraise (if needed for Year 2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Key Outcomes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ $100K MRR achieved",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ 3+ channels working",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Team in place for Year 2",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Clear path to profitability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "☐ Year 2 plan approved",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Resources:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Team: Operator + 3-5 people",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "• Budget: $100K+ (significant inventory, ad spend)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "KEY MILESTONES TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day",
+      "col_2": "Milestone",
+      "col_3": "Success Metric",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 1",
+      "col_2": "Entity formed",
+      "col_3": "EIN obtained",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 14",
+      "col_2": "Supplier locked",
+      "col_3": "Agreement signed",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 21",
+      "col_2": "Store live",
+      "col_3": "Can take orders",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 30",
+      "col_2": "TABLE SET",
+      "col_3": "Ready to sell",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 35",
+      "col_2": "First sale",
+      "col_3": "FIRST BLOOD",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 60",
+      "col_2": "50 ads tested",
+      "col_3": "Learning velocity",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 90",
+      "col_2": "PMF decision",
+      "col_3": "3+ winners OR pivot/kill",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 120",
+      "col_2": "$15K MRR",
+      "col_3": "Growth trajectory",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 150",
+      "col_2": "2nd channel live",
+      "col_3": "Diversification",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 180",
+      "col_2": "$30K MRR",
+      "col_3": "Q2 target",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 270",
+      "col_2": "$60K MRR",
+      "col_3": "Q3 target",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 300",
+      "col_2": "Subscription >40%",
+      "col_3": "Retention working",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "365-DAY PLAN": "Day 365",
+      "col_2": "$100K MRR",
+      "col_3": "YEAR 1 GOAL 🎯",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 122,
+  "sheet_name": "365-Day Plan",
+  "sheet_index": 778
+}

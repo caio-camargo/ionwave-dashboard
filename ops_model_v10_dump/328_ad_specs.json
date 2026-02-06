@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "Hook Category",
+    "Angle",
+    "Visual Direction",
+    "Copy Direction",
+    "Priority"
+  ],
+  "rows": [
+    {
+      "Hook Category": "Science/Authority",
+      "Angle": "Ocean minerals vs synthetic",
+      "Visual Direction": "Lab imagery, periodic table, ocean depth shots",
+      "Copy Direction": "\"Your supplements are synthetic. This is 78 ionic minerals from 30m deep\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "Science/Authority",
+      "Angle": "Huberman-style breakdown",
+      "Visual Direction": "Whiteboard, molecular diagrams, clean aesthetic",
+      "Copy Direction": "\"The mineral absorption problem nobody talks about\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "Science/Authority",
+      "Angle": "Blood plasma similarity",
+      "Visual Direction": "Side-by-side comparison graphics",
+      "Copy Direction": "\"Your blood is 98% similar to seawater. Coincidence?\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Transformation",
+      "Angle": "Energy without stimulants",
+      "Visual Direction": "Before/after energy levels, morning routine",
+      "Copy Direction": "\"I stopped needing coffee at 2pm\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "Transformation",
+      "Angle": "Recovery improvement",
+      "Visual Direction": "Athlete training, sleep tracking screenshots",
+      "Copy Direction": "\"My HRV went up 15 points in 2 weeks\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "Transformation",
+      "Angle": "Mental clarity",
+      "Visual Direction": "Focus shots, work productivity",
+      "Copy Direction": "\"Brain fog lifted by day 3\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Comparison",
+      "Angle": "vs LMNT (price)",
+      "Visual Direction": "Price per serving comparison",
+      "Copy Direction": "\"Same minerals. 40% less. No celebrity markup\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "Comparison",
+      "Angle": "vs pills/powders",
+      "Visual Direction": "Absorption rate graphics",
+      "Copy Direction": "\"Pills = 10% absorption. Ionic liquid = 98%\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Comparison",
+      "Angle": "vs tap water",
+      "Visual Direction": "Mineral content comparison",
+      "Copy Direction": "\"Your filtered water has 0 minerals\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Problem/Solution",
+      "Angle": "Electrolyte confusion",
+      "Visual Direction": "Supplement overwhelm imagery",
+      "Copy Direction": "\"Stop guessing which minerals you need\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Problem/Solution",
+      "Angle": "Post-workout crash",
+      "Visual Direction": "Gym to couch progression",
+      "Copy Direction": "\"Why you feel worse after working out\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Curiosity",
+      "Angle": "Biohacker secret",
+      "Visual Direction": "Underground/insider aesthetic",
+      "Copy Direction": "\"The $2/day hack biohackers dont share\"",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Hook Category": "Curiosity",
+      "Angle": "Ocean harvesting",
+      "Visual Direction": "Harvesting process footage",
+      "Copy Direction": "\"We filter 10,000 gallons of ocean for 1 bottle\"",
+      "Priority": "LOW"
+    },
+    {
+      "Hook Category": "UGC Style",
+      "Angle": "Unboxing/first taste",
+      "Visual Direction": "Authentic unboxing, real reaction",
+      "Copy Direction": "\"Okay I was skeptical but...\"",
+      "Priority": "HIGH"
+    },
+    {
+      "Hook Category": "UGC Style",
+      "Angle": "30-day journey",
+      "Visual Direction": "Daily vlog style, tracking apps",
+      "Copy Direction": "\"Day 1 vs Day 30 - heres what changed\"",
+      "Priority": "HIGH"
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Ad Specs",
+  "sheet_index": 328
+}

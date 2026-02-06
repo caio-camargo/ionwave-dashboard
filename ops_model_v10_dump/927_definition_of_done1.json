@@ -1,0 +1,287 @@
+{
+  "headers": [
+    "DEFINITION OF DONE (BY PHASE)",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "DEFINITION OF DONE (BY PHASE)": "What 'complete' actually looks like - with artifacts as proof",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "WHY DEFINITIONS MATTER",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "'Done' is not a feeling. It's a state with evidence.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Every phase has:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• Checklist items (what must be true)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• Artifacts (proof it's true)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "• Gate criteria (who approves moving on)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "No artifacts = not done, just hoping.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PHASE 0: TRADE SETUP - DONE WHEN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Item",
+      "col_2": "Artifact (Proof)",
+      "col_3": "Location"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Thesis validated",
+      "col_2": "Thesis doc with market size, ICP, competition",
+      "col_3": "Thesis tab + Google Doc"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Capital confirmed",
+      "col_2": "Bank statement or signed investor commitment",
+      "col_3": "PDF in Drive"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Operator signed",
+      "col_2": "Signed contract",
+      "col_3": "PDF in Drive"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Entity formed",
+      "col_2": "Formation documents, EIN",
+      "col_3": "PDF in Drive"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Bank account open",
+      "col_2": "Bank statement showing $0 or initial deposit",
+      "col_3": "PDF in Drive"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PRE-LAUNCH - DONE WHEN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Item",
+      "col_2": "Artifact (Proof)",
+      "col_3": "Location"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Supplier confirmed",
+      "col_2": "Signed PO or supplier agreement",
+      "col_3": "PDF + email confirmation"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Product ordered",
+      "col_2": "Order confirmation with ETA",
+      "col_3": "Email/PDF"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3PL set up",
+      "col_2": "Account created, test shipment sent",
+      "col_3": "Screenshot + tracking"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Shopify store built",
+      "col_2": "Store URL (password protected OK)",
+      "col_3": "URL"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Payment processing",
+      "col_2": "Test transaction completed",
+      "col_3": "Screenshot of test order"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Landing page live",
+      "col_2": "URL accessible",
+      "col_3": "URL"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3 ad creatives ready",
+      "col_2": "Files uploaded to ad account",
+      "col_3": "Screenshot of ad manager"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Meta ad account funded",
+      "col_2": "Payment method confirmed, balance",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Tracking set up",
+      "col_2": "Test conversion fired",
+      "col_3": "Screenshot of event in Events Manager"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Email flows built",
+      "col_2": "Flows active in Klaviyo/etc",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Unit economics validated",
+      "col_2": "Spreadsheet with real numbers",
+      "col_3": "Unit Economics tab"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Kill criteria defined",
+      "col_2": "Filled out Kill Criteria tab",
+      "col_3": "Kill Criteria tab"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "LAUNCH - DONE WHEN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Item",
+      "col_2": "Artifact (Proof)",
+      "col_3": "Location"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "First 10 orders",
+      "col_2": "Shopify orders list",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Orders fulfilled",
+      "col_2": "Tracking numbers for all",
+      "col_3": "3PL dashboard"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Actual CAC measured",
+      "col_2": "Calculated from real spend/orders",
+      "col_3": "Spreadsheet"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Actual COGS validated",
+      "col_2": "Real invoice vs model",
+      "col_3": "Invoice + comparison"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Customer feedback (5+)",
+      "col_2": "Survey responses or emails",
+      "col_3": "Compiled doc"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "At least 1 ad with >1.5 ROAS",
+      "col_2": "Ad manager screenshot",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "No critical issues",
+      "col_2": "Issues log empty or resolved",
+      "col_3": "Issues log"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Go/no-go decision made",
+      "col_2": "Written decision with rationale",
+      "col_3": "Email or doc"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PMF - DONE WHEN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Item",
+      "col_2": "Artifact (Proof)",
+      "col_3": "Location"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "CAC <$40 for 4+ weeks",
+      "col_2": "4 weeks of CAC data",
+      "col_3": "Weekly report screenshots"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "3+ winning ads",
+      "col_2": "Ads with sustained >2.0 ROAS",
+      "col_3": "Ad manager"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Subscription rate >30%",
+      "col_2": "Shopify/Recharge data",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "LTV:CAC >3x",
+      "col_2": "Calculated from cohort data",
+      "col_3": "Spreadsheet"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Positive reviews accumulating",
+      "col_2": "Review count and average",
+      "col_3": "Screenshot"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Processes documented",
+      "col_2": "SOPs written",
+      "col_3": "SOP folder"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "PMF declared by Studio",
+      "col_2": "Written sign-off",
+      "col_3": "Email or doc"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "SCALE - DONE WHEN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Item",
+      "col_2": "Artifact (Proof)",
+      "col_3": "Location"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "$100K MRR achieved",
+      "col_2": "Shopify/Stripe dashboard",
+      "col_3": "Screenshot dated"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "CAC held while scaling",
+      "col_2": "Trend data over scale period",
+      "col_3": "Spreadsheet"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Profitable",
+      "col_2": "P&L showing positive",
+      "col_3": "P&L statement"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Operator <10 hrs/week",
+      "col_2": "Time tracking or attestation",
+      "col_3": "Log"
+    },
+    {
+      "DEFINITION OF DONE (BY PHASE)": "Could hand off",
+      "col_2": "All docs complete, tested handoff",
+      "col_3": "Documentation audit"
+    }
+  ],
+  "row_count": 55,
+  "sheet_name": "Definition of Done1",
+  "sheet_index": 927
+}

@@ -1,0 +1,161 @@
+{
+  "headers": [
+    "PORTFOLIO REALITY CHECK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PORTFOLIO REALITY CHECK": "Math to validate if plan actually works",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "THE REALITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Assume things will underperform. Build margin for error.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "IONWAVE REALITY CHECK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Target",
+      "col_2": "$100K MRR",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "AOV",
+      "col_2": "$49 (conservative)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Orders needed",
+      "col_2": "2,041/month",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Daily orders",
+      "col_2": "68/day",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "If CAC is $40 not $35",
+      "col_2": "Margin drops to $9 from $14",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "If conversion is 2% not 3%",
+      "col_2": "Need 50% more traffic",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "If churn is 12% not 8%",
+      "col_2": "LTV drops 33%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "SENSITIVITY TABLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Scenario",
+      "col_2": "CAC",
+      "col_3": "Margin",
+      "col_4": "Orders Needed",
+      "col_5": "Viable?"
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Best case",
+      "col_2": "$30",
+      "col_3": "$19",
+      "col_4": "1,754",
+      "col_5": "✅"
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Base case",
+      "col_2": "$35",
+      "col_3": "$14",
+      "col_4": "2,381",
+      "col_5": "✅"
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Conservative",
+      "col_2": "$40",
+      "col_3": "$9",
+      "col_4": "3,704",
+      "col_5": "⚠️"
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "Worst case",
+      "col_2": "$50",
+      "col_3": "-$1",
+      "col_4": "N/A",
+      "col_5": "❌"
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "KILL CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "• CAC > $50 for 14 consecutive days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "• Contribution margin negative for 30 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PORTFOLIO REALITY CHECK": "• Cash runway < 60 days with no path to profit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Portfolio Reality Check",
+  "sheet_index": 599
+}

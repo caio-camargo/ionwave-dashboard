@@ -1,0 +1,161 @@
+{
+  "headers": [
+    "VSL HOOK LIBRARY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL HOOK LIBRARY": "Proven hook frameworks. Adapt for IonWave, don't copy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "Hook Type",
+      "col_2": "Framework",
+      "col_3": "IonWave Example",
+      "col_4": "When to Use",
+      "col_5": "Expected Hook Rate"
+    },
+    {
+      "VSL HOOK LIBRARY": "Curiosity Gap",
+      "col_2": "\"I discovered [surprising thing] that [unexpected result]\"",
+      "col_3": "\"I found the one ingredient most electrolyte brands leave out — and it changed everything\"",
+      "col_4": "Cold audiences, top of funnel",
+      "col_5": "25-35%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Contrarian",
+      "col_2": "\"Everything you've been told about [X] is wrong\"",
+      "col_3": "\"Your sports drink is actually dehydrating you. Here's why.\"",
+      "col_4": "Problem-aware audiences",
+      "col_5": "20-30%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Result Lead",
+      "col_2": "\"[Specific result] in [specific timeframe]\"",
+      "col_3": "\"I stopped cramping during workouts in 3 days. No sugar. No garbage.\"",
+      "col_4": "Solution-aware audiences",
+      "col_5": "25-40%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Question",
+      "col_2": "\"Have you ever [relatable experience]?\"",
+      "col_3": "\"Have you ever finished a workout and felt MORE tired than when you started?\"",
+      "col_4": "Broad audiences, high relatability",
+      "col_5": "20-30%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Authority",
+      "col_2": "\"As a [credential], I [surprising action]\"",
+      "col_3": "\"As a sports nutritionist, I stopped recommending Gatorade. Here's what I use instead.\"",
+      "col_4": "Health-conscious audiences",
+      "col_5": "20-35%"
+    },
+    {
+      "VSL HOOK LIBRARY": "UGC Testimonial",
+      "col_2": "\"I was skeptical, but then [result]\"",
+      "col_3": "\"I thought all electrolytes were the same until my recovery time cut in half\"",
+      "col_4": "Warm audiences, retargeting",
+      "col_5": "30-45%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Shock Stat",
+      "col_2": "\"[Surprising statistic] — and nobody talks about it\"",
+      "col_3": "\"75% of Americans are chronically dehydrated and don't know it\"",
+      "col_4": "Education-first approach",
+      "col_5": "20-30%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Us vs Them",
+      "col_2": "\"There are two types of [X] — [bad] and [good]\"",
+      "col_3": "\"There are two types of electrolyte drinks: ones with 30g of sugar and ones that actually work\"",
+      "col_4": "Competitive positioning",
+      "col_5": "25-35%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Story Open",
+      "col_2": "\"Last [time], I [relatable struggle]\"",
+      "col_3": "\"Last summer I collapsed during a half marathon. That's when I learned about sodium loading.\"",
+      "col_4": "Storytelling audiences",
+      "col_5": "25-35%"
+    },
+    {
+      "VSL HOOK LIBRARY": "Challenge",
+      "col_2": "\"Try [simple action] and [observe result]\"",
+      "col_3": "\"Check the label on your electrolyte drink. If sugar is in the top 3 ingredients, throw it away.\"",
+      "col_4": "Engagement-first audiences",
+      "col_5": "20-30%"
+    },
+    {
+      "VSL HOOK LIBRARY": "HOOK TESTING PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "1. Produce 5 hooks per round (use library above as starting frameworks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "2. Test each as first 5 seconds of ad, same body/CTA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "3. Spend $20-30 per hook variant (2-3 days)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "4. Measure: Hook Rate (ThruPlay/Impressions), Hold Rate at 0:15, CPA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "5. Kill anything below 20% hook rate after $50 spend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "6. Winner = highest hook rate with acceptable CPA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "7. Lock winner, test next variable (mechanism or offer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL HOOK LIBRARY": "8. Repeat every 2-3 weeks to combat creative fatigue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "VSL Hook Library",
+  "sheet_index": 318
+}

@@ -1,0 +1,132 @@
+{
+  "headers": [
+    "OBJECTION LIBRARY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "OBJECTION LIBRARY": "Every objection customers have + how to overcome them",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "OBJECTION LIBRARY": "PRICE OBJECTIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "OBJECTION LIBRARY": "Objection",
+      "col_2": "Response",
+      "col_3": "Where to Use"
+    },
+    {
+      "OBJECTION LIBRARY": "\"It's too expensive\"",
+      "col_2": "\"It's $1.50/day - less than a coffee. What's your energy worth?\"",
+      "col_3": "Ads, FAQ, Email"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I can get electrolytes cheaper\"",
+      "col_2": "\"Cheaper electrolytes have 4 minerals. We have 78. You get what you pay for.\"",
+      "col_3": "Comparison content"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Can't afford it right now\"",
+      "col_2": "\"We have a subscribe & save that cuts 20%. Plus 30-day money back guarantee.\"",
+      "col_3": "Checkout, Support"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Gatorade is $2\"",
+      "col_2": "\"Gatorade is sugar water with 3 minerals. This is 78 ocean minerals, no sugar.\"",
+      "col_3": "Ads, Landing page"
+    },
+    {
+      "OBJECTION LIBRARY": "TRUST OBJECTIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "OBJECTION LIBRARY": "\"How do I know this works?\"",
+      "col_2": "\"We have 1,000+ 5-star reviews. Plus 30-day money back - try it risk-free.\"",
+      "col_3": "Ads, Landing page"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Is this legit or a scam?\"",
+      "col_2": "\"We're a real US company, GMP certified, third-party tested. Here's our COA.\"",
+      "col_3": "About page, Support"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I've tried supplements that didn't work\"",
+      "col_2": "\"Most electrolytes are synthetic with 3-4 minerals. That's why they didn't work.\"",
+      "col_3": "Ads, Email"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Who are you? Never heard of you\"",
+      "col_2": "\"[Founder story]. We've helped X people. Here's what they say...\"",
+      "col_3": "About page, Founder content"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Where's the research?\"",
+      "col_2": "\"Here are the studies on ocean minerals and hydration: [links]\"",
+      "col_3": "Science page, Email"
+    },
+    {
+      "OBJECTION LIBRARY": "PRODUCT OBJECTIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "OBJECTION LIBRARY": "\"What does it taste like?\"",
+      "col_2": "\"[Flavor] - most people love it. If you don't, full refund.\"",
+      "col_3": "Product page, FAQ"
+    },
+    {
+      "OBJECTION LIBRARY": "\"How is this different from LMNT/etc?\"",
+      "col_2": "\"LMNT has 3 minerals. We have 78 ocean-sourced trace minerals.\"",
+      "col_3": "Comparison page, Ads"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I already take a multivitamin\"",
+      "col_2": "\"Multivitamins don't have electrolytes. Different thing entirely.\"",
+      "col_3": "FAQ, Email"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Can't I just use salt?\"",
+      "col_2": "\"Salt is 1 mineral (sodium). Your body needs 78. This isn't the same thing.\"",
+      "col_3": "FAQ, Ads"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I drink plenty of water\"",
+      "col_2": "\"Water without electrolytes doesn't actually hydrate. It just passes through.\"",
+      "col_3": "Ads, Landing page"
+    },
+    {
+      "OBJECTION LIBRARY": "LOGISTICS OBJECTIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "OBJECTION LIBRARY": "\"How long does shipping take?\"",
+      "col_2": "\"2-3 business days in the US. Free shipping over $X.\"",
+      "col_3": "Checkout, FAQ"
+    },
+    {
+      "OBJECTION LIBRARY": "\"What if I don't like it?\"",
+      "col_2": "\"30-day money back guarantee. No questions asked.\"",
+      "col_3": "Everywhere"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I don't want another subscription\"",
+      "col_2": "\"One-time purchase available. Sub just saves you 20%.\"",
+      "col_3": "Product page, Checkout"
+    },
+    {
+      "OBJECTION LIBRARY": "\"How do I cancel subscription?\"",
+      "col_2": "\"One click in your account, or just reply to any email. No tricks.\"",
+      "col_3": "FAQ, Support"
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Objection Library",
+  "sheet_index": 564
+}

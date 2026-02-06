@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "SCHOOL ROLE MAPPING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SCHOOL ROLE MAPPING": "How every role in the company maps to the school model",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Business Role",
+      "col_2": "School Role",
+      "col_3": "Programs",
+      "col_4": "Responsibility",
+      "col_5": "Reports To",
+      "col_6": "Evaluates"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Studio (Nilo)",
+      "col_2": "University System / Chancellor",
+      "col_3": "All (oversight)",
+      "col_4": "Sets standards, provides frameworks, accredits programs, launches new schools (Trades)",
+      "col_5": "Board / Self",
+      "col_6": "Dean (Operator) via CM"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Chief of Staff",
+      "col_2": "Registrar",
+      "col_3": "All (administrative)",
+      "col_4": "Manages enrollment (hiring), tracks progress, ensures standards met, coordinates between programs",
+      "col_5": "Chancellor",
+      "col_6": "Program compliance"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Compliance Manager",
+      "col_2": "Accreditation Board",
+      "col_3": "All (audit)",
+      "col_4": "Grades the school, not the students. Independent quality assessment. Standards enforcement.",
+      "col_5": "Chancellor",
+      "col_6": "All programs, all roles"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Operator (CEO)",
+      "col_2": "Dean + Head Professor",
+      "col_3": "All (execution)",
+      "col_4": "Best student who became teacher who became dean. Runs all 6 programs. Teaches by doing. Sets program priorities.",
+      "col_5": "Chancellor via CM",
+      "col_6": "All employees + self"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Growth / Ads Person",
+      "col_2": "Student → Teaching Assistant",
+      "col_3": "Acquisition, Conversion",
+      "col_4": "Executes TUPs in acquisition and conversion. Learning the system while producing output.",
+      "col_5": "Dean (Operator)",
+      "col_6": "Own TUPs"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Retention / Email Person",
+      "col_2": "Student → Teaching Assistant",
+      "col_3": "Retention, Conversion",
+      "col_4": "Executes TUPs in retention and conversion programs. Manages lifecycle automations.",
+      "col_5": "Dean (Operator)",
+      "col_6": "Own TUPs"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "Product / Ops Person",
+      "col_2": "Student → Teaching Assistant",
+      "col_3": "Product, Operations",
+      "col_4": "Executes TUPs in product and operations. Keeps the machine running.",
+      "col_5": "Dean (Operator)",
+      "col_6": "Own TUPs"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "VA / Admin",
+      "col_2": "Administrative Staff",
+      "col_3": "Operations (support)",
+      "col_4": "Scheduling, coordination, data entry. Supports all programs without owning TUPs.",
+      "col_5": "Registrar (CoS)",
+      "col_6": "Not evaluated on TUPs"
+    },
+    {
+      "SCHOOL ROLE MAPPING": "THE PROGRESSION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "STUDENT: Executes assigned TUPs under supervision. Follows curriculum. Gets graded.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "→ Promotion criteria: 2 semesters of B+ or better, can write own TUPs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "TEACHING ASSISTANT: Executes TUPs AND helps design curriculum for their program.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "→ Promotion criteria: 2 semesters as TA with A average, can train new students",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "PROFESSOR: Owns a program. Designs curriculum. Evaluates students. Reports to Dean.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "→ Promotion criteria: Program grades consistently B+ with growing enrollment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "DEAN: Owns all programs. The Operator. Best student who became teacher who became dean.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "→ This is the terminal role within a single Trade/school.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SCHOOL ROLE MAPPING": "→ Further progression: launch a new school (new Trade) as Chancellor",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "School Roles",
+  "sheet_index": 685
+}

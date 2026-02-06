@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "TOOL STACK ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "TOOL STACK ARCHITECTURE": "Every tool, why, who owns it, cost.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Tool",
+      "col_2": "Purpose",
+      "col_3": "Cost/mo",
+      "col_4": "Owner",
+      "col_5": "Login"
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Shopify",
+      "col_2": "Store",
+      "col_3": "$79",
+      "col_4": "Operator",
+      "col_5": "[Link]"
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Klaviyo",
+      "col_2": "Email/SMS",
+      "col_3": "$45+",
+      "col_4": "Operator",
+      "col_5": "[Link]"
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Meta Ads",
+      "col_2": "Advertising",
+      "col_3": "Variable",
+      "col_4": "Operator",
+      "col_5": "[Link]"
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Google Analytics",
+      "col_2": "Analytics",
+      "col_3": "Free",
+      "col_4": "Operator",
+      "col_5": "[Link]"
+    },
+    {
+      "TOOL STACK ARCHITECTURE": "Canva",
+      "col_2": "Design",
+      "col_3": "$15",
+      "col_4": "Operator",
+      "col_5": "[Link]"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Tool Stack Architecture",
+  "sheet_index": 288
+}

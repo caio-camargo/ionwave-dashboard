@@ -1,0 +1,247 @@
+{
+  "headers": [
+    "POST-PURCHASE SEQUENCE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "POST-PURCHASE SEQUENCE": "5-7 emails after purchase to onboard, retain, and get reviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "POST-PURCHASE FLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Purpose"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "1. Thank You",
+      "col_2": "Immediately",
+      "col_3": "Thank you! Your order is confirmed",
+      "col_4": "Confirm, reduce anxiety"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "2. Shipped",
+      "col_2": "When ships",
+      "col_3": "Your IonWave is on the way!",
+      "col_4": "Track, build anticipation"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "3. Delivered",
+      "col_2": "Day delivered",
+      "col_3": "Your IonWave has arrived!",
+      "col_4": "How to use, what to expect"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "4. Check-in",
+      "col_2": "Day 3-5",
+      "col_3": "How's it going?",
+      "col_4": "Support, handle issues early"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "5. Education",
+      "col_2": "Day 7",
+      "col_3": "Getting the most from IonWave",
+      "col_4": "Deep value, best practices"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "6. Review Ask",
+      "col_2": "Day 14",
+      "col_3": "How are you liking IonWave?",
+      "col_4": "Get reviews"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "7. Replenish",
+      "col_2": "Day 25-30",
+      "col_3": "Running low?",
+      "col_4": "Prompt reorder"
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "EMAIL 3: DELIVERED (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "SUBJECT: Your IonWave has arrived! Here's how to use it 📦",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Great news - your IonWave just arrived!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "HOW TO USE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• Mix 1 scoop with 16-32oz water",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• Best in morning or afternoon (avoid late night)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• Start with half scoop if new to electrolytes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "WHAT TO EXPECT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• First few days: May notice increased energy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• Week 1: More consistent energy, less crashes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "• Week 2+: Full benefits - energy, focus, hydration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "PRO TIP: Take it consistently. Daily use = best results.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Questions? Reply anytime.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "P.S. Snap a pic of your first pour and tag us @ionwave!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "EMAIL 6: REVIEW REQUEST (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "SUBJECT: Quick favor? (takes 30 seconds)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "You've been using IonWave for about 2 weeks now.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "How's it going?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "If you're loving it, would you mind leaving a quick review?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "It helps other people discover us.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "[CTA: Leave a Review]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "As a thank you, here's 15% off your next order: [CODE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "Thanks so much!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "P.S. Not loving it? Reply and tell me why.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE SEQUENCE": "I read every email and want to make it right.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 39,
+  "sheet_name": "Post-Purchase Sequence",
+  "sheet_index": 442
+}

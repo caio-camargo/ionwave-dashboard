@@ -1,0 +1,91 @@
+{
+  "headers": [
+    "SITE VISIT / AUDIT CHECKLIST"
+  ],
+  "rows": [
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "What to verify during physical or virtual audit"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "PRE-AUDIT"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Schedule with minimum 48hr notice (or surprise if fraud suspected)"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ List specific items to verify"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Bring comparison data (reported vs to verify)"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Prepare questions for Operator"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "SYSTEMS ACCESS"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Shopify admin access - verify revenue matches reported"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Meta/TikTok ad accounts - verify spend matches reported"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Klaviyo - verify subscriber counts, flow status"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Bank account - verify balance matches reported"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ 3PL dashboard - verify inventory levels"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "DOCUMENTATION"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Contracts on file (supplier, 3PL, etc.)"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Invoices match reported expenses"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Insurance current and adequate"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Compliance documentation (FDA, etc.)"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "OPERATIONS"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Orders processing correctly"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Customer support queue reasonable"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Inventory reconciles with reported"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Returns/refunds processing"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "OPERATOR ASSESSMENT"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Working environment appropriate"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Tools and systems in use"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Knowledge of business demonstrated"
+    },
+    {
+      "SITE VISIT / AUDIT CHECKLIST": "☐ Responsiveness during audit"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "CM Audit Checklist",
+  "sheet_index": 725
+}

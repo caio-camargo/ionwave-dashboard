@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "EXIT PREPARATION CHECKLIST",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ Clean financials",
+      "col_2": "P&L, balance sheet, cash flow - auditable"
+    },
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ Documentation",
+      "col_2": "All SOPs, processes documented"
+    },
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ Supplier contracts",
+      "col_2": "Transferable, no personal guarantees"
+    },
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ IP ownership",
+      "col_2": "Trademarks, domain, content rights"
+    },
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ Customer data",
+      "col_2": "GDPR/CCPA compliant, exportable"
+    },
+    {
+      "EXIT PREPARATION CHECKLIST": "☐ Org chart",
+      "col_2": "Clear roles, not founder-dependent"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Exit Preparation",
+  "sheet_index": 208
+}

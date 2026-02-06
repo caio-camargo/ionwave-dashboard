@@ -1,0 +1,183 @@
+{
+  "headers": [
+    "BUDGET SPEND LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "BUDGET SPEND LOG": "Every dollar spent, when, why - real-time tracking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Date",
+      "col_2": "Category",
+      "col_3": "Vendor",
+      "col_4": "Description",
+      "col_5": "Amount",
+      "col_6": "Payment Method",
+      "col_7": "Approved By",
+      "col_8": "Receipt Link",
+      "col_9": "Notes"
+    },
+    {
+      "BUDGET SPEND LOG": "[Date]",
+      "col_2": "Inventory",
+      "col_3": "[Supplier]",
+      "col_4": "First PO - 500 units",
+      "col_5": "$2,500",
+      "col_6": "Wire",
+      "col_7": "Studio",
+      "col_8": "[link]",
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "[Date]",
+      "col_2": "Marketing",
+      "col_3": "Meta",
+      "col_4": "Ad spend Week 1",
+      "col_5": "$350",
+      "col_6": "Card",
+      "col_7": "Auto",
+      "col_8": "[link]",
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "[Date]",
+      "col_2": "Tools",
+      "col_3": "Klaviyo",
+      "col_4": "Monthly subscription",
+      "col_5": "$50",
+      "col_6": "Card",
+      "col_7": "Auto",
+      "col_8": "[link]",
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "[Date]",
+      "col_2": "Creative",
+      "col_3": "[Designer]",
+      "col_4": "Ad creative batch 1",
+      "col_5": "$200",
+      "col_6": "PayPal",
+      "col_7": "Operator",
+      "col_8": "[link]",
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "SUMMARY BY CATEGORY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Category",
+      "col_2": "Spent",
+      "col_3": "Budget",
+      "col_4": "Variance",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Inventory",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Marketing",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Tools/Software",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Creative",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Operations",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "Legal",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "BUDGET SPEND LOG": "TOTAL",
+      "col_2": "$[sum]",
+      "col_3": "$[budget]",
+      "col_4": "[variance]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Budget Spend Log",
+  "sheet_index": 196
+}

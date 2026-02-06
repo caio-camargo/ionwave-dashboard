@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "CREATIVE TESTING PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CREATIVE TESTING PROTOCOL": "Budget per test",
+      "col_2": "$50-100 per ad before decision"
+    },
+    {
+      "CREATIVE TESTING PROTOCOL": "Minimum data",
+      "col_2": "1,000 impressions, 10 clicks"
+    },
+    {
+      "CREATIVE TESTING PROTOCOL": "Kill criteria",
+      "col_2": "CTR <0.8% OR ROAS <1x after $100"
+    },
+    {
+      "CREATIVE TESTING PROTOCOL": "Winner criteria",
+      "col_2": "ROAS >2x after $200"
+    },
+    {
+      "CREATIVE TESTING PROTOCOL": "Iteration rule",
+      "col_2": "Make 5 variations of every winner"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Creative Testing Protocol",
+  "sheet_index": 375
+}

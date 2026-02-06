@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S36: Trade-to-SaaS — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "How the Trade becomes a software product. AI-powered Trade generator. Revenue model.",
+      "col_2": null
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade trade-to-saas model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "B (Good)",
+      "col_2": "Solid trade-to-saas model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "C (Needs Work)",
+      "col_2": "Trade-to-SaaS model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "D (Major Issues)",
+      "col_2": "Trade-to-SaaS model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "F (Fail)",
+      "col_2": "Trade-to-SaaS model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S36: Trade-to-SaaS — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S36",
+  "sheet_index": 1086
+}

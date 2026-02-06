@@ -1,0 +1,217 @@
+{
+  "headers": [
+    "ABANDONED CART FLOW",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ABANDONED CART FLOW": "Recover lost sales from cart abandoners",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "ABANDONED CART SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Strategy",
+      "col_5": "Discount?"
+    },
+    {
+      "ABANDONED CART FLOW": "AC1",
+      "col_2": "1 hour",
+      "col_3": "Did you forget something?",
+      "col_4": "Simple reminder, no discount",
+      "col_5": "No"
+    },
+    {
+      "ABANDONED CART FLOW": "AC2",
+      "col_2": "24 hours",
+      "col_3": "Your cart is waiting",
+      "col_4": "Add social proof/reviews",
+      "col_5": "No"
+    },
+    {
+      "ABANDONED CART FLOW": "AC3",
+      "col_2": "48 hours",
+      "col_3": "Still thinking about it?",
+      "col_4": "Handle objections",
+      "col_5": "Maybe 5%"
+    },
+    {
+      "ABANDONED CART FLOW": "AC4",
+      "col_2": "72 hours",
+      "col_3": "Last chance + [X]% off",
+      "col_4": "Urgency + discount",
+      "col_5": "Yes (10%)"
+    },
+    {
+      "ABANDONED CART FLOW": "EMAIL 1 TEMPLATE (1 Hour)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "SUBJECT: You left something behind 👀",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Hey [Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Looks like you left some items in your cart.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "[CART CONTENTS IMAGE/LIST]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Your cart is saved and ready when you are.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "[CTA: Complete Your Order]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Questions? Just reply to this email.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "- The IonWave Team",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "EMAIL 4 TEMPLATE (Final + Discount)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "SUBJECT: Your 10% off expires tonight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Hey [Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Your cart has been waiting for 3 days.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "I don't want you to miss out, so here's 10% off",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "to make the decision easier:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "Code: COMEBACK10",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "[CTA: Complete Your Order - 10% Off]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "This code expires at midnight tonight.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "After that, your cart will be cleared and",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "you'll have to start over at full price.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "- [Founder name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART FLOW": "P.S. 30-day money back guarantee. Zero risk.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Abandoned Cart Flow",
+  "sheet_index": 441
+}

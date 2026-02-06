@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Cluster: FCL-1 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "What we track. Conversion rates by stage, source attribution, cost per applicant.",
+      "col_2": null
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Section",
+      "col_2": "Content"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Domain Overview",
+      "col_2": "[What is Funnel Analytics? 2-3 paragraphs of context for someone new to this domain.]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Key Terms",
+      "col_2": "[Define 5-10 domain-specific terms the flash contributor needs to know.]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Current Best Practices",
+      "col_2": "[How do leading companies/practitioners handle funnel analytics?]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Common Pitfalls",
+      "col_2": "[What do most people get wrong about funnel analytics?]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Benchmarks",
+      "col_2": "[What does good look like? What numbers/metrics define success?]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Reference Examples",
+      "col_2": "[2-3 real companies or projects that do this well. What can we learn?]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "What Experts Care About",
+      "col_2": "[When a funnel analytics expert reviews this, what will they look for?]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "Recommended Reading",
+      "col_2": "[3-5 articles, books, or resources for deeper understanding.]"
+    },
+    {
+      "IP-F13: Funnel Analytics — INDUSTRY PERSPECTIVES": "How This Connects to Other TUPs",
+      "col_2": "[Which other TUPs does F13 depend on or feed into?]"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "IP-F13",
+  "sheet_index": 1129
+}

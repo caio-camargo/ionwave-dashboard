@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S35: Trade-to-Textbook — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Cluster: SCL-4 | Owner: Series Producer",
+      "col_2": null
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "How the locked imagination passet becomes a published reference. Editing, design, ISBN, distribution.",
+      "col_2": null
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade trade-to-textbook model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "B (Good)",
+      "col_2": "Solid trade-to-textbook model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "C (Needs Work)",
+      "col_2": "Trade-to-Textbook model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "D (Major Issues)",
+      "col_2": "Trade-to-Textbook model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "F (Fail)",
+      "col_2": "Trade-to-Textbook model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S35: Trade-to-Textbook — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S35",
+  "sheet_index": 1054
+}

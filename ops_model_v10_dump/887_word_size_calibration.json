@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "WORD SIZE CALIBRATION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Words have sizes. Define what WE mean vs what the world means.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "60-90% of coordination failures come from people using the same words to mean different things.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "'Soon' to you = 2 days. 'Soon' to them = 2 weeks. Disaster.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "CALIBRATED TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Term",
+      "col_2": "Common Meaning (Danger Zone)",
+      "col_3": "OUR Meaning (Precise)",
+      "col_4": "Example",
+      "col_5": "Calibrated?"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Soon",
+      "col_2": "Vague, could be days to months",
+      "col_3": "Within 48 hours",
+      "col_4": "\"I'll send soon\" = by end of tomorrow",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "ASAP",
+      "col_2": "Whenever you get to it",
+      "col_3": "Within 4 hours during work hours",
+      "col_4": "\"Need this ASAP\" = drop other things",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Good",
+      "col_2": "Acceptable",
+      "col_3": "Meets all criteria in rubric, B+ or higher",
+      "col_4": "\"Is this good?\" = Does it score 80%+?",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Done",
+      "col_2": "I worked on it",
+      "col_3": "Deliverable complete, handed off, verified",
+      "col_4": "\"It's done\" = In their hands, confirmed",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Expensive",
+      "col_2": "Costs money",
+      "col_3": ">$500 or >10% of monthly budget",
+      "col_4": "\"That's expensive\" = Over our threshold",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Urgent",
+      "col_2": "Important to me",
+      "col_3": "Blocks revenue or causes customer harm TODAY",
+      "col_4": "\"Urgent\" = Same-day action required",
+      "col_5": "✓"
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "PMF",
+      "col_2": "People like it",
+      "col_3": "Retention >40% M3, organic growth, pull not push",
+      "col_4": "\"We have PMF\" = These metrics met",
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Scale",
+      "col_2": "Grow",
+      "col_3": "Increase spend 20%+ while maintaining unit economics",
+      "col_4": "\"Ready to scale\" = ROAS held at higher spend",
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Working",
+      "col_2": "Not broken",
+      "col_3": "Achieving target metrics within tolerance",
+      "col_4": "\"Ads are working\" = ROAS >2x",
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "Problem",
+      "col_2": "Anything wrong",
+      "col_3": "Issue that blocks progress or costs >$100",
+      "col_4": "\"We have a problem\" = Action needed",
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "CALIBRATION PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "1. When a word causes confusion, add it here",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "2. Define: What does the WORLD think this means?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "3. Define: What do WE mean precisely?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "4. Give concrete example",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "5. Share with team, confirm alignment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORD SIZE CALIBRATION MATRIX": "6. Mark as calibrated (✓)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Word Size Calibration",
+  "sheet_index": 887
+}

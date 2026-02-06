@@ -1,0 +1,527 @@
+{
+  "headers": [
+    "TAXONOMY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "TAXONOMY": "The complete vocabulary of the system. Every term defined. One place.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "THE HIERARCHY (largest to smallest)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Term",
+      "col_2": "What It Is",
+      "col_3": "Contains",
+      "col_4": "Example",
+      "col_5": "Analogy",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "TRADE",
+      "col_2": "The complete operating model for one business. The top-level container. Everything lives inside a Trade.",
+      "col_3": "2 Passets (Imagination + Implementation)",
+      "col_4": "The IonWave Trade",
+      "col_5": "A university",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "PASSET",
+      "col_2": "One of two files within a Trade. The Imagination Passet is the thinking. The Implementation Passet is the doing. Together they are the Trade.",
+      "col_3": "Levels, which contain Clusters, which contain TUPs",
+      "col_4": "IonWave Imagination Passet (this file, 927 tabs)\nIonWave Implementation Passet (to be built)",
+      "col_5": "A college within a university (College of Arts, College of Science)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "LEVEL",
+      "col_2": "A major division within a Passet. Organizes TUPs by scope. Each Level is a complete system that could theoretically stand alone.",
+      "col_3": "Clusters",
+      "col_4": "Studio Level (S0-S40)\nBusiness Level (M0-M40)\nFunnel Level (F0-F20)",
+      "col_5": "A degree program (MBA, JD, PhD)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "CLUSTER",
+      "col_2": "A group of related TUPs that are produced together and share experts, dependencies, and themes. The unit of work assignment.",
+      "col_3": "TUPs (3-9 per cluster)",
+      "col_4": "BCL-3: DR & Creative (M11-M15)\nSCL-1: People & Culture (S2, S6-S13)\nFCL-0: Brand & Content (F0-F3, F17)",
+      "col_5": "A semester (take these courses together)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "TUP\n(Trade Unit Project)",
+      "col_2": "A single domain model within the Trade. The fundamental unit. One TUP = one complete body of knowledge about one subject.",
+      "col_3": "Tabs (4-20 per TUP)",
+      "col_4": "M13: Media Buying\nS6: Recruiting Engine\nF3: YouTube Playbook",
+      "col_5": "A course (Media Buying 301)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "TAB",
+      "col_2": "A single page within a TUP. The smallest unit. Contains actual content.",
+      "col_3": "Content (text, data, frameworks)",
+      "col_4": "P-M13 (project plan for media buying)\nV-M13 (verification sheet)\nM13-Audiences (audience targeting spec)",
+      "col_5": "A lesson or assignment within a course",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "TAB TYPES (structural tabs every TUP has)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Tab Type",
+      "col_2": "Prefix",
+      "col_3": "What It Contains",
+      "col_4": "Who Writes It",
+      "col_5": "Who Reads It",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Project Plan",
+      "col_2": "P-",
+      "col_3": "Scope, deliverables, \"done\" criteria, timeline, dependencies, key decisions.",
+      "col_4": "Claude + Nilo (initial)\nPM co-founder (refines)",
+      "col_5": "PM co-founder, librarian, MC (for context)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Contract",
+      "col_2": "C-",
+      "col_3": "Role title, equity, time commitment, deliverables, IP assignment, termination.",
+      "col_4": "Claude + Nilo (initial)\nLawyer (reviews)",
+      "col_5": "The person being hired for this TUP",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Industry Perspectives",
+      "col_2": "IP-",
+      "col_3": "Domain context, best practices, benchmarks, common pitfalls, expert concerns.",
+      "col_4": "Claude (draft)\nExpert (validates)",
+      "col_5": "Expert (orientation), PM co-founder (context)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Verification",
+      "col_2": "V-",
+      "col_3": "Grading rubric (A/B/C/D/F), sign-off fields, expert name, date, comments.",
+      "col_4": "Expert (grades)\nNilo (final sign-off)",
+      "col_5": "Everyone (quality signal)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Content",
+      "col_2": "(varies)",
+      "col_3": "The actual substance of the TUP. Frameworks, specs, plans, data.",
+      "col_4": "Claude (draft) → PM co-founder (refines) → Expert (validates)",
+      "col_5": "PM co-founder, expert, CoS (post-funding)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "PASSET TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Passet",
+      "col_2": "Mode",
+      "col_3": "Organized By",
+      "col_4": "What Each TUP Contains",
+      "col_5": "When It's Done",
+      "col_6": "What Happens Next"
+    },
+    {
+      "TAXONOMY": "IMAGINATION\nPASSET",
+      "col_2": "Thinking",
+      "col_3": "Domain (what the business needs to know)",
+      "col_4": "Knowledge, frameworks, strategies, specs, best practices. \"Here's how media buying should work.\"",
+      "col_5": "Every V-tab is graded A or B by an expert. Nilo signs off. File locks.",
+      "col_6": "Becomes a textbook. Reference document. Never edited again. Implementation Passet spawns from it."
+    },
+    {
+      "TAXONOMY": "IMPLEMENTATION\nPASSET",
+      "col_2": "Doing",
+      "col_3": "Time (what happens when)",
+      "col_4": "Tasks, owners, deadlines, statuses, dependencies. \"Week 3: open Business Manager. Owner: CoS. Status: done.\" Each task points back to its source TUP in the Imagination Passet.",
+      "col_5": "The business is running. All tasks either completed or converted to ongoing operations.",
+      "col_6": "Review Passet spawns quarterly. Learnings feed next Imagination Passet for next business."
+    },
+    {
+      "TAXONOMY": "ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Role",
+      "col_2": "What They Do",
+      "col_3": "What They Own",
+      "col_4": "Cluster Scope",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Nilo (Dean)",
+      "col_2": "Produces the seed (M0, S0). Final sign-off on all V-tabs. Does not manage day-to-day.",
+      "col_3": "SCL-0 + BCL-0 (11 models)",
+      "col_4": "Thesis clusters only",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Librarian (Registrar)",
+      "col_2": "Maintains both Passets. Distributes tabs to people. Updates master when work returns. First hire.",
+      "col_3": "SCL-1 (9 models) + custody of entire Trade",
+      "col_4": "People & Culture + custody",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Admin (Operations)",
+      "col_2": "Cold email, platform posting, screening, scheduling, entity filing support.",
+      "col_3": "SCL-2 + FCL-2 (12 models)",
+      "col_4": "Studio Ops + Outbound",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "MC (Host)",
+      "col_2": "Interviews everyone on air. Recruiting conversations. Working conversations. Daily updates. Makes it fun.",
+      "col_3": "0 models (produces content, not models)",
+      "col_4": "All clusters (conversations)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Series Producer",
+      "col_2": "Narrative arc. Episode planning. MC management. Production quality. Cast management.",
+      "col_3": "SCL-4 (4 models)",
+      "col_4": "Content & Distribution",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Dan James / Thakos",
+      "col_2": "Builds and runs the funnel level. YouTube, lead magnets, email sequences, landing pages.",
+      "col_3": "FCL-0 + FCL-1 + FCL-3 (16 models)",
+      "col_4": "Funnel level (3 of 4 clusters)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Product Person",
+      "col_2": "Builds the site. Does not own models.",
+      "col_3": "0 models (builds infrastructure)",
+      "col_4": "None (project-based)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "PM Co-Founder (x7)",
+      "col_2": "Owns a cluster. Runs it like a production. Coordinates expert. Drives milestones.",
+      "col_3": "4-11 models each",
+      "col_4": "1-2 clusters each",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Expert Reviewer",
+      "col_2": "Reviews and grades models in their domain. 10-20 hours per cluster. A/B/C/D/F grading.",
+      "col_3": "0 models (grades, doesn't own)",
+      "col_4": "1 cluster per expert",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "CoS (post-funding)",
+      "col_2": "Runs IonWave day-to-day. Inherits the verified Trade as operating system.",
+      "col_3": "All M- models (41) in implementation mode",
+      "col_4": "All business clusters",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "MODES (lifecycle of a Trade)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Mode",
+      "col_2": "What's Happening",
+      "col_3": "Passet Active",
+      "col_4": "Who's Working",
+      "col_5": "Duration",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "PRODUCTION",
+      "col_2": "TUPs being drafted by Claude, refined by PM co-founders, reviewed by experts.",
+      "col_3": "Imagination Passet",
+      "col_4": "Nilo, Claude, librarian, PMs, experts, MC",
+      "col_5": "8-12 weeks",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "GRADING",
+      "col_2": "Experts grading every TUP. V-tabs being filled. A/B/C/D/F per model.",
+      "col_3": "Imagination Passet",
+      "col_4": "Experts, PM co-founders, Nilo (sign-off)",
+      "col_5": "2-4 weeks (overlaps with production)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "LOCKED",
+      "col_2": "Imagination Passet is complete. All V-tabs green. File is frozen. Becomes textbook.",
+      "col_3": "Imagination Passet (frozen)",
+      "col_4": "Nobody — it's done",
+      "col_5": "Permanent",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "IMPLEMENTATION",
+      "col_2": "Tasks being executed from the Implementation Passet. The business is being built.",
+      "col_3": "Implementation Passet",
+      "col_4": "CoS, operators, team",
+      "col_5": "18 months (ongoing)",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "REVIEW",
+      "col_2": "Quarterly look back. What worked, what didn't. Learnings captured.",
+      "col_3": "Review Passet (spawns quarterly)",
+      "col_4": "CoS, Nilo",
+      "col_5": "1 week per quarter",
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "SCHOOL METAPHOR (complete mapping)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Trade Term",
+      "col_2": "School Equivalent",
+      "col_3": "Why",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Trade",
+      "col_2": "University",
+      "col_3": "The whole institution",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Passet",
+      "col_2": "College within university",
+      "col_3": "College of Arts (imagination) vs College of Applied Science (implementation)",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Level",
+      "col_2": "Degree program",
+      "col_3": "MBA (studio), JD (business), MFA (funnel)",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Cluster",
+      "col_2": "Semester",
+      "col_3": "Take these courses together, shared themes",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "TUP",
+      "col_2": "Course",
+      "col_3": "One subject, one body of knowledge, one grade",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Tab",
+      "col_2": "Lesson / assignment",
+      "col_3": "A single unit of content within a course",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "P- tab",
+      "col_2": "Syllabus",
+      "col_3": "What you'll learn, what's due, how you'll be graded",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "C- tab",
+      "col_2": "Enrollment agreement",
+      "col_3": "Terms, compensation, IP, what you sign",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "IP- tab",
+      "col_2": "Required reading",
+      "col_3": "Background context before you start the work",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "V- tab",
+      "col_2": "Final exam / grade sheet",
+      "col_3": "Expert evaluates, assigns grade, signs off",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Nilo",
+      "col_2": "Dean",
+      "col_3": "Sets curriculum, final sign-off, doesn't teach",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Librarian",
+      "col_2": "Registrar",
+      "col_3": "Maintains records, distributes materials, files grades",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "PM Co-Founder",
+      "col_2": "Student (enrolled in a semester)",
+      "col_3": "Does the work, earns the grade, graduates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Expert Reviewer",
+      "col_2": "Professor",
+      "col_3": "Teaches domain, grades work, validates quality",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "MC",
+      "col_2": "Campus TV host",
+      "col_3": "Interviews everyone, makes content, makes it fun",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Series Producer",
+      "col_2": "TV executive producer",
+      "col_3": "Shapes the narrative, manages the host, quality control",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Admin",
+      "col_2": "Administrative assistant",
+      "col_3": "Scheduling, filing, logistics",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Dan James",
+      "col_2": "Admissions director",
+      "col_3": "Runs the funnel that recruits students into the school",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "CoS",
+      "col_2": "Graduate (now runs a company)",
+      "col_3": "Inherits the education, applies it in the real world",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Imagination Passet",
+      "col_2": "Textbook",
+      "col_3": "The knowledge, organized by domain",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Implementation Passet",
+      "col_2": "Practicum / residency",
+      "col_3": "Apply the knowledge in real-world execution",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Grading (A/B/C/D/F)",
+      "col_2": "Final grades",
+      "col_3": "Expert evaluation of quality",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TAXONOMY": "Locked Trade",
+      "col_2": "Published textbook",
+      "col_3": "Frozen, referenced, never edited again",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 64,
+  "sheet_name": "S4-Taxonomy",
+  "sheet_index": 2
+}

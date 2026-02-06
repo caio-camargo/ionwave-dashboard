@@ -1,0 +1,27 @@
+{
+  "headers": [
+    "QA SYSTEM & CHECKPOINTS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "QA SYSTEM & CHECKPOINTS": "Pre-launch",
+      "col_2": "Store QA, tracking verified, email flows tested"
+    },
+    {
+      "QA SYSTEM & CHECKPOINTS": "Weekly",
+      "col_2": "Ad performance, inventory levels, support metrics"
+    },
+    {
+      "QA SYSTEM & CHECKPOINTS": "Monthly",
+      "col_2": "P&L review, assumption validation, model update"
+    },
+    {
+      "QA SYSTEM & CHECKPOINTS": "Quarterly",
+      "col_2": "Strategic review, competitor analysis, roadmap"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "QA System",
+  "sheet_index": 941
+}

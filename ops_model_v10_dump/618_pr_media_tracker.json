@@ -1,0 +1,237 @@
+{
+  "headers": [
+    "PR & MEDIA OUTREACH TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Track media contacts, pitches, and coverage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "MEDIA TARGET LIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Outlet",
+      "col_2": "Type",
+      "col_3": "Contact Name",
+      "col_4": "Email",
+      "col_5": "Beat",
+      "col_6": "Pitched?",
+      "col_7": "Response",
+      "col_8": "Coverage"
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Well+Good",
+      "col_2": "Health/Wellness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Supplements",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Healthline",
+      "col_2": "Health",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Nutrition",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Mindbodygreen",
+      "col_2": "Wellness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Supplements",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Mens Health",
+      "col_2": "Fitness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Nutrition",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Womens Health",
+      "col_2": "Fitness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Nutrition",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Shape",
+      "col_2": "Fitness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Supplements",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Byrdie",
+      "col_2": "Beauty/Wellness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Wellness",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "The Thirty",
+      "col_2": "Wellness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Health",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "PureWow",
+      "col_2": "Lifestyle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Health",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "PopSugar Fitness",
+      "col_2": "Fitness",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Supplements",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "PODCAST TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Podcast",
+      "col_2": "Host",
+      "col_3": "Audience",
+      "col_4": "Contact",
+      "col_5": "Pitched?",
+      "col_6": "Response",
+      "col_7": "Episode Date",
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "The Model Health Show",
+      "col_2": "Shawn Stevenson",
+      "col_3": "Health/Wellness",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Mind Pump",
+      "col_2": "Sal Di Stefano",
+      "col_3": "Fitness",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "The Keto Savage Podcast",
+      "col_2": "Robert Sikes",
+      "col_3": "Keto",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Fundamental Health",
+      "col_2": "Paul Saladino",
+      "col_3": "Carnivore",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Ben Greenfield Life",
+      "col_2": "Ben Greenfield",
+      "col_3": "Biohacking",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "COVERAGE TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PR & MEDIA OUTREACH TRACKER": "Date",
+      "col_2": "Outlet",
+      "col_3": "Title",
+      "col_4": "Link",
+      "col_5": "Type",
+      "col_6": "Reach",
+      "col_7": "Notes",
+      "col_8": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "PR & Media Tracker",
+  "sheet_index": 618
+}

@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "PAGE SPEED CHECKLIST"
+  ],
+  "rows": [
+    {
+      "PAGE SPEED CHECKLIST": "Faster pages = higher conversion (every second matters)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "WHY SPEED MATTERS"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• 1 second delay = 7% conversion drop"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• 53% of mobile visitors leave if >3 seconds"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Google ranks faster sites higher"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Speed affects ad quality score (higher CPCs if slow)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "SPEED TARGETS"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "METRICS TO HIT:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Time to First Byte (TTFB): <200ms"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• First Contentful Paint (FCP): <1.8s"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Largest Contentful Paint (LCP): <2.5s"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Total page load: <3s"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "TEST WITH:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Google PageSpeed Insights"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• GTmetrix"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• WebPageTest"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "OPTIMIZATION CHECKLIST"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "IMAGES:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Compress all images (TinyPNG, ShortPixel)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Use WebP format"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Lazy load below-fold images"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Specify image dimensions"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "CODE:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Minify CSS and JavaScript"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Remove unused code"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Defer non-critical JavaScript"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Reduce redirects"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "HOSTING:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Use CDN"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Enable compression (GZIP)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Browser caching enabled"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "THIRD-PARTY:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Audit all apps/scripts"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Remove unused apps"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Lazy load chat widgets, etc."
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Page Speed Checklist",
+  "sheet_index": 289
+}

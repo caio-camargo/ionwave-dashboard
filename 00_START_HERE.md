@@ -1,12 +1,12 @@
 # START HERE - Studio 3 Imagination Generation System
-**Version**: v2.2.0
+**Version**: v2.4.0
 **Author**: Caio, Claude (collaborative)
 **Date Created**: 2026-02-03
-**Last Updated**: 2026-02-05
-**AI Model**: claude-opus-4.5-20251101
+**Last Updated**: 2026-02-06
+**AI Model**: claude-sonnet-4-5-20250929
 **Purpose**: Single entry point for Studio 3 Imagination project - read this first every session
 **Status**: Final
-**Related Files**: DOCUMENTATION_INDEX.md, processes/Dependency_Map.md, data/manifest.json
+**Related Files**: DOCUMENTATION_INDEX.md, processes/Dependency_Map.md, data/manifest.json (TUP-based)
 
 ---
 
@@ -28,86 +28,81 @@
 
 ## Current File Structure
 
-### Data Layer — `data/` (JSON, machine-optimized)
+### Data Layer — `data/` (TUP-based JSON, machine-optimized)
 **This is the primary data source for Claude and the dashboard.**
 
-Files 01-03B have been migrated from XLSX to JSON. Remaining files (04-38) are still XLSX-only, pending migration.
+**Organization:** TUP-based (Trade Unit Projects). 3 TUPs migrated to JSON, 38 TUPs pending migration.
 
 ```
 data/
-├── manifest.json                         ← MASTER INDEX: Load this first for full project orientation
+├── manifest.json                         ← MASTER INDEX: TUP-based, load this first for full project orientation
 ├── hypotheses/                           ← 🧪 HYPOTHESES ARCHITECTURE (ontological primitive)
 │   ├── registry.json                     ← Central registry of 8 core business hypotheses
 │   ├── index.json                        ← Bidirectional hypothesis ↔ document linking
 │   └── validation_log.json               ← Chronological event log (11+ events)
-├── 01_strategic_foundation/              ← 5 sheets (migrated)
-│   ├── _meta.json                        ← File-level metadata, dependencies, feedback loops
+├── m0_trade_thesis/                      ← M0 Trade Thesis (5 sheets, migrated from 01)
+│   ├── _meta.json                        ← TUP-level metadata, dependencies, feedback loops
 │   ├── assumptions_register.json
 │   ├── interview_insights.json
 │   ├── narrative_hypotheses.json
 │   ├── odd1_thesis.json
 │   └── thesis.json
-├── 02_market_intelligence/               ← 10 sheets (migrated)
+├── m26_competitive_intel/                ← M26 Competitive Intel (10 sheets, migrated from 02)
 │   ├── _meta.json
 │   └── ... (10 sheet files)
-├── 03a_customer_research_icp/            ← 5 sheets (migrated, consolidated from 6)
-│   ├── _meta.json
-│   └── ... (5 sheet files)
-└── 03b_customer_research_voc/            ← 7 sheets (migrated, consolidated from 9)
+└── m27_customer_research/                ← M27 Customer Research (12 sheets, merged from 03A ICP + 03B VOC)
     ├── _meta.json
-    └── ... (7 sheet files)
+    └── ... (ICP: 5 sheets, VOC: 7 sheets)
 ```
 
 **Key points:**
-- `manifest.json` replaces `Master_Index.md` for machine use — contains all 38 files, dependency chains, feedback loops, and migration status
+- `manifest.json` now uses **TUP codes as primary keys** (m0, m26, m27, etc.) — contains all 41 TUPs, dependency chains, migration status
 - **`hypotheses/`** — Central registry treating business assumptions as **ontological primitives** with validation tracking
-- Each `_meta.json` contains file-level metadata: quality scores, dependencies, blockers, next actions
+- **TUP organization** — Data organized by TUP (Trade Unit Project) codes, not Bootstrap file numbers
+- Each `_meta.json` contains TUP-level metadata: tup_id, tup_name, quality scores, dependencies, blockers, next actions
 - Each sheet JSON has a `_meta` envelope with `data_type`, `quality_score`, `status`, and `version`
 - Data types: `structured_table`, `narrative`, `hybrid`, `template`
 - Inline confidence metadata on data points where applicable (A/B/C/D grading)
 
-**For migrating more files:** See `processes/JSON_Migration_Guide.md`
+**For migrating more TUPs:** See `processes/JSON_Migration_Guide.md`
 **For hypothesis tracking:** See `data/hypotheses/registry.json` and dashboard hypotheses tracker
 
-### IonWave Trade Files (34 remaining) — `IonWave/`
-**Files 04-38 are still in XLSX format, pending JSON migration.**
+### Archived Bootstrap Files — `archive/bootstrap-xlsx-pre-tup-migration/`
+**Original Bootstrap XLSX files (01-38) archived during TUP migration.**
 
-**Organized Structure:**
-- 04: Planning & Roadmaps
-- 05-08: Product & Economics (Product Strategy, Formulation/Supply, Offer Strategy, Unit Economics, Financial Model)
-- 09-14: Brand & Creative (Brand/Messaging, Creative Strategy/Production, Funnel, Pages/Email, Media, Content, Community)
-- 15-19: Operations (Operations/Fulfillment, Team, Legal, Analytics, Systems/Automation)
-- 20-38: Growth & Support (Fundraising, Expansion, R&D, Decision Support, Partnerships, and Cross-Functional domains)
+All 42 XLSX files (including version variants) moved to archive:
+- 01-03B: Migrated to TUPs M0, M26, M27 (JSON)
+- 04-38: Unmigrated, archived as reference (superseded by Danilo's TUP files)
 
-**Reference:** See `data/manifest.json` for complete file inventory with migration status, or `Master_Index.md` for legacy sheet-by-sheet listing
+**Reference:** See `data/crosswalk.json` for Bootstrap → TUP mapping, or `data/manifest.json` for current TUP inventory
 
 ### Dashboard — `dashboard/`
-**Dynamic multi-page dashboard powered by JSON data layer.**
+**Dynamic multi-page dashboard powered by TUP-based JSON data layer.**
 ```
 dashboard/
-├── index.html                    ← Mission Control (loads manifest.json)
+├── index.html                    ← Mission Control (loads manifest.json, shows TUP status)
 ├── css/styles.css                ← Dark theme stylesheet
 ├── js/
 │   ├── data-loader.js            ← Fetches and caches JSON data
 │   └── renderers.js              ← Auto-renders content by data_type
 └── views/
-    ├── tup-navigator.html        ← 🗺️ TUP/Cluster system navigator (NEW)
+    ├── tup-navigator.html        ← 🗺️ TUP/Cluster system navigator
     ├── hypotheses-tracker.html   ← 🧪 Hypotheses system tracker
     ├── financial-forecast.html   ← 📊 Financial model scenarios
-    ├── strategic-foundation.html
-    ├── market-intelligence.html
-    └── customer-research.html    ← Combined 03A + 03B view
+    ├── m0-trade-thesis.html      ← M0 Trade Thesis (formerly strategic-foundation)
+    ├── m26-competitive-intel.html ← M26 Competitive Intel (formerly market-intelligence)
+    └── m27-customer-research.html ← M27 Customer Research (merged 03A ICP + 03B VOC)
 ```
 
 **Live at:** https://caio-camargo.github.io/ionwave-dashboard/
 **Repo:** https://github.com/caio-camargo/ionwave-dashboard
 
 **Key Dashboard Views:**
-- **Mission Control** - Project overview, cluster map, file status, dependency chains, analysis deliverables, critical questions
-- **🗺️ TUP Navigator** - Cluster/TUP hierarchy, ontological primitives, reconciliation status, file-to-TUP mapping
+- **Mission Control** - TUP overview (3 migrated, 38 pending), cluster map, dependency chains, analysis deliverables
+- **🗺️ TUP Navigator** - Complete TUP/Cluster hierarchy, ontological primitives, reconciliation status
 - **🧪 Hypotheses Tracker** - 8 core business hypotheses with confidence grades, validation status, dependencies
 - **📊 Financial Forecast** - 3-scenario financial model, timeline analysis, go/no-go frameworks
-- **File Views** - Dynamic rendering of migrated JSON data by file (01-03B currently available)
+- **TUP Views** - Dynamic rendering of migrated TUP data (M0, M26, M27 currently available)
 
 ### Documentation Folders
 ```
@@ -285,24 +280,29 @@ Files are mapped to Danilo's TUP (Trade Unit Project) and Cluster hierarchy via 
 
 ### Ontological Primitives
 
-The system's formal entities:
+The system's formal entities (full definitions in `standards/Systems_Architecture_Standards.md`):
 - **Hypothesis** — testable business assumption with confidence grades and validation lifecycle (registry: `data/hypotheses/`)
 - **TUP** — Trade Unit Project, the fundamental unit of knowledge about one subject
-- **Controller** — feedback mechanism with parameters (thresholds), metrics (measured values), reactive protocols (responses)
+- **Protocol** — minimal executable unit of work (Process, Gate, Reactive, Meta-Control types)
+- **Parameter** — numeric constraints with Variability Index (VI 1-5 indicating stability)
+- **Controller** — monitoring mechanism that compares metrics to parameters and triggers reactive protocols
+- **Passet** — structured information container (Drive folder with void spaces to be filled)
+- **OpKit** — production support bundle scaffolding deliverable creation (Reference Models, templates, checklists)
+- **Metric** — measured value tracked over time, consumed by Controllers
 - **Observer** — composite state estimator (e.g., Computational PMF: 10 signals, weighted score, diagnostic patterns)
-- **OpKit** — collection of documents scaffolding the generation of a deliverable (Reference Models, templates, checklists)
-- **Metric** — formalized individual measure feeding Controllers and Observers
+- **Meta-Control** — system-level supervisory module that tunes protocols, parameters, and controllers
 
 ### Finding Things
 - **Full project orientation (Claude)?** → `data/manifest.json` (load first every session)
+- **System architecture primitives?** → `standards/Systems_Architecture_Standards.md` (Protocol, Parameter, Controller, OpKit, Passet, Meta-Control)
 - **TUP/Cluster mapping?** → `data/crosswalk.json` (maps file numbers to Danilo's TUP codes)
 - **Reconciliation decisions?** → `tracking/Reconciliation_Decision_Log.md`
 - **Project status at a glance (human)?** → [Dashboard](https://caio-camargo.github.io/ionwave-dashboard/) — see DASHBOARD_UPDATE_GUIDE.md
 - **Business hypotheses/assumptions?** → `data/hypotheses/registry.json` or [Hypotheses Tracker](https://caio-camargo.github.io/ionwave-dashboard/views/hypotheses-tracker.html)
 - **Hypothesis evidence mapping?** → `data/hypotheses/index.json` or `IonWave/Hypothesis_Dependency_Audit.md`
 - **Critical strategic questions?** → `tracking/Open_Questions.md` (Q9, Q10, Q11 analyzed)
-- **Specific Trade file data (migrated)?** → `data/{file_id}/` (01-03B available as JSON)
-- **Specific Trade file data (not migrated)?** → `IonWave/{filename}.xlsx` (04-38, requires openpyxl)
+- **Specific TUP data (migrated)?** → `data/{tup_id}/` (M0, M26, M27 available as JSON)
+- **Specific TUP data (not migrated)?** → Archived in `archive/bootstrap-xlsx-pre-tup-migration/` (reference only, superseded by Danilo's TUP files)
 - **Sheet-level index?** → `data/manifest.json` (migrated files) or `Master_Index.md` (all files)
 - **Looking for a document?** → DOCUMENTATION_INDEX.md
 - **Understanding dependencies?** → processes/Dependency_Map.md (or `manifest.json` dependency_chains)
@@ -354,14 +354,15 @@ The system has been established through bootstrapping:
 - Documentation standards set (metadata, versioning)
 - Methodologies proven (competitive intelligence, customer voice, expert frameworks)
 
-### JSON Data Layer Migration (In Progress)
-Tier 1 files (01-03B) have been migrated from XLSX to JSON:
-- JSON data layer optimized for Claude context window (one file per sheet, metadata envelopes)
-- Dynamic HTML dashboard replacing old hardcoded single-page dashboard
-- `manifest.json` serves as machine-readable project index
+### TUP Migration (In Progress)
+**Major architectural shift from Bootstrap file numbers to TUP-based organization:**
+- **3 TUPs migrated**: M0 (Trade Thesis), M26 (Competitive Intel), M27 (Customer Research - merged ICP+VOC)
+- **38 TUPs pending**: M1-M40 (excluding M0, M26, M27)
+- JSON data layer optimized for TUP structure (one file per sheet, TUP-level metadata)
+- Dynamic HTML dashboard with TUP-based navigation
+- `manifest.json` rebuilt with TUP codes as primary keys (41 TUPs total)
 - **Hypotheses Architecture** established as ontological primitive (8 core hypotheses, 53+ document references)
-- 34 files remain to be migrated (see `processes/JSON_Migration_Guide.md`)
-- Migrated XLSX files archived to `archive/xlsx-pre-json-migration/`
+- Bootstrap XLSX files (01-38) archived to `archive/bootstrap-xlsx-pre-tup-migration/`
 
 ### Current Phase: Systematic Execution
 Now applying established frameworks to:
@@ -451,6 +452,22 @@ Run through this checklist before ending a session:
 ---
 
 ## Version History
+
+**v2.4.0 (2026-02-06):**
+- **MAJOR: TUP Migration** - Deprecated Bootstrap file numbering (01-38), adopted TUP-based organization (M0-M40)
+- Migrated 3 TUPs: M0 (Trade Thesis), M26 (Competitive Intel), M27 (Customer Research - merged 03A+03B)
+- Archived all Bootstrap XLSX files (01-38) to `archive/bootstrap-xlsx-pre-tup-migration/`
+- Rebuilt `data/manifest.json` with TUP codes as primary keys (41 TUPs total, 3 migrated, 38 pending)
+- Renamed data folders: `01_strategic_foundation` → `m0_trade_thesis`, `02_market_intelligence` → `m26_competitive_intel`, merged `03a_*` + `03b_*` → `m27_customer_research`
+- Updated all dashboard views to TUP-based navigation (renamed view pages, updated Mission Control)
+- Updated Data Layer section with TUP structure, archived Bootstrap Files section added
+
+**v2.3.0 (2026-02-06):**
+- Expanded Ontological Primitives section to include Protocol, Parameter, Passet, Meta-Control (now 10 primitives defined)
+- Created `standards/Systems_Architecture_Standards.md` extracting formal definitions from Sprint_STAGE_5 historical document
+- Added "System architecture primitives?" to Finding Things section
+- Moved `Caio __ Danilo, Rhen Sprint_STAGE_5.md` to `archive/historical-reference/` (kept as context, extracted relevant architecture definitions)
+- Updated AI Model reference to claude-sonnet-4-5-20250929
 
 **v2.2.0 (2026-02-05):**
 - Added TUP/Cluster navigation section with crosswalk table

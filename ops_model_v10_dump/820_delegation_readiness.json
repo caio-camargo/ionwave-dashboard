@@ -1,0 +1,347 @@
+{
+  "headers": [
+    "DELEGATION READINESS CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "DELEGATION READINESS CHECKLIST": "What's ready to hand off - path to <10 hrs/week",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "DELEGATION ASSESSMENT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Task",
+      "col_2": "Current Hours/Wk",
+      "col_3": "SOP Exists?",
+      "col_4": "Training Material?",
+      "col_5": "Can Be Delegated?",
+      "col_6": "To Whom?",
+      "col_7": "Blocker",
+      "col_8": "Target Date"
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Daily ad monitoring",
+      "col_2": "3",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA / Operator",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Customer support",
+      "col_2": "5",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA / Support agent",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Order fulfillment check",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Email campaign creation",
+      "col_2": "3",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Operator",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Creative briefing",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Keep (strategic)",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Inventory management",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA / Operator",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Weekly reporting",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA (data) + You (analysis)",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Supplier communication",
+      "col_2": "1",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Social media posting",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "VA / Scheduler",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Ad creative review",
+      "col_2": "2",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Keep (strategic)",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Strategy/planning",
+      "col_2": "3",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Keep (founder)",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "DELEGATION READINESS SCORE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Tasks with SOPs",
+      "col_2": "[X] / [Total]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Tasks with training",
+      "col_2": "[X] / [Total]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Tasks delegated",
+      "col_2": "[X] / [Total]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Hours delegated",
+      "col_2": "[X] / [Total] hrs",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Current founder hours",
+      "col_2": "[X] hrs/week",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "Target founder hours",
+      "col_2": "<10 hrs/week",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "WHAT FOUNDERS SHOULD KEEP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Strategy and major decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Creative direction (not execution)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Key relationships (suppliers, partners)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Hiring and team",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Financial oversight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "WHAT FOUNDERS SHOULD DELEGATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Repetitive daily tasks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Data entry and reporting (gathering, not analysis)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Customer support (with scripts)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Social media posting (with approval)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DELEGATION READINESS CHECKLIST": "• Inventory tracking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "Delegation Readiness",
+  "sheet_index": 820
+}

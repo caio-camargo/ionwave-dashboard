@@ -1,0 +1,227 @@
+{
+  "headers": [
+    "CHANGE CONTROL LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "CHANGE CONTROL LOG": "Track significant changes to plan/strategy - from PMBOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "WHY CHANGE CONTROL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Not every change is bad. But undocumented change is dangerous.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Change control ensures:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "• Changes are intentional, not accidental",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "• Someone is accountable for each change",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "• We can trace back why things are the way they are",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "• Scope creep is visible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "CHANGE LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "ID",
+      "col_2": "Date",
+      "col_3": "What Changed",
+      "col_4": "Why",
+      "col_5": "Impact",
+      "col_6": "Requested By",
+      "col_7": "Approved By",
+      "col_8": "Status"
+    },
+    {
+      "CHANGE CONTROL LOG": "C01",
+      "col_2": null,
+      "col_3": "Changed target CAC from $30 to $40",
+      "col_4": "Initial $30 was too aggressive for market",
+      "col_5": "More runway to find PMF",
+      "col_6": "Operator",
+      "col_7": "Studio",
+      "col_8": "Approved"
+    },
+    {
+      "CHANGE CONTROL LOG": "C02",
+      "col_2": null,
+      "col_3": "Added TikTok as secondary channel",
+      "col_4": "Meta costs rising, diversification needed",
+      "col_5": "More complexity, more opportunity",
+      "col_6": "Operator",
+      "col_7": "Studio",
+      "col_8": "Approved"
+    },
+    {
+      "CHANGE CONTROL LOG": "C03",
+      "col_2": null,
+      "col_3": "Delayed launch by 2 weeks",
+      "col_4": "Supplier lead time longer than expected",
+      "col_5": "Timeline shift, no cost impact",
+      "col_6": "Operator",
+      "col_7": "Studio",
+      "col_8": "Approved"
+    },
+    {
+      "CHANGE CONTROL LOG": "CHANGE TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Type",
+      "col_2": "Requires Approval From",
+      "col_3": "Examples",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Strategy",
+      "col_2": "Studio",
+      "col_3": "Target market change, pricing change, channel change",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Timeline",
+      "col_2": "Studio",
+      "col_3": "Launch date change, milestone shift",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Budget",
+      "col_2": "Studio",
+      "col_3": "Spend increase >20%, new expense category",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Product",
+      "col_2": "Studio",
+      "col_3": "Formula change, packaging change",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Team",
+      "col_2": "Studio",
+      "col_3": "Role change, new hire, contractor",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CHANGE CONTROL LOG": "Operational",
+      "col_2": "Operator",
+      "col_3": "Process change, tool change, vendor change",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Change Control Log",
+  "sheet_index": 804
+}

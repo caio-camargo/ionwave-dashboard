@@ -1,0 +1,331 @@
+{
+  "headers": [
+    "HOOK LIBRARY"
+  ],
+  "rows": [
+    {
+      "HOOK LIBRARY": "100+ proven hooks categorized by type - the first 3 seconds decide everything"
+    },
+    {
+      "HOOK LIBRARY": "WHY HOOKS MATTER"
+    },
+    {
+      "HOOK LIBRARY": "You have 0.5-3 seconds to stop the scroll."
+    },
+    {
+      "HOOK LIBRARY": "The hook is 80% of whether an ad works."
+    },
+    {
+      "HOOK LIBRARY": "Great product + bad hook = nobody sees it."
+    },
+    {
+      "HOOK LIBRARY": "Mediocre product + great hook = at least you get a chance."
+    },
+    {
+      "HOOK LIBRARY": "Build a library. Test constantly. Never stop collecting."
+    },
+    {
+      "HOOK LIBRARY": "HOOK CATEGORIES"
+    },
+    {
+      "HOOK LIBRARY": "1. PROBLEM/PAIN HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'I was so tired of feeling [problem]...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'If you struggle with [problem], watch this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Stop doing [common mistake] - it's making your [problem] worse'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why does nobody talk about [problem]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I used to [problem] every single day until...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The worst part about [problem] is...'"
+    },
+    {
+      "HOOK LIBRARY": "• '[Problem] ruined my [life area] until I found this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Doctors never tell you this about [problem]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I wasted $X on [solutions] that didn't work'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The real reason you're still [problem]'"
+    },
+    {
+      "HOOK LIBRARY": "2. CURIOSITY HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'Nobody's talking about this...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I can't believe this actually works'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Wait until you see what happens next'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This is the #1 thing [experts] don't want you to know'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I was today years old when I learned...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'What if I told you [surprising claim]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Here's what [competitor] doesn't tell you'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The secret to [result] is not what you think'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I've been doing [thing] wrong my whole life'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This changed everything for me'"
+    },
+    {
+      "HOOK LIBRARY": "3. SOCIAL PROOF HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'Over [X] people have tried this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'My [friend/mom/doctor] told me about this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Everyone's been asking about my [result]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I finally understand why everyone's obsessed with this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Okay I get the hype now'"
+    },
+    {
+      "HOOK LIBRARY": "• 'POV: You finally tried [product]'"
+    },
+    {
+      "HOOK LIBRARY": "• '[X] 5-star reviews can't be wrong'"
+    },
+    {
+      "HOOK LIBRARY": "• 'My followers keep asking me about this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The product that broke the internet'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why is everyone suddenly talking about [product]?'"
+    },
+    {
+      "HOOK LIBRARY": "4. RESULT/TRANSFORMATION HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'After [X days/weeks], here's what happened'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I never thought I'd feel this [positive feeling]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Before vs after [time period]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Day 1 vs Day 30'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I finally have [desired result]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This is what [result] looks like'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The results speak for themselves'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I didn't believe it until I saw my own results'"
+    },
+    {
+      "HOOK LIBRARY": "• 'From [bad state] to [good state] in [time]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Here's my honest [X week] update'"
+    },
+    {
+      "HOOK LIBRARY": "5. CONTRARIAN/MYTH-BUSTING HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'Everything you know about [topic] is wrong'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Stop believing this myth about [topic]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Unpopular opinion: [contrarian take]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Hot take: [bold claim]'"
+    },
+    {
+      "HOOK LIBRARY": "• '[Common advice] is actually terrible advice'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I'm going to get hate for this but...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This is controversial but it's the truth'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why [popular thing] doesn't actually work'"
+    },
+    {
+      "HOOK LIBRARY": "• '[Expert consensus] is completely backwards'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The [industry] doesn't want you to know this'"
+    },
+    {
+      "HOOK LIBRARY": "6. DIRECT/PRODUCT HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'This is the only [product type] I'll ever use'"
+    },
+    {
+      "HOOK LIBRARY": "• 'If you need [result], you need this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The [product type] that actually works'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Finally, a [product type] that [key benefit]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This [product] is different because...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I tried every [product type] and this one won'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The #1 [product type] for [specific use case]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why this [product] is worth every penny'"
+    },
+    {
+      "HOOK LIBRARY": "• 'If you only buy one [product type], make it this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This replaced my entire [routine/stack]'"
+    },
+    {
+      "HOOK LIBRARY": "7. STORY/NARRATIVE HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'Let me tell you about the worst [experience] of my life'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Story time: How I discovered [product/solution]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'This is the story of how I [achieved result]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'A year ago, I couldn't [thing]. Now...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I need to share what just happened'"
+    },
+    {
+      "HOOK LIBRARY": "• 'You're not going to believe this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'So this happened to me last week...'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I have a confession to make'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Real talk about my journey with [topic]'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The moment everything changed for me'"
+    },
+    {
+      "HOOK LIBRARY": "8. QUESTION HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'Want to know the secret to [result]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Have you ever wondered why [observation]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'What if you could [desired outcome]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why do so many people fail at [thing]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Can I be honest with you for a second?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Do you make this common mistake?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Ready to finally [achieve goal]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'What would you do with [more energy/time/etc]?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Have you tried [thing] and failed?'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why does [problem] keep happening to you?'"
+    },
+    {
+      "HOOK LIBRARY": "IONWAVE-SPECIFIC HOOKS"
+    },
+    {
+      "HOOK LIBRARY": "• 'I was drinking 8 glasses of water but still dehydrated'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The keto flu is optional - here's why'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Your electrolyte has 4 minerals. This one has 78.'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Ocean water has the same minerals as your blood plasma'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I stopped getting muscle cramps after I discovered this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'Why Gatorade is basically sugar water'"
+    },
+    {
+      "HOOK LIBRARY": "• 'The energy drink industry doesn't want you to know this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'I replaced my morning coffee with this'"
+    },
+    {
+      "HOOK LIBRARY": "• 'My brain fog disappeared after 3 days'"
+    },
+    {
+      "HOOK LIBRARY": "• 'What happened when I took electrolytes seriously'"
+    }
+  ],
+  "row_count": 107,
+  "sheet_name": "Hook Library",
+  "sheet_index": 334
+}

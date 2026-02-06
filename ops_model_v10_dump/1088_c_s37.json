@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S37: Studio Scaling — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "How Studio 4 grows. Multiple simultaneous Trades. Operator pipeline. Infrastructure scaling.",
+      "col_2": null
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Studio Scaling (S37)"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S37: Studio Scaling within SCL-5"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S37]"
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Studio Scaling model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S37: Studio Scaling — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S37",
+  "sheet_index": 1088
+}

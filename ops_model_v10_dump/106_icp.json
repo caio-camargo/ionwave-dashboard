@@ -1,0 +1,140 @@
+{
+  "headers": [
+    "IDEAL CUSTOMER PROFILE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IDEAL CUSTOMER PROFILE": "PRIMARY ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Demographics",
+      "col_2": "Male 28-45, $100K+ HHI, urban/suburban",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Psychographics",
+      "col_2": "Biohacker, optimizes everything, Huberman/Attia listener, tracks HRV/sleep",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Behaviors",
+      "col_2": "Already takes supplements, has tried LMNT/Drip Drop, reads labels obsessively",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Pain Point",
+      "col_2": "Knows electrolyte powders are processed garbage, wants something pure and natural",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Objection",
+      "col_2": "Is this actually better than what I'm using? Is it just expensive seawater?",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Where They Are",
+      "col_2": "YouTube (Huberman clips), podcasts, Reddit r/biohackers, Twitter health accounts",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Buying Trigger",
+      "col_2": "Science-backed claims, clean ingredient list, social proof from trusted voices",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "SECONDARY ICPs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Segment",
+      "col_2": "Description",
+      "col_3": "Why Target",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Keto/Carnivore",
+      "col_2": "Needs electrolytes for low-carb diet, hates sugar in traditional products",
+      "col_3": "Lower price sensitivity, community-driven",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Female Wellness",
+      "col_2": "35-50, yoga/Pilates, wants clean products, skeptical of masculine biohacker branding",
+      "col_3": "Underserved by current marine plasma brands",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Endurance Athletes",
+      "col_2": "Marathoners, triathletes, cyclists needing sustained electrolytes",
+      "col_3": "High volume usage, subscription-friendly",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Chronic Fatigue/Autoimmune",
+      "col_2": "Desperate for anything that helps, researches obsessively, loyal once converted",
+      "col_3": "High LTV, strong word-of-mouth",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "WHO IS NOT THE ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "General fitness casuals",
+      "col_2": "Don't care about ingredient quality, buy whatever's at Target",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "Price shoppers",
+      "col_2": "Will never pay $59/box when LMNT is $45",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IDEAL CUSTOMER PROFILE": "People who need education",
+      "col_2": "Don't know what electrolytes are — too expensive to convert",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "ICP",
+  "sheet_index": 106
+}

@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "VSL FINANCIAL MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL FINANCIAL MODEL": "The economics of a single VSL as a Trade",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "COST STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Line Item",
+      "col_2": "Low",
+      "col_3": "Mid",
+      "col_4": "High",
+      "col_5": "Notes"
+    },
+    {
+      "VSL FINANCIAL MODEL": "UGC Creator (raw footage)",
+      "col_2": "$100",
+      "col_3": "$250",
+      "col_4": "$500",
+      "col_5": "Per creator, need 2-3"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Voiceover",
+      "col_2": "$0",
+      "col_3": "$50",
+      "col_4": "$200",
+      "col_5": "$0 if creator does VO"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Video Editor",
+      "col_2": "$100",
+      "col_3": "$250",
+      "col_4": "$500",
+      "col_5": "Per finished VSL"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Motion Graphics",
+      "col_2": "$0",
+      "col_3": "$100",
+      "col_4": "$300",
+      "col_5": "Simple animations for mechanism"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Stock Footage/Music",
+      "col_2": "$0",
+      "col_3": "$50",
+      "col_4": "$100",
+      "col_5": "Licensed libraries"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Test Budget (Ads)",
+      "col_2": "$250",
+      "col_3": "$500",
+      "col_4": "$1,000",
+      "col_5": "Per angle tested"
+    },
+    {
+      "VSL FINANCIAL MODEL": "TOTAL PER VSL",
+      "col_2": "$450",
+      "col_3": "$1,200",
+      "col_4": "$2,600",
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "TOTAL PER WINNING VSL",
+      "col_2": "$900",
+      "col_3": "$2,400",
+      "col_4": "$5,200",
+      "col_5": "Assume 2 angles tested per winner"
+    },
+    {
+      "VSL FINANCIAL MODEL": "ROI MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Scenario",
+      "col_2": "VSL Cost",
+      "col_3": "Monthly Revenue Enabled",
+      "col_4": "Payback Period",
+      "col_5": "ROAS at Month 3"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Conservative",
+      "col_2": "$2,500",
+      "col_3": "$5,000/mo at CPA $40",
+      "col_4": "15 days",
+      "col_5": "6x"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Base",
+      "col_2": "$2,500",
+      "col_3": "$15,000/mo at CPA $30",
+      "col_4": "5 days",
+      "col_5": "18x"
+    },
+    {
+      "VSL FINANCIAL MODEL": "Aggressive",
+      "col_2": "$2,500",
+      "col_3": "$50,000/mo at CPA $20",
+      "col_4": "1.5 days",
+      "col_5": "60x"
+    },
+    {
+      "VSL FINANCIAL MODEL": "VSL PORTFOLIO STRATEGY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Don't bet on one VSL. Build a portfolio:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Month 1: Test 3-5 angles → Expect 1 winner",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Month 2: Scale winner, test 3 new angles → Expect 1 more winner",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Month 3: 2 winners scaling, 3 new in test → Expect 1 more winner",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "By Month 3: 3 winning VSLs, each on its own scaling curve",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Total investment: ~$7,500-15,000 in production + testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Expected monthly revenue enabled: $30,000-100,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "Key insight: VSLs fatigue. Plan for 4-6 week lifespan per winner.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL FINANCIAL MODEL": "You need a pipeline, not a single hero creative.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "VSL Financial Model",
+  "sheet_index": 314
+}

@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "CROSS-TAB VALIDATION RULES",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CROSS-TAB VALIDATION RULES": "If Tab X says A, Tab Y should match - consistency checks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "The model is only useful if it's internally consistent. These rules catch contradictions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "VALIDATION RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "Rule #",
+      "col_2": "If This Tab Says...",
+      "col_3": "Then This Tab Must Say...",
+      "col_4": "Check Frequency"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V1",
+      "col_2": "Unit Economics: COGS = $X",
+      "col_3": "Cash Flow, Financial Model: Same COGS",
+      "col_4": "Weekly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V2",
+      "col_2": "Unit Economics: CAC = $X",
+      "col_3": "Portfolio Reality Check: Same CAC",
+      "col_4": "Weekly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V3",
+      "col_2": "Unit Economics: Price = $X",
+      "col_3": "All revenue projections: Same price",
+      "col_4": "Weekly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V4",
+      "col_2": "Supplier Evaluation: Lead time = X days",
+      "col_3": "Restock Framework: Same lead time",
+      "col_4": "Monthly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V5",
+      "col_2": "Inventory Forecast: Current = X units",
+      "col_3": "Cash Flow: Same inventory value",
+      "col_4": "Weekly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V6",
+      "col_2": "Win Criteria: Target = $100K MRR",
+      "col_3": "All financial tabs: Same target",
+      "col_4": "Quarterly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V7",
+      "col_2": "The Equations: Formula X",
+      "col_3": "Financial Model: Implements same formula",
+      "col_4": "Quarterly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V8",
+      "col_2": "Kill Criteria: CAC > $60",
+      "col_3": "Red Flag Dashboard: Same threshold",
+      "col_4": "Monthly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V9",
+      "col_2": "Grand Unifying Dictionary: Term = X",
+      "col_3": "All tabs: Use same definition",
+      "col_4": "Quarterly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "V10",
+      "col_2": "ICP tabs: Persona details",
+      "col_3": "Creative Strategy: Aligned messaging",
+      "col_4": "Monthly"
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "HOW TO RUN VALIDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "1. Open both tabs side by side",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "2. Check the specific values listed above",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "3. If mismatch found, determine which is correct",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "4. Update the incorrect tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "5. Log change in Changes Tracker",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "6. Note validation in Model Audit Checklist",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "WHEN MISMATCHES OCCUR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "One tab outdated",
+      "col_2": "Update to current correct value",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "Genuine disagreement",
+      "col_2": "Escalate to Tab Owner",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "Formula error",
+      "col_2": "Fix formula, validate downstream",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CROSS-TAB VALIDATION RULES": "Structural issue",
+      "col_2": "May need model update, flag to Studio",
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Cross-Tab Validation Rules",
+  "sheet_index": 633
+}

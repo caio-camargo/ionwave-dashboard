@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "AEROSPACE PRE-PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "AEROSPACE PRE-PLAN": "The plan to make the plan - what must exist before planning begins",
+      "col_2": null
+    },
+    {
+      "AEROSPACE PRE-PLAN": "BEFORE WE PLAN, WE MUST HAVE:",
+      "col_2": null
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Clear objective",
+      "col_2": "What are we trying to achieve? ($100K MRR)"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Success criteria",
+      "col_2": "How will we know we won? (Win Criteria Definition)"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Constraints identified",
+      "col_2": "Budget, timeline, resources, regulations"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Stakeholders mapped",
+      "col_2": "Who needs to approve what?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Risk tolerance defined",
+      "col_2": "How much uncertainty can we accept?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Information sources",
+      "col_2": "Where will data come from?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Planning team",
+      "col_2": "Who builds the plan?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "☐ Review cadence",
+      "col_2": "How often do we update the plan?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "PLANNING PROCESS",
+      "col_2": null
+    },
+    {
+      "AEROSPACE PRE-PLAN": "1. Gather inputs",
+      "col_2": "All prerequisites above"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "2. Draft plan v0.1",
+      "col_2": "First pass, many gaps"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "3. Expert review",
+      "col_2": "Get feedback from experienced operators"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "4. Stress test",
+      "col_2": "What breaks? What assumptions are weak?"
+    },
+    {
+      "AEROSPACE PRE-PLAN": "5. Finalize v1.0",
+      "col_2": "Lock for sprint start"
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Aerospace Pre-Plan",
+  "sheet_index": 939
+}

@@ -1,0 +1,28 @@
+{
+  "headers": [
+    "CHANGES TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CHANGES TRACKER": "Date",
+      "col_2": "Sheet Changed",
+      "col_3": "What Changed",
+      "col_4": "Why",
+      "col_5": "Changed By"
+    },
+    {
+      "CHANGES TRACKER": "2026-01-30",
+      "col_2": "Unit Economics",
+      "col_3": "Updated COGS from $18 to $20",
+      "col_4": "Supplier quote came in higher",
+      "col_5": "CM"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Changes Tracker",
+  "sheet_index": 763
+}

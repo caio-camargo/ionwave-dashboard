@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "VENTURE PARTNER SCORECARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VENTURE PARTNER SCORECARD": "What good looks like — deals closed, revenue influenced",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "PERFORMANCE METRICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Metric",
+      "col_2": "Target (Monthly)",
+      "col_3": "Good",
+      "col_4": "Great",
+      "col_5": "Underperforming"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Deals closed",
+      "col_2": "1",
+      "col_3": "1-2",
+      "col_4": "3+",
+      "col_5": "0"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Pipeline value",
+      "col_2": "$25K+",
+      "col_3": "$25-50K",
+      "col_4": "$100K+",
+      "col_5": "<$10K"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Revenue influenced",
+      "col_2": "$5K+",
+      "col_3": "$5-15K",
+      "col_4": "$25K+",
+      "col_5": "<$2K"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Intros made",
+      "col_2": "5+",
+      "col_3": "5-10",
+      "col_4": "15+",
+      "col_5": "<3"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Conversion rate",
+      "col_2": "20%+",
+      "col_3": "20-30%",
+      "col_4": "40%+",
+      "col_5": "<10%"
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "QUALITATIVE ASSESSMENT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Dimension",
+      "col_2": "What Good Looks Like",
+      "col_3": "Score (1-5)",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Deal Quality",
+      "col_2": "Deals are strategic, executable, good economics",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Network Depth",
+      "col_2": "Has real relationships, not just LinkedIn connections",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Closing Ability",
+      "col_2": "Moves deals from intro to signature",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Communication",
+      "col_2": "Keeps Studio informed, no surprises",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Professionalism",
+      "col_2": "Represents Studio well externally",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Self-Direction",
+      "col_2": "Finds opportunities, doesn't wait for assignments",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "REVIEW CADENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Monthly: Pipeline review (15 min call)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Quarterly: Full performance review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "Annually: Relationship evaluation (continue/adjust/end)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "TERMINATION TRIGGERS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "• 3 months with 0 closed deals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "• Consistent underperformance on metrics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "• Reputational issues",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VENTURE PARTNER SCORECARD": "• Misrepresentation of relationships/capabilities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Venture Partner Scorecard",
+  "sheet_index": 668
+}

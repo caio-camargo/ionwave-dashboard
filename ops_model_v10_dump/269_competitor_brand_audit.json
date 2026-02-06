@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "COMPETITOR BRAND AUDIT",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "COMPETITOR BRAND AUDIT": "How competitors position visually and verbally.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR BRAND AUDIT": "Competitor",
+      "col_2": "Visual",
+      "col_3": "Tone",
+      "col_4": "Weakness"
+    },
+    {
+      "COMPETITOR BRAND AUDIT": "LMNT",
+      "col_2": "Bold, colorful",
+      "col_3": "Confident, bro-y",
+      "col_4": "Only 3 minerals"
+    },
+    {
+      "COMPETITOR BRAND AUDIT": "Seaonic",
+      "col_2": "Premium, minimal",
+      "col_3": "Sophisticated",
+      "col_4": "Expensive"
+    },
+    {
+      "COMPETITOR BRAND AUDIT": "Liquid IV",
+      "col_2": "Bright, young",
+      "col_3": "Fun, casual",
+      "col_4": "Sugary"
+    },
+    {
+      "COMPETITOR BRAND AUDIT": "OUR LANE: Premium-accessible, science-backed, complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Competitor Brand Audit",
+  "sheet_index": 269
+}

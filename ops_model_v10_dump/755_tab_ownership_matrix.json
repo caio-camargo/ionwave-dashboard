@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "TAB OWNERSHIP MATRIX",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "TAB OWNERSHIP MATRIX": "Who owns each tab - Operator (O), Compliance Manager (CM), Studio (S)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "LEGEND",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "O = Operator",
+      "col_2": "Creates and maintains, full edit rights",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "CM = Compliance Manager",
+      "col_2": "Validates and reviews, can flag issues",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "S = Studio",
+      "col_2": "Strategic oversight, approves changes",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "R = Read-only",
+      "col_2": "Can view but not edit",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "OWNERSHIP BY CATEGORY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Tab Category",
+      "col_2": "Owner",
+      "col_3": "Validator",
+      "col_4": "Approver"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Strategy (Thesis, Games, Win Criteria)",
+      "col_2": "S",
+      "col_3": "CM",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Finance (Unit Economics, Cash Flow, etc.)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Marketing (Ads, Creative, Email)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "O"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Operations (Supplier, Inventory, 3PL)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "O"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Customer (ICP, Research, Voice of Customer)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "O"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Governance (Decision Log, Changes, Audit)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Meta (How to Use, Dependencies, Freshness)",
+      "col_2": "S",
+      "col_3": "S",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Contracts & Legal",
+      "col_2": "S",
+      "col_3": "S",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Performance (Dashboards, Metrics)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "O"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "Risk (Risk Register, Failure Mode)",
+      "col_2": "O",
+      "col_3": "CM",
+      "col_4": "S"
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "EDIT RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "• Owner can edit freely within their tabs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "• Validator reviews changes weekly, flags issues",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "• Approver must sign off on any structural changes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "• Cross-ownership edits require notification to owner",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TAB OWNERSHIP MATRIX": "• Studio tabs require 5-6 bullets before changes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Tab Ownership Matrix",
+  "sheet_index": 755
+}

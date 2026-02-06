@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "3PL SLA SCORECARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "3PL SLA SCORECARD": "Track 3PL performance weekly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SLA SCORECARD": "Metric",
+      "col_2": "Target",
+      "col_3": "Week 1",
+      "col_4": "Week 2",
+      "col_5": "Week 3",
+      "col_6": "Week 4"
+    },
+    {
+      "3PL SLA SCORECARD": "Ship <48hr",
+      "col_2": ">95%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SLA SCORECARD": "Accuracy",
+      "col_2": ">99%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SLA SCORECARD": "Damage rate",
+      "col_2": "<1%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "3PL SLA Scorecard",
+  "sheet_index": 520
+}

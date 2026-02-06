@@ -1,0 +1,106 @@
+{
+  "headers": [
+    "HANDOFF PACKETS"
+  ],
+  "rows": [
+    {
+      "HANDOFF PACKETS": "What to give CM when work is done"
+    },
+    {
+      "HANDOFF PACKETS": "AD LAUNCH HANDOFF"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Ad name and ID"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Screenshot of ad in Ads Manager"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Campaign/Ad Set/Ad structure"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Budget and bid settings"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Audience targeting"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Creative assets (images/videos)"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Copy (headline, body, CTA)"
+    },
+    {
+      "HANDOFF PACKETS": "☐ UTM parameters"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Expected metrics (target CTR, CPC)"
+    },
+    {
+      "HANDOFF PACKETS": "EMAIL FLOW HANDOFF"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Flow name and trigger"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Screenshot of flow in Klaviyo"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Each email: subject, preview, send time"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Test email received (screenshot)"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Segment/audience"
+    },
+    {
+      "HANDOFF PACKETS": "☐ A/B test setup (if any)"
+    },
+    {
+      "HANDOFF PACKETS": "SUPPLIER ORDER HANDOFF"
+    },
+    {
+      "HANDOFF PACKETS": "☐ PO number"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Supplier confirmation"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Product specs ordered"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Quantity and unit cost"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Payment terms/status"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Expected ship date"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Expected arrival date"
+    },
+    {
+      "HANDOFF PACKETS": "WEEKLY DELIVERABLES HANDOFF"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Weekly report completed"
+    },
+    {
+      "HANDOFF PACKETS": "☐ All metrics updated in dashboards"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Screenshot evidence for key activities"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Blockers/decisions documented"
+    },
+    {
+      "HANDOFF PACKETS": "☐ Next week priorities listed"
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Handoff Packets",
+  "sheet_index": 828
+}

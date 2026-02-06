@@ -1,0 +1,169 @@
+{
+  "headers": [
+    "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)"
+  ],
+  "rows": [
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "EMAIL 1 — 1 HOUR AFTER ABANDONMENT"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Subject: You left something behind..."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Preview: Your IonWave is waiting"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Looks like you got interrupted."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Your IonWave is still in your cart:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "{{product_name}} — {{quantity}}"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "{{price}}"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "[COMPLETE YOUR ORDER →]"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Quick reminder of what you're getting:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "✓ 78 ionic minerals (not 3-4 like synthetic brands)"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "✓ 98% bioavailable (vs ~10% for pills)"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "✓ 30-day feel-the-difference guarantee"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "✓ Free shipping on subscriptions"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Your cart will stay saved for 72 hours."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "P.S. Questions holding you back? Just reply. We're here."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "EMAIL 2 — 24 HOURS AFTER ABANDONMENT"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Subject: Still thinking about it?"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Preview: Let me answer the question you're probably asking..."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Still on the fence? Totally fair."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Here are the questions most people have before they try IonWave:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "\"DOES IT ACTUALLY TASTE OKAY?\""
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Mildly mineral, like high-quality spring water. Most people drink it straight, some add it to juice. Either works."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "\"HOW LONG UNTIL I FEEL SOMETHING?\""
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Most customers notice more stable energy within 3-7 days. Full benefits typically show up over 2-4 weeks."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "\"IS THIS JUST EXPENSIVE SEAWATER?\""
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "No. Seawater is 35g/L salt. Marine plasma is harvested from a specific depth where mineral ratios match human biology, then filtered and concentrated. Very different."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "\"WHAT IF IT DOESN'T WORK FOR ME?\""
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "30-day guarantee. Feel the difference or get every penny back. No questions, no hassle."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Still have questions? Hit reply. I'll answer personally."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Or if you're ready:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "[COMPLETE YOUR ORDER →]"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "EMAIL 3 — 72 HOURS AFTER ABANDONMENT (Final)"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Subject: Last chance: your cart expires tonight"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Preview: Plus: free shipping on us"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Your IonWave cart expires in 24 hours."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "After that, you'll need to start over."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Before it clears, I wanted to offer something:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "USE CODE: FIRSTBOX"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "FREE SHIPPING ON YOUR FIRST ORDER"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "No minimum. Just enter the code at checkout."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Here's what's waiting for you:"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "{{product_name}} — {{quantity}}"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "{{price}}"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "[CLAIM FREE SHIPPING →]"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "78 minerals. 30 seconds. 30-day guarantee."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "Your body will thank you."
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE ABANDONED CART SEQUENCE (3 EMAILS)": "P.S. This is the last email about your cart. If now's not the right time, no worries. We'll be here when you're ready."
+    }
+  ],
+  "row_count": 53,
+  "sheet_name": "Email Cart Abandoned",
+  "sheet_index": 436
+}

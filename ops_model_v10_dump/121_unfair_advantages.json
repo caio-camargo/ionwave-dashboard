@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "UNFAIR ADVANTAGES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "UNFAIR ADVANTAGES": "78 minerals vs 3",
+      "col_2": "LMNT only has sodium, potassium, magnesium"
+    },
+    {
+      "UNFAIR ADVANTAGES": "Ocean-sourced",
+      "col_2": "Real marine plasma, not synthetic"
+    },
+    {
+      "UNFAIR ADVANTAGES": "Science story",
+      "col_2": "Body is 70% ocean, blood plasma ratios"
+    },
+    {
+      "UNFAIR ADVANTAGES": "Price accessible",
+      "col_2": "Premium quality at everyday price"
+    },
+    {
+      "UNFAIR ADVANTAGES": "Subscription-first",
+      "col_2": "Built for retention, not one-time"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Unfair Advantages",
+  "sheet_index": 121
+}

@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "FORMULATION DOCUMENTATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "FORMULATION DOCUMENTATION": "Document your product formulation for consistency and compliance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "MASTER FORMULA RECORD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "PRODUCT: IonWave Electrolyte Powder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "VERSION: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "DATE: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "APPROVED BY: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "INGREDIENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Ingredient",
+      "col_2": "Amount per Serving",
+      "col_3": "Source",
+      "col_4": "Supplier",
+      "col_5": "Spec/Grade"
+    },
+    {
+      "FORMULATION DOCUMENTATION": "SPECIFICATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Serving size: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Servings per container: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Form: Powder / Capsule / Liquid",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Flavor: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Color: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Shelf life: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Storage conditions: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Allergen statement: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "MANUFACTURING NOTES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Mixing order: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Special handling: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Quality checks: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION DOCUMENTATION": "Packaging requirements: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Formulation Documentation",
+  "sheet_index": 223
+}

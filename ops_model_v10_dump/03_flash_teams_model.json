@@ -1,0 +1,399 @@
+{
+  "headers": [
+    "FLASH TEAMS MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "FLASH TEAMS MODEL": "Stanford flash teams applied to the Trade. Small sprints. Tiny equity. People flash in and flash out.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "THE MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Reference: Stanford HAI — 'Flash Teams: The Future of Agile Collaboration'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "(Valentine & Bernstein, MIT Press, 2025)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Flash teams are groups of experts who assemble quickly for a specific project",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "and dissolve when the work is complete. Members may never have met.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Assembled through platforms based on expertise. Coordinated by software.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Applied to the Trade:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• Nobody has a big job. Everyone has a small, scoped sprint.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• A PM co-founder doesn't 'run a cluster for 3 months' —",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "they flash in, produce 4-6 TUPs over 2-3 weeks, and dissolve.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• An expert doesn't 'join the team' — they review for 10-20 hours and leave.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• The MC does a burst of conversations for a cluster and moves on.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• Equity is tiny per person because the job is tiny per person.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "• You might have 40-60 people touch the Trade, each for a short burst,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "rather than 14 people for a long commitment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "The Trade itself is the coordination software. It tells each person what to do,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "what 'done' looks like, and who they're handing off to. The librarian is the",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "platform operator. The MC is the onboarding and offboarding ritual.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "INVESTOR NARRATIVE: 'We assembled a 103-model operating system using",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Stanford's flash teams model. 40+ experts, globally distributed, assembled",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "on-demand, coordinated by the Trade, dissolved when done. Zero payroll.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "That IS the coordination thesis in action.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "TWO TYPES OF ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Type",
+      "col_2": "What It Means",
+      "col_3": "Duration",
+      "col_4": "Equity",
+      "col_5": "Examples"
+    },
+    {
+      "FLASH TEAMS MODEL": "PERSISTENT",
+      "col_2": "Stays for the full production cycle. Small scope but ongoing. The connective tissue.",
+      "col_3": "Weeks to months",
+      "col_4": "0.5-2%",
+      "col_5": "Librarian (Elaine): custody of the Trade, ongoing\nConductor: ops and logistics, ongoing\nMC: conversations across all clusters, ongoing"
+    },
+    {
+      "FLASH TEAMS MODEL": "FLASH",
+      "col_2": "Comes in for one sprint. Produces a specific deliverable. Dissolves. May never interact with anyone else except the MC and the librarian.",
+      "col_3": "1-4 weeks per sprint",
+      "col_4": "0.1-0.5% per sprint",
+      "col_5": "PM co-founder: produces 4-6 TUPs in 2-3 weeks, done\nExpert reviewer: 10-20 hours over 2 weeks, done\nProduct person: builds site in 2-3 weeks, done\nDanilo: writes a specific essay when asked, done\nFunnel builder: sets up YouTube funnel, done\nSeries producer: plans narrative arc, done"
+    },
+    {
+      "FLASH TEAMS MODEL": "HOW FLASH SPRINTS WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "1. SCOPE: The P-tab for each TUP already defines the sprint. What to produce, what 'done' looks like.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "2. FIND: Conductor sources the person via platforms (Upwork, LinkedIn, communities) or referrals.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "3. MC CONVERSATION: The MC has an on-air conversation with the person. This is the 'interview'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "AND the onboarding. Recorded, published. The person is now on the cast page.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "4. LIBRARIAN HANDOFF: Elaine prepares their working folder. INSTRUCTIONS.md + their tabs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Full Trade available read-only for context.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "5. SPRINT: They produce. 1-4 weeks. Claude available as co-pilot. MC checks in weekly (recorded).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "6. SUBMIT: They drop finished work in their SUBMIT folder. Librarian updates master.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "7. MC CLOSING: MC has a closing conversation. 'What did you build? What surprised you?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "This is content AND offboarding.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "8. DISSOLVE: They're done. Cast page shows their contribution. They keep portfolio rights.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "They may flash back in for a different sprint later.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Total touch time per flash person: MC conversation (30 min) + sprint (10-60 hours) +",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "MC closing (20 min). That's it. No meetings, no standups, no Slack channel.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "EQUITY BUDGET (FLASH MODEL)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "If 40-60 people each get 0.1-0.5% per sprint:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Low end: 40 people × 0.1% = 4%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "High end: 60 people × 0.5% = 30%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Realistic: ~50 people averaging 0.25% = 12.5%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Persistent roles (3 people × 1-2%) = 3-6%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Total equity distributed pre-raise: ~15-20%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Danilo / Studio 4 retains: ~50-60%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Option pool: ~10-15%",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Investor dilution from seed (15-25%) comes off everyone pro rata.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Post-raise, PM co-founders on the operating side can become full-time paid roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "The flash model is for the IMAGINATION PASSET production phase.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FLASH TEAMS MODEL": "Once funded, the IMPLEMENTATION PASSET is run by paid operators.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 55,
+  "sheet_name": "Flash Teams Model",
+  "sheet_index": 3
+}

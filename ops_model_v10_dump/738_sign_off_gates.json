@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "SIGN-OFF GATES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SIGN-OFF GATES": "Who approves what at each stage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SIGN-OFF GATES": "Gate",
+      "col_2": "Deliverable",
+      "col_3": "Approver",
+      "col_4": "Criteria",
+      "col_5": "SLA"
+    },
+    {
+      "SIGN-OFF GATES": "G1: Pre-Launch",
+      "col_2": "Store complete",
+      "col_3": "CM",
+      "col_4": "Checklist 100%",
+      "col_5": "24 hrs"
+    },
+    {
+      "SIGN-OFF GATES": "G2: Ads Live",
+      "col_2": "First ads approved",
+      "col_3": "CM",
+      "col_4": "Compliant, on-brand",
+      "col_5": "24 hrs"
+    },
+    {
+      "SIGN-OFF GATES": "G3: Week 1 Review",
+      "col_2": "First week metrics",
+      "col_3": "Studio",
+      "col_4": "Tracking working",
+      "col_5": "48 hrs"
+    },
+    {
+      "SIGN-OFF GATES": "G4: Month 1",
+      "col_2": "Full month report",
+      "col_3": "Studio",
+      "col_4": "Unit economics viable",
+      "col_5": "72 hrs"
+    },
+    {
+      "SIGN-OFF GATES": "G5: Scale Decision",
+      "col_2": "Scale plan",
+      "col_3": "Studio",
+      "col_4": "PMF indicators met",
+      "col_5": "1 week"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Sign-Off Gates",
+  "sheet_index": 738
+}

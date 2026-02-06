@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S34: Conceptual Foundations — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Esoteric and philosophical underpinnings. Consciousness, complexity, emergence, alternative intellectual traditions.",
+      "col_2": null
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Conceptual Foundations (S34)"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S34: Conceptual Foundations within SCL-0"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S34]"
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Conceptual Foundations model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S34: Conceptual Foundations — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S34",
+  "sheet_index": 956
+}

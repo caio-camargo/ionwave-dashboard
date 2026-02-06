@@ -1,0 +1,191 @@
+{
+  "headers": [
+    "RED FLAG DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "RED FLAG DASHBOARD": "Single view of all kill criteria across tabs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🚨 KILL CRITERIA STATUS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "Metric",
+      "col_2": "Kill Threshold",
+      "col_3": "Warning Threshold",
+      "col_4": "Current",
+      "col_5": "Status",
+      "col_6": "Source Tab"
+    },
+    {
+      "RED FLAG DASHBOARD": "CAC",
+      "col_2": "> $60 for 14 days",
+      "col_3": "> $50",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Unit Economics"
+    },
+    {
+      "RED FLAG DASHBOARD": "LTV:CAC Ratio",
+      "col_2": "< 1.5x",
+      "col_3": "< 2x",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Unit Economics"
+    },
+    {
+      "RED FLAG DASHBOARD": "Monthly Churn",
+      "col_2": "> 15% for 2 months",
+      "col_3": "> 12%",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Churn Prediction"
+    },
+    {
+      "RED FLAG DASHBOARD": "Gross Margin",
+      "col_2": "< 50%",
+      "col_3": "< 60%",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Unit Economics"
+    },
+    {
+      "RED FLAG DASHBOARD": "Cash Runway",
+      "col_2": "< 30 days",
+      "col_3": "< 60 days",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Cash Flow Monitoring"
+    },
+    {
+      "RED FLAG DASHBOARD": "Contribution Margin",
+      "col_2": "Negative for 30 days",
+      "col_3": "< 5%",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Unit Economics"
+    },
+    {
+      "RED FLAG DASHBOARD": "Supplier Lead Time",
+      "col_2": "> 90 days",
+      "col_3": "> 60 days",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Supplier Evaluation"
+    },
+    {
+      "RED FLAG DASHBOARD": "Ad Account Status",
+      "col_2": "Banned",
+      "col_3": "Restricted",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Risk Register"
+    },
+    {
+      "RED FLAG DASHBOARD": "Stockout Risk",
+      "col_2": "< 7 days inventory",
+      "col_3": "< 14 days",
+      "col_4": "[TBD]",
+      "col_5": "⬜",
+      "col_6": "Inventory Forecast"
+    },
+    {
+      "RED FLAG DASHBOARD": "STATUS LEGEND",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🟢 Green",
+      "col_2": "Healthy - above warning threshold",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🟡 Yellow",
+      "col_2": "Warning - approaching kill threshold",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🔴 Red",
+      "col_2": "Critical - at or past kill threshold",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "⬜ Unknown",
+      "col_2": "No data yet",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "ESCALATION PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🟡 Yellow",
+      "col_2": "Alert CM, increase monitoring frequency",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🔴 Red (1 metric)",
+      "col_2": "Alert Studio, daily updates, action plan in 48 hrs",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🔴 Red (2+ metrics)",
+      "col_2": "Emergency review call, consider pause",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "RED FLAG DASHBOARD": "🔴 Red (30 days)",
+      "col_2": "Kill trade decision required",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Red Flag Dashboard",
+  "sheet_index": 632
+}

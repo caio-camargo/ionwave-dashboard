@@ -1,0 +1,159 @@
+{
+  "headers": [
+    "THREE-LEVEL ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "THREE-LEVEL ARCHITECTURE": "Studio Level · Business Level · Funnel Level. Equal sophistication. Equal depth.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "THE THREE LEVELS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "Level",
+      "col_2": "What It Is",
+      "col_3": "Models",
+      "col_4": "Product",
+      "col_5": "Revenue",
+      "col_6": "Who Runs It"
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "STUDIO LEVEL\n(S0-S40)",
+      "col_2": "How the system itself works. Production, labor, infrastructure, governance, AI, fundraising. The operating system of the venture studio.",
+      "col_3": "~40 models (S0-S40)\nSame depth as business level",
+      "col_4": "The coordination hedgefund thesis. The Trade system. The methodology.",
+      "col_5": "Infrastructure company fundraise. Licensing. SaaS (Phase 4+).",
+      "col_6": "Nilo + Series Producer + Studio PM co-founders"
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "BUSINESS LEVEL\n(M0-M40)",
+      "col_2": "IonWave specifically. Product, marketing, operations, growth. Everything to launch and run the D2C brand.",
+      "col_3": "41 models (M0-M40)\nAlready built",
+      "col_4": "IonWave electrolyte supplement.",
+      "col_5": "Product sales. Subscriptions. DTC revenue.",
+      "col_6": "IonWave CoS + Cluster PM co-founders"
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "FUNNEL LEVEL\n(F0-F20+)",
+      "col_2": "The meta layer. Content, recruiting, selling the model itself. Nilo as Dan Crowley — making content that recruits AND sells the infrastructure.",
+      "col_3": "~20 models (F0-F20)\nNilo's personal funnel + recruiting + content",
+      "col_4": "Lead magnets, courses, done-for-you Trades, the recruiting pipeline itself.",
+      "col_5": "Course/info ($500-2K). DFY ($25-100K). Recruiting (the people ARE the revenue — they build the businesses).",
+      "col_6": "Nilo directly. This is the Dan Crowley play."
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "HOW THEY CONNECT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "FUNNEL LEVEL feeds STUDIO LEVEL feeds BUSINESS LEVEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "Nilo makes content (Funnel Level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "→ Content recruits PM co-founders, experts, investors (Funnel → Studio)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "→ PM co-founders produce and verify models (Studio Level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "→ Verified models become the operating system for IonWave (Studio → Business)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "→ IonWave launches and generates revenue (Business Level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "→ IonWave success becomes content for more recruiting (Business → Funnel)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "The flywheel: Content → People → Models → Businesses → Proof → More Content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "Nilo is Dan Crowley in two ways:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "1. He runs the funnel that recruits (Dan Crowley the recruiter)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THREE-LEVEL ARCHITECTURE": "2. He IS the content that makes the funnel work (Dan Crowley the creator)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Three-Level Architecture",
+  "sheet_index": 29
+}

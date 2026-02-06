@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S11: Participant UX — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S11: Participant UX — VERIFICATION": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "The experience of participating in the Trade. From discovery to cast page. Every touchpoint designed.",
+      "col_2": null
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade participant ux model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "B (Good)",
+      "col_2": "Solid participant ux model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "C (Needs Work)",
+      "col_2": "Participant UX model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "D (Major Issues)",
+      "col_2": "Participant UX model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "F (Fail)",
+      "col_2": "Participant UX model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S11: Participant UX — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S11",
+  "sheet_index": 982
+}

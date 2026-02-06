@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "COMPETITOR SWIPE CATALOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "COMPETITOR SWIPE CATALOG": "Organized place for screenshots - link to Drive folder for each",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "Competitor",
+      "col_2": "Category",
+      "col_3": "Asset Type",
+      "col_4": "Drive Link",
+      "col_5": "Why It Works",
+      "col_6": "How We'll Use"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "LMNT",
+      "col_2": "Ads",
+      "col_3": "Static - Hook",
+      "col_4": "[link]",
+      "col_5": "Clear benefit, bold text",
+      "col_6": "Template for Hook 1"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "LMNT",
+      "col_2": "Ads",
+      "col_3": "Video - VSL",
+      "col_4": "[link]",
+      "col_5": "Story arc, testimonials",
+      "col_6": "Structure for our VSL"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "Seed",
+      "col_2": "Landing Page",
+      "col_3": "Hero section",
+      "col_4": "[link]",
+      "col_5": "Clean, benefit-first",
+      "col_6": "Homepage layout"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "AG1",
+      "col_2": "Email",
+      "col_3": "Welcome flow",
+      "col_4": "[link]",
+      "col_5": "Education + CTA timing",
+      "col_6": "Flow structure"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "Ritual",
+      "col_2": "Packaging",
+      "col_3": "Box design",
+      "col_4": "[link]",
+      "col_5": "Premium unboxing",
+      "col_6": "Packaging inspiration"
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "FOLDER STRUCTURE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "/Swipe/LMNT/Ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "/Swipe/LMNT/Landing Pages",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "/Swipe/LMNT/Emails",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "/Swipe/Seed/...",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITOR SWIPE CATALOG": "/Swipe/AG1/...",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Competitor Swipe Catalog",
+  "sheet_index": 544
+}

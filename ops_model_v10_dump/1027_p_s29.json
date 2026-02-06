@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S29: Studio Fundraise — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "How Studio 4 raises capital. Deck, data room, investor pipeline, terms.",
+      "col_2": null
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "TUP",
+      "col_2": "S29: Studio Fundraise"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-3"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Owner",
+      "col_2": "PM (Finance)"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Description",
+      "col_2": "How Studio 4 raises capital. Deck, data room, investor pipeline, terms."
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S29: Studio Fundraise — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Studio Fundraise model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S29",
+  "sheet_index": 1027
+}

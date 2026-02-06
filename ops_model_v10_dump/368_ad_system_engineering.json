@@ -1,0 +1,455 @@
+{
+  "headers": [
+    "AD SYSTEM ENGINEERING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "AD SYSTEM ENGINEERING": "Paid acquisition as a production system - inputs, process, outputs, feedback",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "THE AD SYSTEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Treat ads like a factory, not an art project.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "INPUTS → PROCESS → OUTPUTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Creative, Targeting, Budget → Testing, Optimization → Customers, Data, Learnings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "The goal: Reliable, scalable customer production.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "SYSTEM INPUTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Input",
+      "col_2": "Description",
+      "col_3": "Quality Standard",
+      "col_4": "Source",
+      "col_5": "Refresh Rate"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Creative Assets",
+      "col_2": "Videos, images, copy",
+      "col_3": "Hook in <3s, clear CTA",
+      "col_4": "Creative Engineering",
+      "col_5": "10-20/week"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Targeting",
+      "col_2": "Audiences, interests, LALs",
+      "col_3": "Based on ICP, tested",
+      "col_4": "ICP research",
+      "col_5": "Monthly refresh"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Budget",
+      "col_2": "Daily/weekly spend",
+      "col_3": "Sized to statistical significance",
+      "col_4": "Finance",
+      "col_5": "Weekly adjustment"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Landing Pages",
+      "col_2": "Where traffic goes",
+      "col_3": "Fast, mobile, high CVR",
+      "col_4": "Web team",
+      "col_5": "A/B test ongoing"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Offer",
+      "col_2": "Price, discount, bundle",
+      "col_3": "Compelling, profitable",
+      "col_4": "Strategy",
+      "col_5": "Test quarterly"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Tracking",
+      "col_2": "Attribution, pixels",
+      "col_3": "Accurate data",
+      "col_4": "Tech",
+      "col_5": "Audit monthly"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "SYSTEM PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "TESTING STAGE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "1. Launch 3-5 new creatives / week minimum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "2. Test against control at $50-100/day each",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "3. Kill losers after 1000 impressions or 3 days (whichever first)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "4. Graduate winners (>1.5 ROAS) to scaling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "SCALING STAGE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "1. Increase budget 20% every 3 days if ROAS holds",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "2. Duplicate winners to new audiences",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "3. Monitor for fatigue (ROAS decay >20%)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "4. Rotate in new creative before fatigue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "OPTIMIZATION STAGE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "1. Daily: Check spend, ROAS, anomalies",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "2. Weekly: Review winners/losers, brief new creative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "3. Monthly: Audit targeting, refresh audiences, review CAC trend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "SYSTEM OUTPUTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Output",
+      "col_2": "Description",
+      "col_3": "Target",
+      "col_4": "Current",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Customers",
+      "col_2": "Paying customers acquired",
+      "col_3": "X / week at <$40 CAC",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Revenue",
+      "col_2": "From ad-attributed sales",
+      "col_3": "$X / week at >2.0 ROAS",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Data",
+      "col_2": "Performance data for learning",
+      "col_3": "Clean, attributed, timely",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Learnings",
+      "col_2": "What works / doesn't",
+      "col_3": "3+ insights / week",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Winning Ads",
+      "col_2": "Scalable creative",
+      "col_3": "3+ / 100 tested (3% hit rate)",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "FEEDBACK LOOPS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "PERFORMANCE → CREATIVE BRIEF:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "What's working? → Brief new creative based on winners",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "What's not? → Avoid those angles/hooks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "CUSTOMER DATA → TARGETING:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Who's buying? → Build LALs from best customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Who's not converting? → Exclude or adjust",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "REVENUE → BUDGET:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Profitable? → Increase budget",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Not profitable? → Reduce, fix, or pause",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "FATIGUE → REFRESH:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "ROAS declining? → New creative before death",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "FAILURE MODES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Failure",
+      "col_2": "Symptoms",
+      "col_3": "Root Cause",
+      "col_4": "Fix",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Creative starvation",
+      "col_2": "Can't test enough, relying on old ads",
+      "col_3": "Creative production bottleneck",
+      "col_4": "Fix Creative Engineering",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Data blindness",
+      "col_2": "Don't know what's working",
+      "col_3": "Bad tracking, attribution",
+      "col_4": "Audit tracking setup",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Premature scaling",
+      "col_2": "Scaled too fast, CAC spiked",
+      "col_3": "Impatience, no rules",
+      "col_4": "Enforce scaling protocol",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Fatigue denial",
+      "col_2": "Kept running tired ads",
+      "col_3": "No monitoring, no fresh creative",
+      "col_4": "Set up fatigue alerts",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Audience exhaustion",
+      "col_2": "Frequency too high, audience burned",
+      "col_3": "Too narrow targeting",
+      "col_4": "Expand audiences, cap frequency",
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "SYSTEM METRICS DASHBOARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Metric",
+      "col_2": "Formula",
+      "col_3": "Target",
+      "col_4": "Current",
+      "col_5": "Trend"
+    },
+    {
+      "AD SYSTEM ENGINEERING": "System Throughput",
+      "col_2": "Customers / week",
+      "col_3": "50+",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "System Efficiency",
+      "col_2": "ROAS",
+      "col_3": ">2.0",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "System Cost",
+      "col_2": "CAC",
+      "col_3": "<$40",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Creative Yield",
+      "col_2": "Winners / Tested",
+      "col_3": ">3%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Creative Velocity",
+      "col_2": "New ads / week",
+      "col_3": "10+",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "AD SYSTEM ENGINEERING": "Time to Signal",
+      "col_2": "Days to know if ad works",
+      "col_3": "<3",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 63,
+  "sheet_name": "Ad System Engineering",
+  "sheet_index": 368
+}

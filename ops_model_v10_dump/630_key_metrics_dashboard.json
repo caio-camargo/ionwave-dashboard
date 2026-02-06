@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "KEY METRICS DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "KEY METRICS DASHBOARD": "Metric",
+      "col_2": "Current",
+      "col_3": "Target",
+      "col_4": "Status"
+    },
+    {
+      "KEY METRICS DASHBOARD": "MRR",
+      "col_2": "[TBD]",
+      "col_3": "$25K",
+      "col_4": "—"
+    },
+    {
+      "KEY METRICS DASHBOARD": "CAC",
+      "col_2": "[TBD]",
+      "col_3": "<$40",
+      "col_4": "—"
+    },
+    {
+      "KEY METRICS DASHBOARD": "LTV:CAC",
+      "col_2": "[TBD]",
+      "col_3": ">3x",
+      "col_4": "—"
+    },
+    {
+      "KEY METRICS DASHBOARD": "Subscription Rate",
+      "col_2": "[TBD]",
+      "col_3": ">50%",
+      "col_4": "—"
+    },
+    {
+      "KEY METRICS DASHBOARD": "Churn (Monthly)",
+      "col_2": "[TBD]",
+      "col_3": "<8%",
+      "col_4": "—"
+    },
+    {
+      "KEY METRICS DASHBOARD": "Gross Margin",
+      "col_2": "[TBD]",
+      "col_3": ">65%",
+      "col_4": "—"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Key Metrics Dashboard",
+  "sheet_index": 630
+}

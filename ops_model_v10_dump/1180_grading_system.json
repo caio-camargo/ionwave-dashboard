@@ -1,0 +1,347 @@
+{
+  "headers": [
+    "GRADING SYSTEM — TUP AS COURSE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Every TUP is a course. Every course has assignments. Every assignment is graded. Cumulative grade determines TUP quality.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "CORE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "A TUP has the analytical structure of a university course:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Syllabus (P-tab: project plan, scope, objectives, schedule)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Assignments (each content tab is a graded assignment)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Midterm (internal review checkpoint — librarian grades structural completeness)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Final (expert review — domain expert grades substance)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Cumulative GPA (weighted average of all assignments = TUP grade)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "— Transcript (grade history across all TUPs = Trade quality)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "WHO GRADES WHAT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Grader",
+      "col_2": "What They Grade",
+      "col_3": "When",
+      "col_4": "Weight",
+      "col_5": "Criteria",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Claude (AI Co-Pilot)",
+      "col_2": "First-pass structural check on every tab",
+      "col_3": "During production (Phase 1)",
+      "col_4": "0% (advisory only)",
+      "col_5": "Does tab match P-tab spec? Is content coherent? Are terms defined?",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Librarian",
+      "col_2": "Structural completeness + cross-reference integrity",
+      "col_3": "Phase 2 (Internal Review)",
+      "col_4": "20% of TUP grade",
+      "col_5": "All tabs present? Dependencies consistent? Terms in index? No broken references?",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Conductor",
+      "col_2": "Scheduling and sequencing compliance",
+      "col_3": "Phase 2 (Internal Review)",
+      "col_4": "0% (pass/fail gate)",
+      "col_5": "Is this TUP blocking other clusters? Can we proceed?",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Expert Reviewer (Primary)",
+      "col_2": "Domain substance — is this true, complete, plausible?",
+      "col_3": "Phase 3 (Expert Review)",
+      "col_4": "60% of TUP grade",
+      "col_5": "ACP: Attestation (true?), Completeness (everything?), Plausibility (works?)",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Expert Reviewer (Secondary)",
+      "col_2": "Second opinion on high-stakes TUPs",
+      "col_3": "Phase 3 (Expert Review)",
+      "col_4": "20% of TUP grade",
+      "col_5": "Same ACP criteria. Only for critical-path TUPs or disputed grades.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Nilo (Override)",
+      "col_2": "Final authority — can adjust any grade up or down with justification",
+      "col_3": "Any time (rare)",
+      "col_4": "Override (logged)",
+      "col_5": "Used sparingly. Every override logged with reasoning. Pattern of overrides = system problem.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "GRADING RUBRIC (per assignment/tab)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Grade",
+      "col_2": "Definition",
+      "col_3": "Consequence",
+      "col_4": "Who Can Assign",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "A",
+      "col_2": "Expert-grade. A domain expert would recognize this as professional work. Could be published or used as-is.",
+      "col_3": "Tab locks. Becomes reference material. PM earns full equity tranche for this tab.",
+      "col_4": "Expert Reviewer only",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "B+",
+      "col_2": "Strong work with minor gaps. Expert would approve with small edits. Functional and reliable.",
+      "col_3": "Tab locks. Standard equity tranche earned. Minor edits noted but not blocking.",
+      "col_4": "Expert Reviewer or Librarian (structural only)",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "B",
+      "col_2": "Good work. Meets all requirements. No major errors. A competent professional would approve.",
+      "col_3": "Tab locks at B. TUP proceeds. This is the minimum lock threshold.",
+      "col_4": "Expert Reviewer",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "C",
+      "col_2": "Acceptable but with clear gaps. Needs specific remediation. An expert would send it back with notes.",
+      "col_3": "Tab does NOT lock. Specific remediation items listed. One revision cycle. If still C after revision → escalate.",
+      "col_4": "Expert Reviewer or Librarian",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "D",
+      "col_2": "Below standard. Major gaps in accuracy, completeness, or plausibility. Not usable as-is.",
+      "col_3": "Tab returned to production. Full re-draft may be needed. PM equity at risk for this sprint.",
+      "col_4": "Expert Reviewer",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "F",
+      "col_2": "Fundamentally flawed. Wrong approach, wrong data, or wrong scope. Start over.",
+      "col_3": "Tab killed. New approach needed. PM equity forfeited for this sprint. Post-mortem required.",
+      "col_4": "Expert Reviewer + Nilo confirmation",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "CUMULATIVE TUP GRADE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Each TUP's cumulative grade = weighted average of all its tab grades.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Weights are defined in the P-tab for each TUP. Default: equal weight across all content tabs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Cluster grade = average of TUP grades in that cluster.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "Trade grade = weighted average of all TUP grades (weighted by TUP criticality — see Dependency Map).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "GRADE TRANSCRIPT (Trade-Level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "TUP",
+      "col_2": "Cluster",
+      "col_3": "# Tabs",
+      "col_4": "Librarian",
+      "col_5": "Expert 1",
+      "col_6": "Expert 2",
+      "col_7": "Cumulative",
+      "col_8": "Status"
+    },
+    {
+      "GRADING SYSTEM — TUP AS COURSE": "[Populated as TUPs complete review]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "Grading System",
+  "sheet_index": 1180
+}

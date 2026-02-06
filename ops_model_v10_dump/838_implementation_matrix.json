@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "Category",
+    "Deliverable",
+    "Owner",
+    "Due",
+    "Status",
+    "Notes"
+  ],
+  "rows": [
+    {
+      "Category": "Creative",
+      "Deliverable": "Image Ad Specs (100+ concepts)",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "See Ad Specs sheet"
+    },
+    {
+      "Category": "Creative",
+      "Deliverable": "VSL Script (2-3 versions)",
+      "Owner": "Operator",
+      "Due": "Week 3",
+      "Status": "Not Started",
+      "Notes": "See VSL sheet"
+    },
+    {
+      "Category": "Creative",
+      "Deliverable": "Ad Copy Bank (50+ headlines)",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "See Ad Copy sheet"
+    },
+    {
+      "Category": "Funnel",
+      "Deliverable": "Landing Page (2 versions)",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "See LP Specs sheet"
+    },
+    {
+      "Category": "Funnel",
+      "Deliverable": "Product Pages",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "See Product Page sheet"
+    },
+    {
+      "Category": "Funnel",
+      "Deliverable": "Upsell/Downsell Pages",
+      "Owner": "Operator",
+      "Due": "Week 3",
+      "Status": "Not Started",
+      "Notes": "See Upsell sheet"
+    },
+    {
+      "Category": "Funnel",
+      "Deliverable": "Thank You Page",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "Use studio template"
+    },
+    {
+      "Category": "Email",
+      "Deliverable": "Welcome Sequence (5 emails)",
+      "Owner": "Operator",
+      "Due": "Week 3",
+      "Status": "Not Started",
+      "Notes": "See Email Welcome sheet"
+    },
+    {
+      "Category": "Email",
+      "Deliverable": "Abandoned Cart (3 emails)",
+      "Owner": "Operator",
+      "Due": "Week 3",
+      "Status": "Not Started",
+      "Notes": "See Email Cart sheet"
+    },
+    {
+      "Category": "Email",
+      "Deliverable": "Post-Purchase (7 emails)",
+      "Owner": "Operator",
+      "Due": "Week 4",
+      "Status": "Not Started",
+      "Notes": "See Email Post-Purchase sheet"
+    },
+    {
+      "Category": "Product",
+      "Deliverable": "Photography Brief",
+      "Owner": "Operator",
+      "Due": "Week 1",
+      "Status": "Not Started",
+      "Notes": "See Photo Brief sheet"
+    },
+    {
+      "Category": "Product",
+      "Deliverable": "Packaging Design Brief",
+      "Owner": "Operator",
+      "Due": "Week 1",
+      "Status": "Not Started",
+      "Notes": "See Packaging sheet"
+    },
+    {
+      "Category": "Product",
+      "Deliverable": "Product Customization Spec",
+      "Owner": "Operator",
+      "Due": "Week 1",
+      "Status": "Not Started",
+      "Notes": "See Product Custom sheet"
+    },
+    {
+      "Category": "Legal",
+      "Deliverable": "LLC Formation",
+      "Owner": "Operator",
+      "Due": "Week 1",
+      "Status": "Not Started",
+      "Notes": "Use studio template"
+    },
+    {
+      "Category": "Ops",
+      "Deliverable": "Supplier Agreement",
+      "Owner": "Operator",
+      "Due": "Week 2",
+      "Status": "Not Started",
+      "Notes": "Use studio template"
+    },
+    {
+      "Category": "Ops",
+      "Deliverable": "Fulfillment Setup",
+      "Owner": "Operator",
+      "Due": "Week 3",
+      "Status": "Not Started",
+      "Notes": "Use studio template"
+    },
+    {
+      "Category": "Ops",
+      "Deliverable": "Customer Service Protocols",
+      "Owner": "Operator",
+      "Due": "Week 4",
+      "Status": "Not Started",
+      "Notes": "Use studio template"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Implementation Matrix",
+  "sheet_index": 838
+}

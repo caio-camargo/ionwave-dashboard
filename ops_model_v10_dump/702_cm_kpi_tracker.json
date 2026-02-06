@@ -1,0 +1,142 @@
+{
+  "headers": [
+    "KPI TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "KPI TRACKER": "All metrics being tracked with targets and actuals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "KPI",
+      "col_2": "Target",
+      "col_3": "Current",
+      "col_4": "Prior Month",
+      "col_5": "Trend",
+      "col_6": "Status",
+      "col_7": "Notes"
+    },
+    {
+      "KPI TRACKER": "Monthly Revenue",
+      "col_2": "$___",
+      "col_3": "$___",
+      "col_4": "$___",
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "MoM Growth",
+      "col_2": "20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "CAC",
+      "col_2": "<$40",
+      "col_3": "$___",
+      "col_4": "$___",
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "LTV",
+      "col_2": ">$150",
+      "col_3": "$___",
+      "col_4": "$___",
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "LTV:CAC",
+      "col_2": ">3:1",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "Gross Margin",
+      "col_2": ">65%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "ROAS",
+      "col_2": ">2.0",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "AOV",
+      "col_2": ">$50",
+      "col_3": "$___",
+      "col_4": "$___",
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "Subscription %",
+      "col_2": ">30%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "Churn Rate",
+      "col_2": "<10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "NPS",
+      "col_2": ">40",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    },
+    {
+      "KPI TRACKER": "Cash Runway",
+      "col_2": ">6mo",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "☐ On Track",
+      "col_7": null
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "CM KPI Tracker",
+  "sheet_index": 702
+}

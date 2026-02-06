@@ -1,0 +1,84 @@
+{
+  "headers": [
+    "SITE MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SITE MAP": "Page",
+      "col_2": "Purpose",
+      "col_3": "Content",
+      "col_4": "Updates",
+      "col_5": "Design Notes"
+    },
+    {
+      "SITE MAP": "PASSWORD GATE",
+      "col_2": "Access control. First impression. Sets tone.",
+      "col_3": "Clean logo. Single password field. Maybe a 10-second teaser video that autoplays behind the gate — cinematic, no context, just enough to make you want in.",
+      "col_4": "Never (static)",
+      "col_5": "Full-bleed video background. Minimal UI. The gate itself should feel premium."
+    },
+    {
+      "SITE MAP": "HOME / HERO",
+      "col_2": "The hook. 5 seconds to understand what this is and why it matters.",
+      "col_3": "Hero video (30 sec, cinematic, the VA introduces the project). Headline: something like \"Watch a company get built.\" Authority badges (YC, Greylock, KV, 100M+ views). Live stats: Day X of launch. X team members. X experts onboarded. Single CTA.",
+      "col_4": "Daily (stats update, hero video can rotate weekly)",
+      "col_5": "Remedy-style hero section. Full-width. Video is primary, text is secondary. Stats feel alive, not static."
+    },
+    {
+      "SITE MAP": "THE STORY",
+      "col_2": "The operational narrative. Why this exists. Where we are today.",
+      "col_3": "The thesis in plain language: \"We believe the way companies are built is broken. So we built a system that front-loads all the complexity before launch. IonWave is the first company built this way.\" Timeline of what has happened so far — visual, not text-heavy. Each entry links to that day's video update.",
+      "col_4": "Daily (VA adds new timeline entry + video)",
+      "col_5": "Scroll-based timeline. Each day is a card with thumbnail + 1-line summary. Click to expand for full video + detail. Most recent at top."
+    },
+    {
+      "SITE MAP": "THE CAST",
+      "col_2": "The characters. Every person in the labor chain. Recruiting tool.",
+      "col_3": "Grid of faces. Each person has: photo (high quality), name, role, one sentence on why they're here. Empty slots for unfilled roles with \"Apply\" CTA. As people join, their card fills in. The cast grows over time.",
+      "col_4": "As people join (weekly)",
+      "col_5": "Think movie credits meets team page. Not corporate headshots — cinematic portraits. The empty slots create urgency. \"Chief of Staff — casting now.\""
+    },
+    {
+      "SITE MAP": "THE SYSTEM",
+      "col_2": "How this works. The coordination hedgefund thesis. For investors + curious recruits.",
+      "col_3": "The innovation explained visually: complexity at launch vs operate. The Trade explained: 702 tabs, 44 models, AI-navigable. The labor sequence: visual chain. The tech roadmap: P1, P2, P3. Interactive: \"Ask Claude about IonWave\" — live Claude demo embedded?",
+      "col_4": "Monthly (as system evolves)",
+      "col_5": "This is the VC-heavy page but should still feel consumer. Visuals > text. Animated diagrams. Maybe a scrolling visualization of the 702-tab structure."
+    },
+    {
+      "SITE MAP": "THE NUMBERS",
+      "col_2": "Unit economics. Market. Financials. Investor-facing.",
+      "col_3": "Market size. Target unit economics. Funding structure (what we're raising, for what). The two raises explained. Current status of each.",
+      "col_4": "Weekly (as numbers firm up)",
+      "col_5": "Tier 3 only (investor password) OR visible to all. Clean data visualization. Not a spreadsheet — formatted beautifully. Remedy-style stats blocks."
+    },
+    {
+      "SITE MAP": "DAILY UPDATE (VIDEO FEED)",
+      "col_2": "The heartbeat. VA posts every day. Cinematic quality.",
+      "col_3": "Today's video (60-90 seconds). Shot beautifully — good lighting, good audio, clean background. VA walks through: what happened today, what's next, any blockers, any wins. Below: archive of all previous updates.",
+      "col_4": "Daily (this IS the feedback loop)",
+      "col_5": "Instagram Stories meets investor update. Vertical video OK. Each video has a one-line text summary. Filter by week. Most recent always at top."
+    },
+    {
+      "SITE MAP": "FAQ / OBJECTIONS",
+      "col_2": "Remedy-style objection handling. For every audience.",
+      "col_3": "\"Is this real?\" / \"What do I get if I join?\" / \"What's the equity structure?\" / \"How is this different from a normal startup?\" / \"Who's behind this?\" / \"What if it doesn't work?\" — honest answers to every question.",
+      "col_4": "As questions come in",
+      "col_5": "Expandable accordion. Remedy's FAQ section is the reference. Direct, confident, not evasive."
+    },
+    {
+      "SITE MAP": "APPLY / CTA",
+      "col_2": "The action. Different for different audiences.",
+      "col_3": "Apply to be a character (roles available). Request investor access. Join the mailing list. Each CTA goes to a different flow.",
+      "col_4": "As roles open/close",
+      "col_5": "Clean form. Not a Google Form. Embedded, on-brand. Maybe a short qualification quiz like Remedy's intake."
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Site Map",
+  "sheet_index": 77
+}

@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "PMF SEQUENCING",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "PMF SEQUENCING": "Product-market fit is a sequence of yeses",
+      "col_2": null
+    },
+    {
+      "PMF SEQUENCING": "1. Problem exists",
+      "col_2": "People have the pain we think they have"
+    },
+    {
+      "PMF SEQUENCING": "2. Solution works",
+      "col_2": "Our product solves the problem"
+    },
+    {
+      "PMF SEQUENCING": "3. Willingness to pay",
+      "col_2": "Customers will pay our price"
+    },
+    {
+      "PMF SEQUENCING": "4. CAC makes sense",
+      "col_2": "We can acquire customers profitably"
+    },
+    {
+      "PMF SEQUENCING": "5. Retention works",
+      "col_2": "Customers stay and reorder"
+    },
+    {
+      "PMF SEQUENCING": "6. Word of mouth",
+      "col_2": "Customers refer others"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "PMF Sequencing",
+  "sheet_index": 120
+}

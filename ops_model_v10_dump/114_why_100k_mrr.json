@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "WHY $100K MRR?",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "WHY $100K MRR?": "Justifying our north star - why this number, why this timeline?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "THE NORTH STAR",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "$100K MRR within 12 months of launch",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "WHY $100K SPECIFICALLY?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Proves PMF",
+      "col_2": "$100K MRR = 2,000+ customers paying monthly = real validation",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Enables hiring",
+      "col_2": "Can afford 1-2 FTEs without dilution",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Attractive for raise",
+      "col_2": "If we want to raise, $100K MRR = $1.2M ARR = fundable",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Meaningful outcome",
+      "col_2": "At 30% margin = $360K/year profit = life-changing",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Scales from here",
+      "col_2": "$100K → $500K is execution. $0 → $100K is product-market fit.",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "WHY 12 MONTHS?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Long enough",
+      "col_2": "Gives time to iterate, learn, optimize",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Short enough",
+      "col_2": "Forces urgency, prevents drift",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Capital efficient",
+      "col_2": "Can fund with ~$50K if unit economics work",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Attention span",
+      "col_2": "Operator can commit fully for 12 months",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Market window",
+      "col_2": "Electrolyte market growing but not forever",
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "WHAT IF THE TARGET IS WRONG?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Alternative Target",
+      "col_2": "What Changes",
+      "col_3": "Why We Might Do This"
+    },
+    {
+      "WHY $100K MRR?": "$50K MRR",
+      "col_2": "Less pressure, lower capital needs",
+      "col_3": "If CAC higher than expected"
+    },
+    {
+      "WHY $100K MRR?": "$250K MRR",
+      "col_2": "Need more capital, maybe hire earlier",
+      "col_3": "If we want to raise Series A"
+    },
+    {
+      "WHY $100K MRR?": "$1M MRR",
+      "col_2": "Totally different strategy, need raise",
+      "col_3": "If going for big exit"
+    },
+    {
+      "WHY $100K MRR?": "Profitability > MRR",
+      "col_2": "Focus on margin not growth",
+      "col_3": "If capital constrained"
+    },
+    {
+      "WHY $100K MRR?": "WHAT $100K MRR UNLOCKS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "→ Option to raise at $3-5M valuation",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "→ Option to stay bootstrapped with $30K+/month profit",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "→ Option to hire without dilution",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "→ Proof that the model works",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "→ Foundation to scale to $500K MRR",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "PATH AFTER $100K MRR",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WHY $100K MRR?": "Month 13-18",
+      "col_2": "$100K → $250K MRR",
+      "col_3": "Optimize, expand channels"
+    },
+    {
+      "WHY $100K MRR?": "Month 19-24",
+      "col_2": "$250K → $500K MRR",
+      "col_3": "New SKUs, maybe retail"
+    },
+    {
+      "WHY $100K MRR?": "Year 3",
+      "col_2": "$500K → $1M MRR",
+      "col_3": "Scale team, consider raise or exit"
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Why 100K MRR",
+  "sheet_index": 114
+}

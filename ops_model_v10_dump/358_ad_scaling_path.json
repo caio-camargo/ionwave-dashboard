@@ -1,0 +1,287 @@
+{
+  "headers": [
+    "IONWAVE AD ACCOUNT SCALING PATH",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Realistic daily spend limits for new Meta accounts. You can't just 'spend $5K' on day 1.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "META AD ACCOUNT REALITY FOR NEW MERCHANTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• New accounts start with $50-250/day spend limit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• Billing threshold starts at $50, then $250, $750, $2000...",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• Safe scaling: +20% daily (Meta's recommendation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• Aggressive scaling: +30-50% daily (risks learning phase resets)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• Learning phase requires ~50 conversions/week per ad set",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "• At $20 CPA, that's $1,000/week minimum per ad set to exit learning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "REALISTIC 60-DAY SCALING PATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Day",
+      "col_2": "Daily Budget",
+      "col_3": "Cumulative Spend",
+      "col_4": "Expected Orders (2.5x ROAS)",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "1-3",
+      "col_2": "$50",
+      "col_3": "$150",
+      "col_4": "~8",
+      "col_5": "Testing phase - find initial winners"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "4-7",
+      "col_2": "$75",
+      "col_3": "$450",
+      "col_4": "~12",
+      "col_5": "Identify top 2-3 ads"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "8-10",
+      "col_2": "$100",
+      "col_3": "$750",
+      "col_4": "~16",
+      "col_5": "Scale winners, kill losers"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "11-14",
+      "col_2": "$150",
+      "col_3": "$1,350",
+      "col_4": "~24",
+      "col_5": "Exit learning phase on best ad sets"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "15-21",
+      "col_2": "$200",
+      "col_3": "$2,750",
+      "col_4": "~35",
+      "col_5": "Consistent scaling"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "22-28",
+      "col_2": "$300",
+      "col_3": "$4,850",
+      "col_4": "~55",
+      "col_5": "Testing new creatives"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "29-35",
+      "col_2": "$400",
+      "col_3": "$7,650",
+      "col_4": "~75",
+      "col_5": "Expanding audiences"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "36-42",
+      "col_2": "$500",
+      "col_3": "$11,150",
+      "col_4": "~95",
+      "col_5": "Adding ad sets"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "43-49",
+      "col_2": "$650",
+      "col_3": "$15,700",
+      "col_4": "~125",
+      "col_5": "Mature account behavior"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "50-56",
+      "col_2": "$800",
+      "col_3": "$21,300",
+      "col_4": "~155",
+      "col_5": "Scaling profitably"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "57-60",
+      "col_2": "$1,000",
+      "col_3": "$25,300",
+      "col_4": "~175",
+      "col_5": "Month 2 complete"
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "60-DAY SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Total Ad Spend (60 days)",
+      "col_2": "~$25,000",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Expected Revenue (at 2.5x ROAS)",
+      "col_2": "~$62,500",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Expected Orders",
+      "col_2": "~800",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Average Daily Spend",
+      "col_2": "~$420",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Ending Daily Budget",
+      "col_2": "$1,000/day",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "WHAT CAN GO WRONG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Account restricted",
+      "col_2": "Can happen anytime. Recovery: 3-14 days. Mitigation: backup account",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Learning phase reset",
+      "col_2": "Happens with big budget changes. Mitigation: gradual scaling",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Creative fatigue",
+      "col_2": "ROAS drops after 7-14 days. Mitigation: new creative every week",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "CPM spike",
+      "col_2": "Q4 or competition. Mitigation: budget buffer, pause and wait",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "No winners found",
+      "col_2": "First 50 ads all fail. Mitigation: test more angles, revisit ICP",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "CREATIVE REFRESH REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Period",
+      "col_2": "Creative Volume",
+      "col_3": "Purpose",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Week 1-2",
+      "col_2": "20-30 initial creatives",
+      "col_3": "Testing hooks, visuals, copy",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Week 3-4",
+      "col_2": "10-15 new creatives",
+      "col_3": "Iterate on winners",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Week 5-8",
+      "col_2": "10 new creatives/week",
+      "col_3": "Maintain freshness",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE AD ACCOUNT SCALING PATH": "Month 3+",
+      "col_2": "15-20 new creatives/week",
+      "col_3": "Scale requires more creative",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 39,
+  "sheet_name": "Ad Scaling Path",
+  "sheet_index": 358
+}

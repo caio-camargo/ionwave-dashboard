@@ -1,0 +1,126 @@
+{
+  "headers": [
+    "SEMESTER FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SEMESTER FRAMEWORK": "12-week semesters. Each one has enrollment, curriculum, midterms, finals, grades.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "SEMESTER STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Week",
+      "col_2": "Phase",
+      "col_3": "Activities",
+      "col_4": "Deliverables",
+      "col_5": "School Analog"
+    },
+    {
+      "SEMESTER FRAMEWORK": "1",
+      "col_2": "Enrollment",
+      "col_3": "Review last semester grades, set this semester goals, assign TUPs to programs, confirm resources",
+      "col_4": "Semester Plan: goals, TUPs, owners, milestones per program",
+      "col_5": "Course registration + syllabus distribution"
+    },
+    {
+      "SEMESTER FRAMEWORK": "2-3",
+      "col_2": "Foundation",
+      "col_3": "Execute foundational TUPs, set up campaigns/systems for the semester, baseline metrics",
+      "col_4": "All TUPs kicked off, baselines documented, systems live",
+      "col_5": "First two weeks of class — laying groundwork"
+    },
+    {
+      "SEMESTER FRAMEWORK": "4-5",
+      "col_2": "Execution I",
+      "col_3": "Primary work phase. Run campaigns, test, iterate, produce.",
+      "col_4": "Weekly metrics updates, first results from new initiatives",
+      "col_5": "Lectures + homework — the core work"
+    },
+    {
+      "SEMESTER FRAMEWORK": "6",
+      "col_2": "Midterm",
+      "col_3": "Midterm review. Are we on track? What's working, what's not? Adjust.",
+      "col_4": "Midterm Report: progress vs goals, course corrections, kill decisions",
+      "col_5": "Midterm exams — checkpoint"
+    },
+    {
+      "SEMESTER FRAMEWORK": "7-9",
+      "col_2": "Execution II",
+      "col_3": "Doubled down on winners, killed losers, push toward semester goals",
+      "col_4": "Continued execution with midterm adjustments applied",
+      "col_5": "Post-midterm push — the hard stretch"
+    },
+    {
+      "SEMESTER FRAMEWORK": "10-11",
+      "col_2": "Finishing",
+      "col_3": "Close out TUPs, document results, prep for next semester",
+      "col_4": "TUP completion reports, metrics locked, lessons documented",
+      "col_5": "Final projects and papers"
+    },
+    {
+      "SEMESTER FRAMEWORK": "12",
+      "col_2": "Finals + Grades",
+      "col_3": "Semester review. Grade every program. Grade every person. Plan next semester.",
+      "col_4": "Semester Report Card, Program Grades, Individual Grades, Next Semester Draft Plan",
+      "col_5": "Final exams + grades posted"
+    },
+    {
+      "SEMESTER FRAMEWORK": "SEMESTER CALENDAR (Year 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Semester",
+      "col_2": "Period",
+      "col_3": "Theme",
+      "col_4": "Focus",
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Semester 1",
+      "col_2": "Weeks 1-12",
+      "col_3": "Genesis",
+      "col_4": "Table Set → First Blood. Build the machine. Focus: Acquisition + Conversion.",
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Semester 2",
+      "col_2": "Weeks 13-24",
+      "col_3": "Traction",
+      "col_4": "First Blood → Winner Found. Optimize the machine. Focus: Conversion + Retention.",
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Semester 3",
+      "col_2": "Weeks 25-36",
+      "col_3": "Growth",
+      "col_4": "Winner Found → Scale. Scale the machine. Focus: Acquisition + Product.",
+      "col_5": null
+    },
+    {
+      "SEMESTER FRAMEWORK": "Semester 4",
+      "col_2": "Weeks 37-48",
+      "col_3": "Maturity",
+      "col_4": "Scale → Sustainability. Harden the machine. Focus: Retention + Operations + Finance.",
+      "col_5": null
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Semester Framework",
+  "sheet_index": 682
+}

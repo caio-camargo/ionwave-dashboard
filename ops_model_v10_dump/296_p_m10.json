@@ -1,0 +1,431 @@
+{
+  "headers": [
+    "PROJECT PLAN — M10: PRICING & OFFER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "6 content tabs · TUP/Project",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "PROJECT OVERVIEW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Model ID",
+      "col_2": "M10",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Model Name",
+      "col_2": "Pricing & Offer",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Content Tabs",
+      "col_2": "6",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Project Owner",
+      "col_2": "[TBD — who is accountable for this model being complete and verified?]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Contract",
+      "col_2": "See C-M10 tab",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Status",
+      "col_2": "NOT STARTED",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Start Date",
+      "col_2": "[TBD]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Target End Date",
+      "col_2": "[TBD]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Budget",
+      "col_2": "[TBD — what does it cost to produce this model?]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "MC Hours",
+      "col_2": "[TBD — hours of recorded conversation for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Expert Required",
+      "col_2": "[TBD — which expert cluster reviews this?]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Cluster",
+      "col_2": "[TBD — which production cluster is this part of?]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "VISION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Pricing engineered to maximize LTV, not just conversion?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "[Draft vision here — what does the end state of this model look like?]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "NOVEL CONCEPTS (essays / MC conversations needed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "• SKU architecture as strategy",
+      "col_2": "[MC conversation done? Y/N]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "• Price testing as science",
+      "col_2": "[MC conversation done? Y/N]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "MILESTONES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "#",
+      "col_2": "Milestone",
+      "col_3": "Owner",
+      "col_4": "Due Date",
+      "col_5": "Status",
+      "col_6": "Verified By"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "1",
+      "col_2": "Project plan locked (this tab complete)",
+      "col_3": "[Owner]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "PM co-founder"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "2",
+      "col_2": "MC conversations recorded (4-10 hrs)",
+      "col_3": "[MC]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "PM co-founder"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "3",
+      "col_2": "Industry perspectives drafted (IP tab)",
+      "col_3": "[Owner]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "[Domain trust]"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "4",
+      "col_2": "AI first draft complete (all content tabs)",
+      "col_3": "[Claude + PM]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "PM co-founder"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "5",
+      "col_2": "Expert review complete",
+      "col_3": "[Expert]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "[Domain trust]"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "6",
+      "col_2": "Revisions incorporated",
+      "col_3": "[Claude + PM]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "PM co-founder"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "7",
+      "col_2": "Verification complete (V tab all green)",
+      "col_3": "[Verifier]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "[Per trust protocol]"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "8",
+      "col_2": "Model locked — DONE",
+      "col_3": "[Owner]",
+      "col_4": "[Date]",
+      "col_5": "NOT STARTED",
+      "col_6": "Nilo"
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "DEPENDENCIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Depends On",
+      "col_2": "Type",
+      "col_3": "Status",
+      "col_4": "Notes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "M0 (Trade Thesis)",
+      "col_2": "Must be locked before production",
+      "col_3": "NOT STARTED",
+      "col_4": "M0 is prerequisite for all models",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "[Other model]",
+      "col_2": "[Blocking / Informing]",
+      "col_3": "[Status]",
+      "col_4": "[Why]",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "[Other model]",
+      "col_2": "[Blocking / Informing]",
+      "col_3": "[Status]",
+      "col_4": "[Why]",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "RISKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Risk",
+      "col_2": "Likelihood",
+      "col_3": "Impact",
+      "col_4": "Mitigation",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "No expert available for review",
+      "col_2": "[H/M/L]",
+      "col_3": "[H/M/L]",
+      "col_4": "[How we handle this]",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "Trust gap (no verifier assigned)",
+      "col_2": "[H/M/L]",
+      "col_3": "[H/M/L]",
+      "col_4": "[Find person before producing]",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "[Other risk]",
+      "col_2": "[H/M/L]",
+      "col_3": "[H/M/L]",
+      "col_4": "[Mitigation]",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "DEFINITION OF DONE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ All content tabs filled (no placeholder text remaining)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ MC conversations recorded and uploaded to site (4-10 hrs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Industry perspectives tab complete (all 5 sections drafted)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Expert review completed with feedback incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Verification tab shows VERIFIED on every row",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Trust protocol satisfied (every trust level has a named verifier who signed off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Contract deliverables met (see C- tab)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "☐ Nilo final review on proprietary elements (if applicable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "OPEN QUESTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PROJECT PLAN — M10: PRICING & OFFER": "[Decisions not yet made that affect this model]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "P-M10",
+  "sheet_index": 296
+}

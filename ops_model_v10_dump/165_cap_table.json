@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "CAP TABLE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CAP TABLE": "Who owns what. Fully diluted.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CAP TABLE": "Shareholder",
+      "col_2": "Shares",
+      "col_3": "Ownership %",
+      "col_4": "Type"
+    },
+    {
+      "CAP TABLE": "Studio 4",
+      "col_2": "[TBD]",
+      "col_3": "[TBD]%",
+      "col_4": "Common"
+    },
+    {
+      "CAP TABLE": "Operator",
+      "col_2": "[TBD]",
+      "col_3": "[TBD]%",
+      "col_4": "Common"
+    },
+    {
+      "CAP TABLE": "Advisor Pool",
+      "col_2": null,
+      "col_3": "5%",
+      "col_4": "Options"
+    },
+    {
+      "CAP TABLE": "Employee Pool",
+      "col_2": null,
+      "col_3": "10%",
+      "col_4": "Options"
+    },
+    {
+      "CAP TABLE": "TOTAL",
+      "col_2": "10,000,000",
+      "col_3": "100%",
+      "col_4": null
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Cap Table",
+  "sheet_index": 165
+}

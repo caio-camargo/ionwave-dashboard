@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "FIRST 100 ADS PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "FIRST 100 ADS PLAN": "Systematic creative testing roadmap",
+      "col_2": null
+    },
+    {
+      "FIRST 100 ADS PLAN": "AD TESTING PHASES",
+      "col_2": null
+    },
+    {
+      "FIRST 100 ADS PLAN": "Phase 1: Hooks (Ads 1-20)",
+      "col_2": "Test 10 different hooks × 2 formats"
+    },
+    {
+      "FIRST 100 ADS PLAN": "Phase 2: Angles (Ads 21-40)",
+      "col_2": "Top 3 hooks × 7 angles"
+    },
+    {
+      "FIRST 100 ADS PLAN": "Phase 3: Formats (Ads 41-60)",
+      "col_2": "Top combos × static/video/carousel"
+    },
+    {
+      "FIRST 100 ADS PLAN": "Phase 4: Iterations (Ads 61-80)",
+      "col_2": "Winners with variations"
+    },
+    {
+      "FIRST 100 ADS PLAN": "Phase 5: Scale (Ads 81-100)",
+      "col_2": "Proven winners, new audiences"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "First 100 Ads",
+  "sheet_index": 364
+}

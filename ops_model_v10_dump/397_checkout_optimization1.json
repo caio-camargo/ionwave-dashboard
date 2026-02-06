@@ -1,0 +1,145 @@
+{
+  "headers": [
+    "CHECKOUT OPTIMIZATION"
+  ],
+  "rows": [
+    {
+      "CHECKOUT OPTIMIZATION": "Reduce cart abandonment and increase completion"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CHECKOUT ABANDONMENT REASONS"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Why people abandon carts (and solutions):"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "48% - Extra costs too high (shipping, tax)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "→ Show total cost upfront, free shipping threshold"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "24% - Required to create account"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "→ Guest checkout option"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "22% - Delivery too slow"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "→ Clear delivery estimates, expedited options"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "18% - Didn't trust site with card info"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "→ Trust badges, SSL, known payment options"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "17% - Checkout too long/complicated"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "→ Minimize fields, progress indicator"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CHECKOUT OPTIMIZATION CHECKLIST"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "REDUCE FRICTION:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Guest checkout available"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Minimal form fields"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Auto-fill enabled"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Mobile-optimized"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Progress indicator"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Express checkout (Shop Pay, Apple Pay)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "BUILD TRUST:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ SSL certificate visible"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Trust badges (Norton, McAfee, etc.)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Money-back guarantee visible"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Known payment options"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Contact info visible"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "REDUCE ABANDONMENT:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Exit intent popup"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Abandoned cart email (1hr, 24hr, 48hr)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Retargeting ads"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ SMS recovery (if opted in)"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "ORDER BUMP & UPSELL"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Increase AOV at checkout:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "ORDER BUMP (Pre-checkout):"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Add complementary product with one click"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Example: 'Add a second bag and save 10%'"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• 10-20% of customers take it"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "POST-PURCHASE UPSELL:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Offer after purchase complete"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Example: 'Add this to your order (ships together)'"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• No re-entering payment info"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "SUBSCRIPTION OPTION:"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Default to subscription with discount"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "• Make one-time clearly available"
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "Checkout Optimization1",
+  "sheet_index": 397
+}

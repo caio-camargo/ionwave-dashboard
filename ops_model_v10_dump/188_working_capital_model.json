@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "WORKING CAPITAL MODEL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "WORKING CAPITAL MODEL": "Cash tied up in operations.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WORKING CAPITAL MODEL": "Working Capital = Inventory + Receivables - Payables",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "WORKING CAPITAL MODEL": "Component",
+      "col_2": "Value",
+      "col_3": "Notes"
+    },
+    {
+      "WORKING CAPITAL MODEL": "Inventory Value",
+      "col_2": "$[X]",
+      "col_3": "60-90 days of stock"
+    },
+    {
+      "WORKING CAPITAL MODEL": "In-Transit",
+      "col_2": "$[X]",
+      "col_3": "Paid not received"
+    },
+    {
+      "WORKING CAPITAL MODEL": "Accounts Payable",
+      "col_2": "($[X])",
+      "col_3": "If net terms"
+    },
+    {
+      "WORKING CAPITAL MODEL": "TOTAL",
+      "col_2": "$[Sum]",
+      "col_3": "Cash you need"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Working Capital Model",
+  "sheet_index": 188
+}

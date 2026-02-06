@@ -1,0 +1,139 @@
+{
+  "headers": [
+    "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Claude produces ≈80% of content. PM refines ≈20%. This is explicit, not hidden. It changes the workload math for every cluster.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "THE HONEST MATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Metric",
+      "col_2": "Without Claude Explicit",
+      "col_3": "With Claude Explicit (80/20)",
+      "col_4": "Delta"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Hours per tab (PM)",
+      "col_2": "2-3 hrs (produce from scratch)",
+      "col_3": "0.5-1 hr (review + refine Claude output)",
+      "col_4": "60-70% reduction"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Hours per cluster (avg 15 tabs)",
+      "col_2": "30-45 hrs",
+      "col_3": "8-15 hrs",
+      "col_4": "2-3 week sprint → 1-2 week sprint"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "CL-5 (7 TUPs, 96 tabs)",
+      "col_2": "192-288 hrs (INFEASIBLE)",
+      "col_3": "48-96 hrs (feasible in 2-3 weeks)",
+      "col_4": "Red flag → green"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "CL-6 (8 TUPs, 120 tabs)",
+      "col_2": "240-360 hrs (INFEASIBLE)",
+      "col_3": "60-120 hrs (feasible in 3-4 weeks)",
+      "col_4": "Red flag → yellow-green"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "MC workload",
+      "col_2": "210+ hrs of conversations",
+      "col_3": "120-150 hrs total. 2-3 long-form conversations/week (1-3 hrs each) + 15-min daily highlight. Doable with full-time job.",
+      "col_4": "Red flag → green. Was full-time, now ~10-12 hrs/week."
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Librarian cognitive load",
+      "col_2": "High — must understand 1,184 tabs",
+      "col_3": "High but assistable — Claude can explain any tab on demand",
+      "col_4": "Claude = on-demand manual for Librarian"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Expert Reviewer hours",
+      "col_2": "10-20 hrs per cluster",
+      "col_3": "10-20 hrs (unchanged — expert grades substance)",
+      "col_4": "No change. Expert reviews human-verified output."
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Total PM labor pool",
+      "col_2": "7-10 PMs × 40-60 hrs each = 280-600 hrs",
+      "col_3": "7-10 PMs × 15-30 hrs each = 105-300 hrs",
+      "col_4": "50% reduction in total PM hours"
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "CLAUDE'S PERMISSION MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "What Claude CAN do",
+      "col_2": "Read all P-tabs and C-tabs. Generate first-draft content for any C-tab. Structural check on V-tabs (advisory, 0% grade weight). Explain any tab to any role on demand. Generate implementation task lists from locked TUPs.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "What Claude CANNOT do",
+      "col_2": "Record grades on V-tabs. Lock any tab or TUP. Grant or vest equity. Make strategic decisions. Override any human judgment. Interact with people without PM mediation.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "How Claude writes are mediated",
+      "col_2": "PM prompts Claude with P-tab spec → Claude generates draft → PM reviews, edits, refines → PM submits to Librarian. Claude's output always passes through a human filter before entering the system.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Claude as Librarian tool",
+      "col_2": "Librarian can ask Claude: \"explain what this tab is supposed to contain\" or \"check if this tab matches the P-tab spec.\" Claude = on-demand reference for the Librarian. Reduces cognitive load of learning 1,184 tabs.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Claude as Expert prep",
+      "col_2": "Expert Reviewer can ask Claude for pre-review summary: \"what is this TUP about and what are the key claims.\" Claude saves expert time on context-gathering. Expert grades substance, not structure.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "REMAINING RED FLAGS (post-Claude-explicit)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "MC is still full-time",
+      "col_2": "YELLOW",
+      "col_3": "210+ hours over 12 weeks. Claude doesn't change this — MC is the human layer. Comp needs to be honest about full-time commitment. 1-3% equity + $1-2K/month may be thin. Career booster (200+ hrs of hosted content for reel) is the real draw. Must hire someone who treats this as THEIR show.",
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "CL-6 is still large",
+      "col_2": "YELLOW",
+      "col_3": "120 tabs even at 80/20 is 60-120 PM hours. Consider splitting into CL-6a and CL-6b, or extending to 3-4 week sprint. Feasible but tight.",
+      "col_4": null
+    },
+    {
+      "CLAUDE PRODUCTION PROTOCOL — AI CO-PILOT SPECIFICATION": "Librarian learning curve",
+      "col_2": "GREEN (was YELLOW)",
+      "col_3": "Claude-as-reference eliminates the impossible ask of memorizing 1,184 tabs. Librarian learns by asking Claude. Cognitive load drops from \"memorize everything\" to \"know how to ask Claude.\"",
+      "col_4": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Claude Production Protocol",
+  "sheet_index": 1189
+}

@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "FRONT-LOADING INVESTMENT CALCULATOR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Requirements errors cost 200x more in maintenance. What are we NOT front-loading?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "THE MATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Cost to fix in Requirements phase: $1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Cost to fix in Design phase: $5",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Cost to fix in Implementation: $10",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Cost to fix in Testing: $50",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Cost to fix in Maintenance: $200",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "FRONT-LOAD OR PAY 200X LATER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "FRONT-LOADING AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Decision/Setup",
+      "col_2": "Cost to Fix Now",
+      "col_3": "Cost to Fix Later",
+      "col_4": "Multiplier",
+      "col_5": "Front-Loaded?",
+      "col_6": "Action"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Supplier selection",
+      "col_2": "$500 (research)",
+      "col_3": "$10K+ (switch mid-production)",
+      "col_4": "20x",
+      "col_5": null,
+      "col_6": "Research thoroughly"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Brand positioning",
+      "col_2": "$1K (strategy)",
+      "col_3": "$50K+ (rebrand)",
+      "col_4": "50x",
+      "col_5": null,
+      "col_6": "Get it right"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Unit economics model",
+      "col_2": "$100 (spreadsheet)",
+      "col_3": "$20K+ (pivot business)",
+      "col_4": "200x",
+      "col_5": null,
+      "col_6": "Validate with real data"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Email flows structure",
+      "col_2": "$200 (planning)",
+      "col_3": "$2K (rebuild)",
+      "col_4": "10x",
+      "col_5": null,
+      "col_6": "Plan architecture"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Tracking/attribution",
+      "col_2": "$100 (setup)",
+      "col_3": "$5K+ (lost data, bad decisions)",
+      "col_4": "50x",
+      "col_5": null,
+      "col_6": "Get it right first time"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Legal/entity structure",
+      "col_2": "$1K (lawyer)",
+      "col_3": "$10K+ (restructure)",
+      "col_4": "10x",
+      "col_5": null,
+      "col_6": "Do it right"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "Operator selection",
+      "col_2": "$500 (process)",
+      "col_3": "$20K+ (bad hire)",
+      "col_4": "40x",
+      "col_5": null,
+      "col_6": "Thorough vetting"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "SOPs",
+      "col_2": "$50/each (write)",
+      "col_3": "$500/each (tribal knowledge)",
+      "col_4": "10x",
+      "col_5": null,
+      "col_6": "Document as you go"
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "FRONT-LOADING CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ All assumptions validated with real data (not guesses)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Supplier thoroughly vetted (quality, reliability, backup)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Legal structure appropriate for growth",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Tracking architecture planned for scale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Processes documented as created (not later)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Team roles clearly defined from start",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FRONT-LOADING INVESTMENT CALCULATOR": "☐ Exit criteria for each phase defined",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Front-Loading Calculator",
+  "sheet_index": 879
+}

@@ -1,0 +1,247 @@
+{
+  "headers": [
+    "SUPPLIER RESEARCH - CRITICAL PATH",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "THIS IS THE SINGLE MOST IMPORTANT VALIDATION STEP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "KNOWN MARINE PLASMA SUPPLIERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Supplier",
+      "col_2": "Location",
+      "col_3": "Website",
+      "col_4": "Products",
+      "col_5": "Key Contact/Info",
+      "col_6": "Priority"
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Biocean Science & Nutrition",
+      "col_2": "Canada/France",
+      "col_3": "shopbiocean.com",
+      "col_4": "GMP certified, ampoules and bottles",
+      "col_5": "Myriam Biss (founder), Marc Biss (current president)",
+      "col_6": "CONTACT FIRST"
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Actimar Inc",
+      "col_2": "Canada",
+      "col_3": "shopactimar.com",
+      "col_4": "Same ownership as Biocean, US/EU focused",
+      "col_5": "Sister company to Biocean",
+      "col_6": "CONTACT"
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Laboratoires Quinton International",
+      "col_2": "Spain (Alicante)",
+      "col_3": "quinton.bio",
+      "col_4": "Pharma-grade, glass ampoules",
+      "col_5": "125+ year heritage, AQP protocol",
+      "col_6": "CONTACT FOR BENCHMARK"
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Bay of Biscay direct sourcing",
+      "col_2": "France/Spain",
+      "col_3": "N/A",
+      "col_4": "Where Seaonic claims to source",
+      "col_5": "Need to find actual harvesters",
+      "col_6": "RESEARCH"
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "QUESTIONS FOR SUPPLIERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "1. What is your MOQ for bulk marine plasma (hypertonic, 3.3% salinity)?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "2. What is the per-liter cost at MOQ? At 10x MOQ?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "3. Do you offer private label/white label services?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "4. Can you provide sachet filling and packaging?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "5. What is the lead time from order to delivery?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "6. Do you have any exclusivity agreements with existing brands?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "7. What certifications do you have (GMP, FDA registration, COA)?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "8. Can you provide samples for product testing?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "9. What are your payment terms?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "10. Do you ship to US? What are landed costs including duty?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "COGS CALCULATION TEMPLATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Component",
+      "col_2": "Estimated Cost",
+      "col_3": "Notes",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Marine plasma (per 10ml sachet)",
+      "col_2": "$???",
+      "col_3": "From supplier quote",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Sachet packaging material",
+      "col_2": "$0.03-0.05",
+      "col_3": "Industry estimate",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Sachet filling labor",
+      "col_2": "$0.02-0.05",
+      "col_3": "Depends on supplier/copacker",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Box (30 sachets)",
+      "col_2": "$0.50-1.00",
+      "col_3": "Custom print",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Insert/instructions",
+      "col_2": "$0.10-0.20",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Fulfillment/pick-pack",
+      "col_2": "$2.00-3.00",
+      "col_3": "3PL standard",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Shipping (avg)",
+      "col_2": "$5.00-7.00",
+      "col_3": "USPS Priority",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "Payment processing",
+      "col_2": "2.9% + $0.30",
+      "col_3": "Stripe standard",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SUPPLIER RESEARCH - CRITICAL PATH": "TOTAL LANDED COGS/BOX",
+      "col_2": "$???",
+      "col_3": "CALCULATE AFTER SUPPLIER QUOTES",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Supplier Research",
+  "sheet_index": 233
+}

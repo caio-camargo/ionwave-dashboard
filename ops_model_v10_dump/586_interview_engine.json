@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "INTERVIEW ENGINE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "INTERVIEW ENGINE": "Systematic customer research",
+      "col_2": null
+    },
+    {
+      "INTERVIEW ENGINE": "Source",
+      "col_2": "Post-purchase survey, Reddit, social DMs"
+    },
+    {
+      "INTERVIEW ENGINE": "Schedule",
+      "col_2": "5 calls/week during validation"
+    },
+    {
+      "INTERVIEW ENGINE": "Questions",
+      "col_2": "Problem, current solution, willingness to pay"
+    },
+    {
+      "INTERVIEW ENGINE": "Document",
+      "col_2": "Notion database with quotes, insights"
+    },
+    {
+      "INTERVIEW ENGINE": "Apply",
+      "col_2": "Update ICP, messaging, product based on learnings"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Interview Engine",
+  "sheet_index": 586
+}

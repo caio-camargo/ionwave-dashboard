@@ -1,0 +1,177 @@
+{
+  "headers": [
+    "SMS STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SMS STRATEGY": "When and how to use SMS marketing",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "SMS vs EMAIL",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Metric",
+      "col_2": "Email",
+      "col_3": "SMS"
+    },
+    {
+      "SMS STRATEGY": "Open Rate",
+      "col_2": "20-25%",
+      "col_3": "98%"
+    },
+    {
+      "SMS STRATEGY": "Click Rate",
+      "col_2": "2-5%",
+      "col_3": "20-35%"
+    },
+    {
+      "SMS STRATEGY": "Response Time",
+      "col_2": "Hours",
+      "col_3": "Minutes"
+    },
+    {
+      "SMS STRATEGY": "Cost",
+      "col_2": "Low",
+      "col_3": "Higher"
+    },
+    {
+      "SMS STRATEGY": "Unsubscribe Risk",
+      "col_2": "Low",
+      "col_3": "Higher"
+    },
+    {
+      "SMS STRATEGY": "Best For",
+      "col_2": "Nurture, education",
+      "col_3": "Urgency, recovery"
+    },
+    {
+      "SMS STRATEGY": "WHEN TO USE SMS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "USE SMS FOR:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Abandoned cart (high urgency)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Shipping updates",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Flash sales (time-limited)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Back in stock alerts",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ VIP exclusive offers",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "DON'T USE SMS FOR:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Educational content (too long)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Weekly newsletters",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "☐ Frequent promotions (will unsubscribe)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "SMS TEMPLATES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "ABANDONED CART:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Hey [Name]! You left IonWave in your cart.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Complete your order: [LINK]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Reply STOP to opt out",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "SHIPPING:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Your IonWave is on the way! 📦",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Track: [LINK]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "FLASH SALE:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "24 HOURS ONLY: 25% off everything",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Code: FLASH25",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "[LINK]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SMS STRATEGY": "Reply STOP to opt out",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "SMS Strategy1",
+  "sheet_index": 428
+}

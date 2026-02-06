@@ -1,0 +1,329 @@
+{
+  "headers": [
+    "INTERVIEW INSIGHTS SYNTHESIS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Aggregated learnings from customer interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "TOP PAIN POINTS (by frequency)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Rank",
+      "col_2": "Pain Point",
+      "col_3": "Frequency",
+      "col_4": "Sample Quotes",
+      "col_5": "Implication"
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 1,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 2,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 3,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 4,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 5,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 6,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 7,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 8,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 9,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 10,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "TOP JOBS TO BE DONE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Rank",
+      "col_2": "Job",
+      "col_3": "When",
+      "col_4": "Current Solution",
+      "col_5": "Our Opportunity"
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 1,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 2,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 3,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 4,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": 5,
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "SEGMENT INSIGHTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Segment",
+      "col_2": "# Interviewed",
+      "col_3": "Key Insight",
+      "col_4": "Willingness to Pay",
+      "col_5": "Priority"
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Keto/Carnivore",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Biohackers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Athletes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "General Health",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Other",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "SURPRISING FINDINGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "1. [Finding that challenged assumptions]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "2. [Finding that challenged assumptions]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "3. [Finding that challenged assumptions]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "4. [Finding that challenged assumptions]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "5. [Finding that challenged assumptions]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "QUOTES FOR MARKETING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "Best quotes to use in ads, landing pages, emails:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "1. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "2. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "3. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "4. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "5. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "6. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "7. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "8. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "9. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INTERVIEW INSIGHTS SYNTHESIS": "10. \"[Quote]\" — [Name], [Segment]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "Interview Insights Synthesis",
+  "sheet_index": 575
+}

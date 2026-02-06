@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "MONTH 1 LOOPS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "MONTH 1 LOOPS": "LOOP A: BUILD (Operator)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "MONTH 1 LOOPS": "Week 1",
+      "col_2": "Store foundation",
+      "col_3": "Shopify setup, theme, basic pages"
+    },
+    {
+      "MONTH 1 LOOPS": "Week 2",
+      "col_2": "Product + checkout",
+      "col_3": "PDP complete, checkout tested"
+    },
+    {
+      "MONTH 1 LOOPS": "Week 3",
+      "col_2": "Email + creative",
+      "col_3": "All flows live, first 20 ads ready"
+    },
+    {
+      "MONTH 1 LOOPS": "Week 4",
+      "col_2": "Launch prep",
+      "col_3": "Inventory confirmed, final QA"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Month 1 Loops",
+  "sheet_index": 784
+}

@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "MINERAL PROFILE SPECIFICATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "MINERAL PROFILE SPECIFICATION": "Exact breakdown of every mineral in the formula",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Mineral",
+      "col_2": "Amount/Serving",
+      "col_3": "% Daily Value",
+      "col_4": "Form",
+      "col_5": "Source",
+      "col_6": "Function",
+      "col_7": "Why This Amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Sodium",
+      "col_2": "1000mg",
+      "col_3": "43%",
+      "col_4": "Sodium chloride",
+      "col_5": "Ocean water",
+      "col_6": "Fluid balance, nerve function",
+      "col_7": "Matches LMNT, optimal for active/keto"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Potassium",
+      "col_2": "200mg",
+      "col_3": "4%",
+      "col_4": "Potassium chloride",
+      "col_5": "Ocean water",
+      "col_6": "Heart rhythm, muscle function",
+      "col_7": "Safe level, works with sodium"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Magnesium",
+      "col_2": "60mg",
+      "col_3": "14%",
+      "col_4": "Magnesium chloride",
+      "col_5": "Ocean water",
+      "col_6": "Muscle/nerve, energy, sleep",
+      "col_7": "50% deficient, highly absorbable form"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Chloride",
+      "col_2": "___mg",
+      "col_3": "___%",
+      "col_4": "From sodium/potassium chloride",
+      "col_5": "Ocean water",
+      "col_6": "Digestion, pH balance",
+      "col_7": "[TBD]"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Calcium",
+      "col_2": "___mg",
+      "col_3": "___%",
+      "col_4": "[TBD]",
+      "col_5": "Ocean water",
+      "col_6": "Bones, muscle, signaling",
+      "col_7": "[TBD]"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Phosphorus",
+      "col_2": "___mg",
+      "col_3": "___%",
+      "col_4": "[TBD]",
+      "col_5": "Ocean water",
+      "col_6": "Energy (ATP), bones",
+      "col_7": "[TBD]"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Zinc",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Zinc sulfate",
+      "col_5": "Ocean water",
+      "col_6": "Immune, wound healing",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Iron",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Ferrous form",
+      "col_5": "Ocean water",
+      "col_6": "Oxygen transport",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Iodine",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Iodide",
+      "col_5": "Ocean water",
+      "col_6": "Thyroid function",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Selenium",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Selenomethionine",
+      "col_5": "Ocean water",
+      "col_6": "Antioxidant, thyroid",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Copper",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Copper sulfate",
+      "col_5": "Ocean water",
+      "col_6": "Iron metabolism",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Manganese",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Manganese sulfate",
+      "col_5": "Ocean water",
+      "col_6": "Bone health, metabolism",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Chromium",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Chromium chloride",
+      "col_5": "Ocean water",
+      "col_6": "Blood sugar regulation",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "Molybdenum",
+      "col_2": "Trace",
+      "col_3": "<1%",
+      "col_4": "Sodium molybdate",
+      "col_5": "Ocean water",
+      "col_6": "Enzyme function, detox",
+      "col_7": "Natural trace amount"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "+60 more trace",
+      "col_2": "Trace",
+      "col_3": "N/A",
+      "col_4": "Various",
+      "col_5": "Ocean water",
+      "col_6": "Various enzymatic functions",
+      "col_7": "Natural ocean profile"
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "GAPS TO FILL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "☐ Get exact mg amounts from supplier CoA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "☐ Verify % DV calculations against FDA guidelines",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "☐ Confirm mineral forms used",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "☐ Document sourcing chain for each",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "MINERAL PROFILE SPECIFICATION": "☐ Get third-party lab verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Mineral Profile Spec",
+  "sheet_index": 216
+}

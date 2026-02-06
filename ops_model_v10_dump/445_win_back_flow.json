@@ -1,0 +1,145 @@
+{
+  "headers": [
+    "WIN-BACK FLOW",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "WIN-BACK FLOW": "Re-engage customers who haven't purchased recently",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "WIN-BACK SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Email",
+      "col_2": "Trigger",
+      "col_3": "Subject",
+      "col_4": "Strategy"
+    },
+    {
+      "WIN-BACK FLOW": "WB1",
+      "col_2": "60 days no purchase",
+      "col_3": "We miss you, [Name]",
+      "col_4": "Emotional, no discount yet"
+    },
+    {
+      "WIN-BACK FLOW": "WB2",
+      "col_2": "75 days no purchase",
+      "col_3": "Here's [X]% off to come back",
+      "col_4": "Discount incentive"
+    },
+    {
+      "WIN-BACK FLOW": "WB3",
+      "col_2": "90 days no purchase",
+      "col_3": "Last chance: [X]% expires",
+      "col_4": "Urgency + bigger discount"
+    },
+    {
+      "WIN-BACK FLOW": "WB4",
+      "col_2": "120 days no purchase",
+      "col_3": "Should we remove you?",
+      "col_4": "Re-engagement or unsubscribe"
+    },
+    {
+      "WIN-BACK FLOW": "EMAIL 1 TEMPLATE (We Miss You)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "SUBJECT: It's been a while, [Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Hey [Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "We noticed you haven't ordered in a while.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Is everything okay?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Maybe you:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "• Got busy and forgot to reorder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "• Tried something else",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "• Had an issue we can help with",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Whatever it is, we'd love to have you back.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "If something was wrong with your last order,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "reply to this email and we'll make it right.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "Miss you,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "[Founder name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "WIN-BACK FLOW": "[CTA: Shop Now]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Win-Back Flow",
+  "sheet_index": 445
+}

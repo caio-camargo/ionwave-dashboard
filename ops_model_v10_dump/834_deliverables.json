@@ -1,0 +1,457 @@
+{
+  "headers": [
+    "IONWAVE MASTER DELIVERABLES LIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "Everything the operator needs to produce. Check off as completed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "ID",
+      "col_2": "Deliverable",
+      "col_3": "Category",
+      "col_4": "Due",
+      "col_5": "Owner",
+      "col_6": "Status",
+      "col_7": "Notes"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D001",
+      "col_2": "Supplier shortlist (5+ suppliers with quotes)",
+      "col_3": "Supplier",
+      "col_4": "W1D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D002",
+      "col_2": "Sample orders placed (top 3 suppliers)",
+      "col_3": "Supplier",
+      "col_4": "W1D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D003",
+      "col_2": "Packaging design brief sent",
+      "col_3": "Product",
+      "col_4": "W1D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Packaging Brief sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D004",
+      "col_2": "LLC formation filed",
+      "col_3": "Legal",
+      "col_4": "W1D5",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D005",
+      "col_2": "Domain purchased",
+      "col_3": "Tech",
+      "col_4": "W1D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D006",
+      "col_2": "Shopify store created",
+      "col_3": "Tech",
+      "col_4": "W1D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D007",
+      "col_2": "Klaviyo account connected",
+      "col_3": "Tech",
+      "col_4": "W1D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D008",
+      "col_2": "Meta Business Manager setup",
+      "col_3": "Tech",
+      "col_4": "W1D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D009",
+      "col_2": "Pixel installed and firing",
+      "col_3": "Tech",
+      "col_4": "W1D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D010",
+      "col_2": "Bank account opened",
+      "col_3": "Legal",
+      "col_4": "W1D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "Mercury recommended"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D011",
+      "col_2": "Product photos (hero shots)",
+      "col_3": "Creative",
+      "col_4": "W2D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Photo Brief sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D012",
+      "col_2": "Landing page v1 live",
+      "col_3": "Funnel",
+      "col_4": "W2D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Landing Page Copy sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D013",
+      "col_2": "Product page live",
+      "col_3": "Funnel",
+      "col_4": "W2D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Product Page Copy sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D014",
+      "col_2": "Checkout configured (sub default)",
+      "col_3": "Funnel",
+      "col_4": "W2D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D015",
+      "col_2": "Checkout bump configured",
+      "col_3": "Funnel",
+      "col_4": "W2D4",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Upsell Page Copy sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D016",
+      "col_2": "First 20 ad creatives",
+      "col_3": "Creative",
+      "col_4": "W2D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Ad Specs + Ad Copy Bank"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D017",
+      "col_2": "Competitor swipe file (30+ ads)",
+      "col_3": "Creative",
+      "col_4": "W2D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D018",
+      "col_2": "Influencer target list (30+)",
+      "col_3": "Marketing",
+      "col_4": "W2D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D019",
+      "col_2": "Influencer outreach started",
+      "col_3": "Marketing",
+      "col_4": "W2D4",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D020",
+      "col_2": "Samples received and tested",
+      "col_3": "Supplier",
+      "col_4": "W2D5",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D021",
+      "col_2": "Supplier selected (COGS confirmed)",
+      "col_3": "Supplier",
+      "col_4": "W3D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "KILL if >$0.60"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D022",
+      "col_2": "First inventory order placed",
+      "col_3": "Supplier",
+      "col_4": "W3D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "500 units minimum"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D023",
+      "col_2": "50 ad creatives ready",
+      "col_3": "Creative",
+      "col_4": "W3D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D024",
+      "col_2": "Email welcome sequence live",
+      "col_3": "Email",
+      "col_4": "W3D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Email Welcome sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D025",
+      "col_2": "Email cart abandonment live",
+      "col_3": "Email",
+      "col_4": "W3D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Email Cart Abandoned sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D026",
+      "col_2": "3PL selected and onboarded",
+      "col_3": "Fulfillment",
+      "col_4": "W3D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D027",
+      "col_2": "Customer service templates ready",
+      "col_3": "Ops",
+      "col_4": "W3D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D028",
+      "col_2": "First ads launched ($500 test)",
+      "col_3": "Ads",
+      "col_4": "W3D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D029",
+      "col_2": "Daily ad performance tracking",
+      "col_3": "Ads",
+      "col_4": "W3D4",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D030",
+      "col_2": "First orders shipped",
+      "col_3": "Fulfillment",
+      "col_4": "W4D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D031",
+      "col_2": "Post-purchase upsell live",
+      "col_3": "Funnel",
+      "col_4": "W4D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D032",
+      "col_2": "Email post-purchase sequence live",
+      "col_3": "Email",
+      "col_4": "W4D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Email Post-Purchase sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D033",
+      "col_2": "Landing page v2 (based on data)",
+      "col_3": "Funnel",
+      "col_4": "W4D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D034",
+      "col_2": "20 more ad creatives",
+      "col_3": "Creative",
+      "col_4": "W4D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D035",
+      "col_2": "First influencer posts live",
+      "col_3": "Marketing",
+      "col_4": "W4D4",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D036",
+      "col_2": "Week 4 performance review",
+      "col_3": "Analytics",
+      "col_4": "W5D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D037",
+      "col_2": "Kill/scale decision on ads",
+      "col_3": "Ads",
+      "col_4": "W5D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "Scale winners, kill losers"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D038",
+      "col_2": "100+ total ads tested",
+      "col_3": "Creative",
+      "col_4": "W6D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D039",
+      "col_2": "First customer reviews collected",
+      "col_3": "Marketing",
+      "col_4": "W5D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D040",
+      "col_2": "Subscription retention data",
+      "col_3": "Analytics",
+      "col_4": "W6D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D041",
+      "col_2": "Unit economics validated",
+      "col_3": "Analytics",
+      "col_4": "W6D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "CAC, LTV, margins confirmed"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D042",
+      "col_2": "Pitch deck finalized",
+      "col_3": "Fundraising",
+      "col_4": "W6D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": "See Pitch Deck Slides sheet"
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D043",
+      "col_2": "Investor outreach started",
+      "col_3": "Fundraising",
+      "col_4": "W6D2",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D044",
+      "col_2": "Data room prepared",
+      "col_3": "Fundraising",
+      "col_4": "W6D3",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D045",
+      "col_2": "Week 7 decision: Raise/Bootstrap/Kill",
+      "col_3": "Decision",
+      "col_4": "W7D1",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D046",
+      "col_2": "Investor meetings (if raising)",
+      "col_3": "Fundraising",
+      "col_4": "W7",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    },
+    {
+      "IONWAVE MASTER DELIVERABLES LIST": "D047",
+      "col_2": "Month 1 retrospective doc",
+      "col_3": "Analytics",
+      "col_4": "W7D5",
+      "col_5": "Operator",
+      "col_6": "⬜",
+      "col_7": null
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Deliverables",
+  "sheet_index": 834
+}

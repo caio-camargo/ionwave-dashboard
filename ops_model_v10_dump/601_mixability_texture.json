@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "MIXABILITY & TEXTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "MIXABILITY & TEXTURE": "How it dissolves, clumping, residue, temperature effects",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "MIXABILITY SPECS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "Factor",
+      "col_2": "Ideal Behavior",
+      "col_3": "Acceptable",
+      "col_4": "Problem",
+      "col_5": "Fix If Problem"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Dissolve time",
+      "col_2": "<30 sec with stirring",
+      "col_3": "30-60 sec",
+      "col_4": ">60 sec or won't dissolve",
+      "col_5": "Reformulate, finer grind"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Clumping in pack",
+      "col_2": "Free-flowing powder",
+      "col_3": "Minor clumps break easy",
+      "col_4": "Hard clumps",
+      "col_5": "Better moisture barrier"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Residue in glass",
+      "col_2": "None visible",
+      "col_3": "Slight coating",
+      "col_4": "Gritty bottom",
+      "col_5": "Reformulate solubility"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Cold water",
+      "col_2": "Dissolves fully",
+      "col_3": "Needs extra stirring",
+      "col_4": "Won't dissolve cold",
+      "col_5": "Reformulate"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Hot water",
+      "col_2": "Dissolves instantly",
+      "col_3": "Normal",
+      "col_4": "Weird reaction",
+      "col_5": "Check heat stability"
+    },
+    {
+      "MIXABILITY & TEXTURE": "Foam",
+      "col_2": "Minimal to none",
+      "col_3": "Some initial foam",
+      "col_4": "Excessive foam",
+      "col_5": "Check ingredients"
+    },
+    {
+      "MIXABILITY & TEXTURE": "USAGE INSTRUCTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "Include on packaging and website:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "1. Pour 16-32oz of water in bottle or glass",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "2. Add one stick pack of IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "3. Stir or shake for 15-30 seconds",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "4. Enjoy immediately or refrigerate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "Tips:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "• Room temperature water dissolves faster",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "• Shaker bottle works best",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MIXABILITY & TEXTURE": "• Stir if you see settling at bottom",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Mixability Texture",
+  "sheet_index": 601
+}

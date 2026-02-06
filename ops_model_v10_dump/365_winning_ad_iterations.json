@@ -1,0 +1,19 @@
+{
+  "headers": [
+    "WINNING AD ITERATIONS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "WINNING AD ITERATIONS": "Original Winner",
+      "col_2": "Iteration Type",
+      "col_3": "What Changed",
+      "col_4": "Result"
+    }
+  ],
+  "row_count": 1,
+  "sheet_name": "Winning Ad Iterations",
+  "sheet_index": 365
+}

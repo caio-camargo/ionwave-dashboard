@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "PRESSURE CONDITIONS DESIGNER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Design conditions where the behavior you want is the only rational choice",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Don't hope people coordinate. Design pressure conditions where coordination is inevitable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Don't rely on motivation. Make the desired behavior the path of least resistance.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "PRESSURE CONDITIONS DESIGN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Desired Behavior",
+      "col_2": "Current State",
+      "col_3": "Pressure Condition to Add",
+      "col_4": "Makes It Inevitable Because...",
+      "col_5": "Implemented?"
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Operator documents everything",
+      "col_2": "Inconsistent documentation",
+      "col_3": "CM can't approve without docs",
+      "col_4": "No docs = no progress = pressure",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Team responds within 4 hours",
+      "col_2": "Variable response times",
+      "col_3": "Escalation after 4hrs auto-triggers",
+      "col_4": "Escalation is worse than responding",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Kill underperforming ads",
+      "col_2": "Reluctant to kill",
+      "col_3": "Auto-pause at CAC >$50",
+      "col_4": "System does it, no decision needed",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Weekly report submitted",
+      "col_2": "Sometimes late",
+      "col_3": "No ad spend until report in",
+      "col_4": "Business stops without it",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Customer feedback collected",
+      "col_2": "Sporadic",
+      "col_3": "Bonus tied to NPS score",
+      "col_4": "Financial incentive aligns",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Inventory reordered on time",
+      "col_2": "Reactive ordering",
+      "col_3": "Auto-alert at 21 days stock",
+      "col_4": "System creates pressure",
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "TYPES OF PRESSURE CONDITIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Deadlines",
+      "col_2": "Time pressure creates action",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Dependencies",
+      "col_2": "X can't happen until Y is done",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Transparency",
+      "col_2": "Public visibility creates accountability",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Automation",
+      "col_2": "System enforces rules without human decision",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Incentives",
+      "col_2": "Financial reward for desired behavior",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Consequences",
+      "col_2": "Clear negative outcome for non-compliance",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Social",
+      "col_2": "Peer pressure, reputation effects",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "OVERDETERMINED COORDINATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Best practice: Stack multiple pressure conditions so behavior is inevitable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PRESSURE CONDITIONS DESIGNER": "Example: Weekly report has deadline (time) + blocks ad spend (dependency) + is public (transparency)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Pressure Conditions Designer",
+  "sheet_index": 893
+}

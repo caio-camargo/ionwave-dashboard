@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "BIFURCATION POINT TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "BIFURCATION POINT TRACKER": "Critical thresholds where small changes cause qualitative shifts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "A bifurcation point is where the system's behavior changes fundamentally.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "At $40 CAC you're profitable. At $41 CAC you're not. That $1 is a bifurcation point.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "KNOWN BIFURCATION POINTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Metric",
+      "col_2": "Current Value",
+      "col_3": "Bifurcation Point",
+      "col_4": "Below Threshold",
+      "col_5": "Above Threshold",
+      "col_6": "Buffer",
+      "col_7": "Risk Level"
+    },
+    {
+      "BIFURCATION POINT TRACKER": "CAC",
+      "col_2": "$[X]",
+      "col_3": "$45",
+      "col_4": "Profitable, can scale",
+      "col_5": "Losing money per customer",
+      "col_6": "$[X]",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Churn",
+      "col_2": "[X]%",
+      "col_3": "10%",
+      "col_4": "LTV supports CAC",
+      "col_5": "LTV too low, model breaks",
+      "col_6": "[X]%",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Gross Margin",
+      "col_2": "[X]%",
+      "col_3": "50%",
+      "col_4": "Healthy unit economics",
+      "col_5": "Cant afford CAC",
+      "col_6": "[X]%",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "ROAS",
+      "col_2": "[X]",
+      "col_3": "1.5x",
+      "col_4": "Sustainable growth",
+      "col_5": "Burning cash to grow",
+      "col_6": "[X]",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Cash Runway",
+      "col_2": "[X] days",
+      "col_3": "60 days",
+      "col_4": "Can operate normally",
+      "col_5": "Emergency mode",
+      "col_6": "[X] days",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Inventory Days",
+      "col_2": "[X]",
+      "col_3": "14 days",
+      "col_4": "Can fulfill orders",
+      "col_5": "Stockout imminent",
+      "col_6": "[X] days",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Support Response",
+      "col_2": "[X] hrs",
+      "col_3": "24 hrs",
+      "col_4": "Customers satisfied",
+      "col_5": "Negative reviews spike",
+      "col_6": "[X] hrs",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Ad Frequency",
+      "col_2": "[X]",
+      "col_3": "3.0",
+      "col_4": "Ads still effective",
+      "col_5": "Creative fatigue, CPM spikes",
+      "col_6": "[X]",
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "EARLY WARNING SYSTEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Set alerts at 80% of bifurcation point:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "• CAC alert at $36 (80% of $45)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "• Churn alert at 8% (80% of 10%)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "• Runway alert at 75 days (before 60)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "• Inventory alert at 21 days (before 14)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "WHEN YOU HIT A BIFURCATION POINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Everything changes. Old playbook no longer works. You're in a different game now.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "BIFURCATION POINT TRACKER": "Stop, diagnose root cause, solve the underlying problem. Don't optimize within broken system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Bifurcation Points",
+  "sheet_index": 131
+}

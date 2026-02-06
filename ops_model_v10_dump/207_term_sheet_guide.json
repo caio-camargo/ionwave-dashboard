@@ -1,0 +1,319 @@
+{
+  "headers": [
+    "TERM SHEET GUIDE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "TERM SHEET GUIDE": "Understanding investor term sheets - key terms explained",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "WHAT IS A TERM SHEET",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Term sheet = Non-binding outline of investment terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "It's the negotiation document BEFORE the legal docs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Most terms are negotiable. Know which matter most.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Two types of terms:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "• Economic = How the money works (valuation, preferences)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "• Control = Who decides what (board, voting, veto)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "ECONOMIC TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Term",
+      "col_2": "What It Means",
+      "col_3": "Standard",
+      "col_4": "Watch Out For"
+    },
+    {
+      "TERM SHEET GUIDE": "Pre-Money Valuation",
+      "col_2": "Company value BEFORE investment",
+      "col_3": "Market rate varies",
+      "col_4": "Too low = excessive dilution"
+    },
+    {
+      "TERM SHEET GUIDE": "Investment Amount",
+      "col_2": "How much they're putting in",
+      "col_3": "As needed",
+      "col_4": "More isn't always better"
+    },
+    {
+      "TERM SHEET GUIDE": "Type of Security",
+      "col_2": "What they get (SAFE, Note, Preferred)",
+      "col_3": "SAFE for small, Preferred for larger",
+      "col_4": "Convertible notes with high interest"
+    },
+    {
+      "TERM SHEET GUIDE": "Liquidation Preference",
+      "col_2": "Who gets paid first in exit",
+      "col_3": "1x non-participating",
+      "col_4": ">1x or participating = bad"
+    },
+    {
+      "TERM SHEET GUIDE": "Participation",
+      "col_2": "Do they double-dip (pref + common)",
+      "col_3": "Non-participating",
+      "col_4": "Participating = they get pref + share of rest"
+    },
+    {
+      "TERM SHEET GUIDE": "Anti-Dilution",
+      "col_2": "Protection if future round is lower",
+      "col_3": "Broad-based weighted average",
+      "col_4": "Full ratchet = brutal for founders"
+    },
+    {
+      "TERM SHEET GUIDE": "Dividends",
+      "col_2": "Do they get paid before exit",
+      "col_3": "None or non-cumulative",
+      "col_4": "Cumulative dividends = debt-like"
+    },
+    {
+      "TERM SHEET GUIDE": "Option Pool",
+      "col_2": "Shares reserved for employees",
+      "col_3": "10-15% pre-money",
+      "col_4": "Large pool pre-money = hidden dilution"
+    },
+    {
+      "TERM SHEET GUIDE": "CONTROL TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Board Seats",
+      "col_2": "Who's on the board",
+      "col_3": "Founder majority early",
+      "col_4": "Investor majority = loss of control"
+    },
+    {
+      "TERM SHEET GUIDE": "Protective Provisions",
+      "col_2": "What needs investor approval",
+      "col_3": "Major decisions only",
+      "col_4": "Too many = can't operate"
+    },
+    {
+      "TERM SHEET GUIDE": "Information Rights",
+      "col_2": "What you must share with them",
+      "col_3": "Quarterly financials",
+      "col_4": "Monthly board meetings = time sink"
+    },
+    {
+      "TERM SHEET GUIDE": "Pro-Rata Rights",
+      "col_2": "Right to invest in future rounds",
+      "col_3": "Standard for lead investors",
+      "col_4": "Super pro-rata = forced participation"
+    },
+    {
+      "TERM SHEET GUIDE": "Drag Along",
+      "col_2": "Can force sale of company",
+      "col_3": "Majority threshold",
+      "col_4": "Low threshold = loss of control"
+    },
+    {
+      "TERM SHEET GUIDE": "No Shop",
+      "col_2": "Can't talk to other investors",
+      "col_3": "30-45 days",
+      "col_4": ">60 days = too long"
+    },
+    {
+      "TERM SHEET GUIDE": "RED FLAGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Participating preferred (double dip)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Full ratchet anti-dilution",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 >1x liquidation preference",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Cumulative dividends",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Investor board majority",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Excessive protective provisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Redemption rights (can force you to buy them out)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 No shop >60 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "🚩 Large option pool expansion pre-money",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "FOUNDER-FRIENDLY TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ 1x non-participating liquidation preference",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ Broad-based weighted average anti-dilution",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ Founder board majority (early stages)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ Reasonable protective provisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ Post-money option pool (or reasonable pre-money)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ Standard information rights",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "✓ 30-day no shop",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "NEGOTIATION PRIORITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Focus your energy on (in order):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "1. Valuation (biggest impact on dilution)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "2. Liquidation preference and participation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "3. Board composition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "4. Option pool size and timing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "5. Anti-dilution provisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TERM SHEET GUIDE": "Don't die on hills over minor terms.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Term Sheet Guide",
+  "sheet_index": 207
+}

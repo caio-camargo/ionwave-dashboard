@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "SCENARIO MODELING",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "SCENARIO MODELING": "Bull, Base, and Bear case financial projections",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "SCENARIO ASSUMPTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "Metric",
+      "col_2": "Bear Case",
+      "col_3": "Base Case",
+      "col_4": "Bull Case"
+    },
+    {
+      "SCENARIO MODELING": "CAC",
+      "col_2": "$60",
+      "col_3": "$40",
+      "col_4": "$25"
+    },
+    {
+      "SCENARIO MODELING": "AOV",
+      "col_2": "$45",
+      "col_3": "$55",
+      "col_4": "$65"
+    },
+    {
+      "SCENARIO MODELING": "LTV",
+      "col_2": "$90",
+      "col_3": "$150",
+      "col_4": "$220"
+    },
+    {
+      "SCENARIO MODELING": "LTV:CAC Ratio",
+      "col_2": "1.5:1",
+      "col_3": "3.75:1",
+      "col_4": "8.8:1"
+    },
+    {
+      "SCENARIO MODELING": "Gross Margin",
+      "col_2": "55%",
+      "col_3": "65%",
+      "col_4": "72%"
+    },
+    {
+      "SCENARIO MODELING": "Month 12 MRR",
+      "col_2": "$30K",
+      "col_3": "$100K",
+      "col_4": "$200K"
+    },
+    {
+      "SCENARIO MODELING": "Ad Spend Efficiency",
+      "col_2": "1.2 ROAS",
+      "col_3": "2.0 ROAS",
+      "col_4": "3.0 ROAS"
+    },
+    {
+      "SCENARIO MODELING": "Subscription Rate",
+      "col_2": "20%",
+      "col_3": "40%",
+      "col_4": "55%"
+    },
+    {
+      "SCENARIO MODELING": "Churn Rate",
+      "col_2": "15%/mo",
+      "col_3": "8%/mo",
+      "col_4": "5%/mo"
+    },
+    {
+      "SCENARIO MODELING": "12-MONTH PROJECTIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "Metric",
+      "col_2": "Bear",
+      "col_3": "Base",
+      "col_4": "Bull"
+    },
+    {
+      "SCENARIO MODELING": "Total Revenue",
+      "col_2": "$200K",
+      "col_3": "$600K",
+      "col_4": "$1.2M"
+    },
+    {
+      "SCENARIO MODELING": "Total Customers",
+      "col_2": "3,000",
+      "col_3": "8,000",
+      "col_4": "15,000"
+    },
+    {
+      "SCENARIO MODELING": "Total Ad Spend",
+      "col_2": "$180K",
+      "col_3": "$320K",
+      "col_4": "$400K"
+    },
+    {
+      "SCENARIO MODELING": "Gross Profit",
+      "col_2": "$110K",
+      "col_3": "$390K",
+      "col_4": "$860K"
+    },
+    {
+      "SCENARIO MODELING": "Net Profit",
+      "col_2": "-$70K",
+      "col_3": "$70K",
+      "col_4": "$400K"
+    },
+    {
+      "SCENARIO MODELING": "Cash Needed",
+      "col_2": "$100K",
+      "col_3": "$50K",
+      "col_4": "$30K"
+    },
+    {
+      "SCENARIO MODELING": "WHAT DRIVES EACH SCENARIO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "BEAR CASE: Can't find winning ads, high churn, weak retention",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "BASE CASE: Find 3+ winning ads, decent retention, steady growth",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO MODELING": "BULL CASE: Strong PMF, viral growth, high retention, low CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Scenario Modeling",
+  "sheet_index": 195
+}

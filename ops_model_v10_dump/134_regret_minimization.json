@@ -1,0 +1,127 @@
+{
+  "headers": [
+    "REGRET MINIMIZATION FRAMEWORK",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Bezos framework for big decisions - minimize regret at 80",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "THE FRAMEWORK",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "\"I wanted to project myself forward to age 80 and say, 'OK, I'm looking back on my \nlife. I want to minimize the number of regrets I have.'\n\nI knew that when I was 80, I was not going to regret having tried this. I was not \ngoing to regret trying to participate in this thing called the Internet that I \nthought was going to be a really big deal. I knew that if I failed, I wouldn't \nregret that. But I knew the one thing I might regret is not ever having tried.\"\n\n— Jeff Bezos",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "APPLYING TO IONWAVE DECISIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Decision",
+      "col_2": "Regret Minimization Question",
+      "col_3": "Answer"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Should we launch this business at all?",
+      "col_2": "Will I regret NOT trying to build this?",
+      "col_3": "Yes - the opportunity is real, the risk is manageable, the learning is valuable regardless"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Should we spend $X on this ad test?",
+      "col_2": "Will I regret not knowing if this worked?",
+      "col_3": "Usually yes for reasonable amounts - information has value"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Should we hire this person?",
+      "col_2": "Will I regret not giving this person a chance?",
+      "col_3": "Consider both: regret of hiring wrong AND regret of not hiring right"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Should we raise money?",
+      "col_2": "Will I regret diluting / Will I regret not having capital?",
+      "col_3": "Only raise if we'd regret not having the capital more than we'd regret dilution"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Should we pivot?",
+      "col_2": "Will I regret not trying the new direction?",
+      "col_3": "If the current path isn't working, usually yes"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "WHEN TO USE THIS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "• Facing a hard decision with no clear right answer",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "• Feeling fear about a choice",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "• Pros and cons list isn't helping",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "• The decision feels reversible but scary",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "TYPES OF REGRET",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Regret of action",
+      "col_2": "I did X and it didn't work",
+      "col_3": "Usually fades - you learned something"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Regret of inaction",
+      "col_2": "I didn't try X",
+      "col_3": "Usually grows - \"what if?\""
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Regret of speed",
+      "col_2": "I waited too long",
+      "col_3": "Often underestimated"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "Regret of values",
+      "col_2": "I compromised who I am",
+      "col_3": "The worst kind - avoid at all costs"
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "THE QUESTION TO ASK",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "\"When I'm 80, looking back, will I regret NOT doing this?\"",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REGRET MINIMIZATION FRAMEWORK": "If yes → Do it. If no → Maybe don't. If unsure → Probably do it.",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Regret Minimization",
+  "sheet_index": 134
+}

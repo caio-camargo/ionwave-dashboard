@@ -1,0 +1,255 @@
+{
+  "headers": [
+    "CM DAILY OPERATIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CM DAILY OPERATIONS": "Daily touchpoints, compliance log, enforcement rhythm",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "DAILY RHYTHM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "By 10am: Check all operator daily reports received",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "By 11am: Review each report for completeness, flag issues",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "By 12pm: Log compliance status in rolling tracker",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "By EOD: Escalate any non-compliance per SLA table",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "Expect ~30-45 min/day per operator at steady state.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "DAILY REPORT REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "Operators must submit daily by 9am their timezone:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "☐ Yesterday's metrics (spend, revenue, ROAS, orders)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "☐ Tasks completed (with links/evidence)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "☐ Tasks planned today",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "☐ Blockers (if any)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "☐ Burn rate / runway update (weekly)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "Format: Slack message in #ionwave-standups OR shared Google Doc",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "Late = flagged. Missing = non-compliance. Vague = flagged for clarification.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "COMPLIANCE LOG FORMAT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "Date",
+      "col_2": "Operator",
+      "col_3": "Report Status",
+      "col_4": "Issues",
+      "col_5": "Escalated?",
+      "col_6": "Notes"
+    },
+    {
+      "CM DAILY OPERATIONS": "2026-02-01",
+      "col_2": "Operator A",
+      "col_3": "✓ On time",
+      "col_4": "None",
+      "col_5": "No",
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "2026-02-01",
+      "col_2": "Operator B",
+      "col_3": "⚠ Late (11am)",
+      "col_4": "Missing metrics",
+      "col_5": "Yes",
+      "col_6": "DM sent"
+    },
+    {
+      "CM DAILY OPERATIONS": "2026-02-02",
+      "col_2": "Operator A",
+      "col_3": "✓ On time",
+      "col_4": "None",
+      "col_5": "No",
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "2026-02-02",
+      "col_2": "Operator B",
+      "col_3": "✗ Missing",
+      "col_4": "No report",
+      "col_5": "Yes",
+      "col_6": "Escalated to Nilo"
+    },
+    {
+      "CM DAILY OPERATIONS": "ENFORCEMENT PRINCIPLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Absence of evidence = non-compliance (not benefit of doubt)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Verbal assurances are disregarded; require written evidence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Reject emotional framing, excuses, or contextual justifications",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Do not interpret standards; apply them literally",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Do not soften feedback or delay escalation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• Maintain professional distance at all times",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CM DAILY OPERATIONS": "• You verify compliance; you don't help operators succeed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "CM Daily Operations1",
+  "sheet_index": 731
+}

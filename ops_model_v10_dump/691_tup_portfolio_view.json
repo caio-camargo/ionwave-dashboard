@@ -1,0 +1,139 @@
+{
+  "headers": [
+    "TUP PORTFOLIO VIEW",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "TUP PORTFOLIO VIEW": "All ventures at a glance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "TUP",
+      "col_2": "Stage",
+      "col_3": "Grade",
+      "col_4": "Operator",
+      "col_5": "MRR",
+      "col_6": "Capital In",
+      "col_7": "Runway",
+      "col_8": "Next Milestone",
+      "col_9": "Status"
+    },
+    {
+      "TUP PORTFOLIO VIEW": "IonWave",
+      "col_2": "Table Set",
+      "col_3": "BBB",
+      "col_4": "[TBD]",
+      "col_5": "$0",
+      "col_6": "$15K",
+      "col_7": "3 mo",
+      "col_8": "First sale",
+      "col_9": "🟡 In Progress"
+    },
+    {
+      "TUP PORTFOLIO VIEW": "PORTFOLIO SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Total TUPs: ___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Active: ___  |  Killed: ___  |  Graduated: ___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Total Capital Deployed: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Total Revenue (trailing 12mo): $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Portfolio MOIC: ___x",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "Grade Distribution:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "TUP PORTFOLIO VIEW": "AAA-AA: ___  |  A-BBB: ___  |  BB-B: ___  |  CCC-D: ___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "TUP Portfolio View",
+  "sheet_index": 691
+}

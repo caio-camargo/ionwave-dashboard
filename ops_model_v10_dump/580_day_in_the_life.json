@@ -1,0 +1,193 @@
+{
+  "headers": [
+    "DAY IN THE LIFE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DAY IN THE LIFE": "Hour by hour — when electrolytes fit into their day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "KETO KEVIN'S DAY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "Time",
+      "col_2": "Activity",
+      "col_3": "Electrolyte Moment?",
+      "col_4": "State of Mind"
+    },
+    {
+      "DAY IN THE LIFE": "5:30am",
+      "col_2": "Wake up, check Oura score",
+      "col_3": "Pre-workout = YES",
+      "col_4": "Optimizing mindset"
+    },
+    {
+      "DAY IN THE LIFE": "6:00am",
+      "col_2": "Fasted workout (lifting)",
+      "col_3": "During if long = MAYBE",
+      "col_4": "Focused, energized"
+    },
+    {
+      "DAY IN THE LIFE": "7:30am",
+      "col_2": "Shower, coffee (black)",
+      "col_3": "With coffee = YES",
+      "col_4": "Productive rush"
+    },
+    {
+      "DAY IN THE LIFE": "8:00am",
+      "col_2": "Commute, podcasts",
+      "col_3": "No",
+      "col_4": "Learning mode"
+    },
+    {
+      "DAY IN THE LIFE": "9-12pm",
+      "col_2": "Deep work",
+      "col_3": "No (still fasting)",
+      "col_4": "Flow state"
+    },
+    {
+      "DAY IN THE LIFE": "12:30pm",
+      "col_2": "Break fast (keto meal)",
+      "col_3": "No (eating)",
+      "col_4": "Satisfied"
+    },
+    {
+      "DAY IN THE LIFE": "2:00pm",
+      "col_2": "Afternoon slump",
+      "col_3": "Afternoon boost = YES",
+      "col_4": "Needs energy"
+    },
+    {
+      "DAY IN THE LIFE": "6:00pm",
+      "col_2": "Commute home",
+      "col_3": "No",
+      "col_4": "Decompressing"
+    },
+    {
+      "DAY IN THE LIFE": "7:00pm",
+      "col_2": "Dinner with family",
+      "col_3": "No",
+      "col_4": "Present"
+    },
+    {
+      "DAY IN THE LIFE": "9:00pm",
+      "col_2": "Evening routine",
+      "col_3": "Maybe Mg for sleep",
+      "col_4": "Winding down"
+    },
+    {
+      "DAY IN THE LIFE": "KEY USAGE OCCASIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "MORNING (highest intent):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Pre-workout",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• With morning coffee (fasting)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Starting the day right",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "AFTERNOON (energy occasion):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Post-lunch slump",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Before afternoon workout",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Long meeting hydration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "EVENING (recovery occasion):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Post-workout recovery",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Before bed (magnesium focus)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "SITUATIONAL:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Travel (dehydrating)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Hot days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Post-alcohol (hangover prevention)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DAY IN THE LIFE": "• Illness recovery",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "Day in the Life",
+  "sheet_index": 580
+}

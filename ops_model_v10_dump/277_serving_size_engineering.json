@@ -1,0 +1,303 @@
+{
+  "headers": [
+    "SERVING SIZE ENGINEERING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SERVING SIZE ENGINEERING": "Why this amount? Dosing logic, usage occasions, competitor comparison",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "THE DOSING QUESTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "How much sodium/potassium/magnesium per serving?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "How many servings per day recommended?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "What's the water-to-powder ratio?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "These aren't random — they affect:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Efficacy (does it work?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Taste (can they drink it?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Safety (can they overdo it?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Unit economics (cost per serving)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "COMPETITOR SERVING COMPARISON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Brand",
+      "col_2": "Sodium",
+      "col_3": "Potassium",
+      "col_4": "Magnesium",
+      "col_5": "Mix In",
+      "col_6": "Servings/Day"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "LMNT",
+      "col_2": "1000mg",
+      "col_3": "200mg",
+      "col_4": "60mg",
+      "col_5": "16-32oz",
+      "col_6": "1-2"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Liquid IV",
+      "col_2": "500mg",
+      "col_3": "370mg",
+      "col_4": "0mg",
+      "col_5": "16oz",
+      "col_6": "1-2"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Drip Drop",
+      "col_2": "330mg",
+      "col_3": "185mg",
+      "col_4": "39mg",
+      "col_5": "8oz",
+      "col_6": "1-3"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Nuun",
+      "col_2": "300mg",
+      "col_3": "150mg",
+      "col_4": "25mg",
+      "col_5": "16oz",
+      "col_6": "1-4"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Seaonic",
+      "col_2": "500mg",
+      "col_3": "300mg",
+      "col_4": "50mg",
+      "col_5": "16oz",
+      "col_6": "1-2"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "IonWave",
+      "col_2": "1000mg",
+      "col_3": "200mg",
+      "col_4": "60mg",
+      "col_5": "16-32oz",
+      "col_6": "1-2"
+    },
+    {
+      "SERVING SIZE ENGINEERING": "OUR SERVING SIZE RATIONALE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "1000mg Sodium — Why?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Matches LMNT (market leader)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Appropriate for active/keto (high sodium loss)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• ~43% DV leaves room for food intake",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Noticeable effect (lower doses feel weak)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "200mg Potassium — Why?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Safe level (high K can affect heart)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• FDA limits supplement potassium",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Works with sodium for balance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "60mg Magnesium — Why?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Meaningful dose for deficiency",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Won't cause GI issues at this level",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Room for multiple servings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "Mix in 16-32oz water:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• 16oz = stronger taste, faster consumption",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• 32oz = milder, sipping throughout day",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SERVING SIZE ENGINEERING": "• Customer choice based on preference",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "Serving Size Engineering",
+  "sheet_index": 277
+}

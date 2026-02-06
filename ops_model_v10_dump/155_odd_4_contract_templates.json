@@ -1,0 +1,651 @@
+{
+  "headers": [
+    "ODD-4: CONTRACT TEMPLATES LIBRARY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Standard agreements for all key relationships",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "CONTRACT INDEX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Contract",
+      "col_2": "Parties",
+      "col_3": "Key Terms",
+      "col_4": "Template Status",
+      "col_5": "When Needed"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Operator Agreement",
+      "col_2": "Studio ↔ Operator",
+      "col_3": "Equity, vesting, responsibilities, termination",
+      "col_4": "See: Operator Contract Template",
+      "col_5": "Before operator starts"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SAFE (Simple Agreement)",
+      "col_2": "Company ↔ Investor",
+      "col_3": "Valuation cap, discount, pro-rata",
+      "col_4": "Template below",
+      "col_5": "Fundraising"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Convertible Note",
+      "col_2": "Company ↔ Investor",
+      "col_3": "Principal, interest, conversion terms",
+      "col_4": "Template below",
+      "col_5": "Fundraising"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Advisor Agreement",
+      "col_2": "Company ↔ Advisor",
+      "col_3": "Equity, vesting, scope, term",
+      "col_4": "Template below",
+      "col_5": "Adding advisors"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Supplier Agreement",
+      "col_2": "Company ↔ Supplier",
+      "col_3": "Pricing, MOQ, lead time, quality, payment",
+      "col_4": "Template below",
+      "col_5": "Before first order"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Contractor Agreement",
+      "col_2": "Company ↔ Contractor",
+      "col_3": "Scope, payment, IP assignment, term",
+      "col_4": "Template below",
+      "col_5": "Hiring contractors"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Influencer Agreement",
+      "col_2": "Company ↔ Influencer",
+      "col_3": "Deliverables, payment, usage rights, FTC",
+      "col_4": "Template below",
+      "col_5": "Influencer partnerships"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "3PL Agreement",
+      "col_2": "Company ↔ 3PL",
+      "col_3": "Pricing, SLAs, liability, term",
+      "col_4": "Use 3PLs standard",
+      "col_5": "Before shipping"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Terms of Service",
+      "col_2": "Company ↔ Customers",
+      "col_3": "Purchase terms, returns, liability",
+      "col_4": "Template below",
+      "col_5": "Before launch"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "Privacy Policy",
+      "col_2": "Company ↔ Customers",
+      "col_3": "Data collection, use, rights",
+      "col_4": "Use generator",
+      "col_5": "Before launch"
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SAFE TEMPLATE (Key Terms)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SAFE = Simple Agreement for Future Equity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "KEY TERMS TO SPECIFY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Company Name: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Investor Name: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Purchase Amount: $_______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Valuation Cap: $_______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Discount Rate: ____% (typically 20%)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Pro-Rata Rights: ☐ Yes  ☐ No",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• MFN (Most Favored Nation): ☐ Yes  ☐ No",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "CONVERSION TRIGGERS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Equity Financing (priced round)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Liquidity Event (acquisition)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Dissolution",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "USE: YC SAFE template (standard, investor-familiar)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "LINK: ycombinator.com/documents",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "ADVISOR AGREEMENT (Key Terms)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "PARTIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Company: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Advisor: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SCOPE OF ADVISORY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• [Define specific areas: Fundraising, Marketing, Operations, etc.]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Expected time commitment: ___ hours/month",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "COMPENSATION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Equity: ___% (typical: 0.25-1%)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Vesting: 24 months, monthly vesting, no cliff",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Cash: $0 (typical for equity advisors)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "TERM:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Duration: ___ months (typical: 12-24)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Termination: Either party with 30 days notice",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "IP & CONFIDENTIALITY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Advisor assigns any IP created",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Standard NDA provisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SUPPLIER AGREEMENT (Key Terms)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "PARTIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Buyer: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Supplier: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "PRODUCT SPECIFICATION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Product: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Specifications: [Attach spec sheet]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Quality standards: [GMP, COA requirements]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "PRICING & VOLUME:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Unit price: $_____ per _____",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• MOQ: _____ units",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Volume discounts: [If applicable]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "TERMS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Lead time: _____ days/weeks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Payment terms: Net _____",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Shipping: [FOB, DDP, etc.]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "QUALITY & COMPLIANCE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• COA required for each batch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Right to audit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Defect remedy process",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "TERM & TERMINATION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Initial term: _____ months",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Termination: _____ days notice",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "CONTRACTOR AGREEMENT (Key Terms)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "PARTIES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Company: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Contractor: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "SCOPE OF WORK:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Services: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Deliverables: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Timeline: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "COMPENSATION:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Rate: $_____/hour or $_____ fixed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Payment schedule: _____",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Expenses: [Reimbursable or not]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "RELATIONSHIP:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Independent contractor (NOT employee)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Contractor responsible for own taxes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• No benefits",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "IP ASSIGNMENT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• All work product assigned to Company",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Work-for-hire provisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "CONFIDENTIALITY:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• NDA provisions included",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-4: CONTRACT TEMPLATES LIBRARY": "• Return of materials on termination",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 91,
+  "sheet_name": "ODD-4 Contract Templates",
+  "sheet_index": 155
+}

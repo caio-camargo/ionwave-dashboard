@@ -1,0 +1,237 @@
+{
+  "headers": [
+    "FAILURE MODE CASCADE MAP",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "FAILURE MODE CASCADE MAP": "See the dominoes before they fall. Map how failures connect.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "CASCADE CHAINS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "SUPPLY CHAIN CASCADE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Supplier fails/delays",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Inventory stockout",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Can't fulfill orders",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Refunds spike",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Cash crunch",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Can't pay for ads",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Revenue stops",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Death spiral",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "CAC CASCADE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Creative fatigue / competition increases",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ CAC rises above $50",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Unit economics go negative",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Every sale loses money",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Can't afford to acquire",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Growth stops",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Fixed costs eat cash",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Runway disappears",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "REPUTATION CASCADE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Quality issue / bad batch",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Negative reviews",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Conversion drops",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ CAC rises (same spend, fewer conversions)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Word of mouth turns negative",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Organic traffic drops",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Brand becomes liability",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Recovery very expensive",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "OPERATOR CASCADE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Operator burns out / quits",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Institutional knowledge lost",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Operations disrupted",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Customers experience issues",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Metrics decline during transition",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ New operator takes months to ramp",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Momentum lost",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "→ Competitors gain ground",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "CIRCUIT BREAKERS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "For each cascade, identify where to BREAK THE CHAIN:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Cascade",
+      "col_2": "Circuit Breaker",
+      "col_3": "Where It Breaks"
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Supply Chain",
+      "col_2": "Backup supplier identified",
+      "col_3": "Break at step 1"
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "CAC",
+      "col_2": "Kill criteria enforced at $45 CAC",
+      "col_3": "Break at step 2"
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Reputation",
+      "col_2": "QC process catches issues before ship",
+      "col_3": "Break at step 1"
+    },
+    {
+      "FAILURE MODE CASCADE MAP": "Operator",
+      "col_2": "Documentation so good anyone can run it",
+      "col_3": "Break at step 2"
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "Failure Cascade Map",
+  "sheet_index": 888
+}

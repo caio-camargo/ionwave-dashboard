@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "ANTIFRAGILITY SCORECARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ANTIFRAGILITY SCORECARD": "Does stress make us stronger or weaker? Score each system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "THE FRAMEWORK (Taleb)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "FRAGILE: Breaks under stress (glass)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "ROBUST: Survives stress unchanged (rock)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "ANTIFRAGILE: Gets stronger from stress (muscle)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "SYSTEM SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "System",
+      "col_2": "Under Stress...",
+      "col_3": "Current State",
+      "col_4": "Target State",
+      "col_5": "How to Improve"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Supply Chain",
+      "col_2": "Demand spike",
+      "col_3": "Fragile (single supplier)",
+      "col_4": "Robust",
+      "col_5": "Backup supplier"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Ad Performance",
+      "col_2": "Creative fatigue",
+      "col_3": "Fragile (few creatives)",
+      "col_4": "Antifragile",
+      "col_5": "High creative velocity"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Team",
+      "col_2": "Operator sick/leaves",
+      "col_3": "Fragile (tribal knowledge)",
+      "col_4": "Robust",
+      "col_5": "Documentation"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Cash",
+      "col_2": "Revenue dip",
+      "col_3": "Fragile (low runway)",
+      "col_4": "Robust",
+      "col_5": "Maintain 90 day buffer"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Customer Base",
+      "col_2": "Competitor enters",
+      "col_3": "Unknown",
+      "col_4": "Antifragile",
+      "col_5": "Build loyalty, community"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Learning",
+      "col_2": "Things break",
+      "col_3": "Antifragile? (we learn)",
+      "col_4": "Antifragile",
+      "col_5": "Formalize learning capture"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Pricing",
+      "col_2": "Competitor drops price",
+      "col_3": "Robust (premium positioning)",
+      "col_4": "Robust",
+      "col_5": "Maintain differentiation"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Processes",
+      "col_2": "Volume increases",
+      "col_3": "Fragile (manual)",
+      "col_4": "Robust",
+      "col_5": "Automate key processes"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Reputation",
+      "col_2": "Bad review",
+      "col_3": "Fragile",
+      "col_4": "Robust",
+      "col_5": "Response protocol, volume"
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "ANTIFRAGILITY SCORE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Fragile systems: ___ | Robust systems: ___ | Antifragile systems: ___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "Goal: Zero fragile systems for critical functions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "HOW TO BUILD ANTIFRAGILITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "• Redundancy: Backup systems, buffer inventory, cash reserves",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "• Optionality: Multiple channels, suppliers, approaches",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "• Small stressors: Regular testing, fire drills, experiments",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "• Learning loops: Every failure improves the system",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ANTIFRAGILITY SCORECARD": "• Decentralization: No single point can take down whole",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Antifragility Scorecard",
+  "sheet_index": 883
+}

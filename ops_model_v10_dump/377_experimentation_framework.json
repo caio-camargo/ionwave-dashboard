@@ -1,0 +1,112 @@
+{
+  "headers": [
+    "EXPERIMENTATION FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "EXPERIMENTATION FRAMEWORK": "How we run tests. Hypothesis → Test → Learn.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "EXPERIMENT TEMPLATE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Field",
+      "col_2": "Fill In",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Hypothesis",
+      "col_2": "If we [do X], then [Y] will happen",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Success metric",
+      "col_2": "What we measure",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Test duration",
+      "col_2": "How long",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Sample size",
+      "col_2": "How many",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Result",
+      "col_2": "[After test]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Learning",
+      "col_2": "What we learned",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Next action",
+      "col_2": "What we do now",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "EXPERIMENT LOG:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "Exp #",
+      "col_2": "Date",
+      "col_3": "Hypothesis",
+      "col_4": "Result",
+      "col_5": "Learning"
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "E001",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERIMENTATION FRAMEWORK": "E002",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "Experimentation Framework",
+  "sheet_index": 377
+}

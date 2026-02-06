@@ -1,0 +1,58 @@
+{
+  "headers": [
+    "SIMULATION VALIDATION CHECKLIST"
+  ],
+  "rows": [
+    {
+      "SIMULATION VALIDATION CHECKLIST": "What must be true before going live - dry run complete"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "FINANCIAL SIMULATION"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Unit economics modeled with 3 scenarios"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Cash flow projected 12 months out"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Break-even point calculated"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Sensitivity analysis on key variables"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "OPERATIONAL SIMULATION"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Test order placed and fulfilled"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ All email flows triggered and received"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Tracking pixels verified firing"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Support workflow tested end-to-end"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "MARKETING SIMULATION"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Landing page load tested"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Checkout conversion tested"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ First ads approved by platform"
+    },
+    {
+      "SIMULATION VALIDATION CHECKLIST": "☐ Attribution tracking verified"
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Simulation Validation Checklist",
+  "sheet_index": 936
+}

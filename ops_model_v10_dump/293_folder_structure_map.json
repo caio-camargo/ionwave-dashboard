@@ -1,0 +1,16 @@
+{
+  "headers": [
+    "FOLDER STRUCTURE MAP"
+  ],
+  "rows": [
+    {
+      "FOLDER STRUCTURE MAP": "Where everything lives in Drive"
+    },
+    {
+      "FOLDER STRUCTURE MAP": "IonWave/\n├── 00_Strategy/\n│   ├── Ops Model (this spreadsheet)\n│   ├── Business Plan\n│   └── Investor Materials\n├── 01_Brand/\n│   ├── Brand Book\n│   ├── Logo Files\n│   ├── Color Palette\n│   └── Typography\n├── 02_Creative/\n│   ├── Ads/\n│   │   ├── Static/\n│   │   ├── Video/\n│   │   └── Archive/\n│   ├── Landing Pages/\n│   ├── Email/\n│   └── Photography/\n├── 03_Marketing/\n│   ├── Campaign Reports\n│   ├── Competitor Research\n│   └── Swipe File/\n├── 04_Operations/\n│   ├── Suppliers/\n│   ├── 3PL/\n│   ├── Inventory/\n│   └── Support/\n├── 05_Finance/\n│   ├── Invoices/\n│   ├── Reports/\n│   └── Projections/\n├── 06_Legal/\n│   ├── Contracts/\n│   ├── Compliance/\n│   └── IP/\n├── 07_Evidence/\n│   ├── Screenshots/\n│   ├── Screen Recordings/\n│   └── Audit Trail/\n└── 08_Archive/\n    └── Old Versions/"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Folder Structure Map",
+  "sheet_index": 293
+}

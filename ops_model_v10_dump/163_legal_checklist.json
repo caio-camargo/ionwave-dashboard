@@ -1,0 +1,336 @@
+{
+  "headers": [
+    "IONWAVE LEGAL & IP CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Everything legal that needs to happen. Track status weekly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "ENTITY FORMATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "LLC Formation",
+      "col_2": "Delaware or Wyoming recommended",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "$100-200 filing fee"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "EIN (Tax ID)",
+      "col_2": "IRS application",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "Free, immediate online"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Registered Agent",
+      "col_2": "Required for LLC",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "$50-150/year"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Operating Agreement",
+      "col_2": "Defines ownership, roles",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "Template or lawyer"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Business Bank Account",
+      "col_2": "Mercury or similar",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "Need EIN first"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "TRADEMARK & IP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Trademark Search",
+      "col_2": "USPTO search for \"IonWave\"",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "Free search, check conflicts"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Trademark Filing",
+      "col_2": "USPTO application Class 005",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "$250-350 filing fee"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Domain Ownership",
+      "col_2": "Confirm domain in company name",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Logo Rights",
+      "col_2": "Ensure designer transfers IP",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Written agreement"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Content Rights",
+      "col_2": "UGC/influencer content usage",
+      "col_3": "Ongoing",
+      "col_4": "⬜",
+      "col_5": "Get releases"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "FDA/FTC COMPLIANCE (SUPPLEMENTS)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Product Classification",
+      "col_2": "Confirm dietary supplement status",
+      "col_3": "Week 1",
+      "col_4": "⬜",
+      "col_5": "Not drug, not food"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Label Compliance",
+      "col_2": "Supplement Facts panel, disclaimers",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "FDA 21 CFR 101.36"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Structure/Function Claims",
+      "col_2": "Review all marketing claims",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "No disease claims"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Required Disclaimers",
+      "col_2": "\"Not evaluated by FDA\" statement",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "On label and website"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Substantiation File",
+      "col_2": "Evidence for any claims made",
+      "col_3": "Week 3",
+      "col_4": "⬜",
+      "col_5": "Studies, research"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "FTC Ad Review",
+      "col_2": "Review ads for false claims",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "No miracle claims"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Testimonial Disclosures",
+      "col_2": "Material connection disclosures",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "#ad, typical results"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "IMPORT & CUSTOMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "HS Code Classification",
+      "col_2": "Likely 2106.90 (food preparations)",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Affects duty rate"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Import Duty Rate",
+      "col_2": "Research current tariffs",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "~4-6% for supplements"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "FDA Prior Notice",
+      "col_2": "Required for food/supplement imports",
+      "col_3": "Before import",
+      "col_4": "⬜",
+      "col_5": "File 15 days before"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Customs Bond",
+      "col_2": "May be required for imports >$2500",
+      "col_3": "Before import",
+      "col_4": "⬜",
+      "col_5": "$50-500 depending"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Country of Origin",
+      "col_2": "Labeling requirement",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "\"Manufactured in [X]\""
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "WEBSITE LEGAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Privacy Policy",
+      "col_2": "CCPA/GDPR compliant",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Use generator or lawyer"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Terms of Service",
+      "col_2": "Purchase terms, disputes",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Use generator or lawyer"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Refund Policy",
+      "col_2": "30-day guarantee terms",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Clear and visible"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Cookie Consent",
+      "col_2": "GDPR requirement",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Shopify app"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Subscription Terms",
+      "col_2": "Cancel/pause terms clear",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Avoid dark patterns"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "ADA Compliance",
+      "col_2": "Accessibility basics",
+      "col_3": "Before launch",
+      "col_4": "⬜",
+      "col_5": "Alt text, contrast"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "SUPPLIER AGREEMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Item",
+      "col_2": "Details",
+      "col_3": "Due",
+      "col_4": "Status",
+      "col_5": "Notes"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Manufacturing Agreement",
+      "col_2": "Terms, MOQ, pricing, QC",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Written contract"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Quality Specifications",
+      "col_2": "Purity, testing requirements",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Part of agreement"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "COA Requirements",
+      "col_2": "Certificate of Analysis per batch",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Required for supplements"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Liability/Indemnification",
+      "col_2": "Who's responsible for defects",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Negotiate carefully"
+    },
+    {
+      "IONWAVE LEGAL & IP CHECKLIST": "Exclusivity Terms",
+      "col_2": "Any restrictions on competition",
+      "col_3": "Week 2",
+      "col_4": "⬜",
+      "col_5": "Avoid if possible"
+    }
+  ],
+  "row_count": 46,
+  "sheet_name": "Legal Checklist",
+  "sheet_index": 163
+}

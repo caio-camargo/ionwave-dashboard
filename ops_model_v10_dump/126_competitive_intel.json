@@ -1,0 +1,315 @@
+{
+  "headers": [
+    "IONWAVE COMPETITIVE INTELLIGENCE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "What we know (and don't know) about competitors. Show our work.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "LMNT (Primary Competitor - Synthetic Electrolytes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Metric",
+      "col_2": "Our Estimate",
+      "col_3": "Source/Method",
+      "col_4": "Confidence",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Annual Revenue",
+      "col_2": "$60-80M",
+      "col_3": "2024 reports, Rogan/Huberman mentions \"8-figure\"",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Monthly Revenue",
+      "col_2": "$5-7M",
+      "col_3": "Annual / 12",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Price Point",
+      "col_2": "$45/box (30 servings)",
+      "col_3": "Direct from website",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Subscription Rate",
+      "col_2": "~50-60%",
+      "col_3": "Industry benchmark for sub-first brands",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Ad Spend (Monthly)",
+      "col_2": "$1-2M",
+      "col_3": "Facebook Ad Library shows 200+ active ads",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Estimated CAC",
+      "col_2": "$25-35",
+      "col_3": "Industry benchmark, high brand awareness",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Gross Margin",
+      "col_2": "70-80%",
+      "col_3": "Synthetic ingredients = low COGS",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Key Channels",
+      "col_2": "Meta, Podcast sponsorships, Influencers",
+      "col_3": "Observable",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Product",
+      "col_2": "3 minerals (Na, K, Mg), synthetic",
+      "col_3": "From their website",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Weakness",
+      "col_2": "Synthetic, limited mineral profile",
+      "col_3": "Our positioning angle",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "SEAONIC (Direct Competitor - Marine Plasma)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Metric",
+      "col_2": "Our Estimate",
+      "col_3": "Source/Method",
+      "col_4": "Confidence",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Annual Revenue",
+      "col_2": "$500K-2M",
+      "col_3": "Estimate based on ad volume, reviews",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Monthly Revenue",
+      "col_2": "$50-150K",
+      "col_3": "Rough estimate",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Price Point",
+      "col_2": "$69/box",
+      "col_3": "Direct from website",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Subscription Rate",
+      "col_2": "Unknown",
+      "col_3": "No data",
+      "col_4": "None",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Ad Spend (Monthly)",
+      "col_2": "$20-50K",
+      "col_3": "Limited ad library presence",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Estimated CAC",
+      "col_2": "$40-60",
+      "col_3": "Premium positioning = higher CAC",
+      "col_4": "Low",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Gross Margin",
+      "col_2": "65-75%",
+      "col_3": "Marine plasma = higher COGS than synthetic",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Key Channels",
+      "col_2": "Meta, organic wellness influencers",
+      "col_3": "Observable",
+      "col_4": "Medium",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Product",
+      "col_2": "78 minerals, marine plasma, premium",
+      "col_3": "From their website",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Weakness",
+      "col_2": "Too expensive, limited marketing",
+      "col_3": "Our positioning angle",
+      "col_4": "High",
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "WHAT WE DON'T KNOW (Gaps in Intelligence)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• LMNT's actual CAC and ROAS (we're guessing based on benchmarks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• LMNT's retention/churn rates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• Why Seaonic hasn't scaled faster (execution? market size? product?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• Whether LMNT is considering marine plasma products",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• Seaonic's actual unit economics and profitability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• How much of LMNT's revenue is podcast-driven vs paid ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• Customer overlap between LMNT and biohacker audience",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "• Barriers to entry we might not see (supplier exclusivity, IP, etc)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "COMPETITIVE POSITIONING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Brand",
+      "col_2": "Price",
+      "col_3": "Product Type",
+      "col_4": "Target Customer",
+      "col_5": "Our Advantage"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "LMNT",
+      "col_2": "$45",
+      "col_3": "Synthetic (3 minerals)",
+      "col_4": "Mass market fitness",
+      "col_5": "We have 78 minerals, natural source"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Seaonic",
+      "col_2": "$69",
+      "col_3": "Marine plasma (78 minerals)",
+      "col_4": "Ultra-premium wellness",
+      "col_5": "We're 30% cheaper, same product"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Drip Drop",
+      "col_2": "$35",
+      "col_3": "Synthetic (medical focus)",
+      "col_4": "Dehydration/medical",
+      "col_5": "We target optimization, not illness"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "Liquid IV",
+      "col_2": "$25",
+      "col_3": "Synthetic (mass market)",
+      "col_4": "Casual hydration",
+      "col_5": "We're premium, science-focused"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "IonWave",
+      "col_2": "$47-59",
+      "col_3": "Marine plasma (78 minerals)",
+      "col_4": "Biohackers/optimizers",
+      "col_5": "Best value in marine plasma"
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "KEY INSIGHT: We're positioning between LMNT (mass, synthetic) and Seaonic (premium, marine).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE COMPETITIVE INTELLIGENCE": "We offer Seaonic's product quality at closer to LMNT's price point. First accessible marine plasma option.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 43,
+  "sheet_name": "Competitive Intel",
+  "sheet_index": 126
+}

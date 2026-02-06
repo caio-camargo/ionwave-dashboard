@@ -1,0 +1,511 @@
+{
+  "headers": [
+    "MC ENTERTAINMENT SPEC — MAKE IT FUN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The MC's job is to make people interesting on camera. Not extract information. Not conduct interviews. ENTERTAIN.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "THE VIBE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Think:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Hot Ones (Sean Evans) — genuine curiosity, unexpected questions, the guest shines",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Between Two Ferns — funny, disarming, nobody takes themselves too seriously",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The Daily Show correspondent segments — smart, fast, entertaining",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Joe Rogan (early eps) — 'wait, tell me more about that'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "NOT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Corporate HR interview — 'tell me about a time when...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Podcast interview — 'so what's your story?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "News anchor — stiff, scripted, performative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "TED talk — polished, rehearsed, one-directional",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The MC is the audience's friend who happens to be in the room.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "They ask what the audience would ask. They react how the audience would react.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "They make experts feel like rockstars and newcomers feel welcome.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "MC CONVERSATION TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Type",
+      "col_2": "When",
+      "col_3": "Vibe",
+      "col_4": "Sample Questions",
+      "col_5": "Length"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "RECRUITING\nCONVERSATION",
+      "col_2": "Before someone is hired. They've applied. MC has first real conversation.",
+      "col_3": "First date energy. Curious, warm, no pressure. The person should leave thinking \"that was fun, I want more.\"",
+      "col_4": "\"What are you obsessed with right now?\"\n\"If you had unlimited budget and 6 months, what would you build?\"\n\"What's the most interesting project you've worked on that nobody knows about?\"\n\"What do you think about when you can't sleep?\"",
+      "col_5": "20-30 min"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "ONBOARDING\nCONVERSATION",
+      "col_2": "Day 1. Person just joined. MC introduces them to the audience.",
+      "col_3": "Welcome party energy. Celebration. \"Everyone, meet [Name].\" Make them feel like joining was an event.",
+      "col_4": "\"Tell us who you are in a way your LinkedIn never could.\"\n\"What made you say yes to this insane project?\"\n\"What's the first thing you want to dig into?\"\n\"What should we know about you that isn't on your resume?\"",
+      "col_5": "15-20 min"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "WORKING\nCONVERSATION",
+      "col_2": "Weekly. While they're producing. MC checks in on what they're finding.",
+      "col_3": "Podcast energy. Real conversation about real work. The person is the expert. MC is the curious student.",
+      "col_4": "\"What surprised you this week?\"\n\"Explain [their domain] to me like I'm 12.\"\n\"What's the thing most people get wrong about [topic]?\"\n\"If you could change one thing about how companies do [topic], what would it be?\"",
+      "col_5": "20-40 min"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "EXPERT\nCONVERSATION",
+      "col_2": "When the expert reviewer is engaged. MC interviews the expert about their domain.",
+      "col_3": "Charlie Rose energy (minus the problems). Deep respect. The expert is the authority. MC draws out the wisdom.",
+      "col_4": "\"You've been doing this for [X] years. What does everyone still get wrong?\"\n\"When you look at our model, what's your gut reaction?\"\n\"What would you grade this and why?\"\n\"If you were building this from scratch, what would you do differently?\"",
+      "col_5": "30-60 min"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "COMPLETION\nCONVERSATION",
+      "col_2": "When someone finishes their cluster. Final conversation.",
+      "col_3": "Graduation energy. Celebration + reflection. They did the thing. Honor it.",
+      "col_4": "\"What did you build here?\"\n\"What are you most proud of?\"\n\"What would you tell the next person who takes this cluster?\"\n\"How does this compare to other projects you've worked on?\"",
+      "col_5": "15-20 min"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "DAILY UPDATE",
+      "col_2": "Every day. 60-90 seconds. MC summarizes what happened.",
+      "col_3": "Morning news anchor but fun. Quick, punchy, human. Inside jokes welcome. Running gags encouraged.",
+      "col_4": "Not questions — statements:\n\"Today [Name] found a huge gap in our regulatory model and I genuinely think they saved us six figures.\"\n\"We hired our first expert and she took one look at our formulation model and said 'who wrote this, an AI?' Yes. Yes it was.\"",
+      "col_5": "60-90 sec"
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "MC RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "1. NEVER BORING. If a conversation is boring, it's the MC's fault, not the guest's.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Every person is interesting. The MC's job is to find the interesting part.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "2. ALWAYS RECORDING. Every conversation is content. There are no off-the-record chats.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Everyone knows this going in. It's part of the deal.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "3. ASK DUMB QUESTIONS. The MC represents the audience, who doesn't know this domain.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "'Wait, what's a 3PL?' is a great question. 'Can you explain that like I'm 5?' is even better.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "4. REACT HONESTLY. If something is surprising, say so. If something is cool, say so.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "If something is confusing, say so. Authentic reactions make good content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "5. MAKE THE GUEST THE STAR. The MC is not the main character. The guest is.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The MC's ego disappears. The guest's expertise shines.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "6. HAVE RUNNING THEMES. Inside jokes that build over episodes. Callbacks.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "'Remember when [Expert] said our formulation was garbage? Well...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "This makes people want to watch every episode, not just one.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "7. NAME THINGS. The 'Regulatory Reckoning.' The 'Formulation Fiasco.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The 'Week 4 Hiring Spree.' Give events names. It makes them memorable and shareable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "8. CLIFFHANGERS. End conversations with 'Next week, we're bringing in the expert",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "who's going to tell us if this whole thing is wrong. Stay tuned.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Give people a reason to come back.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "9. VULNERABILITY IS GOOD. If something went wrong, that's great content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "'We messed up the cap table' is more interesting than 'everything is going great.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The audience wants real. Real is messy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "10. CELEBRATE EVERYTHING. Someone joined? Celebrate. A model got verified? Celebrate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "An expert gave us a B+? Celebrate. The daily updates should feel like progress, not reports.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "MC PREP (per conversation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Before every conversation, the MC gets a prep sheet from the librarian:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "1. WHO: Name, role, background (from application + LinkedIn)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "2. WHAT: What they're working on (from P-tab of their cluster)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "3. CONTEXT: What's happened recently in the project (from daily updates)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "4. HOOKS: 3-5 interesting angles to explore (MC brainstorms, Series Producer suggests)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "5. AVOID: Anything sensitive or off-limits (from contract or personal request)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The MC reads the prep sheet. That's it. No scripts. No question lists.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The prep sheet gives enough context to be curious. The conversation goes where it goes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The Series Producer reviews footage after and gives notes for next time.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "MC + RECRUITING (how it works together)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The MC conversation IS the interview. There is no separate 'interview.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Someone applies through the funnel (Dan James built the funnel).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Admin screens the application (basic qualification).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "MC has a conversation with them (recorded, published).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "PM co-founder watches the conversation and recommends.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "Nilo approves (based on PM recommendation + MC conversation, not a separate meeting).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The applicant knows going in: this conversation is content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "That's a filter itself — people who are uncomfortable on camera self-select out.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "People who are great on camera self-select IN.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "The recruiting process IS the content production process.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "If someone is rejected, the MC conversation still exists as content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "It's a great conversation with an interesting person. It just didn't lead to a hire.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "MC ENTERTAINMENT SPEC — MAKE IT FUN": "That's fine. The content is still valuable. The person still had a good experience.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 71,
+  "sheet_name": "MC Entertainment Spec",
+  "sheet_index": 14
+}

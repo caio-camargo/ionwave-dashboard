@@ -1,0 +1,182 @@
+{
+  "headers": [
+    "CRM ARCHITECTURE — THE MODEL IS THE CRM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "Every tab in this model is a node in the customer relationship system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "Most companies treat CRM as a tool — Salesforce, HubSpot, a database.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "We treat CRM as architecture. The entire ops model IS the CRM.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "Every tab that touches a customer — ads, landing pages, email sequences,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "product experience, support, retention, referral — is a node in a single",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "system that manages the complete customer relationship from first impression",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "to lifetime advocacy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "The CRM is not a tool you bolt on. The CRM is the business itself,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "viewed from the customer's perspective.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "This tab is the map. It shows how every customer-facing function connects",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "and where each customer lives in the relationship lifecycle.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "CUSTOMER LIFECYCLE STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "Stage",
+      "col_2": "Customer State",
+      "col_3": "Goal",
+      "col_4": "Key Metrics",
+      "col_5": "Tabs That Govern This Stage"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "0. Unknown",
+      "col_2": "Has never heard of us",
+      "col_3": "Create awareness",
+      "col_4": "Impressions, reach, CPM",
+      "col_5": "Meta Ads Strategy, Content Calendar, UGC Strategy, Influencer Playbook"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "1. Aware",
+      "col_2": "Seen an ad or content, hasn't clicked",
+      "col_3": "Earn attention",
+      "col_4": "Hook rate, video views, engagement",
+      "col_5": "VSL Hook Library, VSL Script Architecture, Creative Testing Protocol"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "2. Interested",
+      "col_2": "Clicked through, on site, browsing",
+      "col_3": "Capture intent",
+      "col_4": "CTR, time on site, pages viewed, email capture rate",
+      "col_5": "Landing Page Spec, Shopify Configuration, Lead Capture, Pop-ups"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "3. Considering",
+      "col_2": "Added to cart or entered email, hasn't purchased",
+      "col_3": "Remove objections",
+      "col_4": "Cart abandonment rate, email open rate, return visits",
+      "col_5": "Abandoned Cart Sequence, Browse Abandonment, Retargeting Ads"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "4. First Purchase",
+      "col_2": "Just bought for the first time",
+      "col_3": "Deliver exceptional first experience",
+      "col_4": "CVR, AOV, CPA, time to ship",
+      "col_5": "Order Fulfillment, Shipping SLA, Post-Purchase Email, Unboxing Experience"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "5. Experiencing",
+      "col_2": "Has product, using it",
+      "col_3": "Exceed expectations",
+      "col_4": "NPS, product satisfaction, support tickets",
+      "col_5": "Product Quality, CS Playbook, Usage Guides, Check-in Sequence"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "6. Retained",
+      "col_2": "Bought 2+ times",
+      "col_3": "Build habit",
+      "col_4": "Repeat purchase rate, LTV, subscription rate",
+      "col_5": "Retention Sequence, Subscription Offers, Loyalty Mechanics, Replenishment Reminders"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "7. Advocate",
+      "col_2": "Actively recommends us",
+      "col_3": "Amplify their voice",
+      "col_4": "Referral rate, UGC submissions, review count",
+      "col_5": "Referral Program, Review Solicitation, Ambassador Program, UGC Pipeline"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "8. Lapsed",
+      "col_2": "Was a customer, hasn't purchased in 60+ days",
+      "col_3": "Win back",
+      "col_4": "Win-back conversion rate, reactivation cost",
+      "col_5": "Winback Sequence, Reactivation Offers, Sunset Flow"
+    },
+    {
+      "CRM ARCHITECTURE — THE MODEL IS THE CRM": "9. Churned",
+      "col_2": "Gone, unlikely to return",
+      "col_3": "Learn from loss",
+      "col_4": "Churn rate, churn reasons, exit survey data",
+      "col_5": "Churn Analysis, Exit Survey, Suppression List"
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "CRM Architecture",
+  "sheet_index": 451
+}

@@ -1,0 +1,46 @@
+{
+  "headers": [
+    "CLAIM AUDIT CHECKLIST"
+  ],
+  "rows": [
+    {
+      "CLAIM AUDIT CHECKLIST": "Every claim — is it FDA compliant? One bad claim = warning letter."
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "✅ OK (Structure/Function):"
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"Supports healthy hydration\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"Helps maintain electrolyte balance\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "❌ ILLEGAL (Disease Claim):"
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"Cures dehydration\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"Treats muscle cramps\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"Prevents hyponatremia\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "REQUIRED DISCLAIMER:"
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "\"*These statements not evaluated by FDA...\""
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "DANGER WORDS:"
+    },
+    {
+      "CLAIM AUDIT CHECKLIST": "Cure, treat, heal, prevent, clinically proven"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Claim Audit Checklist",
+  "sheet_index": 257
+}

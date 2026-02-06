@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S31: Competitive Intel — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Studio 4 competitive landscape. Other venture studios, accelerators, DAOs. Differentiation.",
+      "col_2": null
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "TUP",
+      "col_2": "S31: Competitive Intel"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-5"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Owner",
+      "col_2": "PM (Systems)"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Description",
+      "col_2": "Studio 4 competitive landscape. Other venture studios, accelerators, DAOs. Differentiation."
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S31: Competitive Intel — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Competitive Intel model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S31",
+  "sheet_index": 1075
+}

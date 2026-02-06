@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S21: Content Strategy — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Cluster: SCL-4 | Owner: Series Producer",
+      "col_2": null
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "What content we make, where it goes, what it does. YouTube, site, podcast, social.",
+      "col_2": null
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade content strategy model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "B (Good)",
+      "col_2": "Solid content strategy model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "C (Needs Work)",
+      "col_2": "Content Strategy model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "D (Major Issues)",
+      "col_2": "Content Strategy model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "F (Fail)",
+      "col_2": "Content Strategy model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S21: Content Strategy — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S21",
+  "sheet_index": 1042
+}

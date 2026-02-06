@@ -1,0 +1,97 @@
+{
+  "headers": [
+    "PAGE SPEED CHECKLIST"
+  ],
+  "rows": [
+    {
+      "PAGE SPEED CHECKLIST": "Fast pages convert better - every second matters"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "WHY SPEED MATTERS"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• 1 second delay = 7% fewer conversions"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• 40% abandon sites that take >3 seconds"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Google uses speed as ranking factor"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "• Mobile users expect <3 second loads"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "SPEED TARGETS"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "Largest Contentful Paint (LCP): < 2.5 seconds"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "First Input Delay (FID): < 100 milliseconds"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "Cumulative Layout Shift (CLS): < 0.1"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "Test with: PageSpeed Insights (free, by Google)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "URL: pagespeed.web.dev"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "SPEED OPTIMIZATION CHECKLIST"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "IMAGES:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Compress all images (TinyPNG, ShortPixel)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Use WebP format where possible"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Lazy load images below fold"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Specify image dimensions"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "CODE:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Minify CSS and JavaScript"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Remove unused code/apps"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Defer non-critical JavaScript"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "HOSTING:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Use CDN (Shopify has built-in)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Enable browser caching"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "APPS/SCRIPTS:"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Audit all apps (remove unused)"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Limit third-party scripts"
+    },
+    {
+      "PAGE SPEED CHECKLIST": "☐ Load chat widgets lazily"
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Page Speed Checklist1",
+  "sheet_index": 290
+}

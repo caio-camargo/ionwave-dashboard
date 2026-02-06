@@ -1,0 +1,107 @@
+{
+  "headers": [
+    "REVIEW GENERATION PROTOCOL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "REVIEW GENERATION PROTOCOL": "Compliant methods to generate 50 reviews in 60 days",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "TARGET: 50 REVIEWS IN 60 DAYS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Why: Social proof unlocks conversion. <50 reviews = low trust.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "COMPLIANT METHODS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Post-purchase email",
+      "col_2": "Day 14: Ask for review if they love it",
+      "col_3": "10-15% response"
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "SMS request",
+      "col_2": "Day 21: Quick text asking for feedback",
+      "col_3": "5-10% response"
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Package insert",
+      "col_2": "Card asking for honest review",
+      "col_3": "2-5% response"
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Follow-up sequence",
+      "col_2": "Non-responders get 2nd ask Day 30",
+      "col_3": "+3-5%"
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "WHAT NOT TO DO",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "❌ Offer incentives for reviews (violates TOS)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "❌ Buy fake reviews",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "❌ Ask for 5-star reviews specifically",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "❌ Review gating (only sending happy customers to review)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "MATH",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Need 50 reviews",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Assume 10% review rate",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "Need 500 customers in 60 days",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "That's ~8 orders/day",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "REVIEW GENERATION PROTOCOL": "At $49 AOV = $400/day revenue",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Review Generation Protocol",
+  "sheet_index": 609
+}

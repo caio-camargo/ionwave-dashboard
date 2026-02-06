@@ -1,0 +1,267 @@
+{
+  "headers": [
+    "TRACKING & ATTRIBUTION SETUP",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "TRACKING & ATTRIBUTION SETUP": "If you can't measure it, you can't optimize it. Set this up BEFORE running ads.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "PIXEL SETUP CHECKLIST",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "META PIXEL",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Create pixel in Meta Events Manager",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Install pixel via Shopify Facebook channel (recommended)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Verify pixel firing with Meta Pixel Helper Chrome extension",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Confirm these events fire: PageView, ViewContent, AddToCart, InitiateCheckout, Purchase",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Set up Conversions API (CAPI) for server-side tracking",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Test with a real purchase",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "GOOGLE ANALYTICS 4",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Create GA4 property",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Install via Shopify Google channel or GTM",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Enable ecommerce tracking",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Verify events: page_view, view_item, add_to_cart, begin_checkout, purchase",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Link to Google Ads (if using)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Set up conversions for key events",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "TIKTOK PIXEL (if using)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Create pixel in TikTok Ads Manager",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Install via Shopify TikTok channel",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Verify events firing",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "⬜ Set up Events API for server-side",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "UTM PARAMETER STRUCTURE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Use consistent UTMs on ALL ad links:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Parameter",
+      "col_2": "What it captures",
+      "col_3": "Examples"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "utm_source",
+      "col_2": "Platform",
+      "col_3": "facebook, instagram, tiktok, google, email"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "utm_medium",
+      "col_2": "Channel type",
+      "col_3": "paid, organic, cpc, email"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "utm_campaign",
+      "col_2": "Campaign name",
+      "col_3": "prospecting_cold, retargeting_atc, launch_test"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "utm_content",
+      "col_2": "Ad identifier",
+      "col_3": "hook1_static, ugc_video_v2, vsl_long"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "utm_term",
+      "col_2": "Audience (optional)",
+      "col_3": "lal_purchasers, interest_biohackers"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Example full URL:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "ionwave.com?utm_source=facebook&utm_medium=paid&utm_campaign=prospecting_cold&utm_content=science_hook_v1",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "ATTRIBUTION MODEL",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Source",
+      "col_2": "How it counts",
+      "col_3": "Limitation"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Platform-reported (Meta/TikTok)",
+      "col_2": "What the ad platforms tell you",
+      "col_3": "Over-counts due to view-through, duplicates"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Google Analytics",
+      "col_2": "Last-click by default",
+      "col_3": "Under-counts view-through, favors bottom-funnel"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Shopify",
+      "col_2": "Last-click on orders",
+      "col_3": "Simple but misses assist touches"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Triple Whale / Northbeam",
+      "col_2": "Multi-touch, server-side",
+      "col_3": "Most accurate but $100-300/mo"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "RECOMMENDATION:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Start with platform-reported + Shopify. Add Triple Whale when ad spend >$5K/mo.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Track blended ROAS (total revenue / total ad spend) as north star metric.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "DAILY METRICS TO TRACK",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Metric",
+      "col_2": "Source",
+      "col_3": "Notes"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Ad spend",
+      "col_2": "Meta Ads Manager",
+      "col_3": "Total spend today"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Revenue",
+      "col_2": "Shopify",
+      "col_3": "Total sales today"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Blended ROAS",
+      "col_2": "Revenue / Spend",
+      "col_3": "Target >2.0x"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "Orders",
+      "col_2": "Shopify",
+      "col_3": "Volume indicator"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "CAC",
+      "col_2": "Spend / Orders",
+      "col_3": "Target <$40"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "AOV",
+      "col_2": "Revenue / Orders",
+      "col_3": "Target >$55"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "CVR",
+      "col_2": "Orders / Sessions",
+      "col_3": "Target >2%"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "CTR",
+      "col_2": "Meta Ads Manager",
+      "col_3": "Target >1.5%"
+    },
+    {
+      "TRACKING & ATTRIBUTION SETUP": "CPM",
+      "col_2": "Meta Ads Manager",
+      "col_3": "Monitor for spikes"
+    }
+  ],
+  "row_count": 51,
+  "sheet_name": "Tracking Setup",
+  "sheet_index": 287
+}

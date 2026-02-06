@@ -1,0 +1,139 @@
+{
+  "headers": [
+    "PLATFORM CREATIVE SPECS"
+  ],
+  "rows": [
+    {
+      "PLATFORM CREATIVE SPECS": "Platform-specific requirements and best practices"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "META (FACEBOOK/INSTAGRAM)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "FEED:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Aspect ratio: 1:1 (square) or 4:5 (vertical)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Video length: 15-60 sec (under 15 for awareness)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Resolution: 1080x1080 or 1080x1350"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Caption: First 125 chars visible"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "STORIES/REELS:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Aspect ratio: 9:16 (vertical)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Video length: 15-30 sec ideal"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Resolution: 1080x1920"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Safe zone: Keep text away from edges"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "BEST PRACTICES:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Sound-off friendly (captions!)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Hook in first 3 seconds"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Mobile-first design"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Less than 20% text on images (guideline, not rule)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "TIKTOK"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "SPECS:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Aspect ratio: 9:16 (vertical only)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Video length: 15-60 sec (21-34 sec sweet spot)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Resolution: 1080x1920"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "BEST PRACTICES:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Native look (don't look like an ad)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Trending sounds when relevant"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Fast cuts, high energy"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Text on screen (sound-off common)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Hook in first 1-2 seconds"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Creator/face performs better than product-only"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "YOUTUBE"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "PRE-ROLL (Skippable):"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Aspect ratio: 16:9 (horizontal)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Length: 15-30 sec (hook before 5 sec skip)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Resolution: 1920x1080"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "SHORTS:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Aspect ratio: 9:16 (vertical)"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Length: Under 60 sec"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Resolution: 1080x1920"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "BEST PRACTICES:"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Brand/hook in first 5 seconds"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Higher production value expected"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Longer storytelling okay"
+    },
+    {
+      "PLATFORM CREATIVE SPECS": "• Sound-on environment"
+    }
+  ],
+  "row_count": 43,
+  "sheet_name": "Platform Creative Specs",
+  "sheet_index": 346
+}

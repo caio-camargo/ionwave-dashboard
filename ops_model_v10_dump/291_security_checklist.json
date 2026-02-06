@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "SECURITY CHECKLIST"
+  ],
+  "rows": [
+    {
+      "SECURITY CHECKLIST": "Protect the business from cyber threats and data breaches"
+    },
+    {
+      "SECURITY CHECKLIST": "ACCOUNT SECURITY"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Use password manager (1Password, LastPass, etc.)"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Unique password for every account"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ 2FA enabled on all critical accounts:"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Email"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Shopify"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Bank accounts"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Ad accounts (Meta, Google)"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Domain registrar"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Hosting"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Review and remove unused account access quarterly"
+    },
+    {
+      "SECURITY CHECKLIST": "DATA SECURITY"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Customer data stored only in secure systems (Shopify, etc.)"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ No customer data in spreadsheets or local files"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Credit card data never stored (use Stripe/Shopify)"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Regular backups of critical data"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Encryption enabled where possible"
+    },
+    {
+      "SECURITY CHECKLIST": "ACCESS CONTROL"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Principle of least privilege (only access needed)"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Separate admin accounts from daily-use accounts"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Remove access immediately when someone leaves"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Document who has access to what"
+    },
+    {
+      "SECURITY CHECKLIST": "☐ Review access list quarterly"
+    },
+    {
+      "SECURITY CHECKLIST": "INCIDENT RESPONSE"
+    },
+    {
+      "SECURITY CHECKLIST": "If you suspect a breach:"
+    },
+    {
+      "SECURITY CHECKLIST": "1. CONTAIN - Change passwords, revoke access"
+    },
+    {
+      "SECURITY CHECKLIST": "2. ASSESS - What was accessed? What's the damage?"
+    },
+    {
+      "SECURITY CHECKLIST": "3. NOTIFY - Legal counsel, affected customers (if required)"
+    },
+    {
+      "SECURITY CHECKLIST": "4. FIX - Close the vulnerability"
+    },
+    {
+      "SECURITY CHECKLIST": "5. DOCUMENT - Record what happened and how you responded"
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Security Checklist",
+  "sheet_index": 291
+}

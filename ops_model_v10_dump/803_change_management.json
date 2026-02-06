@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "CHANGE MANAGEMENT PROCESS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CHANGE MANAGEMENT PROCESS": "How we govern changes. Approval flow.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHANGE MANAGEMENT PROCESS": "Category",
+      "col_2": "Examples",
+      "col_3": "Approval"
+    },
+    {
+      "CHANGE MANAGEMENT PROCESS": "Minor",
+      "col_2": "Typo fix",
+      "col_3": "Operator alone"
+    },
+    {
+      "CHANGE MANAGEMENT PROCESS": "Standard",
+      "col_2": "New ad",
+      "col_3": "CM notified"
+    },
+    {
+      "CHANGE MANAGEMENT PROCESS": "Significant",
+      "col_2": "Price change",
+      "col_3": "CM approval"
+    },
+    {
+      "CHANGE MANAGEMENT PROCESS": "Major",
+      "col_2": "Supplier change",
+      "col_3": "Studio approval"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Change Management",
+  "sheet_index": 803
+}

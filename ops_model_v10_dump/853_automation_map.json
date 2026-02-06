@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "AUTOMATION MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "AUTOMATION MAP": "What automations exist. Zapier/Make flows.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "AUTOMATION MAP": "Automation",
+      "col_2": "Trigger",
+      "col_3": "Action",
+      "col_4": "Status"
+    },
+    {
+      "AUTOMATION MAP": "New Order Alert",
+      "col_2": "Shopify order",
+      "col_3": "Slack post",
+      "col_4": "⬜"
+    },
+    {
+      "AUTOMATION MAP": "Low Inventory",
+      "col_2": "Below threshold",
+      "col_3": "Email alert",
+      "col_4": "⬜"
+    },
+    {
+      "AUTOMATION MAP": "Chargeback Alert",
+      "col_2": "Dispute created",
+      "col_3": "Slack + email",
+      "col_4": "⬜"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Automation Map",
+  "sheet_index": 853
+}

@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "CUSTOMER SEGMENTATION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "RFM analysis - Recency, Frequency, Monetary segmentation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "RFM SEGMENTATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Segment",
+      "col_2": "Definition",
+      "col_3": "Count",
+      "col_4": "% of Total",
+      "col_5": "Revenue %",
+      "col_6": "Avg LTV",
+      "col_7": "Strategy"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Champions",
+      "col_2": "Recent, frequent, high spend",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Loyalty program, early access, referral program"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Loyal",
+      "col_2": "Frequent buyers, good spend",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Upsell, cross-sell, request reviews"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Potential Loyalist",
+      "col_2": "Recent, bought 2-3x",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Nurture to loyalty, subscription push"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "New Customers",
+      "col_2": "First purchase recent",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Onboarding, education, quick win"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Promising",
+      "col_2": "Recent, low frequency",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Engage before they forget"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Need Attention",
+      "col_2": "Above avg but slipping",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Win-back campaign, special offer"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "At Risk",
+      "col_2": "Used to buy, going cold",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Aggressive win-back, survey why"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Can't Lose",
+      "col_2": "High value but at risk",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Personal outreach, whatever it takes"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Hibernating",
+      "col_2": "Long time no purchase",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Deep discount or let go"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Lost",
+      "col_2": "Gone for 6+ months",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "Hail mary or remove from list"
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "RFM SCORING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Recency (R)",
+      "col_2": "Days since last purchase",
+      "col_3": "1-5 scale, 5 = most recent",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Frequency (F)",
+      "col_2": "Number of purchases",
+      "col_3": "1-5 scale, 5 = most frequent",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Monetary (M)",
+      "col_2": "Total spend",
+      "col_3": "1-5 scale, 5 = highest spend",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "SEGMENT MOVEMENT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Track monthly: How many customers moved up/down segments?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CUSTOMER SEGMENTATION MATRIX": "Goal: Move customers UP the ladder, prevent downward drift",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "Customer Segmentation Matrix",
+  "sheet_index": 458
+}

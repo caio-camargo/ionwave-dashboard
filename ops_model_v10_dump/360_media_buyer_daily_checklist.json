@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "MEDIA BUYER DAILY CHECKLIST"
+  ],
+  "rows": [
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "What to check every day at 9am."
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Check yesterday spend vs budget"
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Check yesterday ROAS"
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Review ads >$50 with ROAS <1x"
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Check frequency on top spenders"
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Review new ads (first 24h data)"
+    },
+    {
+      "MEDIA BUYER DAILY CHECKLIST": "⬜ Reconcile Shopify vs platform"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Media Buyer Daily Checklist",
+  "sheet_index": 360
+}

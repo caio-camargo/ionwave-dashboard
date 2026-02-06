@@ -1,0 +1,130 @@
+{
+  "headers": [
+    "ODD-7: CONCEPTUAL INDEX"
+  ],
+  "rows": [
+    {
+      "ODD-7: CONCEPTUAL INDEX": "Deep definitions of key concepts (500-700 words each)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "HOW TO USE THIS INDEX"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "This index provides deep definitions of the most important concepts."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "Each definition includes: What it is, why it matters, how to use it, common mistakes."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "For quick reference of all terms, see: Master Term Index"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "This index is for DEEP UNDERSTANDING of critical concepts."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "CUSTOMER ACQUISITION COST (CAC)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "DEFINITION: CAC is the total cost to acquire one paying customer. It includes all marketing and sales expenses divided by the number of customers acquired in that period."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "FORMULA: CAC = (Ad Spend + Creative Costs + Tools + Labor) / New Customers"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "WHY IT MATTERS: CAC is half of the fundamental equation of business viability. If CAC is too high relative to what a customer is worth (LTV), the business cannot survive. Every dollar spent acquiring a customer must eventually be recovered through their purchases. CAC is the 'price of admission' for growth."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "HOW TO USE: Track CAC by channel (Meta, Google, TikTok), by campaign, and by time period. Compare CAC to LTV - the ratio should be at least 3:1 (LTV:CAC) for a healthy business. Watch CAC trends over time - rising CAC is a warning sign of market saturation or creative fatigue."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "COMMON MISTAKES: (1) Not including all costs (forgetting creative production, tools, labor). (2) Measuring too short a window (daily CAC fluctuates wildly). (3) Not segmenting by channel (blended CAC hides problems). (4) Ignoring CAC payback period (how long to recover the CAC)."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "RELATED CONCEPTS: LTV, ROAS, Contribution Margin, Payback Period"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "LIFETIME VALUE (LTV)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "DEFINITION: LTV is the total revenue (or profit) expected from a customer over their entire relationship with the business. It represents the long-term value of acquiring and retaining a customer."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "FORMULA: LTV = Average Order Value × Purchase Frequency × Customer Lifespan (or) LTV = Average Monthly Revenue per Customer × Average Customer Lifespan in Months"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "WHY IT MATTERS: LTV tells you how much you can afford to spend acquiring a customer. High LTV businesses can spend more on acquisition and still be profitable. LTV is driven by retention - keeping customers is almost always cheaper than finding new ones."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "HOW TO USE: Calculate LTV by cohort (customers acquired in same period) to see if it's improving. Compare LTV to CAC - aim for 3:1 or better. Invest in retention to increase LTV. Use LTV to set CAC targets."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "COMMON MISTAKES: (1) Using revenue instead of gross profit (overstates true value). (2) Projecting too far into future (uncertainty compounds). (3) Not accounting for churn (overestimates lifespan). (4) Treating all customers the same (segment by value)."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "RELATED CONCEPTS: CAC, Retention, Churn, Cohort Analysis, Subscription Rate"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "PRODUCT-MARKET FIT (PMF)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "DEFINITION: PMF is the degree to which a product satisfies strong market demand. It's the point where you've found a product that customers want, at a price they'll pay, through a channel you can reach them."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "SIGNALS: (1) Customers actively seek you out (organic demand). (2) High retention and repeat purchase. (3) Word of mouth and referrals. (4) Customers complain when product unavailable. (5) Unit economics work without forcing them."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "WHY IT MATTERS: PMF is the prerequisite for scaling. Scaling before PMF is like pouring gasoline on a fire that isn't lit - you just burn cash. Most startups fail because they scale before achieving PMF. PMF is the difference between pushing and pulling."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "HOW TO FIND: (1) Talk to customers constantly. (2) Measure retention obsessively. (3) Look for organic growth. (4) Ask: Would customers be disappointed if product disappeared? (5) Test pricing elasticity."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "COMMON MISTAKES: (1) Declaring PMF too early (every early sale feels like PMF). (2) Confusing paid growth with organic demand. (3) Not segmenting (may have PMF with one segment, not another). (4) Ignoring retention data."
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "RELATED CONCEPTS: ICP, Retention, Organic Growth, Validation"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "ADDITIONAL CONCEPTS (To be expanded)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• ROAS (Return on Ad Spend)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Contribution Margin"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Churn Rate"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Cohort Analysis"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Creative Fatigue"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Kill Criteria"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Table Set / First Blood / Winner Found (Milestones)"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Operator Model"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Studio Model"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Coordination Debt"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Bifurcation Points"
+    },
+    {
+      "ODD-7: CONCEPTUAL INDEX": "• Information Asymmetry"
+    }
+  ],
+  "row_count": 40,
+  "sheet_name": "ODD-7 Conceptual Index",
+  "sheet_index": 768
+}

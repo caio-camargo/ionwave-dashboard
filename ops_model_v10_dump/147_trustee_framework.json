@@ -1,0 +1,325 @@
+{
+  "headers": [
+    "TRUSTEE FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "TRUSTEE FRAMEWORK": "Fiduciary oversight role for venture portfolios",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "WHAT IS A TRUSTEE?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "A Trustee is a fiduciary who protects the interests of beneficiaries",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "(typically investors/LPs) by overseeing how assets are managed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "In the Trade/TUP context:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Trustee represents investor interests",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Ensures capital is deployed as promised",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Monitors Operator/Studio performance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Has authority to intervene if things go wrong",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Reports to beneficiaries on status",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Trustee ≠ Compliance Manager",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "CM assesses and grades. Trustee has AUTHORITY to act.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "TRUSTEE RESPONSIBILITIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Responsibility",
+      "col_2": "What It Means",
+      "col_3": "How Exercised",
+      "col_4": "Frequency"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Duty of Care",
+      "col_2": "Act with reasonable diligence",
+      "col_3": "Review reports, ask questions",
+      "col_4": "Ongoing"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Duty of Loyalty",
+      "col_2": "Put beneficiary interests first",
+      "col_3": "No conflicts, full disclosure",
+      "col_4": "Ongoing"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Capital Oversight",
+      "col_2": "Ensure proper deployment",
+      "col_3": "Approve major expenditures",
+      "col_4": "Per tranche"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Performance Monitoring",
+      "col_2": "Track against commitments",
+      "col_3": "Review CM grades, KPIs",
+      "col_4": "Monthly"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Risk Management",
+      "col_2": "Identify and address risks",
+      "col_3": "Review risk register, escalations",
+      "col_4": "Monthly"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Reporting",
+      "col_2": "Keep beneficiaries informed",
+      "col_3": "Quarterly reports, annual review",
+      "col_4": "Quarterly"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Intervention",
+      "col_2": "Act when thresholds breached",
+      "col_3": "Pause operations, replace Operator",
+      "col_4": "As needed"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "TRUSTEE AUTHORITY MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Action",
+      "col_2": "Trustee Authority",
+      "col_3": "Trigger",
+      "col_4": "Process"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Approve capital tranche",
+      "col_2": "Required",
+      "col_3": "Milestone achieved",
+      "col_4": "Review + sign-off"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Pause ad spend",
+      "col_2": "Can order",
+      "col_3": "CAC > 2x threshold",
+      "col_4": "Immediate effect"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Pause all operations",
+      "col_2": "Can order",
+      "col_3": "Grade = CCC or fraud suspected",
+      "col_4": "24hr notice"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Replace Operator",
+      "col_2": "Can initiate",
+      "col_3": "Grade = D or abandonment",
+      "col_4": "With Studio consent"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Wind down venture",
+      "col_2": "Can initiate",
+      "col_3": "Kill criteria met",
+      "col_4": "Board vote if applicable"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Remove Studio",
+      "col_2": "Can initiate",
+      "col_3": "Gross negligence/fraud",
+      "col_4": "Per LP agreement"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Amend strategy",
+      "col_2": "Advisory only",
+      "col_3": "Market conditions change",
+      "col_4": "Recommend to Studio"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "TRUSTEE vs OTHER ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Role",
+      "col_2": "Represents",
+      "col_3": "Authority",
+      "col_4": "Accountability"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Trustee",
+      "col_2": "Investors/LPs",
+      "col_3": "Fiduciary, can intervene",
+      "col_4": "To beneficiaries"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Compliance Manager",
+      "col_2": "Assessment function",
+      "col_3": "Grades, no authority",
+      "col_4": "To Trustee/Studio"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Studio",
+      "col_2": "Operating partner",
+      "col_3": "Strategic + operational",
+      "col_4": "To Trustee/investors"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Operator",
+      "col_2": "Execution",
+      "col_3": "Day-to-day only",
+      "col_4": "To Studio"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Board",
+      "col_2": "Governance",
+      "col_3": "Policy, major decisions",
+      "col_4": "To shareholders"
+    },
+    {
+      "TRUSTEE FRAMEWORK": "TRUSTEE SELECTION CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Must Have:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Independence from Studio and Operators",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Financial literacy (can read P&L, understand unit economics)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Fiduciary experience or training",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Availability for oversight duties",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Willingness to make hard decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Nice to Have:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Legal or accounting background",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Investment experience",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Industry knowledge",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "Disqualifying:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Financial interest in venture success (beyond fee)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• Relationship with Operator that compromises independence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "TRUSTEE FRAMEWORK": "• History of fiduciary breaches",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "Trustee Framework",
+  "sheet_index": 147
+}

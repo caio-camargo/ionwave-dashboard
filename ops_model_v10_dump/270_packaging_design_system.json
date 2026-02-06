@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "PACKAGING DESIGN SYSTEM"
+  ],
+  "rows": [
+    {
+      "PACKAGING DESIGN SYSTEM": "Unboxing experience, inserts, labels."
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "PRIMARY (packets):"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Ocean blue gradient, white text"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Logo, flavor, serving size, barcode"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "SECONDARY (box):"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• 30-count box or resealable pouch"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Clean, premium, brand colors"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "SHIPPING:"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Kraft or white, simple logo"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Branded tissue or printed inside"
+    },
+    {
+      "PACKAGING DESIGN SYSTEM": "• Thank you card, referral card"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Packaging Design System",
+  "sheet_index": 270
+}

@@ -1,0 +1,351 @@
+{
+  "headers": [
+    "VSL PRODUCTION SPEC",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VSL PRODUCTION SPEC": "Everything a producer needs to create the VSL without questions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "FORMAT SPECS BY PLATFORM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Platform",
+      "col_2": "Aspect Ratio",
+      "col_3": "Resolution",
+      "col_4": "Length",
+      "col_5": "File Format",
+      "col_6": "Max Size"
+    },
+    {
+      "VSL PRODUCTION SPEC": "Meta Feed",
+      "col_2": "1:1 or 4:5",
+      "col_3": "1080x1080 / 1080x1350",
+      "col_4": "30-90 sec (test both)",
+      "col_5": "MP4 H.264",
+      "col_6": "4GB"
+    },
+    {
+      "VSL PRODUCTION SPEC": "Meta Stories/Reels",
+      "col_2": "9:16",
+      "col_3": "1080x1920",
+      "col_4": "15-60 sec",
+      "col_5": "MP4 H.264",
+      "col_6": "4GB"
+    },
+    {
+      "VSL PRODUCTION SPEC": "TikTok",
+      "col_2": "9:16",
+      "col_3": "1080x1920",
+      "col_4": "30-90 sec",
+      "col_5": "MP4",
+      "col_6": "500MB"
+    },
+    {
+      "VSL PRODUCTION SPEC": "YouTube Ads",
+      "col_2": "16:9",
+      "col_3": "1920x1080",
+      "col_4": "60-180 sec",
+      "col_5": "MP4 H.264",
+      "col_6": "256GB"
+    },
+    {
+      "VSL PRODUCTION SPEC": "Landing Page",
+      "col_2": "16:9",
+      "col_3": "1920x1080",
+      "col_4": "3-5 min (full VSL)",
+      "col_5": "MP4 H.264",
+      "col_6": "No limit"
+    },
+    {
+      "VSL PRODUCTION SPEC": "PRODUCTION REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Element",
+      "col_2": "Spec",
+      "col_3": "Source",
+      "col_4": "Notes",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Presenter/Talent",
+      "col_2": "Authentic, relatable to target avatar",
+      "col_3": "UGC creator or internal",
+      "col_4": "Not polished — real person feel",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Voiceover",
+      "col_2": "Clear, conversational, confident",
+      "col_3": "Creator or professional VO",
+      "col_4": "Match energy to angle",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "B-Roll: Product",
+      "col_2": "10+ clips of product in use",
+      "col_3": "Studio shoot or lifestyle",
+      "col_4": "Must show actual product",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "B-Roll: Lifestyle",
+      "col_2": "10+ clips of target avatar lifestyle",
+      "col_3": "Stock or original",
+      "col_4": "Must match avatar demographics",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "B-Roll: Science",
+      "col_2": "5+ clips of mechanism visualization",
+      "col_3": "Motion graphics or stock",
+      "col_4": "Simple animations for mechanism",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Text Overlays",
+      "col_2": "Key claims, stats, price points",
+      "col_3": "Motion graphics",
+      "col_4": "Must be readable on mobile",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Music",
+      "col_2": "Background, non-distracting, licensed",
+      "col_3": "Licensed library",
+      "col_4": "Royalty-free required",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Captions",
+      "col_2": "Burned-in, all platforms",
+      "col_3": "Auto-generated + corrected",
+      "col_4": "80%+ of viewers watch muted",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Thumbnail",
+      "col_2": "1080x1080 and 1080x1920",
+      "col_3": "Custom designed",
+      "col_4": "Tested separately from video",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "CREATOR BRIEF TEMPLATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Send this to UGC creators / talent:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "BRAND: IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "PRODUCT: [specific SKU]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "ANGLE: [from Angle Library — e.g., ANG-01]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "HOOK: [specific hook they should deliver]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "KEY CLAIMS: [3 claims they must include]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "TONE: Conversational, like telling a friend. Not salesy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "FORMAT: Selfie-style, good lighting, quiet background",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "LENGTH: Record 2-3 min raw (we'll edit to 60 sec)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "DELIVERABLES: Raw footage (unedited), separate audio if possible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "DEADLINE: [date]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "PAYMENT: $[amount] for raw footage, usage rights per contract",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "DO: Be natural, use your own words, speak from experience if genuine",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "DON'T: Read from script on camera, use fake enthusiasm, make medical claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "VSL CONTRACTS CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Before any production begins, these must be signed:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "☐ Creator Agreement — usage rights, exclusivity period, payment terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "☐ Music License — royalty-free, perpetual, commercial use",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "☐ Stock Footage License — commercial use, no model releases needed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "☐ Voiceover Agreement — usage rights, revision terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "☐ Editor/Producer Agreement — work-for-hire, IP assignment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL PRODUCTION SPEC": "Template contracts are in ODD-4.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 42,
+  "sheet_name": "VSL Production Spec",
+  "sheet_index": 313
+}

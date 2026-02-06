@@ -1,0 +1,183 @@
+{
+  "headers": [
+    "FORMULATION COMPARISON MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "FORMULATION COMPARISON MATRIX": "Our formula vs competitors — side by side",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Attribute",
+      "col_2": "IonWave",
+      "col_3": "LMNT",
+      "col_4": "Seaonic",
+      "col_5": "Liquid IV",
+      "col_6": "Drip Drop"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Price/serving",
+      "col_2": "$1.50-2.00",
+      "col_3": "$1.50",
+      "col_4": "$2.30",
+      "col_5": "$1.25",
+      "col_6": "$1.00"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Sodium (mg)",
+      "col_2": "1000",
+      "col_3": "1000",
+      "col_4": "500",
+      "col_5": "500",
+      "col_6": "330"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Potassium (mg)",
+      "col_2": "200",
+      "col_3": "200",
+      "col_4": "300",
+      "col_5": "370",
+      "col_6": "185"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Magnesium (mg)",
+      "col_2": "60",
+      "col_3": "60",
+      "col_4": "50",
+      "col_5": "0",
+      "col_6": "39"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Total minerals",
+      "col_2": "78",
+      "col_3": "3",
+      "col_4": "78",
+      "col_5": "3",
+      "col_6": "4"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Source",
+      "col_2": "Ocean",
+      "col_3": "Synthetic",
+      "col_4": "Ocean",
+      "col_5": "Synthetic",
+      "col_6": "Synthetic"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Sugar",
+      "col_2": "0g",
+      "col_3": "0g",
+      "col_4": "0g",
+      "col_5": "11g",
+      "col_6": "6g"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Sweetener",
+      "col_2": "Stevia",
+      "col_3": "Stevia",
+      "col_4": "None",
+      "col_5": "Sugar",
+      "col_6": "Sucralose"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Form",
+      "col_2": "Powder stick",
+      "col_3": "Powder stick",
+      "col_4": "Powder stick",
+      "col_5": "Powder stick",
+      "col_6": "Powder stick"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Calories",
+      "col_2": "0",
+      "col_3": "0",
+      "col_4": "0",
+      "col_5": "45",
+      "col_6": "25"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Flavors",
+      "col_2": "[TBD]",
+      "col_3": "12+",
+      "col_4": "3",
+      "col_5": "15+",
+      "col_6": "8"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Subscription",
+      "col_2": "Yes",
+      "col_3": "Yes",
+      "col_4": "Yes",
+      "col_5": "Yes",
+      "col_6": "Yes"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Key claim",
+      "col_2": "78 ocean minerals",
+      "col_3": "Zero sugar keto",
+      "col_4": "Marine plasma",
+      "col_5": "Hydration multiplier",
+      "col_6": "Medical grade"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "Target",
+      "col_2": "Biohackers",
+      "col_3": "Keto/Paleo",
+      "col_4": "Wellness",
+      "col_5": "Mass market",
+      "col_6": "Medical/sports"
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "OUR DIFFERENTIATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "vs LMNT: Same sodium/potassium, but 78 minerals vs 3, ocean vs synthetic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "vs Seaonic: Similar source, but better price point and marketing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "vs Liquid IV: No sugar, more minerals, cleaner ingredients",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORMULATION COMPARISON MATRIX": "vs Drip Drop: No artificial sweeteners, full mineral spectrum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Formulation Comparison",
+  "sheet_index": 218
+}

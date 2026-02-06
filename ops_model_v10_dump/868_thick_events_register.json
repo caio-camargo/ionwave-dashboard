@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "THICK EVENTS REGISTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "THICK EVENTS REGISTER": "High-impact decision points with full context capture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "THICK EVENTS REGISTER": "Date",
+      "col_2": "Event",
+      "col_3": "Context",
+      "col_4": "Decision Made",
+      "col_5": "Alternatives Considered",
+      "col_6": "Outcome"
+    }
+  ],
+  "row_count": 2,
+  "sheet_name": "Thick Events Register",
+  "sheet_index": 868
+}

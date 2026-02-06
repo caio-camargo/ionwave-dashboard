@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "LTV CALCULATION MODELS"
+  ],
+  "rows": [
+    {
+      "LTV CALCULATION MODELS": "Different methods to calculate customer lifetime value"
+    },
+    {
+      "LTV CALCULATION MODELS": "METHOD 1: SIMPLE LTV"
+    },
+    {
+      "LTV CALCULATION MODELS": "LTV = AOV × Purchase Frequency × Lifespan"
+    },
+    {
+      "LTV CALCULATION MODELS": "Example:"
+    },
+    {
+      "LTV CALCULATION MODELS": "• AOV = $55"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Purchase Frequency = 4x/year"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Average Lifespan = 2 years"
+    },
+    {
+      "LTV CALCULATION MODELS": "• LTV = $55 × 4 × 2 = $440"
+    },
+    {
+      "LTV CALCULATION MODELS": "Pros: Easy to calculate"
+    },
+    {
+      "LTV CALCULATION MODELS": "Cons: Assumes constant behavior"
+    },
+    {
+      "LTV CALCULATION MODELS": "METHOD 2: CHURN-BASED LTV"
+    },
+    {
+      "LTV CALCULATION MODELS": "LTV = ARPU / Churn Rate"
+    },
+    {
+      "LTV CALCULATION MODELS": "Example (Subscription):"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Monthly Revenue per Customer (ARPU) = $45"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Monthly Churn Rate = 8%"
+    },
+    {
+      "LTV CALCULATION MODELS": "• LTV = $45 / 0.08 = $562.50"
+    },
+    {
+      "LTV CALCULATION MODELS": "Pros: Accounts for churn"
+    },
+    {
+      "LTV CALCULATION MODELS": "Cons: Assumes constant churn (rarely true)"
+    },
+    {
+      "LTV CALCULATION MODELS": "METHOD 3: COHORT-BASED LTV (Most Accurate)"
+    },
+    {
+      "LTV CALCULATION MODELS": "Track actual revenue from each cohort over time"
+    },
+    {
+      "LTV CALCULATION MODELS": "Example:"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Month 0: $55 (first purchase)"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Month 1: $22 (40% repurchase × $55)"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Month 2: $16.50 (30% × $55)"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Month 3: $13.75 (25% × $55)"
+    },
+    {
+      "LTV CALCULATION MODELS": "• ... continue until stabilizes"
+    },
+    {
+      "LTV CALCULATION MODELS": "• Sum = Actual LTV"
+    },
+    {
+      "LTV CALCULATION MODELS": "Pros: Most accurate"
+    },
+    {
+      "LTV CALCULATION MODELS": "Cons: Need data, takes time to see full picture"
+    },
+    {
+      "LTV CALCULATION MODELS": "LTV:CAC RATIO TARGETS"
+    },
+    {
+      "LTV CALCULATION MODELS": "1:1 = Losing money (CAC = LTV)"
+    },
+    {
+      "LTV CALCULATION MODELS": "2:1 = Break even after costs"
+    },
+    {
+      "LTV CALCULATION MODELS": "3:1 = Healthy business (target)"
+    },
+    {
+      "LTV CALCULATION MODELS": "4:1+ = Very healthy, can spend more on acquisition"
+    },
+    {
+      "LTV CALCULATION MODELS": "5:1+ = Potentially under-investing in growth"
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "LTV Calculation Models",
+  "sheet_index": 463
+}

@@ -1,0 +1,350 @@
+{
+  "headers": [
+    "ICP COLLECTIVE: ALL PERSONAS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Summary view of all ICPs with problems, solutions, and day-in-life patterns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ICP SUMMARY MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ICP",
+      "col_2": "Core Problem",
+      "col_3": "Solution Fit",
+      "col_4": "Price Sensitivity",
+      "col_5": "Subscription Likelihood"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Biohacker",
+      "col_2": "Only 3 minerals, wants complete optimization",
+      "col_3": "78 minerals = full spectrum",
+      "col_4": "Low",
+      "col_5": "High"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Wellness Mom",
+      "col_2": "Sports drinks have sugar/chemicals",
+      "col_3": "Natural, clean, family-safe",
+      "col_4": "Medium",
+      "col_5": "High"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Athlete",
+      "col_2": "Cramps, slow recovery, incomplete hydration",
+      "col_3": "Complete electrolyte replacement",
+      "col_4": "Low",
+      "col_5": "High"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Keto/Carnivore",
+      "col_2": "Diet flushes electrolytes, needs daily",
+      "col_3": "Zero carb, better than LMNT",
+      "col_4": "Medium",
+      "col_5": "Very High"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Chronic Fatigue",
+      "col_2": "Exhausted, nothing works",
+      "col_3": "Addresses untested deficiencies",
+      "col_4": "Low",
+      "col_5": "High if works"
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "UNIVERSAL PROBLEMS (Shared Across ICPs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "1. Current electrolytes only have 3 minerals (sodium, potassium, magnesium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "2. Sports drinks have sugar, artificial ingredients, or both",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "3. Premium options (LMNT) are expensive at $1.50+/serving",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "4. No one talks about trace minerals - only the big 3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "5. Afternoon energy crashes despite 'eating healthy'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "6. Feeling 'off' but can't pinpoint why",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "UNIVERSAL SOLUTION FIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "1. 78 minerals vs 3 = complete mineral profile",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "2. Ocean-sourced = natural, not synthetic lab-made",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "3. $1.65/serving = premium quality at accessible price",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "4. Blood plasma matches seawater = scientific credibility",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "5. Subscription = convenience + savings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "6. Clean label = no sugar, no artificial anything",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "COMMON DAY-IN-LIFE PATTERNS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Morning ritual",
+      "col_2": "IonWave becomes part of morning routine with coffee/workout",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Afternoon dip",
+      "col_2": "Second serving addresses universal 2-4pm energy crash",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Pre/post workout",
+      "col_2": "Athletes and active ICPs use around training",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Evening recovery",
+      "col_2": "Some ICPs use for overnight mineral replenishment",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Research time",
+      "col_2": "Evening scrolling/research is when they discover products",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ACQUISITION CHANNELS BY ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ICP",
+      "col_2": "Primary Channel",
+      "col_3": "Secondary Channel",
+      "col_4": "Content That Works",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Biohacker",
+      "col_2": "Twitter/X, podcasts",
+      "col_3": "Reddit, YouTube",
+      "col_4": "Science deep-dives, data",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Wellness Mom",
+      "col_2": "Instagram, mom blogs",
+      "col_3": "Facebook groups",
+      "col_4": "Testimonials, clean label focus",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Athlete",
+      "col_2": "Gym word-of-mouth",
+      "col_3": "Instagram, Strava",
+      "col_4": "Performance results, athlete endorsements",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Keto/Carnivore",
+      "col_2": "Reddit, YouTube",
+      "col_3": "Keto influencers",
+      "col_4": "Zero carb proof, LMNT comparison",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Chronic Fatigue",
+      "col_2": "Facebook groups, forums",
+      "col_3": "Health blogs",
+      "col_4": "Before/after stories, empathy",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "MARKET SIZE BY ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ICP",
+      "col_2": "Est. US Population",
+      "col_3": "Addressable",
+      "col_4": "Priority",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Biohacker",
+      "col_2": "5M",
+      "col_3": "2M",
+      "col_4": "★★★★",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Wellness Mom",
+      "col_2": "15M",
+      "col_3": "5M",
+      "col_4": "★★★★★",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Athlete",
+      "col_2": "30M",
+      "col_3": "10M",
+      "col_4": "★★★★",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Keto/Carnivore",
+      "col_2": "10M",
+      "col_3": "4M",
+      "col_4": "★★★★★",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "Chronic Fatigue",
+      "col_2": "5M",
+      "col_3": "2M",
+      "col_4": "★★★",
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "ICP PRIORITY ORDER FOR LAUNCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "1. Keto/Carnivore",
+      "col_2": "MUST supplement daily, price-compares to LMNT, highest intent",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "2. Biohacker",
+      "col_2": "Early adopters, will share, validates premium positioning",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "3. Wellness Mom",
+      "col_2": "Largest market, word-of-mouth power, family purchase",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "4. Athlete",
+      "col_2": "High volume usage, visible results, social proof",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ICP COLLECTIVE: ALL PERSONAS": "5. Chronic Fatigue",
+      "col_2": "Harder to reach, but extremely loyal if works",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 48,
+  "sheet_name": "ICP Collective",
+  "sheet_index": 112
+}

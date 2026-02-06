@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "LABOR STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "LABOR STRATEGY": "We hire PMs who can think, not VAs who just execute",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "LABOR STRATEGY": "Role",
+      "col_2": "Scope",
+      "col_3": "Time",
+      "col_4": "Comp"
+    },
+    {
+      "LABOR STRATEGY": "Operator",
+      "col_2": "Full ownership of the business",
+      "col_3": "40-50 hrs/wk",
+      "col_4": "Equity-based"
+    },
+    {
+      "LABOR STRATEGY": "Creative PM",
+      "col_2": "Ads, UGC, video content",
+      "col_3": "20-30 hrs/wk",
+      "col_4": "Hourly + bonus"
+    },
+    {
+      "LABOR STRATEGY": "Ops PM",
+      "col_2": "CS, inventory, 3PL",
+      "col_3": "20-30 hrs/wk",
+      "col_4": "Hourly"
+    },
+    {
+      "LABOR STRATEGY": "Growth PM",
+      "col_2": "New channels, expansion",
+      "col_3": "20-30 hrs/wk",
+      "col_4": "Hourly + bonus"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Labor Strategy",
+  "sheet_index": 643
+}

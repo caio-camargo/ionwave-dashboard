@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "DELEGATION FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DELEGATION FRAMEWORK": "Who can decide what without asking.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DELEGATION FRAMEWORK": "Decision Type",
+      "col_2": "Operator",
+      "col_3": "CM",
+      "col_4": "Studio"
+    },
+    {
+      "DELEGATION FRAMEWORK": "Daily operations",
+      "col_2": "✓ Alone",
+      "col_3": "Informed",
+      "col_4": "-"
+    },
+    {
+      "DELEGATION FRAMEWORK": "Spend <$500",
+      "col_2": "✓ Alone",
+      "col_3": "Informed",
+      "col_4": "-"
+    },
+    {
+      "DELEGATION FRAMEWORK": "Spend $500-2K",
+      "col_2": "Request",
+      "col_3": "✓ Approve",
+      "col_4": "Informed"
+    },
+    {
+      "DELEGATION FRAMEWORK": "Spend >$2K",
+      "col_2": "Request",
+      "col_3": "Review",
+      "col_4": "✓ Approve"
+    },
+    {
+      "DELEGATION FRAMEWORK": "Strategy change",
+      "col_2": "Input",
+      "col_3": "Review",
+      "col_4": "✓ Approve"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Delegation Framework",
+  "sheet_index": 819
+}

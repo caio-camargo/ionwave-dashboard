@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S16: Studio Financial Model — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Studio 4 financials. Equity budget, cost structure, revenue model, fundraise assumptions.",
+      "col_2": null
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Studio Financial Model (S16)"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S16: Studio Financial Model within SCL-3"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S16]"
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Studio Financial Model model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S16: Studio Financial Model — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S16",
+  "sheet_index": 1020
+}

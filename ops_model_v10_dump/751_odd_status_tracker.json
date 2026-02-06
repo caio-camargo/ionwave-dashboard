@@ -1,0 +1,672 @@
+{
+  "headers": [
+    "ODD STATUS TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ODD STATUS TRACKER": "Current state of each deliverable - update weekly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "LAST UPDATED: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "STATUS KEY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "⬜ Not Started",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🟡 In Progress",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🟢 Complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🔴 Blocked",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📚 1. THE TEXTBOOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 1: The Customer",
+      "col_2": "ICP, Psychographics, VOC, JTBD",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 2: The Product",
+      "col_2": "Formulation, Ingredients, Competitive",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 3: The Numbers",
+      "col_2": "Unit Economics, Scenarios, P&L",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 4: Creative System",
+      "col_2": "Hooks, Angles, Scripts, Psychology",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 5: Conversion",
+      "col_2": "Landing Pages, Headlines, Checkout",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 6: Retention",
+      "col_2": "Email Flows, Segmentation, SMS",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 7: Growth Channels",
+      "col_2": "Influencer, Creator, Partnerships",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 8: Operations",
+      "col_2": "SOPs, Fulfillment, Support",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 9: Compliance",
+      "col_2": "FDA, FTC, Legal",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ch 10: Execution Roadmap",
+      "col_2": "30/90/365 Day Plans",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Formatting & Design",
+      "col_2": "Layout, diagrams, printing",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Print/Bind",
+      "col_2": "Physical production",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📊 2. THE OPERATING MODEL (This Spreadsheet)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Core Framework Tabs",
+      "col_2": "All planning, strategy tabs",
+      "col_3": "🟢",
+      "col_4": null,
+      "col_5": "Complete"
+    },
+    {
+      "ODD STATUS TRACKER": "Tracker Tabs",
+      "col_2": "All trackers, dashboards",
+      "col_3": "🟢",
+      "col_4": null,
+      "col_5": "Complete"
+    },
+    {
+      "ODD STATUS TRACKER": "Template Tabs",
+      "col_2": "All templates",
+      "col_3": "🟢",
+      "col_4": null,
+      "col_5": "Complete"
+    },
+    {
+      "ODD STATUS TRACKER": "Deep-Dive Tabs",
+      "col_2": "Creative, Customer, etc.",
+      "col_3": "🟢",
+      "col_4": null,
+      "col_5": "Complete"
+    },
+    {
+      "ODD STATUS TRACKER": "Shared to Operator",
+      "col_2": "Access granted",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🌐 3. THE WEBSITE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Wireframes/Mockups",
+      "col_2": "Page layouts, UX flow",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Homepage",
+      "col_2": "Hero, benefits, social proof",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Product Page(s)",
+      "col_2": "PDP with all elements",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Checkout Flow",
+      "col_2": "Cart, checkout, upsells",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Legal Pages",
+      "col_2": "ToS, Privacy, Returns",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Shopify Setup",
+      "col_2": "Theme, apps, settings",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Domain Connected",
+      "col_2": "DNS configured",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Payment Processing",
+      "col_2": "Stripe/Shopify Payments",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Staging Review",
+      "col_2": "Full QA pass",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Go Live",
+      "col_2": "Password removed, live",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🎬 4. THE CREATIVE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Ad Briefs (10)",
+      "col_2": "Written briefs from templates",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Storyboards",
+      "col_2": "Visual shot-by-shot",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Creator Contracts",
+      "col_2": "UGC creators signed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Raw Footage",
+      "col_2": "Filmed content received",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Edited Ads (5+)",
+      "col_2": "Final cut ads",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Static Ads (10+)",
+      "col_2": "Image ads designed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ad Account Setup",
+      "col_2": "Meta, TikTok ready",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Ads Uploaded",
+      "col_2": "In platform, draft",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📧 5. THE AUTOMATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Klaviyo Account",
+      "col_2": "Set up, integrated",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Welcome Series",
+      "col_2": "4-6 emails built",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Abandoned Cart",
+      "col_2": "3 emails built",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Post-Purchase",
+      "col_2": "5-7 emails built",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Win-Back",
+      "col_2": "3-4 emails built",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Segments Created",
+      "col_2": "Key segments defined",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Flows Tested",
+      "col_2": "Test emails sent",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Flows Live",
+      "col_2": "Turned on",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📝 6. THE LEGAL PACKAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Entity Formation",
+      "col_2": "LLC/Corp filed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "EIN",
+      "col_2": "IRS number obtained",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Operating Agreement",
+      "col_2": "Drafted and signed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Operator Agreement",
+      "col_2": "Ready to sign",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "SAFE/Investment Docs",
+      "col_2": "Drafted",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Supplier Contract",
+      "col_2": "Signed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "3PL Agreement",
+      "col_2": "Signed",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Trademark Filed",
+      "col_2": "USPTO application",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Terms of Service",
+      "col_2": "Drafted/live on site",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Privacy Policy",
+      "col_2": "Drafted/live on site",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Insurance",
+      "col_2": "Product liability obtained",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📦 7. THE PRODUCT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Chapter",
+      "col_2": "Source Tabs",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "ODD STATUS TRACKER": "Formulation Finalized",
+      "col_2": "Formula locked",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Samples Received",
+      "col_2": "From manufacturer",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Samples Approved",
+      "col_2": "Taste, quality OK",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Label Designed",
+      "col_2": "Compliant label artwork",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Packaging Designed",
+      "col_2": "Pouch/box artwork",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "COA Received",
+      "col_2": "Certificate of Analysis",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "First Batch Ordered",
+      "col_2": "PO submitted",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "First Batch Received",
+      "col_2": "At 3PL",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Inventory Live",
+      "col_2": "In Shopify, sellable",
+      "col_3": "⬜",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "OVERALL ODD STATUS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "Deliverable",
+      "col_2": "Status",
+      "col_3": "Completion",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📚 Textbook",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📊 Operating Model",
+      "col_2": "🟢 Complete",
+      "col_3": "100%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🌐 Website",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "🎬 Creative",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📧 Automation",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📝 Legal Package",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "📦 Product",
+      "col_2": "⬜ Not Started",
+      "col_3": "0%",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD STATUS TRACKER": "OVERALL ODD",
+      "col_2": "⬜ Not Started",
+      "col_3": "~14%",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 94,
+  "sheet_name": "ODD Status Tracker",
+  "sheet_index": 751
+}

@@ -1,0 +1,679 @@
+{
+  "headers": [
+    "ODD COMPILATION MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ODD COMPILATION MAP": "How this spreadsheet compiles into the Definition of Done deliverables",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "This spreadsheet is SOURCE CODE. It compiles into DELIVERABLES.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "The Definition of Done (ODD) = A complete business-in-a-box an Operator can run.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Every tab in this spreadsheet either:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "→ Becomes a TEXTBOOK CHAPTER (knowledge transfer)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "→ Becomes a LIVE ASSET (website, ads, emails)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "→ Becomes a SIGNED DOCUMENT (contracts, legal)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "→ Becomes a PHYSICAL THING (product, packaging)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "→ Stays as OPERATING TOOL (trackers, calculators)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "MATURITY LEVELS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Not everything is 'done' the same way. Each element has a maturity level:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Level",
+      "col_2": "Symbol",
+      "col_3": "Meaning",
+      "col_4": "Example",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L0: Framework",
+      "col_2": "📋",
+      "col_3": "Documented process/template - knowledge exists",
+      "col_4": "Interview Playbook, Meeting Templates",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L1: Designed",
+      "col_2": "🎨",
+      "col_3": "Mockups, drafts, specs created - ready to build",
+      "col_4": "Website wireframes, Ad storyboards",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L2: Built",
+      "col_2": "🔧",
+      "col_3": "Actually built/created - ready to deploy",
+      "col_4": "Klaviyo flows built, Ads edited",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L3: Staged",
+      "col_2": "🎯",
+      "col_3": "Deployed to staging/test - ready to go live",
+      "col_4": "Site on staging URL, Ads in draft",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L4: Live",
+      "col_2": "✅",
+      "col_3": "Live in production - running",
+      "col_4": "Site live, Ads running, Emails sending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L5: Signed",
+      "col_2": "📝",
+      "col_3": "Legally executed - binding",
+      "col_4": "Signed contracts, Filed entity",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "L6: Physical",
+      "col_2": "📦",
+      "col_3": "Physically exists - tangible",
+      "col_4": "Product samples, Inventory in warehouse",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "THE SEVEN ODD DELIVERABLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📚 1. THE TEXTBOOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: Physical/PDF playbook with all knowledge",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Printed, bound, handed to Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📊 2. THE OPERATING MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: This spreadsheet - living operational tool",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Shared, templated, used daily",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "🌐 3. THE WEBSITE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: Shopify store with all pages",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Live or staged, ready to take orders",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "🎬 4. THE CREATIVE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: Ads, scripts, assets ready to run",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Files ready, some may be live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📧 5. THE AUTOMATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: Email/SMS flows, integrations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Built in Klaviyo, ready to activate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📝 6. THE LEGAL PACKAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: All contracts, entity docs, compliance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Signed or ready-to-sign",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📦 7. THE PRODUCT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "What: Physical product, packaging, inventory",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Done when: Samples or first run in warehouse",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "COMPILATION MAP: TAB → DELIVERABLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Domain",
+      "col_2": "Key Tabs",
+      "col_3": "Compiles Into",
+      "col_4": "Deliverable",
+      "col_5": "Target Maturity",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CUSTOMER",
+      "col_2": "ICP, Psychographics, VOC, JTBD",
+      "col_3": "Chapter: The Customer",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CUSTOMER",
+      "col_2": "Customer Interview Playbook",
+      "col_3": "Chapter: Research Methods",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CREATIVE",
+      "col_2": "Hook Library, Angle Library, Scripts",
+      "col_3": "Chapter: Creative System",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CREATIVE",
+      "col_2": "Hook Library, Scripts, Visual Patterns",
+      "col_3": "Ad storyboards/briefs",
+      "col_4": "🎬 Creative",
+      "col_5": "L1 Designed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CREATIVE",
+      "col_2": "First 100 Ads, Creative Briefs",
+      "col_3": "Actual filmed/edited ads",
+      "col_4": "🎬 Creative",
+      "col_5": "L2-L4 varies",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CONVERSION",
+      "col_2": "Landing Page Psychology, Page Sections",
+      "col_3": "Chapter: Conversion",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CONVERSION",
+      "col_2": "Page Section Templates, Headlines",
+      "col_3": "Website mockups/wireframes",
+      "col_4": "🌐 Website",
+      "col_5": "L1 Designed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "CONVERSION",
+      "col_2": "Checkout Optimization",
+      "col_3": "Built Shopify store",
+      "col_4": "🌐 Website",
+      "col_5": "L2-L4 varies",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "RETENTION",
+      "col_2": "Email Flow Architecture",
+      "col_3": "Chapter: Retention System",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "RETENTION",
+      "col_2": "Welcome Series, Cart Abandon, etc.",
+      "col_3": "Built Klaviyo flows",
+      "col_4": "📧 Automation",
+      "col_5": "L2-L3 varies",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "RETENTION",
+      "col_2": "Segmentation, SMS Strategy",
+      "col_3": "Configured segments/triggers",
+      "col_4": "📧 Automation",
+      "col_5": "L2 Built",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "INFLUENCER",
+      "col_2": "Influencer vs Creator Overview",
+      "col_3": "Chapter: Partnership Strategy",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "INFLUENCER",
+      "col_2": "Contract Templates",
+      "col_3": "Ready-to-sign agreements",
+      "col_4": "📝 Legal",
+      "col_5": "L1 Designed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "INFLUENCER",
+      "col_2": "Pipeline Trackers",
+      "col_3": "Operating tool",
+      "col_4": "📊 Model",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "FINANCE",
+      "col_2": "Unit Economics, Scenario Modeling",
+      "col_3": "Chapter: The Numbers",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "FINANCE",
+      "col_2": "P&L, Cash Flow, Budget",
+      "col_3": "Operating tool",
+      "col_4": "📊 Model",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "FINANCE",
+      "col_2": "Investor Pipeline",
+      "col_3": "Operating tool",
+      "col_4": "📊 Model",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "LEGAL",
+      "col_2": "FDA/FTC Compliance, Label Compliance",
+      "col_3": "Chapter: Compliance",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "LEGAL",
+      "col_2": "Terms of Service, Privacy Policy",
+      "col_3": "Live legal pages",
+      "col_4": "🌐 Website",
+      "col_5": "L4 Live",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "LEGAL",
+      "col_2": "Entity Formation Guide",
+      "col_3": "Filed LLC/Corp docs",
+      "col_4": "📝 Legal",
+      "col_5": "L5 Signed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "LEGAL",
+      "col_2": "Operator Agreement, SAFE",
+      "col_3": "Signed contracts",
+      "col_4": "📝 Legal",
+      "col_5": "L5 Signed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "PRODUCT",
+      "col_2": "Formulation, Ingredients",
+      "col_3": "Chapter: The Product",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "PRODUCT",
+      "col_2": "Formulation Documentation",
+      "col_3": "Product spec sheet",
+      "col_4": "📦 Product",
+      "col_5": "L1 Designed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "PRODUCT",
+      "col_2": "Supplier Qualification",
+      "col_3": "Signed supplier agreement",
+      "col_4": "📝 Legal",
+      "col_5": "L5 Signed",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "PRODUCT",
+      "col_2": "Label Compliance",
+      "col_3": "Printed labels/packaging",
+      "col_4": "📦 Product",
+      "col_5": "L6 Physical",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "PRODUCT",
+      "col_2": "Shelf Life/Stability",
+      "col_3": "Product in warehouse",
+      "col_4": "📦 Product",
+      "col_5": "L6 Physical",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "OPERATIONS",
+      "col_2": "30/90/365 Day Plans",
+      "col_3": "Chapter: Execution Roadmap",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "OPERATIONS",
+      "col_2": "All SOPs, Processes",
+      "col_3": "Chapters: Operations",
+      "col_4": "📚 Textbook",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "OPERATIONS",
+      "col_2": "Trackers, Dashboards",
+      "col_3": "Operating tools",
+      "col_4": "📊 Model",
+      "col_5": "L0 Framework",
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "MINIMUM VIABLE ODD (What must be done before Operator handoff)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📚 TEXTBOOK: Core chapters written and formatted (can be PDF v1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📊 OPERATING MODEL: This spreadsheet, complete and shared",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "🌐 WEBSITE: At minimum mockups; ideally staged/live Shopify",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "🎬 CREATIVE: At minimum 10 ad briefs/storyboards; ideally 5+ filmed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📧 AUTOMATION: At minimum flow diagrams; ideally built in Klaviyo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📝 LEGAL: Entity filed, Operator agreement ready, supplier contracted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "📦 PRODUCT: At minimum samples approved; ideally first batch ordered",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "The ODD is 'done' when an Operator can run the business from Day 1.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ODD COMPILATION MAP": "Not everything needs to be L4/Live. But everything needs to exist at the right maturity.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 83,
+  "sheet_name": "ODD Compilation Map",
+  "sheet_index": 750
+}

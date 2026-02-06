@@ -1,0 +1,224 @@
+{
+  "headers": [
+    "SKU ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SKU ARCHITECTURE": "Flavors, sizes, bundles — how the product line fits together",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "SKU STRATEGY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Start NARROW, expand based on data.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "More SKUs = More complexity:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• More inventory to manage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• More creative to produce",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• More customer confusion",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• More stockouts risk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Launch with minimum viable SKUs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Add based on customer demand signals.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "LAUNCH SKU PLAN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "SKU",
+      "col_2": "Description",
+      "col_3": "Price",
+      "col_4": "Margin Target",
+      "col_5": "Priority"
+    },
+    {
+      "SKU ARCHITECTURE": "CITRUS-30",
+      "col_2": "Citrus Lime 30-pack",
+      "col_3": "$47",
+      "col_4": "65%+",
+      "col_5": "Launch - Core"
+    },
+    {
+      "SKU ARCHITECTURE": "CITRUS-30-SUB",
+      "col_2": "Citrus Lime 30-pack Subscription",
+      "col_3": "$39",
+      "col_4": "60%+",
+      "col_5": "Launch - Core"
+    },
+    {
+      "SKU ARCHITECTURE": "UNFLAVORED-30",
+      "col_2": "Unflavored 30-pack",
+      "col_3": "$47",
+      "col_4": "70%+",
+      "col_5": "Launch - Secondary"
+    },
+    {
+      "SKU ARCHITECTURE": "VARIETY-30",
+      "col_2": "Variety 30-pack (if 3+ flavors)",
+      "col_3": "$49",
+      "col_4": "62%+",
+      "col_5": "Phase 2"
+    },
+    {
+      "SKU ARCHITECTURE": "CITRUS-90",
+      "col_2": "Citrus Lime 90-pack Value",
+      "col_3": "$119",
+      "col_4": "68%+",
+      "col_5": "Phase 2"
+    },
+    {
+      "SKU ARCHITECTURE": "TRIAL-7",
+      "col_2": "7-pack Trial",
+      "col_3": "$15",
+      "col_4": "55%",
+      "col_5": "Phase 2 (CAC tool)"
+    },
+    {
+      "SKU ARCHITECTURE": "FLAVOR EXPANSION ROADMAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Launch (2 SKUs):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Citrus Lime — Safest, most familiar",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Unflavored — For purists, mixers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Phase 2 (based on demand):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Watermelon — Trendy, different profile",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Lemon — Classic request",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Phase 3 (based on demand):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Orange",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Berry Mix",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "• Tropical",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SKU ARCHITECTURE": "Decision trigger: Add flavor when >20% of customers request it",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "SKU Architecture",
+  "sheet_index": 302
+}

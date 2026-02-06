@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F1: Personal Brand — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F1: Personal Brand — CONTRACT": "Cluster: FCL-0 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Nilo's positioning. YC/Greylock founder, COO at Tabs, coordination theorist, Scrabble player. What makes the brand unique.",
+      "col_2": null
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Personal Brand (F1)"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F1: Personal Brand within FCL-0"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F1]"
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Personal Brand model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F1: Personal Brand — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F1",
+  "sheet_index": 1096
+}

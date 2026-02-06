@@ -1,0 +1,181 @@
+{
+  "headers": [
+    "BOOKKEEPING / ACCOUNTING SETUP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "How to set up and maintain financial records",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "BOOKKEEPING vs ACCOUNTING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "BOOKKEEPING = Recording transactions (daily/weekly)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "ACCOUNTING = Analyzing, reporting, tax prep (monthly/annual)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Early stage: Can DIY bookkeeping, outsource accounting",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Growth stage: Hire bookkeeper, use CPA for taxes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "SOFTWARE SETUP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Tool",
+      "col_2": "Purpose",
+      "col_3": "Cost",
+      "col_4": "Recommendation"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "QuickBooks Online",
+      "col_2": "Bookkeeping",
+      "col_3": "$25-75/mo",
+      "col_4": "Best overall"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Xero",
+      "col_2": "Bookkeeping",
+      "col_3": "$25-65/mo",
+      "col_4": "Good alternative"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Wave",
+      "col_2": "Bookkeeping",
+      "col_3": "Free",
+      "col_4": "Budget option"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Bench",
+      "col_2": "Bookkeeping service",
+      "col_3": "$250+/mo",
+      "col_4": "Done-for-you"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "Pilot",
+      "col_2": "Full accounting",
+      "col_3": "$500+/mo",
+      "col_4": "For funded startups"
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "CHART OF ACCOUNTS (Basic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "ASSETS: Cash, Inventory, Accounts Receivable, Prepaid Expenses",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "LIABILITIES: Accounts Payable, Credit Cards, Loans, Deferred Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "EQUITY: Owner's Equity, Retained Earnings",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "REVENUE: Product Sales, Shipping Revenue, Other Income",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "COGS: Product Cost, Shipping Cost, Payment Processing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "EXPENSES: Advertising, Payroll, Software, Professional Services, etc.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "MONTHLY BOOKKEEPING CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Reconcile bank accounts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Reconcile credit cards",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Categorize all transactions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Record inventory changes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Send invoices (if B2B)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Review P&L",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BOOKKEEPING / ACCOUNTING SETUP": "☐ Review cash position",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "Bookkeeping Accounting Setup",
+  "sheet_index": 533
+}

@@ -1,0 +1,289 @@
+{
+  "headers": [
+    "THE SCHOOL MODEL",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "THE SCHOOL MODEL": "The company runs as a school. Programs, semesters, coursework, grades.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "THE FRAME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "A 3-4 person company has a fundamental organizational problem:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "everything is interconnected, everyone does multiple things,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "and there's no natural way to chunk work into manageable units.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "The School Model solves this. The company runs like a school:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "SEMESTERS = Natural time-boxing (12-week sprints)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "PROGRAMS = Functional groupings (6 core programs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "COURSES = Specific TUPs within a program",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "GRADES = Performance measurement (A-F, same as Trade Scorecard)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "ENROLLMENT = Who is taking what courses this semester",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "The CEO operates in three modes:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "STUDENT: Executing coursework (doing the actual work)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "TEACHER: Documenting and delegating (teaching others to do the work)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "DEAN: Making architectural decisions (designing programs and courses)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "Every employee is a student executing TUPs (courses) under programs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "The ODD is the curriculum. The Trade Scorecard is the transcript.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "THE SIX PROGRAMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "Program",
+      "col_2": "Department Equivalent",
+      "col_3": "What It Covers",
+      "col_4": "Who Owns It"
+    },
+    {
+      "THE SCHOOL MODEL": "1. Product & Supply",
+      "col_2": "Operations",
+      "col_3": "Manufacturing, inventory, fulfillment, QC, supplier management",
+      "col_4": "Operator"
+    },
+    {
+      "THE SCHOOL MODEL": "2. Growth & Acquisition",
+      "col_2": "Marketing",
+      "col_3": "Paid ads, VSLs, organic content, UGC, creator pipeline, landing pages",
+      "col_4": "Operator"
+    },
+    {
+      "THE SCHOOL MODEL": "3. Retention & Revenue",
+      "col_2": "CX / Revenue",
+      "col_3": "Email flows, subscription, loyalty, customer support, LTV optimization",
+      "col_4": "Operator"
+    },
+    {
+      "THE SCHOOL MODEL": "4. Finance & Legal",
+      "col_2": "Finance",
+      "col_3": "Bookkeeping, cash flow, entity, contracts, compliance, tax",
+      "col_4": "Operator + Studio"
+    },
+    {
+      "THE SCHOOL MODEL": "5. People & Culture",
+      "col_2": "HR / Hiring",
+      "col_3": "Hiring, onboarding, performance, compensation, delegation depth",
+      "col_4": "CoS / Studio"
+    },
+    {
+      "THE SCHOOL MODEL": "6. Strategy & Intelligence",
+      "col_2": "Strategy",
+      "col_3": "Market research, competitive analysis, product roadmap, Trade Scorecard",
+      "col_4": "Studio / Operator"
+    },
+    {
+      "THE SCHOOL MODEL": "SCHOOL ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "School Role",
+      "col_2": "Company Role",
+      "col_3": "Mode",
+      "col_4": "Responsibilities"
+    },
+    {
+      "THE SCHOOL MODEL": "Dean",
+      "col_2": "Studio / Nilo",
+      "col_3": "Architect",
+      "col_4": "Designs programs, sets curriculum (ODD), hires faculty, reviews transcripts"
+    },
+    {
+      "THE SCHOOL MODEL": "Department Chair",
+      "col_2": "CoS",
+      "col_3": "Manager",
+      "col_4": "Manages enrollment, coordinates across programs, escalates to Dean"
+    },
+    {
+      "THE SCHOOL MODEL": "Professor",
+      "col_2": "Subject matter expert (rotating)",
+      "col_3": "Teacher",
+      "col_4": "Teaches specific courses, documents processes, creates coursework"
+    },
+    {
+      "THE SCHOOL MODEL": "Student (Senior)",
+      "col_2": "Operator",
+      "col_3": "Executor + Teacher",
+      "col_4": "Takes advanced courses, teaches introductory courses, executes TUPs"
+    },
+    {
+      "THE SCHOOL MODEL": "Student (Junior)",
+      "col_2": "VA / Specialist",
+      "col_3": "Executor",
+      "col_4": "Takes assigned courses, executes specific TUPs, reports grades"
+    },
+    {
+      "THE SCHOOL MODEL": "Compliance Monitor",
+      "col_2": "CM",
+      "col_3": "Registrar",
+      "col_4": "Tracks grades, verifies enrollment, enforces academic standards"
+    },
+    {
+      "THE SCHOOL MODEL": "WHY THIS FRAME WORKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "1. NATURAL TIME-BOXING: Semesters create urgency and reflection cycles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "You can't drift forever. Every 12 weeks, you grade and re-enroll.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "2. ROLE CLARITY: Everyone knows if they're a student, teacher, or dean",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "at any given moment. The Operator is MOSTLY a student (executing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "but shifts to teacher when documenting and to dean when proposing strategy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "3. PROGRESS IS VISIBLE: Transcripts show exactly where the company is.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "Which programs are A-grade? Which are failing? Where are the gaps?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "4. DELEGATION IS ENROLLMENT: When you delegate work, you're enrolling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "someone in a course. The ODD tab is the syllabus. The milestones are",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "the assignments. The Trade Scorecard is the grade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "5. SCALABLE: Adding a person = enrolling a new student. The curriculum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "THE SCHOOL MODEL": "already exists. They just take courses.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 46,
+  "sheet_name": "School Model Overview",
+  "sheet_index": 674
+}

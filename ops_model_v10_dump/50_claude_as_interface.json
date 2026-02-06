@@ -1,0 +1,193 @@
+{
+  "headers": [
+    "CLAUDE AS HUMAN INTERFACE TO THE TRADE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The spreadsheet is the database. Claude is the UI. Nobody navigates 688 tabs directly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "THE LEGIBILITY PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "A 688-tab spreadsheet organized into 41 models across 7 clusters with proprietary concepts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "like TUPs, semesters, compliance managers, delegation depth, and school model —",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "most PMs, most experts, most investors will look at this and not know what they're looking at.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "This is not a bug. The complexity is real. A business IS this complex.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The problem is that humans can't navigate this complexity in raw spreadsheet form.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "But Claude can.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "HOW EACH ROLE USES CLAUDE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Role",
+      "col_2": "What They Ask Claude",
+      "col_3": "What Claude Does",
+      "col_4": "They Never Touch"
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Lead PM",
+      "col_2": "\"Generate first draft of M28 Market & Expansion. Here is the thesis from M0.\"",
+      "col_3": "Pulls M28 tab structure, fills all 20 tabs using M0 inputs, flags assumptions, produces review-ready output.",
+      "col_4": "Raw spreadsheet. Tab navigation. Cross-model dependency resolution."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Cluster PM",
+      "col_2": "\"Here is expert feedback on M5 Supply Chain. Incorporate and show me what changed.\"",
+      "col_3": "Reads expert markup, revises all 13 tabs, lists every change with rationale, highlights remaining gaps.",
+      "col_4": "Finding which tabs are in M5. Understanding tab dependencies. Formatting."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Expert",
+      "col_2": "\"Walk me through the financial model. What are the key assumptions?\"",
+      "col_3": "Synthesizes M3 into a 5-minute verbal overview. Highlights assumptions. Answers follow-up questions in real time.",
+      "col_4": "The spreadsheet entirely. Expert sees a conversational summary, not 15 tabs."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Venture Partner",
+      "col_2": "\"Give me a 2-page summary of the IonWave opportunity for an investor I want to introduce.\"",
+      "col_3": "Pulls from M0 (thesis), M3 (financials), M25 (competitive intel), M33 (trade architecture). Produces investor-ready summary.",
+      "col_4": "Which models exist. Where data lives. How to synthesize across clusters."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Investor",
+      "col_2": "\"What are the unit economics? What are the key risks? What is the team plan?\"",
+      "col_3": "Answers from M3, M0, M30, M31. Provides specific numbers, specific risks, specific hiring timeline.",
+      "col_4": "The operating model. They see answers, not architecture."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "CEO Recruiter",
+      "col_2": "\"Produce a pitch for CEO candidates. What would they be walking into?\"",
+      "col_3": "Synthesizes entire Trade into candidate-facing narrative: the opportunity, the system, the team, the economics, the governance, the upside.",
+      "col_4": "Trade structure. They see a compelling recruiting pitch."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "CEO / Operator",
+      "col_2": "\"What do I do this week? What are my priorities?\"",
+      "col_3": "Reads Trade Execution Tracker, School Calendar, current semester goals. Produces prioritized weekly plan with specific actions.",
+      "col_4": "Navigating 688 tabs to figure out what matters right now."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "CM (Compliance Manager)",
+      "col_2": "\"Grade the Operator on Semester 1. Pull all metrics and milestone data.\"",
+      "col_3": "Reads KPI Dashboard, Semester Report Card, Trade Execution Tracker, CRM Metrics. Produces comprehensive grade with evidence.",
+      "col_4": "Manually pulling data from 10+ tabs. Cross-referencing metrics."
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "WHAT THIS MEANS FOR PRODUCTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The PM job description changes. It's not 'can you manage a complex spreadsheet.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "It's 'can you have productive conversations with Claude and manage a feedback loop.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The expert engagement changes. You don't send an expert 16 tabs and hope they read them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "You put Claude on a call, Claude walks the expert through the content, the expert reacts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The investor pitch changes. You don't show a spreadsheet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "You demo Claude navigating the Trade in real time, answering any question instantly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The CEO onboarding changes. The Operator doesn't read 688 tabs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "They ask Claude 'what do I do today' and Claude knows.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "The legibility constraint dissolves. The Trade can be as complex as it needs to be",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "because no human ever interacts with the complexity directly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CLAUDE AS HUMAN INTERFACE TO THE TRADE": "Claude is the translator between human understanding and system complexity.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 30,
+  "sheet_name": "Claude as Interface",
+  "sheet_index": 50
+}

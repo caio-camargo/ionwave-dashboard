@@ -1,0 +1,196 @@
+{
+  "headers": [
+    "S4: PASSET LIFECYCLE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "S4: PASSET LIFECYCLE": "How the two passets relate. When one dies and the other is born.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "THE LIFECYCLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "Phase",
+      "col_2": "What Happens",
+      "col_3": "Imagination Passet",
+      "col_4": "Implementation Passet",
+      "col_5": "Who's Working"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "1. SEED\n(Week 0)",
+      "col_2": "Nilo + Claude produce M0 thesis and S0-S5 architecture.",
+      "col_3": "BORN. First tabs created. Empty structure.",
+      "col_4": "Does not exist yet.",
+      "col_5": "Nilo, Claude"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "2. PRODUCTION\n(Weeks 1-8)",
+      "col_2": "Clusters activate. PM co-founders produce models. MC records. Experts review.",
+      "col_3": "GROWING. TUPs being drafted, refined, reviewed. V-tabs being graded.",
+      "col_4": "Does not exist yet.",
+      "col_5": "Full team (14 core + experts)"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "3. GRADING\n(Weeks 6-10)",
+      "col_2": "Experts grade all TUPs. A/B models are locked. C/D models revised. F models rebuilt.",
+      "col_3": "MATURING. Most V-tabs filled. Quality converging.",
+      "col_4": "Does not exist yet. But CoS is reading the imagination passet.",
+      "col_5": "Experts, PM co-founders, Nilo (sign-off)"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "4. LOCK\n(Week 10-12)",
+      "col_2": "All V-tabs are A or B. Nilo signs off. File freezes. Becomes reference.",
+      "col_3": "LOCKED. Never edited again. Published as textbook.",
+      "col_4": "BORN. CoS extracts tasks from locked imagination passet into time-block tabs.",
+      "col_5": "CoS, librarian, Claude"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "5. IMPLEMENTATION\n(Months 3-18)",
+      "col_2": "The business is being built. Tasks executed. Statuses updated daily.",
+      "col_3": "REFERENCE. People consult it for the \"why\" and \"how.\" Nobody edits it.",
+      "col_4": "ALIVE. Updated daily. Tasks checked off. New tasks added. The living document.",
+      "col_5": "CoS, full operating team"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "6. REVIEW\n(Quarterly)",
+      "col_2": "What worked? What didn't? What did the imagination passet get wrong?",
+      "col_3": "REFERENCE. Compared against actual results.",
+      "col_4": "Review notes added. Learnings captured. Feeds next Trade.",
+      "col_5": "CoS, Nilo"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "7. NEXT TRADE\n(when ready)",
+      "col_2": "Learnings from this Trade feed the imagination passet of the NEXT business.",
+      "col_3": "This Trade's imagination passet is archived. New Trade's imagination passet begins.",
+      "col_4": "This Trade's implementation passet continues (business still operating). New Trade starts fresh.",
+      "col_5": "Nilo, Claude, new team"
+    },
+    {
+      "S4: PASSET LIFECYCLE": "THE TWO FILES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "File 1: IonWave_Imagination_Passet.xlsx",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• This file (currently called IonWave_Ops_Model_v10_Organized.xlsx)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• 928 tabs. 3 levels. 18 clusters. 103 TUPs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Organized by domain.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Locks when all V-tabs are A/B.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Never edited after lock.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "File 2: IonWave_Implementation_Passet.xlsx",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• To be built by CoS (Week 10-12).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• ~75-80 tabs. 7 time clusters. ~60-80 TUPs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Organized by time × roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Updated daily while business is running.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "• Never locks (always alive).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "Together = The IonWave Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "The librarian maintains both files.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S4: PASSET LIFECYCLE": "The imagination passet is the brain. The implementation passet is the body.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "S4-Passet Lifecycle",
+  "sheet_index": 9
+}

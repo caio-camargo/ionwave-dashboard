@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "OPERATOR PERFORMANCE GRADING",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "OPERATOR PERFORMANCE GRADING": "Grade",
+      "col_2": "Definition",
+      "col_3": "Action"
+    },
+    {
+      "OPERATOR PERFORMANCE GRADING": "A",
+      "col_2": "Exceeds all targets",
+      "col_3": "Bonus eligible, increased equity"
+    },
+    {
+      "OPERATOR PERFORMANCE GRADING": "B",
+      "col_2": "Meets most targets",
+      "col_3": "On track, continue"
+    },
+    {
+      "OPERATOR PERFORMANCE GRADING": "C",
+      "col_2": "Below targets",
+      "col_3": "Performance improvement plan"
+    },
+    {
+      "OPERATOR PERFORMANCE GRADING": "D",
+      "col_2": "Significantly below",
+      "col_3": "Exit discussion"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Performance Grading",
+  "sheet_index": 739
+}

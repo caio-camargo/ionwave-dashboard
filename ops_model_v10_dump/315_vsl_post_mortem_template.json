@@ -1,0 +1,229 @@
+{
+  "headers": [
+    "VSL POST-MORTEM TEMPLATE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "VSL POST-MORTEM TEMPLATE": "Complete after every VSL test — win or lose",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "VSL IDENTIFICATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "VSL ID",
+      "col_2": "[e.g., IW-VSL-001]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Angle ID",
+      "col_2": "[from Angle Library]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Hook",
+      "col_2": "[the specific hook used]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Test Start Date",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Test End Date",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Total Spend",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Outcome",
+      "col_2": "Winner / Killed / Iterate",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "PERFORMANCE DATA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Metric",
+      "col_2": "Result",
+      "col_3": "Target",
+      "col_4": "vs Target"
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "CPA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "ROAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Hook Rate (3-sec)",
+      "col_2": null,
+      "col_3": "> 30%",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Hold Rate (complete)",
+      "col_2": null,
+      "col_3": "> 20%",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "CTR",
+      "col_2": null,
+      "col_3": "> 1.0%",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Purchases",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "AOV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "DROP-OFF ANALYSIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Timestamp",
+      "col_2": "% Watching",
+      "col_3": "Section",
+      "col_4": "What Happened"
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "0:03",
+      "col_2": null,
+      "col_3": "Hook",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "0:15",
+      "col_2": null,
+      "col_3": "Problem",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "0:30",
+      "col_2": null,
+      "col_3": "Agitation",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "1:00",
+      "col_2": null,
+      "col_3": "Mechanism",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "2:00",
+      "col_2": null,
+      "col_3": "Proof",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "3:00",
+      "col_2": null,
+      "col_3": "Offer",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "3:30",
+      "col_2": null,
+      "col_3": "CTA",
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "LEARNINGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Category",
+      "col_2": "Learning",
+      "col_3": "Confidence",
+      "col_4": "Applies To"
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Hook",
+      "col_2": null,
+      "col_3": "High/Med/Low",
+      "col_4": "This angle / All angles / All brands"
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Mechanism",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Proof Type",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Offer Structure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Avatar Match",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "VSL POST-MORTEM TEMPLATE": "Platform",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "VSL Post-Mortem Template",
+  "sheet_index": 315
+}

@@ -1,0 +1,73 @@
+{
+  "headers": [
+    "FUNNEL ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "FUNNEL ARCHITECTURE": "TRAFFIC (Meta primary, YouTube secondary)\n    |\n    v\n100 ADS (hooks: science/78 minerals, transformation, vs competitors, objection \"just seawater?\")\n    |\n    v\nADVERTORIAL (native feel - \"Why biohackers are ditching powder electrolytes\")\n    |\n    v\nLANDING PAGE (long-form: problem > solution > proof > offer > CTA)\n    |\n    v\nQUIZ FUNNEL (optional) (\"What's depleting your minerals?\")\n    |\n    v\nPRODUCT PAGE (subscription default, one-time option)\n    |\n    v\nCHECKOUT (bump: add second box 15% off)\n    |\n    v\nPOST-PURCHASE UPSELL (3-month subscription commitment, mineral drops)\n    |\n    v\nEMAIL NURTURE (subscription retention, referral program)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL ARCHITECTURE": "FUNNEL METRICS BY STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Stage",
+      "col_2": "Volume",
+      "col_3": "Rate",
+      "col_4": "Notes"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Ad Impressions",
+      "col_2": "1000",
+      "col_3": "100%",
+      "col_4": "Starting point"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Ad Clicks (1.5% CTR)",
+      "col_2": "15",
+      "col_3": "1.5%",
+      "col_4": "Hook working"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "LP Visitors",
+      "col_2": "15",
+      "col_3": "100% of clicks",
+      "col_4": null
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Add to Cart (15%)",
+      "col_2": "2.25",
+      "col_3": "15%",
+      "col_4": "Offer resonates"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Checkout Start (60%)",
+      "col_2": "1.35",
+      "col_3": "60%",
+      "col_4": "Price acceptable"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Purchase (70%)",
+      "col_2": "0.95",
+      "col_3": "70%",
+      "col_4": "~1 order per 1000 impressions"
+    },
+    {
+      "FUNNEL ARCHITECTURE": "Subscription (40%)",
+      "col_2": "0.38",
+      "col_3": "40%",
+      "col_4": "LTV play working"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Funnel",
+  "sheet_index": 401
+}

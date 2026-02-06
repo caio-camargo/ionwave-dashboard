@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "WIN CRITERIA DEFINITION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WIN CRITERIA DEFINITION": "What exactly does 'winning' mean for this trade?",
+      "col_2": null
+    },
+    {
+      "WIN CRITERIA DEFINITION": "PRIMARY WIN CONDITION",
+      "col_2": null
+    },
+    {
+      "WIN CRITERIA DEFINITION": "$100K MRR within 12 months of launch",
+      "col_2": null
+    },
+    {
+      "WIN CRITERIA DEFINITION": "SECONDARY WIN CONDITIONS",
+      "col_2": null
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Unit economics",
+      "col_2": "CAC < $40, LTV > $120, LTV:CAC > 3x"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Subscription rate",
+      "col_2": "> 50% of customers on subscription"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Churn",
+      "col_2": "< 8% monthly"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Gross margin",
+      "col_2": "> 65%"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "LOSS CONDITIONS (Kill Criteria)",
+      "col_2": null
+    },
+    {
+      "WIN CRITERIA DEFINITION": "CAC > $60 for 30 days",
+      "col_2": "Acquisition economics broken"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Churn > 15% for 2 months",
+      "col_2": "Retention economics broken"
+    },
+    {
+      "WIN CRITERIA DEFINITION": "Cash runway < 60 days",
+      "col_2": "Financial death spiral"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Win Criteria Definition",
+  "sheet_index": 861
+}

@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "POST-LAUNCH 72-HOUR PROTOCOL",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "What to watch first 3 days",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "HOUR 0-24: SURVIVAL MODE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Check every 2 hours",
+      "col_2": "Ads serving, orders processing, no errors",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Critical metrics",
+      "col_2": "CTR (>1%), CPC (<$2), any purchases",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Red flags",
+      "col_2": "Ad rejected, checkout broken, tracking not firing",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Communication",
+      "col_2": "Update groupchat every 4 hours",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "HOUR 24-48: STABILIZE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Check every 4 hours",
+      "col_2": "Performance trends, any anomalies",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Key decisions",
+      "col_2": "Kill any ad with ROAS <0.5x after $50",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Fulfillment",
+      "col_2": "Verify first orders shipped",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Support",
+      "col_2": "Respond to any tickets within 4 hours",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "HOUR 48-72: OPTIMIZE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Check 3x daily",
+      "col_2": "Morning, midday, evening",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Scale decisions",
+      "col_2": "Increase budget 20% on winners",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Kill decisions",
+      "col_2": "Cut anything with ROAS <1x after $100",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Document",
+      "col_2": "What's working, what's not, hypotheses",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "72-HOUR SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Metric",
+      "col_2": "Target",
+      "col_3": "Actual",
+      "col_4": "Status"
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Total Orders",
+      "col_2": "15+",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Revenue",
+      "col_2": "$500+",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "CAC",
+      "col_2": "<$50",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "ROAS",
+      "col_2": ">1x",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Fulfillment",
+      "col_2": "100%",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-LAUNCH 72-HOUR PROTOCOL": "Support Response",
+      "col_2": "<4hr",
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Post-Launch 72hr Protocol",
+  "sheet_index": 524
+}

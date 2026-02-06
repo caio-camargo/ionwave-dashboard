@@ -1,0 +1,87 @@
+{
+  "headers": [
+    "COMMUNICATION LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "COMMUNICATION LOG": "Record of all CM communications with stakeholders",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMMUNICATION LOG": "Date",
+      "col_2": "Time",
+      "col_3": "With",
+      "col_4": "Channel",
+      "col_5": "Topic",
+      "col_6": "Key Points",
+      "col_7": "Action Items",
+      "col_8": "Follow-up"
+    },
+    {
+      "COMMUNICATION LOG": "WHY LOG EVERYTHING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMMUNICATION LOG": "• CYA - Proof of what was communicated when",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMMUNICATION LOG": "• Continuity - Next CM can see history",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMMUNICATION LOG": "• Patterns - See trends in communication",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "COMMUNICATION LOG": "• Disputes - Evidence if disagreements arise",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "CM Communication Log",
+  "sheet_index": 726
+}

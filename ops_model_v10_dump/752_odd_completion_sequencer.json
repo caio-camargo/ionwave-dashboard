@@ -1,0 +1,553 @@
+{
+  "headers": [
+    "ODD COMPLETION SEQUENCER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ODD COMPLETION SEQUENCER": "Exact order to complete this ops model — what depends on what",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "HOW TO USE THIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "This is the BUILD ORDER. Do things in this sequence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Each phase unlocks the next. Don't skip ahead.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Some tasks can run in parallel (marked ||).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Dependencies are explicit — if X requires Y, finish Y first.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 0: FOUNDATION (Week 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "0.1",
+      "col_2": "Read Start Here + ODD Compilation Map",
+      "col_3": "None",
+      "col_4": "2 hrs",
+      "col_5": "Understand what you're building"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "0.2",
+      "col_2": "Read Thesis tab completely",
+      "col_3": "0.1",
+      "col_4": "1 hr",
+      "col_5": "Understand the business"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "0.3",
+      "col_2": "Read Unit Economics tab",
+      "col_3": "0.2",
+      "col_4": "1 hr",
+      "col_5": "Understand the math"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "0.4",
+      "col_2": "Read 30-Day Plan",
+      "col_3": "0.3",
+      "col_4": "1 hr",
+      "col_5": "Understand the timeline"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "0.5",
+      "col_2": "Read Decision Authority",
+      "col_3": "0.4",
+      "col_4": "30 min",
+      "col_5": "Know your lane"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 1: CUSTOMER & MARKET (Week 1-2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.1",
+      "col_2": "Complete ICP tab",
+      "col_3": "Phase 0",
+      "col_4": "2 hrs",
+      "col_5": "Customer defined"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.2",
+      "col_2": "Complete Psychographics tab",
+      "col_3": "1.1",
+      "col_4": "2 hrs",
+      "col_5": "Deep customer understanding"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.3",
+      "col_2": "Start Customer Interviews (first 10)",
+      "col_3": "1.1",
+      "col_4": "5 hrs",
+      "col_5": "Real customer data"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.4",
+      "col_2": "Complete Voice of Customer Database",
+      "col_3": "1.3",
+      "col_4": "2 hrs",
+      "col_5": "VOC captured"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.5",
+      "col_2": "Complete Competitor Analysis",
+      "col_3": "1.1 ||",
+      "col_4": "3 hrs",
+      "col_5": "Competitive landscape"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "1.6",
+      "col_2": "Validate/update Thesis based on 1.1-1.5",
+      "col_3": "1.5",
+      "col_4": "1 hr",
+      "col_5": "Thesis refined"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 2: PRODUCT (Week 2-3)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.1",
+      "col_2": "Finalize Formulation tab",
+      "col_3": "1.6",
+      "col_4": "3 hrs",
+      "col_5": "Product spec locked"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.2",
+      "col_2": "Complete Supplier Research",
+      "col_3": "2.1",
+      "col_4": "4 hrs",
+      "col_5": "Supplier shortlist"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.3",
+      "col_2": "Get supplier quotes, select supplier",
+      "col_3": "2.2",
+      "col_4": "2-5 days",
+      "col_5": "Supplier selected"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.4",
+      "col_2": "Order samples",
+      "col_3": "2.3",
+      "col_4": "1-2 weeks wait",
+      "col_5": "Samples in hand"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.5",
+      "col_2": "Complete Label/Packaging spec",
+      "col_3": "2.1 ||",
+      "col_4": "3 hrs",
+      "col_5": "Label ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "2.6",
+      "col_2": "Finalize pricing (Unit Economics)",
+      "col_3": "2.3",
+      "col_4": "2 hrs",
+      "col_5": "Price set"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 3: CREATIVE & MESSAGING (Week 2-3, parallel with Phase 2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.1",
+      "col_2": "Complete Hook Library (20+ hooks)",
+      "col_3": "1.4",
+      "col_4": "3 hrs",
+      "col_5": "Hook bank ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.2",
+      "col_2": "Complete Angle Library",
+      "col_3": "1.4",
+      "col_4": "2 hrs",
+      "col_5": "Angles defined"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.3",
+      "col_2": "Write 10 ad scripts",
+      "col_3": "3.1, 3.2",
+      "col_4": "4 hrs",
+      "col_5": "Scripts ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.4",
+      "col_2": "Create creative briefs for UGC",
+      "col_3": "3.3",
+      "col_4": "2 hrs",
+      "col_5": "Briefs ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.5",
+      "col_2": "Source UGC creators",
+      "col_3": "3.4",
+      "col_4": "3 hrs",
+      "col_5": "Creators contracted"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.6",
+      "col_2": "Receive UGC content",
+      "col_3": "3.5",
+      "col_4": "1-2 weeks",
+      "col_5": "Raw content in hand"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "3.7",
+      "col_2": "Edit ads (5-10 variations)",
+      "col_3": "3.6",
+      "col_4": "4 hrs",
+      "col_5": "Ads ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 4: WEBSITE & CONVERSION (Week 3-4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.1",
+      "col_2": "Set up Shopify store",
+      "col_3": "2.6",
+      "col_4": "2 hrs",
+      "col_5": "Store exists"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.2",
+      "col_2": "Build homepage using Page Section Templates",
+      "col_3": "4.1, 3.1",
+      "col_4": "4 hrs",
+      "col_5": "Homepage live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.3",
+      "col_2": "Build product page",
+      "col_3": "4.2",
+      "col_4": "3 hrs",
+      "col_5": "Product page live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.4",
+      "col_2": "Build checkout flow",
+      "col_3": "4.3",
+      "col_4": "2 hrs",
+      "col_5": "Checkout working"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.5",
+      "col_2": "Set up payment processing",
+      "col_3": "4.4",
+      "col_4": "1 hr",
+      "col_5": "Can take payments"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.6",
+      "col_2": "Add legal pages (ToS, Privacy)",
+      "col_3": "4.1 ||",
+      "col_4": "1 hr",
+      "col_5": "Compliant"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.7",
+      "col_2": "Connect domain",
+      "col_3": "4.1",
+      "col_4": "30 min",
+      "col_5": "Domain live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "4.8",
+      "col_2": "Test full purchase flow",
+      "col_3": "4.5, 4.7",
+      "col_4": "1 hr",
+      "col_5": "Flow verified"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 5: RETENTION & EMAIL (Week 3-4, parallel)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.1",
+      "col_2": "Set up Klaviyo",
+      "col_3": "4.1",
+      "col_4": "1 hr",
+      "col_5": "Klaviyo connected"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.2",
+      "col_2": "Build Welcome Series (6 emails)",
+      "col_3": "5.1, 3.1",
+      "col_4": "4 hrs",
+      "col_5": "Welcome flow live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.3",
+      "col_2": "Build Abandoned Cart flow",
+      "col_3": "5.2",
+      "col_4": "2 hrs",
+      "col_5": "Cart flow live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.4",
+      "col_2": "Build Abandoned Checkout flow",
+      "col_3": "5.3",
+      "col_4": "2 hrs",
+      "col_5": "Checkout flow live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.5",
+      "col_2": "Build Post-Purchase flow",
+      "col_3": "5.4",
+      "col_4": "3 hrs",
+      "col_5": "Post-purchase live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.6",
+      "col_2": "Set up segments",
+      "col_3": "5.1",
+      "col_4": "1 hr",
+      "col_5": "Segments ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "5.7",
+      "col_2": "Test all flows",
+      "col_3": "5.5",
+      "col_4": "1 hr",
+      "col_5": "Flows verified"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 6: LAUNCH PREP (Week 4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.1",
+      "col_2": "Inventory received and checked",
+      "col_3": "2.4",
+      "col_4": "1 hr",
+      "col_5": "Inventory ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.2",
+      "col_2": "Inventory sent to 3PL (or ready to ship)",
+      "col_3": "6.1",
+      "col_4": "1-3 days",
+      "col_5": "Fulfillment ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.3",
+      "col_2": "Set up ad accounts (Meta, TikTok)",
+      "col_3": "3.7",
+      "col_4": "2 hrs",
+      "col_5": "Ad accounts ready"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.4",
+      "col_2": "Upload ads to ad accounts",
+      "col_3": "6.3",
+      "col_4": "2 hrs",
+      "col_5": "Ads uploaded"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.5",
+      "col_2": "Set up tracking (pixels, GA)",
+      "col_3": "4.8",
+      "col_4": "2 hrs",
+      "col_5": "Tracking live"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.6",
+      "col_2": "Final QA: full customer journey test",
+      "col_3": "6.2, 6.5, 5.7",
+      "col_4": "2 hrs",
+      "col_5": "Everything works"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "6.7",
+      "col_2": "Update ODD Status Tracker",
+      "col_3": "6.6",
+      "col_4": "30 min",
+      "col_5": "Status current"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "✅ TABLE SET COMPLETE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Ready to turn on ads and start selling.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "PHASE 7: FIRST BLOOD (Week 5-8)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "Step",
+      "col_2": "Task",
+      "col_3": "Depends On",
+      "col_4": "Time",
+      "col_5": "Output"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.1",
+      "col_2": "Launch ads at $50-100/day",
+      "col_3": "Table Set",
+      "col_4": "Ongoing",
+      "col_5": "Ads running"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.2",
+      "col_2": "Daily: Check metrics, adjust",
+      "col_3": "7.1",
+      "col_4": "30 min/day",
+      "col_5": "Data collected"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.3",
+      "col_2": "First sale analysis",
+      "col_3": "7.2",
+      "col_4": "1 hr",
+      "col_5": "First sale understood"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.4",
+      "col_2": "Customer interviews (next 15)",
+      "col_3": "7.3",
+      "col_4": "Ongoing",
+      "col_5": "More VOC"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.5",
+      "col_2": "Weekly creative refresh",
+      "col_3": "7.2",
+      "col_4": "4 hrs/week",
+      "col_5": "Fresh creative"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.6",
+      "col_2": "Iterate on landing page",
+      "col_3": "7.2",
+      "col_4": "2 hrs/week",
+      "col_5": "Page optimized"
+    },
+    {
+      "ODD COMPLETION SEQUENCER": "7.7",
+      "col_2": "Hit 100 customers milestone",
+      "col_3": "7.1-7.6",
+      "col_4": "4-6 weeks",
+      "col_5": "First Blood achieved"
+    }
+  ],
+  "row_count": 77,
+  "sheet_name": "ODD Completion Sequencer",
+  "sheet_index": 752
+}

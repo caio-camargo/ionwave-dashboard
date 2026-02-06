@@ -1,0 +1,97 @@
+{
+  "headers": [
+    "FAILURE MODE ANALYSIS (FMEA)",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Every way this could fail and prevention measures",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Failure Mode",
+      "col_2": "Cause",
+      "col_3": "Effect",
+      "col_4": "Severity",
+      "col_5": "Likelihood",
+      "col_6": "Detection",
+      "col_7": "RPN",
+      "col_8": "Mitigation"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Supplier fails",
+      "col_2": "Quality issue, bankruptcy",
+      "col_3": "No inventory",
+      "col_4": "9",
+      "col_5": "3",
+      "col_6": "5",
+      "col_7": "135",
+      "col_8": "Backup supplier"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Ad account banned",
+      "col_2": "Policy violation",
+      "col_3": "No acquisition",
+      "col_4": "9",
+      "col_5": "4",
+      "col_6": "3",
+      "col_7": "108",
+      "col_8": "Diversify, comply"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Cash runs out",
+      "col_2": "Overspend, slow sales",
+      "col_3": "Business dies",
+      "col_4": "10",
+      "col_5": "3",
+      "col_6": "7",
+      "col_7": "210",
+      "col_8": "Runway monitoring"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Operator quits",
+      "col_2": "Burnout, better offer",
+      "col_3": "Operations stop",
+      "col_4": "8",
+      "col_5": "4",
+      "col_6": "5",
+      "col_7": "160",
+      "col_8": "Documentation"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "Product recall",
+      "col_2": "Quality issue",
+      "col_3": "Brand damage",
+      "col_4": "9",
+      "col_5": "2",
+      "col_6": "4",
+      "col_7": "72",
+      "col_8": "QC process"
+    },
+    {
+      "FAILURE MODE ANALYSIS (FMEA)": "RPN = Severity × Likelihood × Detection (focus on RPN > 100)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Failure Mode Analysis",
+  "sheet_index": 937
+}

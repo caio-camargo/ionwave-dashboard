@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Cluster: SCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "What we measure. Research variables (hours/TUP, grades, questions, revision rate). Dashboard design.",
+      "col_2": null
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Section",
+      "col_2": "Content"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Domain Overview",
+      "col_2": "[What is Studio Analytics? 2-3 paragraphs of context for someone new to this domain.]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Key Terms",
+      "col_2": "[Define 5-10 domain-specific terms the flash contributor needs to know.]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Current Best Practices",
+      "col_2": "[How do leading companies/practitioners handle studio analytics?]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Common Pitfalls",
+      "col_2": "[What do most people get wrong about studio analytics?]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Benchmarks",
+      "col_2": "[What does good look like? What numbers/metrics define success?]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Reference Examples",
+      "col_2": "[2-3 real companies or projects that do this well. What can we learn?]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "What Experts Care About",
+      "col_2": "[When a studio analytics expert reviews this, what will they look for?]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "Recommended Reading",
+      "col_2": "[3-5 articles, books, or resources for deeper understanding.]"
+    },
+    {
+      "IP-S20: Studio Analytics — INDUSTRY PERSPECTIVES": "How This Connects to Other TUPs",
+      "col_2": "[Which other TUPs does S20 depend on or feed into?]"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "IP-S20",
+  "sheet_index": 1009
+}

@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-F3: YouTube Playbook — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Cluster: FCL-0 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Scripting, filming, editing, thumbnails, SEO. Dan James/Thakos as reference model. Batch recording.",
+      "col_2": null
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "TUP",
+      "col_2": "F3: YouTube Playbook"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Cluster",
+      "col_2": "FCL-0"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Owner",
+      "col_2": "Funnel Builder"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Description",
+      "col_2": "Scripting, filming, editing, thumbnails, SEO. Dan James/Thakos as reference model. Batch recording."
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-F3: YouTube Playbook — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the YouTube Playbook model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-F3",
+  "sheet_index": 1103
+}

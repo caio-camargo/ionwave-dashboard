@@ -33,9 +33,9 @@
     <a href="views/tup-navigator.html">🗺️ TUP Navigator</a>
     <a href="views/hypotheses-tracker.html">🧪 Hypotheses Tracker</a>
     <a href="views/financial-forecast.html">📊 Financial Forecast</a>
-    <a href="views/strategic-foundation.html">01 Strategic Foundation</a>
-    <a href="views/market-intelligence.html">02 Market Intelligence</a>
-    <a href="views/customer-research.html">03 Customer Research</a>
+    <a href="views/m0-trade-thesis.html">M0 Trade Thesis</a>
+    <a href="views/m26-competitive-intel.html">M26 Competitive Intel</a>
+    <a href="views/m27-customer-research.html">M27 Customer Research</a>
   </nav>
 
   <div id="stats-ribbon" class="stats-ribbon">
@@ -58,10 +58,10 @@
     </div>
 
     <div class="section-divider">
-      <h2 class="section-title">Trade Files Overview</h2>
+      <h2 class="section-title">Migrated TUPs</h2>
     </div>
 
-    <div id="files-grid" class="section-grid grid-3">
+    <div id="tup-cards" class="section-grid grid-3">
       <div class="loading">Loading...</div>
     </div>
 
@@ -177,8 +177,11 @@
       }
 
       // ── Stats Ribbon ──
-      const migratedCount = Object.values(manifest.files).filter(f => f.status === 'migrated' || f.status === 'migrating').length;
-      const auditedCount = Object.values(manifest.files).filter(f => f.audited).length;
+      const crosswalk = await DataLoader.load('crosswalk.json');
+      const totalTUPs = crosswalk ? Object.keys(crosswalk.tup_to_files).length : 41;
+      const migratedTUPs = 3; // M0, M26, M27
+      const notMigratedTUPs = totalTUPs - migratedTUPs;
+
       const avgQuality = Object.values(manifest.files)
         .filter(f => f.quality_score)
         .map(f => parseFloat(f.quality_score))
@@ -186,20 +189,20 @@
 
       document.getElementById('stats-ribbon').innerHTML = `
         <div class="stat-box accent-info">
-          <div class="stat-value">${manifest.total_files}</div>
-          <div class="stat-label">Trade Files</div>
-        </div>
-        <div class="stat-box">
-          <div class="stat-value">${manifest.total_sheets}</div>
-          <div class="stat-label">Total Sheets</div>
+          <div class="stat-value">${totalTUPs}</div>
+          <div class="stat-label">Total TUPs</div>
         </div>
         <div class="stat-box accent-success">
-          <div class="stat-value">${migratedCount}</div>
-          <div class="stat-label">Migrated to JSON</div>
+          <div class="stat-value">${migratedTUPs}</div>
+          <div class="stat-label">Migrated TUPs</div>
         </div>
         <div class="stat-box accent-warning">
-          <div class="stat-value">${auditedCount}</div>
-          <div class="stat-label">Audited</div>
+          <div class="stat-value">${notMigratedTUPs}</div>
+          <div class="stat-label">Not Migrated</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value">${manifest.total_files}</div>
+          <div class="stat-label">Bootstrap Files</div>
         </div>
         <div class="stat-box">
           <div class="stat-value">${avgQuality ? avgQuality.toFixed(1) : '--'}</div>
@@ -264,48 +267,61 @@
         clusterEl.innerHTML = Renderers.emptyState('Crosswalk data not available');
       }
 
-      // ── Trade Files Grid ──
-      const filesGrid = document.getElementById('files-grid');
-      let filesHtml = '';
+      // ── Migrated TUPs Grid ──
+      const tupCardsEl = document.getElementById('tup-cards');
+      const crosswalk = await DataLoader.load('crosswalk.json');
 
-      // Group by domain
-      for (const [domainId, domain] of Object.entries(manifest.domains)) {
-        filesHtml += `<div class="card" style="grid-column: 1 / -1;">
-          <div class="card-header">${Renderers.escapeHtml(domain.label)}</div>
-        </div>`;
+      if (crosswalk) {
+        const migratedTUPs = [
+          {
+            code: 'M0',
+            name: 'Trade Thesis',
+            fileId: '01_strategic_foundation',
+            viewUrl: 'views/m0-trade-thesis.html'
+          },
+          {
+            code: 'M26',
+            name: 'Competitive Intel',
+            fileId: '02_market_intelligence',
+            viewUrl: 'views/m26-competitive-intel.html'
+          },
+          {
+            code: 'M27',
+            name: 'Customer Research',
+            fileId: '03a_customer_research_icp',
+            viewUrl: 'views/m27-customer-research.html'
+          }
+        ];
 
-        for (const fileId of domain.files) {
-          const file = manifest.files[fileId];
+        let tupHtml = '';
+        for (const tup of migratedTUPs) {
+          const file = manifest.files[tup.fileId];
           if (!file) continue;
 
-          const viewFile = fileId.replace(/_/g, '-');
-          const hasView = file.status === 'migrated' || file.status === 'migrating';
-
-          filesHtml += `<div class="card">
+          tupHtml += `<div class="card">
             <div class="card-header">
-              <span>${Renderers.escapeHtml(file.title)}</span>
-              ${Renderers.statusBadge(file.status)}
+              <span style="font-weight:600; color:var(--color-info);">${tup.code}</span>
+              <span class="badge badge-success">Migrated</span>
             </div>
             <div class="card-body">
+              <div style="font-size:var(--font-size-base); font-weight:600; color:var(--text-primary); margin-bottom:var(--gap-sm);">
+                ${Renderers.escapeHtml(tup.name)}
+              </div>
               <div style="display:flex; justify-content:space-between; margin-bottom:var(--gap-sm);">
-                <span style="font-size:var(--font-size-xs); color:var(--text-dim);">T${file.tier} / P${file.priority}</span>
+                <span style="font-size:var(--font-size-xs); color:var(--text-dim);">Quality</span>
                 ${Renderers.qualityScore(file.quality_score)}
               </div>
               <div style="font-size:var(--font-size-xs); color:var(--text-dim); margin-bottom:var(--gap-sm);">
                 ${file.sheet_count} sheets
-                ${file.danilo_tup ? `<span style="margin-left:var(--gap-sm); padding:1px 6px; border-radius:3px; background:var(--color-info-bg); color:var(--color-info); font-size:0.6rem;">${file.danilo_tup}</span>` : ''}
-                ${file.danilo_cluster ? `<span style="margin-left:2px; padding:1px 6px; border-radius:3px; background:var(--bg-tertiary); color:var(--text-dim); font-size:0.6rem;">${file.danilo_cluster}</span>` : ''}
               </div>
-              ${file.feeds_into && file.feeds_into.length > 0 ? `
-                <div style="font-size:var(--font-size-xs); color:var(--text-dim); margin-bottom:var(--gap-xs);">Feeds into:</div>
-                ${Renderers.dependencyTags(file.feeds_into)}
-              ` : ''}
-              ${hasView ? `<a href="views/${viewFile}.html" style="display:block; margin-top:var(--gap-sm); font-size:var(--font-size-xs); color:var(--color-info);">View details &rarr;</a>` : ''}
+              <a href="${tup.viewUrl}" style="display:block; margin-top:var(--gap-sm); font-size:var(--font-size-xs); color:var(--color-info);">View TUP &rarr;</a>
             </div>
           </div>`;
         }
+        tupCardsEl.innerHTML = tupHtml;
+      } else {
+        tupCardsEl.innerHTML = Renderers.emptyState('Crosswalk data not available');
       }
-      filesGrid.innerHTML = filesHtml;
 
       // ── Dependency Chains ──
       const depChains = document.getElementById('dep-chains');

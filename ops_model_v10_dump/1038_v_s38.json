@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S38: Risk Management — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S38: Risk Management — VERIFICATION": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "What can go wrong. Legal risk, IP risk, coordination failure, key person risk. Mitigation plans.",
+      "col_2": null
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade risk management model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "B (Good)",
+      "col_2": "Solid risk management model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "C (Needs Work)",
+      "col_2": "Risk Management model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "D (Major Issues)",
+      "col_2": "Risk Management model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "F (Fail)",
+      "col_2": "Risk Management model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S38: Risk Management — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S38",
+  "sheet_index": 1038
+}

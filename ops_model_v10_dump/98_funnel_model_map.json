@@ -1,0 +1,253 @@
+{
+  "headers": [
+    "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Nilo as Dan Crowley. Content → recruiting → selling the model. This is the meta business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "WHAT THIS LEVEL IS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "The funnel level is Nilo doing the Dan Crowley play:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "1. Making content that demonstrates the system (Dan Crowley the creator)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "2. Running the funnel that recruits people into the system (Dan Crowley the recruiter)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "This is both the first business AND the recruiting engine.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "The content recruits. The recruits build businesses. The businesses become content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Nilo doesn't need a team for this. This is Nilo + Claude + the Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Everything else flows from this level working.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Model",
+      "col_2": "Name",
+      "col_3": "What It Covers",
+      "col_4": "Dan Crowley Parallel"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F0",
+      "col_2": "Funnel Thesis",
+      "col_3": "Why Nilo is making content. What the funnel is trying to achieve. Who it's for. What success looks like.",
+      "col_4": "Why Dan Crowley makes YouTube videos"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F1",
+      "col_2": "Personal Brand",
+      "col_3": "Nilo's positioning. YC/Greylock-backed founder + coordination theory + Atlantic Forest. The unique story.",
+      "col_4": "Dan Crowley's personal brand as a closer/sales expert"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F2",
+      "col_2": "Content Strategy",
+      "col_3": "What content Nilo makes. YouTube (long form), Twitter/X (threads), LinkedIn (professional), podcasts (guest). Cadence. Topics. Format.",
+      "col_4": "Dan Crowley's YouTube channel + Twitter"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F3",
+      "col_2": "YouTube Playbook",
+      "col_3": "Nilo's YouTube specifically. Scripting (Claude helps). Hooks. Thumbnails. SEO. Publishing cadence. The first 20 videos.",
+      "col_4": "Dan Crowley's YouTube funnel (the core)"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F4",
+      "col_2": "Lead Magnets",
+      "col_3": "The advertorial engine output. Fernando Oliver swipe file model. One lead magnet per Trade model. Distribution.",
+      "col_4": "Fernando Oliver's swipe file / Olympia case study"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F5",
+      "col_2": "Opt-In & Landing Pages",
+      "col_3": "Kit (ConvertKit) landing pages. One per lead magnet. Template. Copy. Design. A/B testing.",
+      "col_4": "joinolympia.com opt-in page"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F6",
+      "col_2": "Email Sequences",
+      "col_3": "Nurture sequences per audience. PM co-founder sequence. Expert sequence. Investor sequence. General audience.",
+      "col_4": "Client Ascension email nurture"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F7",
+      "col_2": "Cold Email System",
+      "col_3": "Outbound recruiting via cold email. ListKit-style infrastructure. Templates per role. Volume. Deliverability. Follow-up.",
+      "col_4": "Dan Crowley co-founded ListKit for this exact thing"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F8",
+      "col_2": "Platform Recruiting",
+      "col_3": "LinkedIn, Upwork, AngelList, Twitter DMs, university job boards. Where to post. How to screen. How to funnel to MC conversation.",
+      "col_4": "Client Ascension's outbound + inbound combo"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F9",
+      "col_2": "Pass-the-Bottom Recruiting",
+      "col_3": "Every person recruited helps recruit the next. MC tells their network. PM co-founders tell theirs. Natural viral loop.",
+      "col_4": "Client Ascension student referrals"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F10",
+      "col_2": "Application System",
+      "col_3": "Typeform/Tally. Role-specific applications. Screening criteria. Auto-responses. Pipeline management.",
+      "col_4": "Client Ascension application process"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F11",
+      "col_2": "MC Conversation System",
+      "col_3": "How the MC conducts recruiting conversations. Conversation guides. Recording setup. Evaluation criteria.",
+      "col_4": "Client Ascension sales calls"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F12",
+      "col_2": "Investor Funnel",
+      "col_3": "Specific funnel for investors. Content → site access → watch the series → talk to Nilo. Different from recruiting funnel.",
+      "col_4": "Dan Crowley's high-ticket close process"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F13",
+      "col_2": "Funnel Analytics",
+      "col_3": "Tracking every stage. Content views → opt-ins → applications → conversations → offers → accepts. Conversion rates. Bottlenecks.",
+      "col_4": "Client Ascension tracks every metric"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F14",
+      "col_2": "Course / Info Product",
+      "col_3": "The Trade as a course. \"How to build your own operating model.\" Packaging. Pricing. Distribution.",
+      "col_4": "Client Ascension IS a course/coaching product"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F15",
+      "col_2": "Done-For-You Service",
+      "col_3": "Building custom Trades for other companies. Pricing. Scope. Delivery. Quality standards.",
+      "col_4": "Client Ascension's agency services"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F16",
+      "col_2": "Community",
+      "col_3": "The community of people who have gone through the funnel. Slack/Discord. Content. Events. The network.",
+      "col_4": "Client Ascension community"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F17",
+      "col_2": "Podcast / Interview Series",
+      "col_3": "Nilo as guest on other podcasts. Nilo interviewing interesting people. Cross-pollination with MC content.",
+      "col_4": "Dan Crowley podcast appearances"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F18",
+      "col_2": "Social Proof System",
+      "col_3": "Testimonials. Case studies. Cast page as social proof. \"Here's everyone who's working on this.\"",
+      "col_4": "Client Ascension testimonials / Olympia case study"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F19",
+      "col_2": "Funnel Operations",
+      "col_3": "Tools. Automation. Who does what. How the funnel runs day-to-day without Nilo doing everything.",
+      "col_4": "Client Ascension ops (Andre Haykal runs this)"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F20",
+      "col_2": "Funnel Scaling",
+      "col_3": "What happens when the funnel works. More content. More lead magnets. More cold email. More platforms. Paid ads (post-funding).",
+      "col_4": "Client Ascension scaling to $800K/mo"
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "THE SEQUENCE FOR NILO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Week 0: F0 (thesis) + F1 (personal brand) + F2 (content strategy) = know what you're making and why",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Week 1: F3 (first YouTube video) + F4 (first lead magnet) + F5 (first landing page)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Week 2: F6 (email sequence live) + F7 (cold email starts) + F8 (platforms posted)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Week 3: F9 (first recruits start recruiting) + F10 (applications flowing) + F11 (MC conversations starting)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Week 4+: F12 (investor funnel activated once content library exists)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "Nilo does F0-F5 with Claude in Week 0-1. That's the seed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "F7-F8 (cold email + platforms) can run in parallel — admin handles volume, Nilo writes templates.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "FUNNEL LEVEL — FULL MODEL MAP (F0-F20)": "By Week 3, the funnel is self-sustaining: content recruits → recruits produce → production becomes content.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 40,
+  "sheet_name": "Funnel Model Map",
+  "sheet_index": 98
+}

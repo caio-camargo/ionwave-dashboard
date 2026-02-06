@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "CHANNEL LANDSCAPE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "CHANNEL LANDSCAPE": "All acquisition channels — when to use, economics, requirements",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "Channel",
+      "col_2": "Stage to Use",
+      "col_3": "Min Budget",
+      "col_4": "CAC Range",
+      "col_5": "Creative Type",
+      "col_6": "Learning Curve",
+      "col_7": "Best For"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Meta (FB/IG)",
+      "col_2": "Day 1",
+      "col_3": "$3K/mo",
+      "col_4": "$25-50",
+      "col_5": "UGC, static, video",
+      "col_6": "Medium",
+      "col_7": "Broad testing, scale"
+    },
+    {
+      "CHANNEL LANDSCAPE": "TikTok",
+      "col_2": "Day 1",
+      "col_3": "$3K/mo",
+      "col_4": "$20-45",
+      "col_5": "Native/organic feel",
+      "col_6": "Medium",
+      "col_7": "Younger demo, viral"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Google Search",
+      "col_2": "After PMF",
+      "col_3": "$2K/mo",
+      "col_4": "$30-60",
+      "col_5": "Text ads",
+      "col_6": "Low",
+      "col_7": "Intent capture"
+    },
+    {
+      "CHANNEL LANDSCAPE": "YouTube",
+      "col_2": "After PMF",
+      "col_3": "$5K/mo",
+      "col_4": "$35-70",
+      "col_5": "Long-form video",
+      "col_6": "High",
+      "col_7": "Education, brand"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Podcast",
+      "col_2": "After PMF",
+      "col_3": "$5K+/episode",
+      "col_4": "$40-80",
+      "col_5": "Host read script",
+      "col_6": "Low",
+      "col_7": "Trust, niche audiences"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Influencer",
+      "col_2": "Day 1",
+      "col_3": "$500-5K/post",
+      "col_4": "$30-60",
+      "col_5": "Creator content",
+      "col_6": "Medium",
+      "col_7": "Social proof, content"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Taboola/Outbrain",
+      "col_2": "Testing",
+      "col_3": "$2K/mo",
+      "col_4": "$20-40",
+      "col_5": "Advertorial/listicle",
+      "col_6": "High",
+      "col_7": "Arbitrage, scale"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Affiliate",
+      "col_2": "After PMF",
+      "col_3": "Rev share",
+      "col_4": "$25-45",
+      "col_5": "Their content",
+      "col_6": "Low",
+      "col_7": "Incremental, low risk"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Amazon Ads",
+      "col_2": "If on Amazon",
+      "col_3": "$2K/mo",
+      "col_4": "$20-35",
+      "col_5": "Product ads",
+      "col_6": "Medium",
+      "col_7": "Amazon customers"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Email (acquisition)",
+      "col_2": "Testing",
+      "col_3": "$1-3/lead",
+      "col_4": "$35-60",
+      "col_5": "Lead magnet",
+      "col_6": "Medium",
+      "col_7": "Owned audience"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Connected TV",
+      "col_2": "Scale",
+      "col_3": "$10K+/mo",
+      "col_4": "$50-100",
+      "col_5": "TV spot",
+      "col_6": "High",
+      "col_7": "Brand awareness"
+    },
+    {
+      "CHANNEL LANDSCAPE": "Retail Media",
+      "col_2": "If retail",
+      "col_3": "$5K+/mo",
+      "col_4": "Varies",
+      "col_5": "Product ads",
+      "col_6": "Medium",
+      "col_7": "In-store conversion"
+    },
+    {
+      "CHANNEL LANDSCAPE": "CHANNEL SEQUENCING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "PHASE 1 (Launch): Meta + TikTok + Influencer seeding",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "→ Goal: Find winning creative, prove CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "PHASE 2 (PMF): Add Google Search + Podcast testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "→ Goal: Capture intent, build brand",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "PHASE 3 (Scale): Add YouTube + Affiliate + Native",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "→ Goal: Diversify, reduce platform risk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "PHASE 4 (Expansion): Add Amazon + Retail Media + CTV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "CHANNEL LANDSCAPE": "→ Goal: New customer pools, brand building",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Channel Landscape",
+  "sheet_index": 595
+}

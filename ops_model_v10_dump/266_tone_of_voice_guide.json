@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "TONE OF VOICE GUIDE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "TONE OF VOICE GUIDE": "How does IonWave sound?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TONE OF VOICE GUIDE": "WE ARE: Confident, approachable, premium, curious",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TONE OF VOICE GUIDE": "WE ARE NOT: Bro-y, aggressive, cheap, clinical",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "TONE OF VOICE GUIDE": "Context",
+      "col_2": "ON-BRAND",
+      "col_3": "OFF-BRAND"
+    },
+    {
+      "TONE OF VOICE GUIDE": "Product desc",
+      "col_2": "\"Real ocean minerals\"",
+      "col_3": "\"EXTREME ELECTROLYTES!!!\""
+    },
+    {
+      "TONE OF VOICE GUIDE": "Email subject",
+      "col_2": "\"The mineral most miss\"",
+      "col_3": "\"🔥 DONT MISS THIS 🔥\""
+    },
+    {
+      "TONE OF VOICE GUIDE": "CTA",
+      "col_2": "\"Try IonWave\"",
+      "col_3": "\"BUY NOW BEFORE GONE!!!\""
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Tone of Voice Guide",
+  "sheet_index": 266
+}

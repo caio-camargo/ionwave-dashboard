@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "TUP CAPITAL ALLOCATION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "TUP CAPITAL ALLOCATION": "How capital is allocated and tracked per TUP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "TUP: IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "ALLOCATION HISTORY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Date",
+      "col_2": "Tranche",
+      "col_3": "Amount",
+      "col_4": "Purpose",
+      "col_5": "Approved By",
+      "col_6": "Stage"
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "ALLOCATION SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Total Allocated: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Total Deployed: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Remaining: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Allocation by Category:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Product/Inventory: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Ads/Marketing: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Operations: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Other: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "NEXT TRANCHE CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "To unlock next capital tranche:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "☐ [Milestone 1]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "☐ [Milestone 2]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "☐ [Milestone 3]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP CAPITAL ALLOCATION": "Amount available upon completion: $___",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "TUP Capital Allocation",
+  "sheet_index": 692
+}

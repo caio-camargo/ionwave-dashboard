@@ -1,0 +1,76 @@
+{
+  "headers": [
+    "AUTONOMY CHECKLIST"
+  ],
+  "rows": [
+    {
+      "AUTONOMY CHECKLIST": "What must be true for operator to be fully autonomous"
+    },
+    {
+      "AUTONOMY CHECKLIST": "KNOWLEDGE"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Completed all training modules"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Passed certification assessment"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Demonstrated competency in each area"
+    },
+    {
+      "AUTONOMY CHECKLIST": "ACCESS"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ All platform logins"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Bank/payment access"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Supplier contacts"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ 3PL portal"
+    },
+    {
+      "AUTONOMY CHECKLIST": "AUTHORITY"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Spending limits defined"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Decision rights documented"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Escalation paths clear"
+    },
+    {
+      "AUTONOMY CHECKLIST": "SUPPORT"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ CM assigned and available"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Studio check-in scheduled"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Emergency contacts known"
+    },
+    {
+      "AUTONOMY CHECKLIST": "DOCUMENTATION"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ All SOPs accessible"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Playbooks reviewed"
+    },
+    {
+      "AUTONOMY CHECKLIST": "☐ Reference models available"
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Autonomy Checklist",
+  "sheet_index": 873
+}

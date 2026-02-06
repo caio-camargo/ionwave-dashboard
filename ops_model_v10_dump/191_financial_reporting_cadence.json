@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "FINANCIAL REPORTING CADENCE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "FINANCIAL REPORTING CADENCE": "What reports, to whom, how often.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "FINANCIAL REPORTING CADENCE": "Report",
+      "col_2": "Frequency",
+      "col_3": "Audience"
+    },
+    {
+      "FINANCIAL REPORTING CADENCE": "Daily Metrics",
+      "col_2": "Daily",
+      "col_3": "Operator, CM"
+    },
+    {
+      "FINANCIAL REPORTING CADENCE": "Weekly P&L",
+      "col_2": "Weekly",
+      "col_3": "Operator, CM, Studio"
+    },
+    {
+      "FINANCIAL REPORTING CADENCE": "Monthly Financials",
+      "col_2": "Monthly",
+      "col_3": "Studio, Investors"
+    },
+    {
+      "FINANCIAL REPORTING CADENCE": "Quarterly Review",
+      "col_2": "Quarterly",
+      "col_3": "Board"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Financial Reporting Cadence",
+  "sheet_index": 191
+}

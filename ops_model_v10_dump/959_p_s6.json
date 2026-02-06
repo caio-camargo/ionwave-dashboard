@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S6: Recruiting Engine — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "How flash contributors are sourced. Platform strategy, cold email, referrals, pass-the-bottom.",
+      "col_2": null
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "TUP",
+      "col_2": "S6: Recruiting Engine"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-1"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Owner",
+      "col_2": "Librarian"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Description",
+      "col_2": "How flash contributors are sourced. Platform strategy, cold email, referrals, pass-the-bottom."
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S6: Recruiting Engine — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Recruiting Engine model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S6",
+  "sheet_index": 959
+}

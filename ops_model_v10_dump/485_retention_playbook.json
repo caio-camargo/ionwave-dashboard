@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "RETENTION PLAYBOOK",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "RETENTION PLAYBOOK": "Subscription discount",
+      "col_2": "15% off for subscribers"
+    },
+    {
+      "RETENTION PLAYBOOK": "Loyalty program",
+      "col_2": "Points for purchases, referrals"
+    },
+    {
+      "RETENTION PLAYBOOK": "Win-back sequence",
+      "col_2": "10% → 15% → 20% over 90 days"
+    },
+    {
+      "RETENTION PLAYBOOK": "VIP program",
+      "col_2": "Early access, exclusive products"
+    },
+    {
+      "RETENTION PLAYBOOK": "Referral program",
+      "col_2": "Give $10, get $10"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Retention Playbook",
+  "sheet_index": 485
+}

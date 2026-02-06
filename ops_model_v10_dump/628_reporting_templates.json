@@ -1,0 +1,34 @@
+{
+  "headers": [
+    "REPORTING TEMPLATES"
+  ],
+  "rows": [
+    {
+      "REPORTING TEMPLATES": "Standardized daily/weekly/monthly report formats."
+    },
+    {
+      "REPORTING TEMPLATES": "DAILY METRICS (Slack):"
+    },
+    {
+      "REPORTING TEMPLATES": "• Orders: [#] | Revenue: $[X] | Ad spend: $[X] | ROAS: [X]x"
+    },
+    {
+      "REPORTING TEMPLATES": "WEEKLY REPORT:"
+    },
+    {
+      "REPORTING TEMPLATES": "• Revenue this week vs last"
+    },
+    {
+      "REPORTING TEMPLATES": "• Ad performance summary"
+    },
+    {
+      "REPORTING TEMPLATES": "• Key wins and blockers"
+    },
+    {
+      "REPORTING TEMPLATES": "• Priorities for next week"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Reporting Templates",
+  "sheet_index": 628
+}

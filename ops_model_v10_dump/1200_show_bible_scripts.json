@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "These are NOT word-for-word scripts. They're beat sheets — the MC's personality fills the rest.",
+      "col_2": null
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "SCRIPT 1: ENTRANCE CONVERSATION — FIRST PM ONBOARDING",
+      "col_2": null
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "COLD OPEN (30 sec)",
+      "col_2": "\"This is the first person who said yes to building a company for equity in something that doesn't exist yet. Let's find out why.\" [cut to best moment from conversation]"
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "MC INTRO (2 min)",
+      "col_2": "MC on camera alone. \"Day [X]. We've been building this operating model for [X] weeks. Today we have our first PM Co-Founder. Their name is [Name]. They're going to own [Cluster]. Here's what you need to know going in: they found us through [channel], they have [background], and they're working for 0.3% equity in a company with zero revenue. I asked them why. Here's what they said.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THE CONVERSATION — BLOCK 1: WHO ARE YOU (15-20 min)",
+      "col_2": "MC asks: background, what they do for their day job, how they heard about this, what made them click. NOT a job interview. A real conversation. MC should be genuinely curious, not performing curiosity."
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "BLOCK 2: WHY'D YOU SAY YES (15-20 min)",
+      "col_2": "MC asks: what about this was compelling, what scared them, what do they think their equity will be worth, what happens if this fails. MC pushes on the real answer, not the polished answer. \"No but really — 0.3% equity. Why.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "BLOCK 3: WHAT ARE YOU BUILDING (20-30 min)",
+      "col_2": "MC pulls up the cluster on screen. PM explains what they're going to produce. Claude is referenced — \"this is what Claude drafts, this is what I refine.\" MC asks: what does done look like? What would a C grade look like vs an A? What's the hardest tab in your cluster?"
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "BLOCK 4: WHAT SCARES YOU (10-15 min)",
+      "col_2": "MC asks: what could go wrong, what if the expert gives you a D, what if Claude produces garbage, what if you hate this in a week. Real fears, not hypotheticals."
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "CLOSING (5 min)",
+      "col_2": "MC summarizes: \"[Name] is building [cluster]. They start tomorrow. We'll check in at the midpoint and again when the expert reviews. If you want to join them — link in description.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "POST-ROLL (30 sec)",
+      "col_2": "\"Next episode: [preview]. Subscribe. This is being built in real time.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "SCRIPT 2: EXPERT REVIEW — LIVE GRADING SESSION",
+      "col_2": null
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "COLD OPEN",
+      "col_2": "\"Today an expert reviews our first completed cluster. They can give it an A, a B, a C, or a D. A D means the PM's equity is at risk. This is not rehearsed.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "MC INTRO (2 min)",
+      "col_2": "\"This is [Expert Name]. They're a [credentials]. They agreed to review [Cluster] as an advisor. They have never seen this work before this moment. They don't know the PM. They don't owe us anything. Let's see what they think.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "EXPERT FIRST IMPRESSIONS (15-20 min)",
+      "col_2": "Expert opens the TUP on screen (or MC shares screen). Expert reads through C-tabs in real time. MC watches and asks: \"What are you looking for? What stands out? What's missing?\" Let the expert think out loud."
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "DEEP DIVE ON SPECIFIC TABS (30-45 min)",
+      "col_2": "Expert goes tab by tab on the ones that matter most. Identifies claims that aren't supported. Notes where the analysis is strong. Flags gaps. MC translates for the audience: \"For people watching who aren't in [domain], what does this mean?\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THE GRADE (10 min)",
+      "col_2": "Expert gives the grade. Explains why. MC asks: \"What would make this an A? What would have made this a D?\" If the grade is C or below, MC asks: \"What does the PM need to fix?\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "PM REACTION (optional, 15-20 min)",
+      "col_2": "If PM is available: bring them on after the expert. \"You just got a [grade]. How do you feel? Do you agree?\" Real-time reaction. If PM disagrees with expert, let them argue. That's content."
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "CLOSING",
+      "col_2": "MC: \"Cluster [X] is [locked/returned for revision]. [Expert Name] — thank you. If you know someone who should be on this show, link in description.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "SCRIPT 3: DAILY HIGHLIGHT — SAMPLE",
+      "col_2": null
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "COLD OPEN (10 sec)",
+      "col_2": "\"Day 34. Three things happened. Let's go.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THING 1 (3 min)",
+      "col_2": "\"Elaine filed the completed tabs for Cluster 3. That's [X] tabs locked into the Trade. We're at [X] total out of [target]. Progress bar: [visual].\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THING 2 (3 min)",
+      "col_2": "\"Our second PM started today. [Name] is taking on [Cluster]. You'll meet them in tomorrow's long-form. First impression: [MC's honest take].\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THING 3 (3 min)",
+      "col_2": "\"An expert we wanted for Cluster 4 said no. Their reason: [honest reason]. What we're doing about it: [honest plan]. If you know a [domain] expert, DM me.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "THE NUMBER (1 min)",
+      "col_2": "\"Today's number: 47. That's how many C-tabs are in production right now across all clusters. Yesterday it was 41. We're accelerating.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "TOMORROW (1 min)",
+      "col_2": "\"Tomorrow: [Expert Name] reviews Cluster 2 live. That episode drops at [time]. If you want to see a real expert give a real grade on real work — subscribe.\""
+    },
+    {
+      "MC SHOW BIBLE — SAMPLE EPISODE SCRIPTS": "SIGN-OFF (10 sec)",
+      "col_2": "\"Day 34. That's a wrap. See you tomorrow.\" [consistent outro]"
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Show Bible - Scripts",
+  "sheet_index": 1200
+}

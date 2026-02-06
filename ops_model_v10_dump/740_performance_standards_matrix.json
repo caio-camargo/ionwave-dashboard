@@ -1,0 +1,71 @@
+{
+  "headers": [
+    "PERFORMANCE STANDARDS MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PERFORMANCE STANDARDS MATRIX": "Exact metrics for each role - no ambiguity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "Role",
+      "col_2": "Metric",
+      "col_3": "Exceeds",
+      "col_4": "Meets",
+      "col_5": "Below",
+      "col_6": "Fails"
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "Operator",
+      "col_2": "Revenue vs Target",
+      "col_3": ">120%",
+      "col_4": "80-120%",
+      "col_5": "60-80%",
+      "col_6": "<60%"
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "Operator",
+      "col_2": "CAC",
+      "col_3": "<$30",
+      "col_4": "$30-40",
+      "col_5": "$40-50",
+      "col_6": ">$50"
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "Operator",
+      "col_2": "Documentation",
+      "col_3": "100%",
+      "col_4": "90%+",
+      "col_5": "80-90%",
+      "col_6": "<80%"
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "CM",
+      "col_2": "Audit completion",
+      "col_3": "100%",
+      "col_4": "95%+",
+      "col_5": "90-95%",
+      "col_6": "<90%"
+    },
+    {
+      "PERFORMANCE STANDARDS MATRIX": "CM",
+      "col_2": "Issue detection",
+      "col_3": ">90%",
+      "col_4": "80-90%",
+      "col_5": "70-80%",
+      "col_6": "<70%"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Performance Standards Matrix",
+  "sheet_index": 740
+}

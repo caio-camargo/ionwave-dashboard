@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "How operators are matched to businesses. Skills mapping, incentive alignment, performance prediction.",
+      "col_2": null
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Section",
+      "col_2": "Content"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Domain Overview",
+      "col_2": "[What is Operator Matching? 2-3 paragraphs of context for someone new to this domain.]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Key Terms",
+      "col_2": "[Define 5-10 domain-specific terms the flash contributor needs to know.]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Current Best Practices",
+      "col_2": "[How do leading companies/practitioners handle operator matching?]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Common Pitfalls",
+      "col_2": "[What do most people get wrong about operator matching?]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Benchmarks",
+      "col_2": "[What does good look like? What numbers/metrics define success?]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Reference Examples",
+      "col_2": "[2-3 real companies or projects that do this well. What can we learn?]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "What Experts Care About",
+      "col_2": "[When a operator matching expert reviews this, what will they look for?]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "Recommended Reading",
+      "col_2": "[3-5 articles, books, or resources for deeper understanding.]"
+    },
+    {
+      "IP-S26: Operator Matching — INDUSTRY PERSPECTIVES": "How This Connects to Other TUPs",
+      "col_2": "[Which other TUPs does S26 depend on or feed into?]"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "IP-S26",
+  "sheet_index": 1065
+}

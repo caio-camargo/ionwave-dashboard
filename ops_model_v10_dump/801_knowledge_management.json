@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "KNOWLEDGE MANAGEMENT",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "KNOWLEDGE MANAGEMENT": "How we capture learnings. Where runbooks live.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "KNOWLEDGE MANAGEMENT": "RUNBOOK INDEX:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "KNOWLEDGE MANAGEMENT": "Runbook",
+      "col_2": "Location",
+      "col_3": "Owner"
+    },
+    {
+      "KNOWLEDGE MANAGEMENT": "Daily Ad Check",
+      "col_2": "[Link]",
+      "col_3": "Operator"
+    },
+    {
+      "KNOWLEDGE MANAGEMENT": "Weekly Reporting",
+      "col_2": "[Link]",
+      "col_3": "Operator"
+    },
+    {
+      "KNOWLEDGE MANAGEMENT": "Refund Processing",
+      "col_2": "[Link]",
+      "col_3": "Operator"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Knowledge Management",
+  "sheet_index": 801
+}

@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "NASA PLAN TEMPLATE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "NASA PLAN TEMPLATE": "The master project plan format - aerospace-grade rigor",
+      "col_2": null
+    },
+    {
+      "NASA PLAN TEMPLATE": "1. EXECUTIVE SUMMARY",
+      "col_2": "One page: objective, approach, success criteria, risks"
+    },
+    {
+      "NASA PLAN TEMPLATE": "2. MISSION OBJECTIVES",
+      "col_2": "Primary and secondary objectives with measurable targets"
+    },
+    {
+      "NASA PLAN TEMPLATE": "3. TECHNICAL APPROACH",
+      "col_2": "How we will achieve objectives"
+    },
+    {
+      "NASA PLAN TEMPLATE": "4. WORK BREAKDOWN STRUCTURE",
+      "col_2": "All deliverables decomposed to tasks"
+    },
+    {
+      "NASA PLAN TEMPLATE": "5. SCHEDULE",
+      "col_2": "Timeline with milestones and dependencies"
+    },
+    {
+      "NASA PLAN TEMPLATE": "6. RESOURCES",
+      "col_2": "People, tools, budget required"
+    },
+    {
+      "NASA PLAN TEMPLATE": "7. RISK MANAGEMENT",
+      "col_2": "Risks identified, mitigations, contingencies"
+    },
+    {
+      "NASA PLAN TEMPLATE": "8. QUALITY ASSURANCE",
+      "col_2": "How we verify work meets standards"
+    },
+    {
+      "NASA PLAN TEMPLATE": "9. COMMUNICATIONS",
+      "col_2": "Who gets what information when"
+    },
+    {
+      "NASA PLAN TEMPLATE": "10. CONFIGURATION MANAGEMENT",
+      "col_2": "How we track changes"
+    },
+    {
+      "NASA PLAN TEMPLATE": "11. REVIEWS & GATES",
+      "col_2": "Decision points and approval process"
+    },
+    {
+      "NASA PLAN TEMPLATE": "12. APPENDICES",
+      "col_2": "Supporting documentation"
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "NASA Plan Template",
+  "sheet_index": 940
+}

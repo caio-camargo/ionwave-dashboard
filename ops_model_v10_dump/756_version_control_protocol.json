@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "VERSION CONTROL PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "VERSION CONTROL PROTOCOL": "How we handle updates to the model itself",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "VERSION NUMBERING",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Major (v8 → v9)",
+      "col_2": "Structural changes, new frameworks, major tab additions"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Minor (v9.0 → v9.1)",
+      "col_2": "New tabs, significant content updates"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Patch (v9.1.0 → v9.1.1)",
+      "col_2": "Bug fixes, typos, small corrections"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "CHANGE PROCESS",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "1. Identify change needed",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "2. Check Tab Ownership - do you have rights?",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "3. If minor: make change, log in Changes Tracker",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "4. If major: 5-6 bullets to owner/approver first",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "5. After approval: make change",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "6. Update Changes Tracker with: date, tab, what, why, who",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "7. If structural: increment version number",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "8. Archive previous version in /Archive folder",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "WHAT REQUIRES VERSION INCREMENT",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "New tab added",
+      "col_2": "Minor increment (v9.1 → v9.2)"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Tab deleted/archived",
+      "col_2": "Minor increment"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Tab renamed",
+      "col_2": "Patch increment"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Major content rewrite",
+      "col_2": "Minor increment"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "New framework/methodology",
+      "col_2": "Major increment"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Typo/formatting fix",
+      "col_2": "No increment, just log"
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "FILE NAMING",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Current: IonWave_Ops_Model_v9.xlsx",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "After minor: IonWave_Ops_Model_v9.1.xlsx",
+      "col_2": null
+    },
+    {
+      "VERSION CONTROL PROTOCOL": "Archive: /Archive/IonWave_Ops_Model_v9.0_20260130.xlsx",
+      "col_2": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Version Control Protocol",
+  "sheet_index": 756
+}

@@ -1,0 +1,130 @@
+{
+  "headers": [
+    "LEGIBILITY ARCHITECTURE"
+  ],
+  "rows": [
+    {
+      "LEGIBILITY ARCHITECTURE": "How the Trade becomes navigable for every person in the chain."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "THE CONSTRAINT"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "688 tabs. 41 models. 7 clusters. Proprietary vocabulary."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "TUPs, semesters, compliance managers, delegation depth, school model, trade scorecard."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "This is too weird for too many people."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Most PMs will be confused. Most experts will be overwhelmed."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Most investors will check out. Most CEO candidates will wonder what they're looking at."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "The system is correct. The complexity is real. A business IS this complex."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "The problem is not the system. The problem is the interface."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "THE SOLUTION: CLAUDE IS THE INTERFACE"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Nobody navigates the raw spreadsheet."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Every person in the labor chain interacts with the Trade through Claude."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Claude knows the entire 688-tab model. Claude knows the taxonomy. Claude knows which tab"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "answers which question. Claude can synthesize across models, translate proprietary concepts"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "into plain language, produce domain-specific views for domain-specific audiences."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "The spreadsheet is the database."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Claude is the UI."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "This means the Trade can be as complex as it needs to be. Adding more tabs, more models,"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "more nuance, more depth — none of this increases cognitive load on any human."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "It only increases the quality of Claude's answers."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "The legibility constraint dissolves. Complexity becomes an asset, not a liability."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "IMPLEMENTATION"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "1. Claude Project: Upload entire Trade (all 688 tabs) as context for a Claude Project."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Every person in the chain gets access to this project."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "They ask questions in natural language. Claude answers from the Trade."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "2. Role-Specific Views: Claude generates different views for different roles."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Expert sees: their domain cluster, summarized, with specific review questions."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "Investor sees: thesis, financials, unit economics, team plan, competitive position."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "CEO sees: weekly priorities, semester goals, what to do today."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "CM sees: grading data, metrics, milestone progress, compliance status."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "3. Trade Navigation Commands: Standard prompts anyone can use."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "'Show me Model X' — Claude summarizes that model."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "'What is [proprietary term]?' — Claude explains from taxonomy."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "'What should I do this week?' — Claude reads Trade Execution Tracker + School Calendar."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "'Grade the business' — Claude reads all metrics tabs and produces Trade Scorecard."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "'Prepare an investor update' — Claude synthesizes across relevant models."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "4. Quality Loop: Every interaction with Claude surfaces gaps in the Trade."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "When someone asks a question Claude can't answer from the Trade,"
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "that's a missing tab. PM adds it. Trade gets more complete. Claude gets smarter."
+    },
+    {
+      "LEGIBILITY ARCHITECTURE": "The Trade is a living document that improves through use."
+    }
+  ],
+  "row_count": 40,
+  "sheet_name": "Legibility Architecture",
+  "sheet_index": 53
+}

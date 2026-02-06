@@ -1,0 +1,23 @@
+{
+  "headers": [
+    "SUPPLIER QUOTES TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SUPPLIER QUOTES TRACKER": "Supplier",
+      "col_2": "MOQ",
+      "col_3": "Price/Unit",
+      "col_4": "Lead Time",
+      "col_5": "Status",
+      "col_6": "Contact"
+    }
+  ],
+  "row_count": 1,
+  "sheet_name": "Supplier Quotes",
+  "sheet_index": 235
+}

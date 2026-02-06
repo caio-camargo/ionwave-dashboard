@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "FRAUD PREVENTION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "FRAUD PREVENTION": "Shopify Fraud Analysis",
+      "col_2": "Built-in fraud detection on orders"
+    },
+    {
+      "FRAUD PREVENTION": "Address verification",
+      "col_2": "AVS matching for credit cards"
+    },
+    {
+      "FRAUD PREVENTION": "Velocity checks",
+      "col_2": "Multiple orders from same IP"
+    },
+    {
+      "FRAUD PREVENTION": "Chargeback monitoring",
+      "col_2": "Track and dispute fraudulent claims"
+    },
+    {
+      "FRAUD PREVENTION": "Bot protection",
+      "col_2": "Captcha on checkout if needed"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Fraud Prevention",
+  "sheet_index": 742
+}

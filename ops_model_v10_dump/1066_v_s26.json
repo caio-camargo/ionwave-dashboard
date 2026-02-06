@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S26: Operator Matching — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "How operators are matched to businesses. Skills mapping, incentive alignment, performance prediction.",
+      "col_2": null
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade operator matching model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "B (Good)",
+      "col_2": "Solid operator matching model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "C (Needs Work)",
+      "col_2": "Operator Matching model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "D (Major Issues)",
+      "col_2": "Operator Matching model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "F (Fail)",
+      "col_2": "Operator Matching model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S26: Operator Matching — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S26",
+  "sheet_index": 1066
+}

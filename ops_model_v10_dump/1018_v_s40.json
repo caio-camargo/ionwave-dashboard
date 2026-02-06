@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-S40: Command Center — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-S40: Command Center — VERIFICATION": "Cluster: SCL-2 | Owner: Conductor",
+      "col_2": null
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Master status view. Which clusters are active, which TUPs are in production/review/verified/locked.",
+      "col_2": null
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade command center model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "B (Good)",
+      "col_2": "Solid command center model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "C (Needs Work)",
+      "col_2": "Command Center model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "D (Major Issues)",
+      "col_2": "Command Center model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "F (Fail)",
+      "col_2": "Command Center model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-S40: Command Center — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-S40",
+  "sheet_index": 1018
+}

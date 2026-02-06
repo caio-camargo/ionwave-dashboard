@@ -1,0 +1,259 @@
+{
+  "headers": [
+    "S41: PROBLEM DOCUMENT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "S41: PROBLEM DOCUMENT": "The problems the coordination artifact (Trade) is designed to solve. This IS the research motivation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Source: Vicioso Problems & Solutions tab (68 problems, 10 categories) + IonWave-specific additions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "WHY THIS TAB EXISTS IN THE RESEARCH PAPER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "The white paper claims the Trade replaces centralized management. These are the specific problems it claims to solve.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Every design decision in the Trade traces to one of these problems. If a feature doesn't solve a problem, delete it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "For researchers: this is the complete problem space. The Trade architecture is our proposed solution.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "PROBLEM TAXONOMY (from Vicioso model)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "ID",
+      "col_2": "Problem",
+      "col_3": "Why It Matters",
+      "col_4": "Trade Solution",
+      "col_5": "Paper Section"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "M1",
+      "col_2": "Company creation is artisanal — can't hire someone to finish/execute",
+      "col_3": "Can't scale, can't delegate, everything depends on one person",
+      "col_4": "Standardize into TUPs with tab structure, definitions, grading — anyone can execute from the artifact alone",
+      "col_5": "§1 Introduction"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "M2",
+      "col_2": "Solution must be cheap and easy — no elaborate enterprise systems",
+      "col_3": "Complex solutions won't be maintained or adopted",
+      "col_4": "Spreadsheet + templates + AI co-pilot = entire system, no custom software",
+      "col_5": "§2 Architecture"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "M3",
+      "col_2": "Unclear what's AI frontier vs organizational complexity",
+      "col_3": "Might be solving wrong problems or using wrong tools",
+      "col_4": "Human-in-the-loop design; AI co-pilot augments, doesn't replace",
+      "col_5": "§3 Theoretical Foundations"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "D1",
+      "col_2": "Each TUP has dependencies to other TUPs — can't edit in isolation",
+      "col_3": "Change in one place breaks another",
+      "col_4": "Cross-TUP Dependencies tab traces flows; librarian maintains integrity",
+      "col_5": "§2 Architecture"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "D4",
+      "col_2": "Working memory overflow — 103 TUPs exceed human capacity",
+      "col_3": "Can't see the whole system, miss connections",
+      "col_4": "Cluster structure groups related TUPs; conductor sequences production",
+      "col_5": "§4 Organizational Model"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "D6",
+      "col_2": "Attention fragmentation — constant context-switching destroys flow",
+      "col_3": "Lose train of thought, miss connections",
+      "col_4": "Flash sprints: one cluster at a time, 2-3 week focus",
+      "col_5": "§4 Organizational Model"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Q1",
+      "col_2": "Tabs not completed — placeholders, empty columns, missing logic",
+      "col_3": "Work never finishes, quality varies",
+      "col_4": "Expert grading with cumulative TUP grade — nothing locks below B",
+      "col_5": "§5 Experiment (RQ1)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Q5",
+      "col_2": "No shared vocabulary — terms mean different things across TUPs",
+      "col_3": "Miscommunication compounds into failures",
+      "col_4": "Conceptual Index with 500-700 word definitions for every key term",
+      "col_5": "§2 Architecture"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Q7",
+      "col_2": "100 rounds of feedback until something is right",
+      "col_3": "Time and cost blow up, fatigue sets in",
+      "col_4": "Templates encode learning — AI starts at round 95, not round 1",
+      "col_5": "§5 Experiment (H4)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "L2",
+      "col_2": "Lost context between sessions — reasoning and decisions disappear",
+      "col_3": "Repeat same mistakes, rediscover same insights",
+      "col_4": "Artifact IS the context. Librarian routes. MC produces the live show — the unfolding story of the Trade being built becomes the content itself.",
+      "col_5": "§3 Flash Teams Extended"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "L7",
+      "col_2": "Knowledge stays in one person's head",
+      "col_3": "Bus factor = 1, scale impossible",
+      "col_4": "Lesson from PM A → template → PM B uses without founder",
+      "col_5": "§3 Swarm Intelligence"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "E1",
+      "col_2": "Spreadsheet not easy for human to read vs narrative",
+      "col_3": "Can't understand WHY or HOW from rows",
+      "col_4": "MC produces a live show — the unfolding story of the company being born. Every conversation is an episode. Recruiting calls, expert reviews, daily updates, investor pitches — it's all one continuous documentary happening in real time. The show makes the artifact legible and the process visible.",
+      "col_5": "§4 Organizational Model"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "S1",
+      "col_2": "Founder is the bottleneck for execution",
+      "col_3": "Can't scale, burnout, single point of failure",
+      "col_4": "Flash teams execute from artifact; founder sets initial conditions only",
+      "col_5": "§5 Experiment (RQ3)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "S5",
+      "col_2": "System can't run without founder for 30 days",
+      "col_3": "No vacation, no leverage",
+      "col_4": "THIS IS THE CORE RESEARCH QUESTION — can the artifact replace the founder?",
+      "col_5": "§5 Experiment (H3)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "H6",
+      "col_2": "Don't have someone to manage contributors",
+      "col_3": "Founder becomes bottleneck for all decisions",
+      "col_4": "Artifact manages: templates + grading rubric + verification items = self-managing",
+      "col_5": "§3 Mechanism Design"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "H7",
+      "col_2": "Not actually aligned when they start — 'complete' differs between people",
+      "col_3": "Misalignment discovered too late",
+      "col_4": "TUP structure defines exactly what 'complete' means; ACP grading provides objective criteria",
+      "col_5": "§5 Experiment (RQ1)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "H9",
+      "col_2": "Async communication overhead — questions add days/weeks to timeline",
+      "col_3": "2-week sprint becomes 6 weeks",
+      "col_4": "AI co-pilot answers most questions; librarian routes the rest; zero meetings",
+      "col_5": "§5 Experiment (H4)"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "C1",
+      "col_2": "Can't coordinate 40-60 strangers without meetings",
+      "col_3": "Traditional management doesn't scale to flash teams",
+      "col_4": "Coordination artifact replaces meetings — all info in the tabs, AI co-pilot provides context",
+      "col_5": "§1 Introduction"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "C2",
+      "col_2": "No way to grade distributed work consistently",
+      "col_3": "Quality varies wildly without centralized review",
+      "col_4": "Multi-grader system: AI (advisory) → Librarian (structural) → Expert (substance)",
+      "col_5": "Grading System tab"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "C3",
+      "col_2": "Imagination and implementation feel disconnected from individual TUPs",
+      "col_3": "Contributors don't know where their work fits in the lifecycle",
+      "col_4": "TUP Lifecycle Phases — every TUP has explicit phase, every phase has explicit gate",
+      "col_5": "TUP Lifecycle Phases tab"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "C4",
+      "col_2": "One-time infrastructure tasks (bank account, entity, 1Password) fall through cracks",
+      "col_3": "Blocking dependencies not tracked because they don't belong to any TUP",
+      "col_4": "Cross-TUP Dependencies tab with dedicated one-time system tasks section",
+      "col_5": "Cross-TUP Dependencies tab"
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "TOTAL: 21 problems mapped (from 68 in Vicioso model + 4 IonWave-specific).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "The full Vicioso problem set (68 problems, 10 categories) provides the theoretical grounding.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "IonWave is the test case. If the Trade solves these 21 problems in practice, Paper 2 has its results.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "FULL PROBLEM SET: See Origin Problems tab (65 problems, 9 categories) for the complete problem taxonomy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Origin source: spreadsheet_automation_problems_solutions.md (Nilo's raw thinking document)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "S41: PROBLEM DOCUMENT": "Vicioso source: vicioso_full__3_.xlsx → Problems & Solutions tab (68 problems, institutional framing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "S41-Problem Doc",
+  "sheet_index": 1181
+}

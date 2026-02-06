@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S5: Studio Governance — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Decision-making rules for the studio. How equity is allocated, how disputes are resolved, how the DAO operates.",
+      "col_2": null
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "TUP",
+      "col_2": "S5: Studio Governance"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-0"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Owner",
+      "col_2": "Nilo"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Description",
+      "col_2": "Decision-making rules for the studio. How equity is allocated, how disputes are resolved, how the DAO operates."
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S5: Studio Governance — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Studio Governance model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S5",
+  "sheet_index": 947
+}

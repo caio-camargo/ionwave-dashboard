@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "SCHOOL CALENDAR — YEAR 1",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SCHOOL CALENDAR — YEAR 1": "The rhythm of the business as a school year",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Event",
+      "col_2": "When",
+      "col_3": "Who",
+      "col_4": "What Happens",
+      "col_5": "Output"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "DAILY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Stand-up",
+      "col_2": "Every day, 15 min",
+      "col_3": "All students + Dean",
+      "col_4": "What I did yesterday, what I'm doing today, blockers",
+      "col_5": "Slack post"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Metrics Check",
+      "col_2": "Every day, 10 min",
+      "col_3": "Dean",
+      "col_4": "Review dashboard: CPA, CVR, revenue, anomalies",
+      "col_5": "Flag if off-track"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "WEEKLY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Program Review",
+      "col_2": "Every Monday, 30 min",
+      "col_3": "Dean + program owners",
+      "col_4": "TUP progress, blockers, decisions needed",
+      "col_5": "Updated TUP Assignment Board"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Metrics Report",
+      "col_2": "Every Friday",
+      "col_3": "Dean → Studio",
+      "col_4": "Weekly numbers, wins, misses, next week plan",
+      "col_5": "Weekly Report (Slack or doc)"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "SEMESTER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Enrollment (Week 1)",
+      "col_2": "Semester start",
+      "col_3": "All",
+      "col_4": "Set goals, assign TUPs, distribute curriculum",
+      "col_5": "Semester Plan"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Midterm (Week 6)",
+      "col_2": "Mid-semester",
+      "col_3": "Dean + Studio",
+      "col_4": "Progress review, course corrections, kill decisions",
+      "col_5": "Midterm Report"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Finals (Week 12)",
+      "col_2": "Semester end",
+      "col_3": "All + CM",
+      "col_4": "Grade everything, document lessons, plan next semester",
+      "col_5": "Semester Report Card"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "ANNUAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Annual Review",
+      "col_2": "End of Semester 4",
+      "col_3": "Dean + Studio + CM",
+      "col_4": "Full year assessment, individual promotions, program restructuring",
+      "col_5": "Annual Report + Promotion Decisions"
+    },
+    {
+      "SCHOOL CALENDAR — YEAR 1": "Commencement",
+      "col_2": "When business hits self-sustaining",
+      "col_3": "All",
+      "col_4": "The business graduates — can run without Studio oversight",
+      "col_5": "Graduation = Trade Grade A sustained for 2 semesters"
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "School Calendar",
+  "sheet_index": 687
+}

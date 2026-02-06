@@ -1,0 +1,259 @@
+{
+  "headers": [
+    "KEYWORD RESEARCH",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "KEYWORD RESEARCH": "Target keywords by intent and priority",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "KEYWORD CATEGORIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Category",
+      "col_2": "Intent",
+      "col_3": "Examples",
+      "col_4": "Priority",
+      "col_5": "Content Type",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Brand",
+      "col_2": "Navigational",
+      "col_3": "ionwave, ionwave electrolytes",
+      "col_4": "High",
+      "col_5": "Homepage, About",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Product",
+      "col_2": "Transactional",
+      "col_3": "buy electrolytes, electrolyte powder",
+      "col_4": "High",
+      "col_5": "Product pages",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Problem",
+      "col_2": "Informational",
+      "col_3": "signs of dehydration, electrolyte deficiency",
+      "col_4": "Medium",
+      "col_5": "Blog posts",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Comparison",
+      "col_2": "Commercial",
+      "col_3": "LMNT vs Drip Drop, best electrolytes",
+      "col_4": "High",
+      "col_5": "Comparison pages",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "How-to",
+      "col_2": "Informational",
+      "col_3": "how to stay hydrated, keto electrolytes",
+      "col_4": "Medium",
+      "col_5": "Guides",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Ingredient",
+      "col_2": "Informational",
+      "col_3": "benefits of magnesium, sea minerals",
+      "col_4": "Medium",
+      "col_5": "Blog posts",
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "TARGET KEYWORD LIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "Keyword",
+      "col_2": "Monthly Volume",
+      "col_3": "Difficulty",
+      "col_4": "Intent",
+      "col_5": "Current Rank",
+      "col_6": "Target Page",
+      "col_7": "Status"
+    },
+    {
+      "KEYWORD RESEARCH": "electrolyte powder",
+      "col_2": "18,000",
+      "col_3": "High",
+      "col_4": "Transactional",
+      "col_5": "-",
+      "col_6": "Homepage",
+      "col_7": "To optimize"
+    },
+    {
+      "KEYWORD RESEARCH": "best electrolytes",
+      "col_2": "12,000",
+      "col_3": "High",
+      "col_4": "Commercial",
+      "col_5": "-",
+      "col_6": "Comparison page",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "electrolyte supplements",
+      "col_2": "8,000",
+      "col_3": "Medium",
+      "col_4": "Transactional",
+      "col_5": "-",
+      "col_6": "Product page",
+      "col_7": "To optimize"
+    },
+    {
+      "KEYWORD RESEARCH": "keto electrolytes",
+      "col_2": "6,500",
+      "col_3": "Medium",
+      "col_4": "Commercial",
+      "col_5": "-",
+      "col_6": "Keto landing page",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "signs of electrolyte imbalance",
+      "col_2": "5,400",
+      "col_3": "Low",
+      "col_4": "Informational",
+      "col_5": "-",
+      "col_6": "Blog post",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "LMNT alternative",
+      "col_2": "2,900",
+      "col_3": "Low",
+      "col_4": "Commercial",
+      "col_5": "-",
+      "col_6": "Comparison page",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "ocean minerals benefits",
+      "col_2": "1,200",
+      "col_3": "Low",
+      "col_4": "Informational",
+      "col_5": "-",
+      "col_6": "Blog post",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "how much sodium on keto",
+      "col_2": "3,600",
+      "col_3": "Low",
+      "col_4": "Informational",
+      "col_5": "-",
+      "col_6": "Blog post",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "electrolytes for fasting",
+      "col_2": "4,400",
+      "col_3": "Medium",
+      "col_4": "Commercial",
+      "col_5": "-",
+      "col_6": "Landing page",
+      "col_7": "To create"
+    },
+    {
+      "KEYWORD RESEARCH": "trace minerals supplement",
+      "col_2": "2,400",
+      "col_3": "Medium",
+      "col_4": "Transactional",
+      "col_5": "-",
+      "col_6": "Product page",
+      "col_7": "To optimize"
+    },
+    {
+      "KEYWORD RESEARCH": "KEYWORD RESEARCH TOOLS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "• Ahrefs - Best for competitor analysis and backlinks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "• SEMrush - Good all-around tool",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "• Google Keyword Planner - Free, good for volume data",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "• Ubersuggest - Free tier available",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "KEYWORD RESEARCH": "• AnswerThePublic - Question-based keywords",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "SEO Keyword Research",
+  "sheet_index": 411
+}

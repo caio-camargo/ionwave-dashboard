@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "These 5 artifacts need full depth BEFORE production starts. They're recruiting tools, not just planning docs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "Priority",
+      "col_2": "Artifact",
+      "col_3": "What It Is",
+      "col_4": "Why It's Critical",
+      "col_5": "What \"Deep\" Looks Like",
+      "col_6": "Who Builds It",
+      "col_7": "Deadline"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "P1",
+      "col_2": "MC Show Bible",
+      "col_3": "Complete production spec for the live show",
+      "col_4": "This is what you show MC candidates. If they can't SEE the show, they won't say yes to 10% equity in something abstract.",
+      "col_5": "Format spec (long-form + daily highlight). Thumbnail style mockups (AI-generated). Set design / background spec. 3 sample episode scripts (onboarding, expert review, milestone). AI mockup of what the YouTube/social feed looks like with 20 episodes posted. Channel name, description, visual identity.",
+      "col_6": "Nilo + Claude",
+      "col_7": "Week 0"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "P2",
+      "col_2": "Recruiting Pitch Deck",
+      "col_3": "5-slide deck every hire sees before saying yes",
+      "col_4": "Equity-only hiring requires a compelling story. Without this, every recruiting conversation starts from zero and you're selling verbally every time.",
+      "col_5": "Slide 1: What we're building (IonWave + the coordination thesis). Slide 2: Why now (100M+ views at Tabs, flash teams model, $25M raised). Slide 3: What you get (equity, career booster, show appearance, co-founder credit). Slide 4: The team so far (who's already in). Slide 5: Your specific role + comp. AI-designed, professional, sendable.",
+      "col_6": "Nilo + Claude",
+      "col_7": "Week 0"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "P3",
+      "col_2": "M0 Thesis (actual, not template)",
+      "col_3": "The real locked thesis — ICP, positioning, kill criteria, competitive stance",
+      "col_4": "Every TUP reads from M0. If M0 is a template with placeholders, every downstream TUP is building on sand. This is the Claude calibration test input.",
+      "col_5": "Real ICP with specific demographics, psychographics, buying triggers. Real positioning vs LMNT/Liquid IV/Seaonic. Real kill criteria (what would make us stop). Real competitive analysis with actual data. Not \"premium electrolyte for health-conscious consumers\" — the REAL thesis.",
+      "col_6": "Nilo + Claude",
+      "col_7": "Week 0-1"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "P4",
+      "col_2": "Expert Advisor Onboarding Packet",
+      "col_3": "What an expert receives when asked to review",
+      "col_4": "Experts are busy and skeptical. A clean, professional packet makes them say yes. A sloppy ask makes them ghost.",
+      "col_5": "One-page overview of what IonWave is. Their specific cluster scope (which TUPs, what domain). Sample V-tab filled out with a real grade + real review notes (so they know what \"done\" looks like). Time commitment (10-20 hours). Comp (0.1-0.25% equity + name on output + show appearance). Sample graded TUP from the calibration test.",
+      "col_6": "Nilo + Claude",
+      "col_7": "Week 1"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "P5",
+      "col_2": "Shopify Storefront Mockup",
+      "col_3": "AI-generated product page, landing page, packaging renders",
+      "col_4": "Investors and hires need to SEE the brand. A spreadsheet with 1,195 tabs is impressive but abstract. A beautiful product page makes it real.",
+      "col_5": "AI-generated product packaging (pouch/stick pack renders). Landing page mockup with hero image, value props, pricing. Product page with supplement facts panel mockup. 3-4 lifestyle images (AI-generated). Brand color palette, typography, visual identity applied. This is a MOCKUP — not live. Just enough to make people go \"oh, this is real.\"",
+      "col_6": "Nilo + Claude (Conductor builds live version later)",
+      "col_7": "Week 1-2"
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "THESE ARE RECRUITING WEAPONS, NOT PLANNING DOCS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "The show bible recruits the MC. The pitch deck recruits everyone. M0 makes Claude useful. The expert packet recruits advisors. The storefront mockup recruits investors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "If you build these 5 artifacts in Week 0-1, every recruiting conversation after that is \"look at this, want in?\" instead of \"let me explain what we're doing.\"",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "DEEP IMAGINATION PRIORITIES — WHERE TO GO DEEPER BEFORE PRODUCTION": "The order matters: M0 first (everything reads from it), then pitch deck + show bible (recruiting tools), then expert packet + storefront (downstream recruiting).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Deep Imagination Priorities",
+  "sheet_index": 1198
+}

@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "PAYBACK PERIOD ANALYSIS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "PAYBACK PERIOD ANALYSIS": "How many months until customer profitable?",
+      "col_2": null
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Payback = CAC / (Monthly Rev × Gross Margin)",
+      "col_2": null
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Input",
+      "col_2": "Value"
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "CAC",
+      "col_2": "$40"
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Monthly sub",
+      "col_2": "$47"
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Gross margin",
+      "col_2": "45%"
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Monthly GP",
+      "col_2": "$21.15"
+    },
+    {
+      "PAYBACK PERIOD ANALYSIS": "Payback",
+      "col_2": "1.9 months"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Payback Period Analysis",
+  "sheet_index": 535
+}

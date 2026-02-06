@@ -1,0 +1,367 @@
+{
+  "headers": [
+    "EXPANDED LABOR SEQUENCE — TIMELINE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "30 weeks from zero to CEO installed. 48 weeks to graduation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Week",
+      "col_2": "Phase",
+      "col_3": "Action",
+      "col_4": "Owner",
+      "col_5": "Produces",
+      "col_6": "Verification"
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "1",
+      "col_2": "BUILD",
+      "col_3": "Lock M0 (Trade Thesis)",
+      "col_4": "Nilo",
+      "col_5": "Locked thesis, fixed strategic inputs",
+      "col_6": "Nilo signs off. No changes after lock."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "1",
+      "col_2": "BUILD",
+      "col_3": "Post VA job",
+      "col_4": "Nilo",
+      "col_5": "Live job posting",
+      "col_6": "Job on Upwork with test task"
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "1-2",
+      "col_2": "BUILD",
+      "col_3": "Screen and hire VA",
+      "col_4": "Nilo",
+      "col_5": "VA contracted",
+      "col_6": "Test task passed. Kickoff done."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "2-4",
+      "col_2": "BUILD",
+      "col_3": "VA screens CoS candidates",
+      "col_4": "VA",
+      "col_5": "CoS candidate pipeline",
+      "col_6": "Pipeline tracker updated daily. 5+ screened."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "3-4",
+      "col_2": "BUILD",
+      "col_3": "Nilo interviews CoS finalists",
+      "col_4": "Nilo",
+      "col_5": "CoS selected",
+      "col_6": "Assessment workbook completed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "4",
+      "col_2": "BUILD",
+      "col_3": "Hire CoS",
+      "col_4": "Nilo",
+      "col_5": "CoS onboarded",
+      "col_6": "Contract signed. Start date confirmed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "4-5",
+      "col_2": "BUILD",
+      "col_3": "CoS hires Recruiter",
+      "col_4": "CoS",
+      "col_5": "Recruiter contracted",
+      "col_6": "Retainer paid. JD for Lead PM in hand."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "5-6",
+      "col_2": "BUILD",
+      "col_3": "Recruiter sources Lead PM",
+      "col_4": "Recruiter",
+      "col_5": "Lead PM candidate pipeline",
+      "col_6": "10+ screened. Top 3-5 to interview."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "6",
+      "col_2": "BUILD",
+      "col_3": "Hire Lead PM",
+      "col_4": "Nilo + CoS",
+      "col_5": "Lead PM onboarded",
+      "col_6": "Can use Claude. Understands production loop. Has schedule."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "6-8",
+      "col_2": "BUILD",
+      "col_3": "Lead PM generates AI first drafts (M1-M20)",
+      "col_4": "Lead PM",
+      "col_5": "First 20 models drafted",
+      "col_6": "All tabs filled. Assumptions flagged. No TBDs."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "8-10",
+      "col_2": "BUILD",
+      "col_3": "Lead PM generates AI first drafts (M21-M40)",
+      "col_4": "Lead PM",
+      "col_5": "All 41 models drafted",
+      "col_6": "Complete imagination asset exists."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "10-12",
+      "col_2": "BUILD",
+      "col_3": "Lead PM recruits Cluster PMs (6-7)",
+      "col_4": "Lead PM + Recruiter",
+      "col_5": "Cluster PMs contracted",
+      "col_6": "Each assigned a cluster. Each briefed on production loop."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "10-12",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster A (Finance) expert session + revision",
+      "col_4": "Cluster PM A",
+      "col_5": "M3, M4, M10, M25 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "11-13",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster B (Product) expert session + revision",
+      "col_4": "Cluster PM B",
+      "col_5": "M5, M6, M7, M24 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "12-14",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster C (Creative) expert session + revision",
+      "col_4": "Cluster PM C",
+      "col_5": "M8, M11, M12, M15 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "12-14",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster D (Growth) expert session + revision",
+      "col_4": "Cluster PM D",
+      "col_5": "M13, M14, M16, M29 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "13-15",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster E (Retention) expert session + revision",
+      "col_4": "Cluster PM E",
+      "col_5": "M17-M21 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "13-15",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster F (Customer) expert session + revision",
+      "col_4": "Cluster PM F",
+      "col_5": "M22, M23, M27, M28 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "14-16",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster G (Legal) expert session + revision",
+      "col_4": "Cluster PM G",
+      "col_5": "M2, M9 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "14-16",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster H (Ops) expert session + revision",
+      "col_4": "Cluster PM H",
+      "col_5": "M30, M31, M35, M36 at A-grade",
+      "col_6": "Expert signed off. PM reviewed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "12-18",
+      "col_2": "VALIDATE",
+      "col_3": "Cluster PMs find Venture Partners",
+      "col_4": "Cluster PMs",
+      "col_5": "VP introductions per cluster",
+      "col_6": "VPs engaged. Domain validation underway."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "14-20",
+      "col_2": "VALIDATE",
+      "col_3": "Venture Partners validate + introduce investors",
+      "col_4": "VPs",
+      "col_5": "Investor introductions",
+      "col_6": "Investors briefed. Diligence started."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "16-20",
+      "col_2": "VALIDATE",
+      "col_3": "Nilo reviews proprietary models (M0,M1,M32-34,M38-39)",
+      "col_4": "Nilo",
+      "col_5": "Proprietary models at A-grade",
+      "col_6": "Nilo signed off."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "18-24",
+      "col_2": "VALIDATE",
+      "col_3": "Investor diligence + funding",
+      "col_4": "Investors",
+      "col_5": "Funding commitment",
+      "col_6": "Term sheet signed. Capital available."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "22-26",
+      "col_2": "DEPLOY",
+      "col_3": "CEO Recruiter sourced and engaged",
+      "col_4": "CoS + Investor network",
+      "col_5": "CEO recruiter contracted",
+      "col_6": "Recruiter has funded company pitch + complete Trade."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "24-28",
+      "col_2": "DEPLOY",
+      "col_3": "CEO Recruiter sources candidates",
+      "col_4": "CEO Recruiter",
+      "col_5": "CEO candidate pipeline",
+      "col_6": "10+ screened. Top 3-5 to interview."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "28-30",
+      "col_2": "DEPLOY",
+      "col_3": "Hire CEO / Operator",
+      "col_4": "Nilo + Investors",
+      "col_5": "CEO contracted",
+      "col_6": "Contract signed. Equity vested. Start date confirmed."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "30",
+      "col_2": "DEPLOY",
+      "col_3": "CEO onboards using Trade",
+      "col_4": "CEO",
+      "col_5": "CEO understands the system",
+      "col_6": "Can explain business in own words. Asks Claude for Week 1 plan."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "30-42",
+      "col_2": "RUN",
+      "col_3": "Semester 1 + 2 (Table Set through Winner Found)",
+      "col_4": "CEO",
+      "col_5": "Revenue, customers, PMF",
+      "col_6": "Trade Execution Tracker milestones hit."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "42-54",
+      "col_2": "RUN",
+      "col_3": "Semester 3 + 4 (Scale through Graduation)",
+      "col_4": "CEO",
+      "col_5": "$100K MRR, positive margin",
+      "col_6": "Graduation criteria met. Trade Grade A x2 semesters."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "NILO'S TOTAL TIME ACROSS 54 WEEKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Week 1: Lock M0, post VA job (2 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Weeks 1-2: Screen/hire VA (1 hour)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Weeks 3-4: Interview CoS finalists (2-3 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Week 4: Hire CoS (30 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Week 6: Approve Lead PM hire (30 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Weeks 16-20: Review proprietary models (4-6 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Weeks 28-30: Interview CEO finalists (2-3 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Ongoing: Weekly 15-min CoS check-in (14 hours over 54 weeks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Ongoing: Monthly CM report review (9 hours over 54 weeks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Total: ~35-40 hours over 54 weeks = less than 1 hour per week average",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE — TIMELINE": "Everything else is done by the labor chain, managed through Claude.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 44,
+  "sheet_name": "Labor Sequence Gantt",
+  "sheet_index": 51
+}

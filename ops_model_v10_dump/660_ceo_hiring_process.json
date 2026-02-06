@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "CEO HIRING PROCESS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CEO HIRING PROCESS": "End-to-end process for hiring a CEO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "PROCESS OVERVIEW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "Stage",
+      "col_2": "Activities",
+      "col_3": "Duration",
+      "col_4": "Owner",
+      "col_5": "Output"
+    },
+    {
+      "CEO HIRING PROCESS": "1. Define",
+      "col_2": "Finalize spec, comp, pitch",
+      "col_3": "1 week",
+      "col_4": "Studio",
+      "col_5": "Approved job spec"
+    },
+    {
+      "CEO HIRING PROCESS": "2. Source",
+      "col_2": "Network, recruiters, postings",
+      "col_3": "2-4 weeks",
+      "col_4": "Studio/Recruiter",
+      "col_5": "Pipeline of 20+"
+    },
+    {
+      "CEO HIRING PROCESS": "3. Screen",
+      "col_2": "Resume review, initial calls",
+      "col_3": "2 weeks",
+      "col_4": "Recruiter",
+      "col_5": "Shortlist of 8-10"
+    },
+    {
+      "CEO HIRING PROCESS": "4. Interview Round 1",
+      "col_2": "Deep dive interviews",
+      "col_3": "2 weeks",
+      "col_4": "Studio",
+      "col_5": "Shortlist of 3-4"
+    },
+    {
+      "CEO HIRING PROCESS": "5. Interview Round 2",
+      "col_2": "Case study, team meet",
+      "col_3": "1-2 weeks",
+      "col_4": "Studio + Team",
+      "col_5": "Final 2"
+    },
+    {
+      "CEO HIRING PROCESS": "6. References",
+      "col_2": "Backdoor + provided refs",
+      "col_3": "1 week",
+      "col_4": "Studio",
+      "col_5": "Ref reports"
+    },
+    {
+      "CEO HIRING PROCESS": "7. Offer",
+      "col_2": "Negotiate, close",
+      "col_3": "1-2 weeks",
+      "col_4": "Studio",
+      "col_5": "Signed offer"
+    },
+    {
+      "CEO HIRING PROCESS": "8. Onboard",
+      "col_2": "Transition, ramp",
+      "col_3": "4-8 weeks",
+      "col_4": "Studio + CEO",
+      "col_5": "CEO operational"
+    },
+    {
+      "CEO HIRING PROCESS": "INTERVIEW STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "Round 1: Studio Deep Dive (90 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Background and experience",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Leadership philosophy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Strategic thinking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Why this opportunity",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "Round 2: Case Study (2 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Present: 90-day plan for this venture",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Q&A on strategy, priorities, approach",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Tests: Strategic thinking, communication, preparation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "Round 3: Team/Stakeholder Meet (60 min each)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Meet key team members",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Meet key investors/board",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CEO HIRING PROCESS": "• Culture fit assessment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "CEO Hiring Process",
+  "sheet_index": 660
+}

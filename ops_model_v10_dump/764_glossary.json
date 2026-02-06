@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "GLOSSARY",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "GLOSSARY": "CAC",
+      "col_2": "Customer Acquisition Cost - total ad spend / new customers"
+    },
+    {
+      "GLOSSARY": "LTV",
+      "col_2": "Lifetime Value - total revenue from a customer over time"
+    },
+    {
+      "GLOSSARY": "MER",
+      "col_2": "Marketing Efficiency Ratio - total revenue / total ad spend"
+    },
+    {
+      "GLOSSARY": "ROAS",
+      "col_2": "Return on Ad Spend - revenue / ad spend (per campaign)"
+    },
+    {
+      "GLOSSARY": "AOV",
+      "col_2": "Average Order Value - revenue / number of orders"
+    },
+    {
+      "GLOSSARY": "CVR",
+      "col_2": "Conversion Rate - purchases / visitors"
+    },
+    {
+      "GLOSSARY": "CTR",
+      "col_2": "Click-Through Rate - clicks / impressions"
+    },
+    {
+      "GLOSSARY": "3PL",
+      "col_2": "Third-Party Logistics - fulfillment warehouse"
+    },
+    {
+      "GLOSSARY": "COA",
+      "col_2": "Certificate of Analysis - lab test for product batch"
+    },
+    {
+      "GLOSSARY": "MOQ",
+      "col_2": "Minimum Order Quantity - smallest order supplier accepts"
+    },
+    {
+      "GLOSSARY": "═══════════════════════════════════════════════════════════",
+      "col_2": null
+    },
+    {
+      "GLOSSARY": "NOTE: See 'Grand Unifying Dictionary' tab for comprehensive term definitions",
+      "col_2": null
+    },
+    {
+      "GLOSSARY": "This tab covers industry/technical terms. GUD covers operational/process terms.",
+      "col_2": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Glossary",
+  "sheet_index": 764
+}

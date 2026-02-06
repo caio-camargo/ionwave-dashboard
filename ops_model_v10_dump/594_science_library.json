@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "SCIENCE & RESEARCH LIBRARY",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "SCIENCE & RESEARCH LIBRARY": "Marine plasma composition",
+      "col_2": "Blood plasma similarity to ocean water"
+    },
+    {
+      "SCIENCE & RESEARCH LIBRARY": "Trace mineral benefits",
+      "col_2": "Studies on 78 minerals vs 3"
+    },
+    {
+      "SCIENCE & RESEARCH LIBRARY": "Electrolyte absorption",
+      "col_2": "Bioavailability research"
+    },
+    {
+      "SCIENCE & RESEARCH LIBRARY": "Hydration science",
+      "col_2": "Osmolality, cellular hydration"
+    },
+    {
+      "SCIENCE & RESEARCH LIBRARY": "Deficiency stats",
+      "col_2": "% of population mineral deficient"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Science Library",
+  "sheet_index": 594
+}

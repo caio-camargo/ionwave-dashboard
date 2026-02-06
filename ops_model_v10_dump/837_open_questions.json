@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "IONWAVE OPEN QUESTIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "IONWAVE OPEN QUESTIONS": "Unknowns to resolve. Update answers as you learn.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Domain",
+      "col_2": "Question",
+      "col_3": "Why It Matters",
+      "col_4": "How to Answer",
+      "col_5": "Answer",
+      "col_6": "Status"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Supplier",
+      "col_2": "What is actual COGS at MOQ 2500?",
+      "col_3": "Determines if unit economics work. Kill if >$0.60",
+      "col_4": "Get 5+ quotes, negotiate",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Supplier",
+      "col_2": "What is lead time from order to delivery?",
+      "col_3": "Affects inventory planning and cash flow",
+      "col_4": "Ask suppliers directly",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Supplier",
+      "col_2": "Can we get exclusivity or preferred pricing?",
+      "col_3": "Could be competitive advantage",
+      "col_4": "Negotiate after proving volume",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Supplier",
+      "col_2": "What is minimum for custom packaging?",
+      "col_3": "Affects brand differentiation timeline",
+      "col_4": "Ask suppliers, get quotes",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Product",
+      "col_2": "Does marine plasma taste acceptable?",
+      "col_3": "Bad taste = returns and complaints",
+      "col_4": "Taste test samples with 5-10 people",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Product",
+      "col_2": "What claims can we legally make?",
+      "col_3": "Affects all marketing copy",
+      "col_4": "Research FTC/FDA guidelines for supplements",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Product",
+      "col_2": "Do we need specific certifications?",
+      "col_3": "May be required or trust-building",
+      "col_4": "Research NSF, third-party testing requirements",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Market",
+      "col_2": "Is LMNT actually profitable at scale?",
+      "col_3": "Validates the category economics",
+      "col_4": "Research, estimate from public data",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Market",
+      "col_2": "Why hasnt Seaonic scaled faster?",
+      "col_3": "May reveal market ceiling or execution issues",
+      "col_4": "Research their strategy, pricing, marketing",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Market",
+      "col_2": "Is marine plasma actually better absorbed?",
+      "col_3": "Core claim needs to be defensible",
+      "col_4": "Find peer-reviewed studies",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Ads",
+      "col_2": "What is realistic CAC for this category?",
+      "col_3": "Determines if we can acquire profitably",
+      "col_4": "Test with $3K, benchmark against LMNT estimates",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Ads",
+      "col_2": "Which creative angle will win?",
+      "col_3": "Determines messaging strategy",
+      "col_4": "Test science vs transformation vs comparison",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Ads",
+      "col_2": "Does UGC outperform produced creative?",
+      "col_3": "Affects creative production strategy",
+      "col_4": "Test both, compare CAC and CTR",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Ads",
+      "col_2": "What audience targeting works best?",
+      "col_3": "Affects scaling strategy",
+      "col_4": "Test interest, LAL, broad",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Funnel",
+      "col_2": "Can we hit >2.5% LP conversion?",
+      "col_3": "Below 2% may not be viable",
+      "col_4": "Test LP variants, track CVR",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Funnel",
+      "col_2": "Will subscription default hurt one-time sales?",
+      "col_3": "Tradeoff between sub rate and total conversion",
+      "col_4": "A/B test sub default vs one-time default",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Funnel",
+      "col_2": "What is optimal price point?",
+      "col_3": "$59 is assumption, may be wrong",
+      "col_4": "Test $49, $59, $69 if volume allows",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Retention",
+      "col_2": "What is realistic churn rate?",
+      "col_3": "Determines LTV and subscription viability",
+      "col_4": "Track M1, M2, M3 churn on first cohorts",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Retention",
+      "col_2": "Do customers actually feel different?",
+      "col_3": "Core value prop. No effect = no retention.",
+      "col_4": "Survey at Day 7 and Day 14",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Retention",
+      "col_2": "What drives cancellation?",
+      "col_3": "Informs retention strategy",
+      "col_4": "Survey churned customers",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Fundraising",
+      "col_2": "Is $250-500K cap appropriate?",
+      "col_3": "Affects dilution and investor interest",
+      "col_4": "Test with first investor conversations",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Fundraising",
+      "col_2": "Who are the right angels for this?",
+      "col_3": "Need wellness/DTC-focused investors",
+      "col_4": "Research, build pipeline",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Fundraising",
+      "col_2": "Can we raise without traction?",
+      "col_3": "May need to bootstrap to first sales",
+      "col_4": "Gauge investor response to thesis-only pitch",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Operations",
+      "col_2": "Which 3PL is best for supplements?",
+      "col_3": "Affects fulfillment cost and speed",
+      "col_4": "Get quotes from ShipBob, Deliverr, others",
+      "col_5": null,
+      "col_6": "⬜"
+    },
+    {
+      "IONWAVE OPEN QUESTIONS": "Operations",
+      "col_2": "What is realistic customer service load?",
+      "col_3": "Affects VA hiring and cost",
+      "col_4": "Estimate based on order volume and category benchmarks",
+      "col_5": null,
+      "col_6": "⬜"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Open Questions",
+  "sheet_index": 837
+}

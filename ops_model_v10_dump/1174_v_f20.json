@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "V-F20: Funnel Scaling — VERIFICATION",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "How to grow the funnel. Paid ads, partnerships, affiliate programs, speaking.",
+      "col_2": null
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Grade",
+      "col_2": "Criteria"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "A (Excellent)",
+      "col_2": "Expert-grade funnel scaling model. Could be used as reference by practitioners. Comprehensive, accurate, actionable."
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "B (Good)",
+      "col_2": "Solid funnel scaling model. Minor gaps or areas for improvement. Usable as-is with small revisions."
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "C (Needs Work)",
+      "col_2": "Funnel Scaling model has significant gaps. Core ideas present but execution is incomplete. Requires revision sprint."
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "D (Major Issues)",
+      "col_2": "Funnel Scaling model has fundamental problems. Misunderstands domain or misses key elements. Requires substantial rework."
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "F (Fail)",
+      "col_2": "Funnel Scaling model is missing, unusable, or demonstrates no understanding of the domain."
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Field",
+      "col_2": "Value"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Expert Reviewer",
+      "col_2": "[Name, credentials]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Grade",
+      "col_2": "[A/B/C/D/F]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Date",
+      "col_2": "[date]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Hours Spent Reviewing",
+      "col_2": "[hours]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Strengths",
+      "col_2": "[what's good]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Weaknesses",
+      "col_2": "[what needs work]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Specific Feedback",
+      "col_2": "[section-by-section comments]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Revision Required?",
+      "col_2": "[Yes/No. If yes, what specifically.]"
+    },
+    {
+      "V-F20: Funnel Scaling — VERIFICATION": "Danilo Sign-Off",
+      "col_2": "[☐]"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "V-F20",
+  "sheet_index": 1174
+}

@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "SINGLE POINT OF FAILURE REGISTRY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Everything that could kill the business if it fails. Map and mitigate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "SPOF = One thing fails, everything fails. Identify before it happens.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "SINGLE POINTS OF FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "SPOF",
+      "col_2": "Category",
+      "col_3": "If This Fails...",
+      "col_4": "Likelihood",
+      "col_5": "Impact",
+      "col_6": "Backup/Mitigation",
+      "col_7": "Status"
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Primary Supplier",
+      "col_2": "Supply Chain",
+      "col_3": "No product to sell",
+      "col_4": "Medium",
+      "col_5": "Critical",
+      "col_6": "Identify backup supplier",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Meta Ad Account",
+      "col_2": "Marketing",
+      "col_3": "Primary acquisition stops",
+      "col_4": "Low",
+      "col_5": "Critical",
+      "col_6": "Second ad account, diversify channels",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Shopify Store",
+      "col_2": "Operations",
+      "col_3": "Can't take orders",
+      "col_4": "Very Low",
+      "col_5": "Critical",
+      "col_6": "Backup payment processor",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Operator",
+      "col_2": "Team",
+      "col_3": "Operations disrupted",
+      "col_4": "Medium",
+      "col_5": "High",
+      "col_6": "Documentation, cross-training",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "3PL",
+      "col_2": "Fulfillment",
+      "col_3": "Can't ship orders",
+      "col_4": "Low",
+      "col_5": "Critical",
+      "col_6": "Identify backup 3PL",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Stripe Account",
+      "col_2": "Payments",
+      "col_3": "Can't process payments",
+      "col_4": "Very Low",
+      "col_5": "Critical",
+      "col_6": "Backup processor",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Primary Bank Account",
+      "col_2": "Finance",
+      "col_3": "Can't pay bills",
+      "col_4": "Very Low",
+      "col_5": "Critical",
+      "col_6": "Secondary account",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Domain/DNS",
+      "col_2": "Technical",
+      "col_3": "Site goes down",
+      "col_4": "Very Low",
+      "col_5": "High",
+      "col_6": "Domain lock, backup DNS",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Founder/Studio",
+      "col_2": "Leadership",
+      "col_3": "Strategic direction lost",
+      "col_4": "Low",
+      "col_5": "High",
+      "col_6": "Document strategy, delegate",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Email Provider (Klaviyo)",
+      "col_2": "Marketing",
+      "col_3": "Email revenue stops",
+      "col_4": "Very Low",
+      "col_5": "Medium",
+      "col_6": "Export list regularly",
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "SPOF SCORE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "Critical SPOFs without mitigation: ___ (Target: 0)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "High SPOFs without mitigation: ___ (Target: <2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "REDUNDANCY CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ Backup supplier identified and contacted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ Second ad account created (even if not active)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ Backup 3PL researched",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ All critical processes documented",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ Customer list backed up monthly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SINGLE POINT OF FAILURE REGISTRY": "☐ Financial accounts at 2+ institutions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Single Point of Failure",
+  "sheet_index": 882
+}

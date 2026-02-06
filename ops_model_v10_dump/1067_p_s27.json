@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S27: Portfolio Monitoring — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "How Studio 4 tracks performance across businesses. Metrics, dashboards, intervention triggers.",
+      "col_2": null
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "TUP",
+      "col_2": "S27: Portfolio Monitoring"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-5"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Owner",
+      "col_2": "PM (Systems)"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Description",
+      "col_2": "How Studio 4 tracks performance across businesses. Metrics, dashboards, intervention triggers."
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S27: Portfolio Monitoring — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Portfolio Monitoring model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S27",
+  "sheet_index": 1067
+}

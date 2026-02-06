@@ -1,0 +1,343 @@
+{
+  "headers": [
+    "PROTOCOL LAYER INDEX — DAO HEADQUARTERS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "The protocol layer lives HERE, inside the IonWave Trade. The Trade IS the protocol. This index maps every protocol component.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Protocol = substrate (formal state machine, permissions, dependencies, equity triggers). Show = optional layer on top. Same system, two descriptions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "PROTOCOL COMPONENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Component",
+      "col_2": "Tab Name",
+      "col_3": "What It Formalizes",
+      "col_4": "Expression Format",
+      "col_5": "Key Invariant"
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "State Machine",
+      "col_2": "TUP State Machine",
+      "col_3": "TUP lifecycle as formal states + transitions + guard conditions",
+      "col_4": "States (S0-S7), Transitions (T01-T70), Invariants",
+      "col_5": "No TUP enters LOCKED without grade ≥ B from authorized grader"
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Permission System",
+      "col_2": "Access Control Matrix",
+      "col_3": "Who can do what to which tabs — 4 expressions: prose, matrix, columns, rules",
+      "col_4": "Role × Tab Type × Permission matrix + IF-THEN rules",
+      "col_5": "Trustee has R,AU on everything. PM scoped to assigned cluster only."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Dependency DAG",
+      "col_2": "Dependency Protocol",
+      "col_3": "What blocks what — formal preconditions + TUP×TUP matrix",
+      "col_4": "Precondition rules (PRE-01 to PRE-12) + B/S/— matrix",
+      "col_5": "M0 BLOCKS all TUPs. Nothing moves without thesis."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Equity Mechanism",
+      "col_2": "Equity Protocol",
+      "col_3": "Token-like distribution with formal trigger conditions tied to state machine",
+      "col_4": "EQ-01 to EQ-10 rules + cap table template",
+      "col_5": "T45 is the ONLY transition that vests PM equity."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "AI Co-Pilot Spec",
+      "col_2": "Claude Production Protocol",
+      "col_3": "Claude produces 80%, PM refines 20% — explicit, not hidden",
+      "col_4": "Permission model + workload math + mediation rules",
+      "col_5": "All Claude writes pass through human filter before system entry."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Role Registry",
+      "col_2": "Role Registry",
+      "col_3": "Canonical names, aliases, responsibilities — prose description",
+      "col_4": "11 roles, 42 aliases, reporting structure",
+      "col_5": "Every tab references canonical names only."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Grading System",
+      "col_2": "Grading System",
+      "col_3": "A/B+/B/C/D/F rubric with weighted graders",
+      "col_4": "Course analogy: syllabus, assignments, midterm, final, GPA",
+      "col_5": "Expert = 60% weight. Librarian = 20%. Nilo = override (logged)."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "TUP Lifecycle",
+      "col_2": "TUP Lifecycle Phases",
+      "col_3": "Phase 0-7 prose description — the narrative companion to the state machine",
+      "col_4": "Prose + tracker table",
+      "col_5": "Same content as State Machine, human-readable."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Cross-TUP Dependencies",
+      "col_2": "Cross-TUP Dependencies",
+      "col_3": "Prose + table — the narrative companion to Dependency Protocol",
+      "col_4": "Prose descriptions + task lists",
+      "col_5": "Same constraints as Dependency Protocol, human-readable."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Trust/Fiduciary",
+      "col_2": "Trustee Framework",
+      "col_3": "Trustee role with fiduciary duties and intervention authority",
+      "col_4": "Responsibility matrix + authority levels",
+      "col_5": "Trustee has AU permission on all protocol components."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "LAYER ARCHITECTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Layer 1: Protocol (substrate)",
+      "col_2": "State Machine + Permissions + Dependencies + Equity Triggers",
+      "col_3": "Formal. Machine-readable. Could be implemented as smart contracts. Coordinates without humans understanding it.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Layer 2: Narrative (interface)",
+      "col_2": "MC Show + Career Boosters + Cast Page + Story",
+      "col_3": "Human-readable. Makes protocol observable. Recruits people. Optional — protocol works without it.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Layer 3: Content (payload)",
+      "col_2": "41 M-level models + S-level + F-level + I-level TUPs",
+      "col_3": "The actual business knowledge. What the protocol coordinates the production of.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Relationship",
+      "col_2": "Protocol is substrate. Show is optional layer on top.",
+      "col_3": "You could run this state machine without the show. The coordination works. Nobody watches. The show makes the protocol legible — but the show is not the protocol.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "WHAT THIS MEANS FOR coordinationprotocols.com",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "The IonWave Trade is the first instantiation of the protocol. It IS the protocol, running live.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "coordinationprotocols.com should articulate the protocol layer that makes the narrative layer possible.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Paper 1 (white paper) describes the protocol in academic terms. The Trade implements it in spreadsheet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Paper 2 (results paper) documents what happened when the protocol ran. Did the state machine work? Did equity trigger correctly? Did dependencies hold?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "The Trade is not a project within DAO infrastructure — it IS the DAO headquarters. The protocol layer is the DAO. IonWave is the first company it launches.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "ADDITIONAL PROTOCOL COMPONENTS (added this session)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Acceptance Criteria",
+      "col_2": "Acceptance Criteria",
+      "col_3": "Go/no-go gate for Week 0. Claude calibration test. 15-point checklist.",
+      "col_4": "Calibration protocol + checklist + bottleneck sequence",
+      "col_5": "P-tabs must produce B-grade output on first pass with any competent PM + Claude."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Grade Inflation Defense",
+      "col_2": "Grade Inflation Defense",
+      "col_3": "8 structural mechanisms to prevent midding. Automatic secondary review trigger.",
+      "col_4": "Defense mechanisms table + midding vs real grading comparison",
+      "col_5": "If expert gives 100% B+ across cluster, secondary review auto-triggers."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Compliance Protocol",
+      "col_2": "Compliance Protocol",
+      "col_3": "Two-key system for state transitions. Librarian + Conductor counter-sign.",
+      "col_4": "Two-key transition table + compliance role mapping",
+      "col_5": "No single person can both initiate and confirm a state transition."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Zero-Cash Budget",
+      "col_2": "Zero-Cash Budget",
+      "col_3": "$500 hard floor. All roles equity-only. All tools free tier. Inventory delayed until funded.",
+      "col_4": "Cash expense table + equity-only roles + free tools + deferred items",
+      "col_5": "Total cash to start: ~$500. Everything else is equity + free tools."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Continuity Protocol",
+      "col_2": "Continuity Protocol",
+      "col_3": "People risk mitigation. Risk matrix, 8 structural defenses, replacement playbook, backup registry for every role, instant handoff spec via Claude.",
+      "col_4": "Risk matrix + defenses + playbook",
+      "col_5": "Every persistent role has a backup identified before Day 1. Handoff packet generated in 30-45 min. Replacement operational same day."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Recruiting Chain",
+      "col_2": "Recruiting Chain",
+      "col_3": "Who finds who. Nilo finds Recruiter + MC. Recruiter finds everyone else. PM→Nilo domain question protocol.",
+      "col_4": "Hiring sequence + domain question protocol + recruiter job spec",
+      "col_5": "Nilo's recruiting load: 2 hires. Everything else through Recruiter."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Scope Cuts",
+      "col_2": "Scope Cuts",
+      "col_3": "I-level cut to 3 workstreams. CL-7/CL-8 deferred to post-funding.",
+      "col_4": "Keep/Defer tables + active scope map",
+      "col_5": "Active production = CL-0 through CL-6 + I1/I4/I9."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Deep Imagination Priorities",
+      "col_2": "Deep Imagination Priorities",
+      "col_3": "5 artifacts that need full depth before production. Recruiting weapons.",
+      "col_4": "Priority table with \"what deep looks like\" specs",
+      "col_5": "Show bible, pitch deck, M0 thesis, expert packet, storefront mockup."
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Show Bible - Format",
+      "col_2": "Show Bible - Format",
+      "col_3": "Show identity, two content formats, episode categories, visual spec",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Show Bible - Scripts",
+      "col_2": "Show Bible - Scripts",
+      "col_3": "3 sample beat sheets: entrance conversation, expert review, daily highlight",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Show Bible - Feed Mockup",
+      "col_2": "Show Bible - Feed Mockup",
+      "col_3": "First 20 episodes scheduled with thumbnail concepts + AI prompt for feed mockup",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Recruiting Deck - Content",
+      "col_2": "Recruiting Deck - Content",
+      "col_3": "5-slide deck content: what, why credible, what you get, who's in, your role",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Recruiting Deck - Design",
+      "col_2": "Recruiting Deck - Design",
+      "col_3": "Visual design system + distribution + customization spec",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "M0 Thesis - Structure",
+      "col_2": "M0 Thesis - Structure",
+      "col_3": "15 required fields across ICP, positioning, product, distribution, finance, kill criteria",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "M0 Thesis - Downstream",
+      "col_2": "M0 Thesis - Downstream",
+      "col_3": "Which clusters read which M0 fields. Dependency map.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Expert Onboarding - Packet",
+      "col_2": "Expert Onboarding - Packet",
+      "col_3": "4-page onboarding packet: what is IonWave, your cluster, sample V-tab, comp",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Expert Onboarding - Rubric",
+      "col_2": "Expert Onboarding - Rubric",
+      "col_3": "A through F grading rubric with per-tab review requirements",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Storefront - Landing Page",
+      "col_2": "Storefront - Landing Page",
+      "col_3": "8-section landing page spec with AI image prompts for mockup generation",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Storefront - Brand",
+      "col_2": "Storefront - Brand",
+      "col_3": "Brand identity + packaging spec + AI prompts for product mockups",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Commitment Protocol",
+      "col_2": "Commitment Protocol",
+      "col_3": "Rolling 2-week commitments. Daily check-ins. 24/48/72-hour tripwires. Re-up ritual. Public accountability via show.",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PROTOCOL LAYER INDEX — DAO HEADQUARTERS": "Paper 1 - Main",
+      "col_2": "Paper 1 - Main",
+      "col_3": "Academic paper: The Trade as scaffolded architecture for controlled unfolding. Theory + IonWave case + show meta-layer.",
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 47,
+  "sheet_name": "Protocol Layer Index",
+  "sheet_index": 1190
+}

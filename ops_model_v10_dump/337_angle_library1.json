@@ -1,0 +1,211 @@
+{
+  "headers": [
+    "ANGLE LIBRARY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ANGLE LIBRARY": "Every messaging angle with positioning and examples",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "WHAT IS AN ANGLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "An angle is the perspective or frame you use to present your product.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "Same product, different angles = different audiences respond.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "Test multiple angles to find what resonates.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "ANGLE LIBRARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "Angle",
+      "col_2": "Core Message",
+      "col_3": "Best For",
+      "col_4": "Example Hook"
+    },
+    {
+      "ANGLE LIBRARY": "Science/Research",
+      "col_2": "Backed by research and data",
+      "col_3": "Skeptics, educated buyers",
+      "col_4": "\"The science behind why you're tired\""
+    },
+    {
+      "ANGLE LIBRARY": "Natural/Clean",
+      "col_2": "Ocean-sourced, no synthetic",
+      "col_3": "Health-conscious, clean label",
+      "col_4": "\"78 minerals straight from the ocean\""
+    },
+    {
+      "ANGLE LIBRARY": "Performance",
+      "col_2": "Better workouts, faster recovery",
+      "col_3": "Athletes, gym-goers",
+      "col_4": "\"Why elite athletes use ocean minerals\""
+    },
+    {
+      "ANGLE LIBRARY": "Keto/Low-Carb",
+      "col_2": "Essential for keto success",
+      "col_3": "Keto dieters",
+      "col_4": "\"The keto flu fix no one tells you\""
+    },
+    {
+      "ANGLE LIBRARY": "Energy/Focus",
+      "col_2": "All-day energy, no crashes",
+      "col_3": "Professionals, busy people",
+      "col_4": "\"I finally have energy past 2pm\""
+    },
+    {
+      "ANGLE LIBRARY": "Comparison",
+      "col_2": "Better than competitors",
+      "col_3": "Researching buyers",
+      "col_4": "\"78 minerals vs Gatorade's 3\""
+    },
+    {
+      "ANGLE LIBRARY": "Problem/Solution",
+      "col_2": "Fix specific symptoms",
+      "col_3": "Sufferers of specific issues",
+      "col_4": "\"Stop muscle cramps for good\""
+    },
+    {
+      "ANGLE LIBRARY": "Founder Story",
+      "col_2": "Why we created this",
+      "col_3": "Authenticity seekers",
+      "col_4": "\"I created this because nothing worked\""
+    },
+    {
+      "ANGLE LIBRARY": "Transformation",
+      "col_2": "Life before vs after",
+      "col_3": "Results-driven",
+      "col_4": "\"30 days changed everything\""
+    },
+    {
+      "ANGLE LIBRARY": "Contrarian",
+      "col_2": "Challenge conventional wisdom",
+      "col_3": "Skeptics, thinkers",
+      "col_4": "\"Water isn't actually hydrating you\""
+    },
+    {
+      "ANGLE LIBRARY": "Authority",
+      "col_2": "Recommended by experts",
+      "col_3": "Trust-seekers",
+      "col_4": "\"Why doctors recommend this\""
+    },
+    {
+      "ANGLE LIBRARY": "FOMO/Trending",
+      "col_2": "Everyone is using this",
+      "col_3": "Social followers",
+      "col_4": "\"Why this is everywhere right now\""
+    },
+    {
+      "ANGLE LIBRARY": "Value/Price",
+      "col_2": "Better value than alternatives",
+      "col_3": "Price-conscious",
+      "col_4": "\"Cheaper than your daily coffee\""
+    },
+    {
+      "ANGLE LIBRARY": "Lifestyle",
+      "col_2": "Fits your lifestyle",
+      "col_3": "Identity-driven buyers",
+      "col_4": "\"Made for people who take health seriously\""
+    },
+    {
+      "ANGLE LIBRARY": "Fear/Risk",
+      "col_2": "What happens if you don't",
+      "col_3": "Risk-averse",
+      "col_4": "\"What mineral deficiency does to your body\""
+    },
+    {
+      "ANGLE LIBRARY": "ANGLE TESTING PRIORITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "Start with these (most likely to work for electrolytes):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "1. Keto/Low-Carb (clear pain point)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "2. Energy/Focus (universal desire)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "3. Natural/Clean (differentiation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "4. Comparison (78 vs 3 is compelling)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "5. Problem/Solution (specific symptoms)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "Then test:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "6. Science/Research",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "7. Transformation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ANGLE LIBRARY": "8. Founder Story",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "Angle Library1",
+  "sheet_index": 337
+}

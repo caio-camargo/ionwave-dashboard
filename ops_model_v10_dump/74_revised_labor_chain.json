@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "REVISED LABOR CHAIN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "REVISED LABOR CHAIN": "Updated sequence. VA builds the first product. CoS raises for holding company.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "THE CHAIN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Step",
+      "col_2": "Role",
+      "col_3": "What They Actually Do",
+      "col_4": "What They Produce",
+      "col_5": "Who They Hire Next"
+    },
+    {
+      "REVISED LABOR CHAIN": "1",
+      "col_2": "Nilo",
+      "col_3": "Locks M0. Posts VA job. Provides the imagination asset (698-tab Trade already exists).",
+      "col_4": "Locked thesis. Live VA posting. The system itself.",
+      "col_5": "VA"
+    },
+    {
+      "REVISED LABOR CHAIN": "2",
+      "col_2": "VA ($100 + bonus)",
+      "col_3": "Admin execution: screens candidates, files entity, sets up tools. BUT ALSO: becomes the daily interface of the IonWave DAO page. Posts updates. Shows progress. Is the heartbeat.",
+      "col_4": "Entity filed. Tools set up. CoS pipeline. AND: daily updates on the IonWave spinoff site. Transparent progress visible to the world.",
+      "col_5": "Supports the hire of Product Person"
+    },
+    {
+      "REVISED LABOR CHAIN": "3",
+      "col_2": "Product Person",
+      "col_3": "Builds two sites. Site 1: IonWave DAO spinoff page — the VA is the interface on this, showing real-time launch progress. Makes it sick, fun, engaging. Site 2: DAO infrastructure company page — shows the system, shows IonWave as first proof, attracts investors for the holding company.",
+      "col_4": "Two live websites. IonWave spinoff page (VA updates daily). Infrastructure company page (investor-facing, shows the factory).",
+      "col_5": "N/A — contracted deliverable"
+    },
+    {
+      "REVISED LABOR CHAIN": "4",
+      "col_2": "CoS (for IonWave)",
+      "col_3": "Executes the IonWave launch using the Trade. BUT their real project is: the IonWave launch IS the fundraising proof for the holding company. They are running IonWave to demonstrate the system works, which is what raises for the infrastructure company.",
+      "col_4": "IonWave operational. Revenue starting. Expert sessions complete. AND: investor materials for holding company. Proof that the system works.",
+      "col_5": "CoS for holding company"
+    },
+    {
+      "REVISED LABOR CHAIN": "5",
+      "col_2": "CoS (for holding company)",
+      "col_3": "Hired by IonWave CoS. Runs the infrastructure company. Manages the portfolio of spinoffs. Oversees P1/P2/P3 tech roadmap. Recruits operators for future Trades.",
+      "col_4": "Holding company operational. Second spinoff in pipeline. Tech team hired for P1 (Trade Automation).",
+      "col_5": "Operators for spinoffs. Engineers for tech roadmap."
+    },
+    {
+      "REVISED LABOR CHAIN": "THE TWO SITES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Site",
+      "col_2": "Audience",
+      "col_3": "Purpose",
+      "col_4": "Content",
+      "col_5": "Who Updates It"
+    },
+    {
+      "REVISED LABOR CHAIN": "IonWave DAO Spinoff Page",
+      "col_2": "Public. Potential customers, community, early supporters.",
+      "col_3": "Transparency. Show the world what it looks like to launch a company using this system. Build excitement. Build community. Potentially accept early investment/participation.",
+      "col_4": "Daily updates from VA. Team forming in real time. Business plan visible. Milestones tracked. \"Here is how we are going to launch.\" Progress bar from thesis to revenue. Like a Boardy-style AI interface — engaging, conversational, not a static page.",
+      "col_5": "VA (daily). Product Person maintains."
+    },
+    {
+      "REVISED LABOR CHAIN": "DAO Infrastructure Company Page",
+      "col_2": "Investors. Potential operators. Potential partners.",
+      "col_3": "Raise for the holding company. Show IonWave as first proof. Explain the coordination hedgefund thesis. Show the tech roadmap (P1, P2, P3). Show the portfolio vision.",
+      "col_4": "The coordination hedgefund thesis. IonWave as case study #1. The 3-project tech roadmap. The team. How to participate. Not a pitch deck — a live system you can interact with (Claude demo?).",
+      "col_5": "CoS (weekly). Nilo (strategic content)."
+    },
+    {
+      "REVISED LABOR CHAIN": "WHAT EVERYONE GETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Role",
+      "col_2": "Equity/Compensation",
+      "col_3": "In What Entity",
+      "col_4": "Why This Works For Them",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "VA",
+      "col_2": "$100 + $200 milestone bonus + potential ongoing role",
+      "col_3": "Cash (IonWave operating expense)",
+      "col_4": "Low risk, clear tasks, fast payment, portfolio piece, path to ongoing work.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Product Person",
+      "col_2": "Contract fee + small equity in IonWave",
+      "col_3": "IonWave + cash",
+      "col_4": "Interesting project. Two portfolio pieces. Equity upside if IonWave works.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "CoS (IonWave)",
+      "col_2": "Equity in IonWave + potential equity in holding company",
+      "col_3": "IonWave primarily",
+      "col_4": "Running a funded business with a pre-built system. If IonWave works AND the holding company raises, they have equity in both.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "CoS (Holding Co)",
+      "col_2": "Equity in holding company",
+      "col_3": "Infrastructure company",
+      "col_4": "Ground floor of the factory. Every spinoff adds value. Tech roadmap is the upside multiplier.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Experts",
+      "col_2": "Access to finished Trade + small equity or cash",
+      "col_3": "IonWave",
+      "col_4": "Minimal time. Interesting work. The finished model is genuinely useful to them.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "VPs",
+      "col_2": "Advisory equity + potential carry",
+      "col_3": "IonWave + holding company",
+      "col_4": "Deal flow. Reputation. Carry on a differentiated portfolio.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Investors (IonWave)",
+      "col_2": "Equity",
+      "col_3": "IonWave",
+      "col_4": "De-risked D2C investment. Unprecedented operational preparation.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "Investors (Holding Co)",
+      "col_2": "Equity",
+      "col_3": "Infrastructure company",
+      "col_4": "Owning the factory, not the product. Tech moat deepens with each spinoff.",
+      "col_5": null
+    },
+    {
+      "REVISED LABOR CHAIN": "CEO/Operator",
+      "col_2": "Significant equity",
+      "col_3": "IonWave",
+      "col_4": "Pre-built machine. Clear path. Highest floor, highest ceiling operator role.",
+      "col_5": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Revised Labor Chain",
+  "sheet_index": 74
+}

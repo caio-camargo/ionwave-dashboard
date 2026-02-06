@@ -1,0 +1,252 @@
+{
+  "headers": [
+    "IONWAVE CHANNEL DIVERSIFICATION PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Reducing Meta dependency over time. Target: <50% revenue from single channel by Month 12.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "PLATFORM DEPENDENCY RISK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "• Meta accounts can be suspended without warning (recovery takes 2-4 weeks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "• CPM spikes 12-20% during Q4, crushing margins",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "• Algorithm changes can tank ROAS overnight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "• Creative fatigue requires constant refresh (7-10 days)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "• Varos data: brands with 3+ channels have 1.8x better ROAS stability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "PHASED CHANNEL ROLLOUT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Phase",
+      "col_2": "Timeline",
+      "col_3": "Channels",
+      "col_4": "Budget Allocation",
+      "col_5": "Goal"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Phase 1: Learn",
+      "col_2": "Month 1-3",
+      "col_3": "Meta only",
+      "col_4": "100% Meta",
+      "col_5": "Find winning creative, prove CAC"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Phase 2: Test",
+      "col_2": "Month 4-6",
+      "col_3": "Meta + TikTok test",
+      "col_4": "85% Meta, 15% TikTok",
+      "col_5": "Test TikTok with proven creative"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Phase 3: Expand",
+      "col_2": "Month 7-9",
+      "col_3": "Meta + TikTok + Google",
+      "col_4": "70% Meta, 20% TikTok, 10% Google",
+      "col_5": "Add Google retargeting"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Phase 4: Diversify",
+      "col_2": "Month 10-12",
+      "col_3": "All paid + Influencer + Email",
+      "col_4": "50% Meta, 25% TikTok, 15% Google, 10% Other",
+      "col_5": "No single channel >50%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "CHANNEL SPECIFICATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Channel",
+      "col_2": "When to Add",
+      "col_3": "Expected CPM",
+      "col_4": "Best For",
+      "col_5": "Creative Type"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Meta (FB/IG)",
+      "col_2": "Day 1",
+      "col_3": "$10-15",
+      "col_4": "Direct response, retargeting",
+      "col_5": "Static, carousel, video"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "TikTok",
+      "col_2": "Month 4",
+      "col_3": "$8-12",
+      "col_4": "Awareness, younger demo",
+      "col_5": "UGC, native-style video"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Google (PMax)",
+      "col_2": "Month 7",
+      "col_3": "$12-18",
+      "col_4": "Intent capture, retargeting",
+      "col_5": "Search + display"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "YouTube",
+      "col_2": "Month 9",
+      "col_3": "$9-14",
+      "col_4": "Long-form education",
+      "col_5": "VSL, testimonials"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Influencer",
+      "col_2": "Month 4",
+      "col_3": "N/A (CPM varies)",
+      "col_4": "Awareness, trust",
+      "col_5": "Authentic content"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Email/SMS",
+      "col_2": "Month 1",
+      "col_3": "$0 (owned)",
+      "col_4": "Retention, upsell",
+      "col_5": "Sequences (see Email sheets)"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Organic Social",
+      "col_2": "Month 1",
+      "col_3": "$0",
+      "col_4": "Brand building",
+      "col_5": "Educational, behind-scenes"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "REVENUE MIX TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Channel",
+      "col_2": "Month 3",
+      "col_3": "Month 6",
+      "col_4": "Month 9",
+      "col_5": "Month 12"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Meta Ads",
+      "col_2": "85%",
+      "col_3": "65%",
+      "col_4": "50%",
+      "col_5": "40%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "TikTok Ads",
+      "col_2": "0%",
+      "col_3": "15%",
+      "col_4": "20%",
+      "col_5": "20%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Google Ads",
+      "col_2": "0%",
+      "col_3": "5%",
+      "col_4": "10%",
+      "col_5": "15%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Influencer/Organic",
+      "col_2": "5%",
+      "col_3": "10%",
+      "col_4": "10%",
+      "col_5": "10%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Email/SMS",
+      "col_2": "10%",
+      "col_3": "5%",
+      "col_4": "10%",
+      "col_5": "15%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "TOTAL",
+      "col_2": "100%",
+      "col_3": "100%",
+      "col_4": "100%",
+      "col_5": "100%"
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "BLENDED ROAS TRACKING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Track weekly: Blended ROAS = Total Revenue / Total Ad Spend (all channels)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "Don't optimize channels in isolation - optimize for blended profitability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE CHANNEL DIVERSIFICATION PLAN": "TikTok may have lower direct ROAS but drives search/retargeting that converts on Google",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 34,
+  "sheet_name": "Channel Diversification",
+  "sheet_index": 369
+}

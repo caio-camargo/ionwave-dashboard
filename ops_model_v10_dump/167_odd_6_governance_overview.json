@@ -1,0 +1,322 @@
+{
+  "headers": [
+    "ODD-6: GOVERNANCE OVERVIEW",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Decision rights, reporting, and accountability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "GOVERNANCE STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "STUDIO MODEL GOVERNANCE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Studio (Parent) → Trade (IonWave) → Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Studio provides: Capital, strategy, oversight, support",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Trade is: Separate entity (or P&L), own operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Operator has: Day-to-day authority within guardrails",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "DECISION AUTHORITY MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Decision Type",
+      "col_2": "Operator",
+      "col_3": "Studio",
+      "col_4": "Board/Investors",
+      "col_5": "Examples"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Day-to-day operations",
+      "col_2": "DECIDES",
+      "col_3": "Informed",
+      "col_4": "-",
+      "col_5": "Ad spend allocation, vendor choice"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Spend <$5K",
+      "col_2": "DECIDES",
+      "col_3": "Informed",
+      "col_4": "-",
+      "col_5": "Tools, contractors, inventory"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Spend $5K-$25K",
+      "col_2": "Proposes",
+      "col_3": "APPROVES",
+      "col_4": "-",
+      "col_5": "Large inventory orders, equipment"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Spend >$25K",
+      "col_2": "Proposes",
+      "col_3": "Recommends",
+      "col_4": "APPROVES",
+      "col_5": "Major investments"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Hiring (contractors)",
+      "col_2": "DECIDES",
+      "col_3": "Informed",
+      "col_4": "-",
+      "col_5": "Freelancers, agencies"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Hiring (full-time)",
+      "col_2": "Proposes",
+      "col_3": "APPROVES",
+      "col_4": "-",
+      "col_5": "Employees"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Pricing changes",
+      "col_2": "Proposes",
+      "col_3": "APPROVES",
+      "col_4": "-",
+      "col_5": "Price increase/decrease"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "New products",
+      "col_2": "Proposes",
+      "col_3": "APPROVES",
+      "col_4": "-",
+      "col_5": "SKU expansion"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Strategy changes",
+      "col_2": "Proposes",
+      "col_3": "APPROVES",
+      "col_4": "Informed",
+      "col_5": "Market pivot, channel change"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Fundraising",
+      "col_2": "Supports",
+      "col_3": "DECIDES",
+      "col_4": "APPROVES",
+      "col_5": "Raising capital"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Equity grants",
+      "col_2": "-",
+      "col_3": "Proposes",
+      "col_4": "APPROVES",
+      "col_5": "Option grants"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Kill decision",
+      "col_2": "Proposes",
+      "col_3": "DECIDES",
+      "col_4": "Informed",
+      "col_5": "Shutting down trade"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Exit/Sale",
+      "col_2": "-",
+      "col_3": "Proposes",
+      "col_4": "APPROVES",
+      "col_5": "Selling company"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "REPORTING CADENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Frequency",
+      "col_2": "Report",
+      "col_3": "From",
+      "col_4": "To",
+      "col_5": "Contents"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Daily",
+      "col_2": "Standup",
+      "col_3": "Operator",
+      "col_4": "Studio",
+      "col_5": "Yesterday, today, blockers"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Weekly",
+      "col_2": "Weekly Report",
+      "col_3": "Operator",
+      "col_4": "Studio",
+      "col_5": "Metrics, wins, losses, plans"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Monthly",
+      "col_2": "Monthly Review",
+      "col_3": "Operator",
+      "col_4": "Studio + Investors",
+      "col_5": "Full P&L, progress, asks"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Quarterly",
+      "col_2": "Board Update",
+      "col_3": "Studio",
+      "col_4": "Board/Investors",
+      "col_5": "Strategy, financials, outlook"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Annual",
+      "col_2": "Annual Review",
+      "col_3": "Studio",
+      "col_4": "All stakeholders",
+      "col_5": "Year in review, next year plan"
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "ESCALATION PATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "When Operator should escalate to Studio:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Any decision outside their authority",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Any spend >$5K",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Any legal or compliance issue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Any PR or reputation risk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Near kill criteria threshold",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Disagreement with key stakeholder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "• Unsure about right course of action",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "Escalation = good. Surprises = bad.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "MEETING RHYTHM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "DAILY: Async standup (Slack/Loom) - 5 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "WEEKLY: Sync call (Operator + Studio) - 30 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "MONTHLY: Deep review (Operator + Studio) - 60 min",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ODD-6: GOVERNANCE OVERVIEW": "QUARTERLY: Strategy session (All stakeholders) - 2 hrs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 44,
+  "sheet_name": "ODD-6 Governance Overview",
+  "sheet_index": 167
+}

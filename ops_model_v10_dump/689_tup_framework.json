@@ -1,0 +1,210 @@
+{
+  "headers": [
+    "TUP FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "TUP FRAMEWORK": "Trade Unit Portfolio — How ventures fit into the holding structure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "WHAT IS A TUP?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "TUP = Trade Unit Portfolio",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "A TUP is a single venture within the Trade holding company structure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "Trade is the parent entity. Each TUP is a business unit or subsidiary.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "Think of it like:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Trade = Berkshire Hathaway",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• TUP = GEICO, See's Candies, etc. (individual businesses)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "Each TUP has:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Its own P&L",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Its own Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Its own ODD (Operational Definition of Done)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Its own grade from the Compliance Manager",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "• Capital allocated from Trade",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "TUP LIFECYCLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "Stage",
+      "col_2": "Description",
+      "col_3": "Duration",
+      "col_4": "Capital",
+      "col_5": "Exit Criteria"
+    },
+    {
+      "TUP FRAMEWORK": "0. Thesis",
+      "col_2": "Idea validated, ODD being built",
+      "col_3": "1-2 months",
+      "col_4": "$0-5K",
+      "col_5": "ODD complete, Operator identified"
+    },
+    {
+      "TUP FRAMEWORK": "1. Table Set",
+      "col_2": "Everything ready to sell",
+      "col_3": "30 days",
+      "col_4": "$10-25K",
+      "col_5": "Website live, product ready, ads ready"
+    },
+    {
+      "TUP FRAMEWORK": "2. First Blood",
+      "col_2": "First real sales, testing",
+      "col_3": "30-60 days",
+      "col_4": "$25-50K",
+      "col_5": "First 100 customers, CAC < 2x target"
+    },
+    {
+      "TUP FRAMEWORK": "3. Winner Found",
+      "col_2": "PMF signals, scaling",
+      "col_3": "60-90 days",
+      "col_4": "$50-200K",
+      "col_5": "CAC at target, 3+ winning ads, +UE"
+    },
+    {
+      "TUP FRAMEWORK": "4. Scale",
+      "col_2": "Proven, scaling aggressively",
+      "col_3": "Ongoing",
+      "col_4": "$200K+",
+      "col_5": "$100K+ MRR or exit criteria"
+    },
+    {
+      "TUP FRAMEWORK": "5. Mature",
+      "col_2": "Stable, cash flowing",
+      "col_3": "Ongoing",
+      "col_4": "Self-funded",
+      "col_5": "Profitable, minimal oversight"
+    },
+    {
+      "TUP FRAMEWORK": "X. Kill",
+      "col_2": "Failed, winding down",
+      "col_3": "30 days",
+      "col_4": "Wind down",
+      "col_5": "Lessons captured, assets liquidated"
+    },
+    {
+      "TUP FRAMEWORK": "TUP vs RUP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "TUP = Trade Unit Portfolio (the venture itself)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "RUP = Rating Unit Portfolio (the assessment of the venture)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "The TUP is the business. The RUP is how we grade it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "TUP FRAMEWORK": "The CM produces RUPs (assessments) for each TUP (venture).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "TUP Framework",
+  "sheet_index": 689
+}

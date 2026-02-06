@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "SCENARIO PLANNING: BULL / BASE / BEAR",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Three versions of the future.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Metric",
+      "col_2": "Bear",
+      "col_3": "Base",
+      "col_4": "Bull"
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Month 6 MRR",
+      "col_2": "$5K",
+      "col_3": "$15K",
+      "col_4": "$30K"
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Month 12 MRR",
+      "col_2": "$15K",
+      "col_3": "$50K",
+      "col_4": "$100K"
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "CAC",
+      "col_2": "$55",
+      "col_3": "$40",
+      "col_4": "$30"
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Churn",
+      "col_2": "18%",
+      "col_3": "12%",
+      "col_4": "8%"
+    },
+    {
+      "SCENARIO PLANNING: BULL / BASE / BEAR": "Profitability",
+      "col_2": "Month 18",
+      "col_3": "Month 10",
+      "col_4": "Month 6"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Scenario Planning",
+  "sheet_index": 189
+}

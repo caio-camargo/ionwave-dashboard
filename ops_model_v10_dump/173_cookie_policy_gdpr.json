@@ -1,0 +1,132 @@
+{
+  "headers": [
+    "COOKIE POLICY / GDPR COMPLIANCE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Cookie disclosures and EU privacy compliance",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "DO YOU NEED THIS?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "You need a cookie banner/policy if you:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Use Google Analytics",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Use Facebook Pixel",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Use any retargeting",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Sell to EU customers",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "If you sell only to US customers and don't plan to expand,",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "a simple cookie notice may suffice. But best practice = full compliance.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "COOKIE CATEGORIES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Category",
+      "col_2": "Purpose",
+      "col_3": "Consent"
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Strictly Necessary",
+      "col_2": "Required for site to function",
+      "col_3": "No consent needed"
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Performance/Analytics",
+      "col_2": "Google Analytics, etc.",
+      "col_3": "Consent required (GDPR)"
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Functional",
+      "col_2": "Preferences, language",
+      "col_3": "Consent required"
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "Targeting/Advertising",
+      "col_2": "Facebook Pixel, retargeting",
+      "col_3": "Consent required (GDPR)"
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "IMPLEMENTATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "1. Cookie banner - Shows on first visit, allows accept/reject",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "2. Cookie policy page - Details all cookies used",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "3. Consent management - Don't fire tracking until consent (GDPR)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "TOOLS:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Shopify: Cookie banner apps (GDPR/CCPA compliance)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Termly.io - Cookie consent banner + policy",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• Cookiebot",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "COOKIE POLICY / GDPR COMPLIANCE": "• OneTrust (enterprise)",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Cookie Policy GDPR",
+  "sheet_index": 173
+}

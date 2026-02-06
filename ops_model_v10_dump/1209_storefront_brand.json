@@ -1,0 +1,83 @@
+{
+  "headers": [
+    "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Visual identity for AI mockup generation. Not final brand — enough to make it look real.",
+      "col_2": null
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "BRAND IDENTITY",
+      "col_2": null
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Brand name",
+      "col_2": "IonWave"
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Tagline options",
+      "col_2": "\"Premium electrolytes. Zero compromise.\" / \"Hydrate smarter.\" / \"The electrolyte for people who read labels.\""
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Brand personality",
+      "col_2": "Smart, clean, no-BS. Not bro-science. Not wellness woo. Think: Aesop meets Athletic Greens. Premium without pretension."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Color palette — primary",
+      "col_2": "Deep navy (#0D2137) + white (#FFFFFF) + one accent (electric blue #4FC3F7 or ocean teal #00ACC1)"
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Color palette — flavors",
+      "col_2": "Citrus: warm gold (#FFB74D). Berry: deep purple (#7B1FA2). Unflavored: clean white/silver (#E0E0E0)."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Typography",
+      "col_2": "Headline: geometric sans-serif (Inter, Outfit, or similar). Body: clean sans-serif. NO script fonts. NO all-caps except logo."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Photography style",
+      "col_2": "Bright, clean, studio-lit. Not dark/moody. Not overly lifestyle. Product is the hero. Think: product on a clean surface with one contextual object (water bottle, gym towel, morning coffee)."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Logo concept",
+      "col_2": "Wordmark \"IonWave\" in custom geometric sans-serif. Optional: subtle wave element in the \"W\" or as an accent mark. Clean enough to work at 1cm on a stick pack."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "PACKAGING SPEC (for AI mockup)",
+      "col_2": null
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Format",
+      "col_2": "Stick packs in a box. 30 count."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Stick pack dimensions",
+      "col_2": "~3.5\" × 1.5\" (standard single-serve stick pack)"
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Box dimensions",
+      "col_2": "~6\" × 4\" × 3\" (standard 30-count box)"
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Stick pack design",
+      "col_2": "Front: IonWave logo + flavor name + one accent color stripe. Back: supplement facts + brief copy. Minimal. The stick pack is small — don't overcrowd."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Box design",
+      "col_2": "Front: IonWave logo centered. Flavor name below. \"30 servings\" at bottom. One product photo or abstract element. Side: supplement facts panel. Back: brand story (2-3 sentences) + website + barcode."
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "Supplement facts (placeholder)",
+      "col_2": "Sodium: 1000mg, Potassium: 200mg, Magnesium: 60mg, Chloride: [TBD]. Zero sugar. Zero calories. Zero artificial flavors. [THESE ARE PLACEHOLDERS — real numbers come from M0 formulation thesis]"
+    },
+    {
+      "SHOPIFY STOREFRONT — BRAND & PACKAGING SPEC": "AI prompt for packaging",
+      "col_2": "\"Product packaging mockup of a premium electrolyte supplement. Stick pack box, 30 count, on a clean white surface. Deep navy box with clean white sans-serif logo 'IonWave'. One accent color stripe (electric blue). Minimal modern design. Supplement aesthetic between Aesop and Athletic Greens. Studio photography. Include one loose stick pack next to the box.\""
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Storefront - Brand",
+  "sheet_index": 1209
+}

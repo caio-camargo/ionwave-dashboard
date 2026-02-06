@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "DAILY STANDUP TEMPLATE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "DAILY STANDUP TEMPLATE": "What operator reports every day in groupchat",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DAILY STANDUP TEMPLATE": "FORMAT (copy/paste daily):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DAILY STANDUP TEMPLATE": "📊 DAILY UPDATE - [DATE]\n\nMETRICS:\n• Revenue: $[X] (MTD: $[X])\n• Orders: [X] (MTD: [X])\n• Ad Spend: $[X] (ROAS: [X])\n• CAC: $[X]\n\nWINS:\n• [What went well]\n\nBLOCKERS:\n• [What's stuck]\n\nTODAY'S FOCUS:\n• [Top 3 priorities]\n\nDECISIONS NEEDED:\n• [Any approvals required]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DAILY STANDUP TEMPLATE": "DAILY STANDUP LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "DAILY STANDUP TEMPLATE": "Date",
+      "col_2": "Revenue",
+      "col_3": "Orders",
+      "col_4": "Spend",
+      "col_5": "ROAS",
+      "col_6": "CAC",
+      "col_7": "Key Win",
+      "col_8": "Key Blocker"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Daily Standup Template",
+  "sheet_index": 789
+}

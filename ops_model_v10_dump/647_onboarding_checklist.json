@@ -1,0 +1,215 @@
+{
+  "headers": [
+    "ONBOARDING CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ONBOARDING CHECKLIST": "Day 1, Week 1, Month 1 for new operator.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "DAY 1:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Access to all tools (Shopify, Meta, Klaviyo, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Read this ops model (all tabs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Meet with CM for orientation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Set up screen recording",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "WEEK 1:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Shadow existing processes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Complete first daily report",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Run first ad review",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "MONTH 1:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ Fully autonomous on daily operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ First weekly report delivered",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "⬜ First process improvement suggested",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "TRAINING CURRICULUM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ONBOARDING CHECKLIST": "Module",
+      "col_2": "Topics",
+      "col_3": "Duration",
+      "col_4": "Materials",
+      "col_5": "Assessment",
+      "col_6": "Required For"
+    },
+    {
+      "ONBOARDING CHECKLIST": "1. Company Overview",
+      "col_2": "Mission, values, north star",
+      "col_3": "30 min",
+      "col_4": "Deck",
+      "col_5": "Quiz",
+      "col_6": "All"
+    },
+    {
+      "ONBOARDING CHECKLIST": "2. Product Knowledge",
+      "col_2": "Features, benefits, science",
+      "col_3": "1 hr",
+      "col_4": "Docs + video",
+      "col_5": "Quiz",
+      "col_6": "All"
+    },
+    {
+      "ONBOARDING CHECKLIST": "3. Ops Model Walkthrough",
+      "col_2": "How to use this spreadsheet",
+      "col_3": "2 hrs",
+      "col_4": "This doc",
+      "col_5": "Demo",
+      "col_6": "Operator"
+    },
+    {
+      "ONBOARDING CHECKLIST": "4. Shopify Basics",
+      "col_2": "Orders, products, settings",
+      "col_3": "2 hrs",
+      "col_4": "Video",
+      "col_5": "Hands-on",
+      "col_6": "Operator"
+    },
+    {
+      "ONBOARDING CHECKLIST": "5. Klaviyo Basics",
+      "col_2": "Flows, campaigns, segments",
+      "col_3": "2 hrs",
+      "col_4": "Video",
+      "col_5": "Hands-on",
+      "col_6": "Operator"
+    },
+    {
+      "ONBOARDING CHECKLIST": "6. Meta Ads",
+      "col_2": "Campaign structure, optimization",
+      "col_3": "3 hrs",
+      "col_4": "Video + SOP",
+      "col_5": "Hands-on",
+      "col_6": "Operator"
+    },
+    {
+      "ONBOARDING CHECKLIST": "7. Support Procedures",
+      "col_2": "Common issues, scripts",
+      "col_3": "1 hr",
+      "col_4": "SOP",
+      "col_5": "Role play",
+      "col_6": "Support"
+    },
+    {
+      "ONBOARDING CHECKLIST": "8. Reporting",
+      "col_2": "Daily standup, weekly report",
+      "col_3": "1 hr",
+      "col_4": "Templates",
+      "col_5": "Submit sample",
+      "col_6": "Operator"
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Onboarding Checklist",
+  "sheet_index": 647
+}

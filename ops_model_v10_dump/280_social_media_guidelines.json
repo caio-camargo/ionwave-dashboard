@@ -1,0 +1,67 @@
+{
+  "headers": [
+    "SOCIAL MEDIA GUIDELINES",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "SOCIAL MEDIA GUIDELINES": "How we show up on each platform.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "Platform",
+      "col_2": "Content",
+      "col_3": "Cadence",
+      "col_4": "Tone"
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "Instagram",
+      "col_2": "Lifestyle, product, education",
+      "col_3": "5-7x/week",
+      "col_4": "Polished"
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "TikTok",
+      "col_2": "UGC, trends, behind-scenes",
+      "col_3": "1-2x/day",
+      "col_4": "Casual"
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "Twitter/X",
+      "col_2": "Science, tips, conversations",
+      "col_3": "3-5x/week",
+      "col_4": "Smart"
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "NEVER POST:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "• Political content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "• Unverified health claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SOCIAL MEDIA GUIDELINES": "• Competitor bashing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Social Media Guidelines",
+  "sheet_index": 280
+}

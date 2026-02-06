@@ -1,0 +1,191 @@
+{
+  "headers": [
+    "STANDARD OPERATING PROCEDURES INDEX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "SOP Name",
+      "col_2": "Description",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Daily Ad Check",
+      "col_2": "How to review and optimize ads daily",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Order Fulfillment",
+      "col_2": "End-to-end order process",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Customer Support",
+      "col_2": "Response templates, escalation",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Inventory Reorder",
+      "col_2": "When and how much to order",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Creative Production",
+      "col_2": "Brief to launch process",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Weekly Reporting",
+      "col_2": "What to track, how to present",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "New Hire Onboarding",
+      "col_2": "First week checklist",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "SOP COMPLETION TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Process",
+      "col_2": "SOP Written?",
+      "col_3": "Last Updated",
+      "col_4": "Owner",
+      "col_5": "Trained?",
+      "col_6": "Notes"
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Daily Ad Check",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Weekly Reporting",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Order Fulfillment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Customer Support",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Inventory Reorder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Email Campaign Launch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "New Ad Launch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Refund Processing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Supplier Communication",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "Monthly Close",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STANDARD OPERATING PROCEDURES INDEX": "COVERAGE: [X] / [Total] processes documented",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "SOPs",
+  "sheet_index": 793
+}

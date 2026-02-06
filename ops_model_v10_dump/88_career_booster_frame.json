@@ -1,0 +1,183 @@
+{
+  "headers": [
+    "CAREER BOOSTER FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CAREER BOOSTER FRAMEWORK": "Every role must pass this test: Is this the best thing this person could put on their resume?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Role",
+      "col_2": "What They Can Say After",
+      "col_3": "Portfolio Artifact",
+      "col_4": "Network Gained",
+      "col_5": "Skills Demonstrated",
+      "col_6": "Who This Attracts"
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "MC",
+      "col_2": "\"I hosted 200+ hours of professional content documenting a DAO launch that got funded. I interviewed the founder, the scientists, the marketers, the lawyers.\"",
+      "col_3": "Full video library. Highlight reel. Published on live site. Searchable, linkable.",
+      "col_4": "Every person in the IonWave system. Nilo (YC/Greylock-backed). All experts. All PM co-founders.",
+      "col_5": "Interviewing, content production, synthesis, on-camera presence, editorial judgment.",
+      "col_6": "Aspiring podcasters, journalism grads, content creators who want a signature project, actors who want a real role."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Admin",
+      "col_2": "\"I ran operations for a venture studio that launched 7 businesses. Managed entity formation, candidate pipelines, and cross-functional coordination.\"",
+      "col_3": "Operational playbooks. Process documentation. The Trade itself as a reference.",
+      "col_4": "Nilo, PM co-founders, product person. Venture studio network.",
+      "col_5": "Operations, project coordination, candidate screening, tool management, entity formation.",
+      "col_6": "Career-changers into operations. VAs who want to level up. Business students. People who want startup experience without the risk."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "PM Co-Founder\n(per cluster)",
+      "col_2": "\"I was co-founder and cluster lead for [domain]. Took 4-8 models from blank to verified. Coordinated experts, managed production, shipped a complete operating system for a funded company.\"",
+      "col_3": "The verified cluster itself. Published, attributed models. Contract showing co-founder status.",
+      "col_4": "Nilo, other PM co-founders, domain experts, investors who funded the project.",
+      "col_5": "Product management, project management, expert coordination, quality assurance, startup operations.",
+      "col_6": "MBA students who want real co-founder experience. PMs at big companies who want to build something. Former consultants. Ops people at startups."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Expert Reviewer",
+      "col_2": "\"I was the domain expert who validated the [formulation/marketing/legal] models for IonWave. My name is on the verified output.\"",
+      "col_3": "Credited models with their name. Published expert review. Domain authority artifact.",
+      "col_4": "Nilo, PM co-founder of their cluster, other experts.",
+      "col_5": "Domain expertise, quality assessment, technical review, calibration.",
+      "col_6": "Consultants who want published credibility. Industry practitioners who write/teach. People building personal brands around expertise."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Product Person",
+      "col_2": "\"I built the consumer-grade launch site for a DAO that got funded. Cinematic quality. Daily video updates. Password-protected investor portal.\"",
+      "col_3": "The sites themselves. Live, public, beautiful. Best portfolio piece they have.",
+      "col_4": "Nilo, PM co-founders, MC, investors who saw the site.",
+      "col_5": "Product design, frontend development, CMS architecture, video integration, consumer-grade quality.",
+      "col_6": "Bootcamp grads. Freelancers building practice. Designers bored of SaaS dashboards. Anyone who wants a signature project."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "CoS (IonWave)",
+      "col_2": "\"I was the operator who launched IonWave from funded model to revenue. Built the team, ran the operations, scaled from 0 to [X].\"",
+      "col_3": "The business itself. Revenue. Team. Everything.",
+      "col_4": "Nilo, Studio 4 network, investors, the entire IonWave team.",
+      "col_5": "CEO/COO-level operations, fundraising, team building, P&L management.",
+      "col_6": "People who want to be CEO but need a vehicle. Operators who want equity. People who are overqualified for their current role."
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "THE PITCH TEMPLATE (FOR EVERY ROLE)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Every outreach message follows the same structure:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "1. WHAT THIS IS: \"We're building a company using the most documented launch process ever.\"",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "2. WHAT YOU'D DO: [Specific scope, not vague]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "3. THE TIME ASK: [Honest hours per week, honest duration]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "4. WHAT YOU GET: [Equity + comp + the career artifact]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "5. WHY YOU: [Why this specific person is right for this specific role]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "6. THE PROOF: [Link to the password-protected site — they can see it's real]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "The site IS the pitch for every role, not just investors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "MC candidates see the site and think: I want to host that.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "PM candidates see the site and think: I want to run that.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Expert candidates see the site and think: I want my name on that.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CAREER BOOSTER FRAMEWORK": "Product candidates see the site and think: I want to build that.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Career Booster Frame",
+  "sheet_index": 88
+}

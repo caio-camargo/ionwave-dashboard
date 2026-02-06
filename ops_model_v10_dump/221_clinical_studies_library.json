@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "CLINICAL STUDIES LIBRARY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CLINICAL STUDIES LIBRARY": "Actual studies on ocean minerals, electrolyte absorption, etc.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "HOW TO USE THIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "This is your EVIDENCE BASE. Use it for:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "• Substantiating claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "• Training customer service",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "• Creating content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "• Defending against attacks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "• Educating influencers/affiliates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "STUDY TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Topic",
+      "col_2": "Study Title",
+      "col_3": "Authors/Year",
+      "col_4": "Key Finding",
+      "col_5": "Relevance",
+      "col_6": "Link/DOI"
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Deep ocean water",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Benefits of deep ocean minerals",
+      "col_5": "Core differentiator",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Marine plasma",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Similarity to blood plasma",
+      "col_5": "Key claim support",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Trace minerals",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Benefits of full spectrum",
+      "col_5": "Differentiator",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Electrolyte absorption",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "How electrolytes absorb",
+      "col_5": "Mechanism",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Sodium needs (active)",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Athletes need more sodium",
+      "col_5": "Target audience",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Keto electrolytes",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Low-carb increases needs",
+      "col_5": "Target audience",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Magnesium deficiency",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "50%+ Americans deficient",
+      "col_5": "Market need",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "Mineral bioavailability",
+      "col_2": "[TO FIND]",
+      "col_3": null,
+      "col_4": "Form affects absorption",
+      "col_5": "Product design",
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "RESEARCH TO DO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Search PubMed for 'deep sea water minerals'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Search for 'marine plasma' research (esp. Japanese studies)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Find Quinton marine plasma research (historical)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Search for electrolyte absorption studies",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Find trace mineral deficiency statistics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Look for keto/low-carb electrolyte studies",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Find athletic sodium requirement studies",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CLINICAL STUDIES LIBRARY": "☐ Search for mineral bioavailability comparisons",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Clinical Studies Library",
+  "sheet_index": 221
+}

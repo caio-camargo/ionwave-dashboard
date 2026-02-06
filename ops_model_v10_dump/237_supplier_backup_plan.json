@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "SUPPLIER BACKUP PLAN",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SUPPLIER BACKUP PLAN": "If primary fails, who is #2 and #3?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUPPLIER BACKUP PLAN": "Supplier",
+      "col_2": "Status",
+      "col_3": "MOQ",
+      "col_4": "Lead Time",
+      "col_5": "Contact"
+    },
+    {
+      "SUPPLIER BACKUP PLAN": "Supplier A",
+      "col_2": "🟢 PRIMARY",
+      "col_3": "500",
+      "col_4": "4 weeks",
+      "col_5": "[Contact]"
+    },
+    {
+      "SUPPLIER BACKUP PLAN": "Supplier B",
+      "col_2": "🟡 BACKUP #1",
+      "col_3": "1000",
+      "col_4": "5 weeks",
+      "col_5": "[Contact]"
+    },
+    {
+      "SUPPLIER BACKUP PLAN": "Supplier C",
+      "col_2": "🟡 BACKUP #2",
+      "col_3": "250",
+      "col_4": "3 weeks",
+      "col_5": "[Contact]"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Supplier Backup Plan",
+  "sheet_index": 237
+}

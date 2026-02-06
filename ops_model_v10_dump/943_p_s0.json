@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S0: Studio Thesis — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "The foundational vision for Studio 4. Why this venture studio exists, what it does differently, and how coordination protocols create value.",
+      "col_2": null
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "TUP",
+      "col_2": "S0: Studio Thesis"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-0"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Owner",
+      "col_2": "Nilo"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Description",
+      "col_2": "The foundational vision for Studio 4. Why this venture studio exists, what it does differently, and how coordination protocols create value."
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S0: Studio Thesis — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Studio Thesis model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S0",
+  "sheet_index": 943
+}

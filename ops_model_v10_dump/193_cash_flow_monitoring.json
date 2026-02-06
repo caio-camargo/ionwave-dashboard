@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "CASH FLOW MONITORING DASHBOARD",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Real-time tracking of cash position and runway",
+      "col_2": null
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "CURRENT POSITION",
+      "col_2": null
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Cash on hand",
+      "col_2": "$[X]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Outstanding receivables",
+      "col_2": "$[X]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Outstanding payables",
+      "col_2": "$[X]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Net position",
+      "col_2": "$[X]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Runway (days)",
+      "col_2": "[X]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "KEY DATES",
+      "col_2": null
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Days until stockout",
+      "col_2": "[Calculate: Current inventory / daily sales]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Days until next revenue",
+      "col_2": "[Shopify payout schedule]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Next major payment due",
+      "col_2": "[Supplier invoice, etc.]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "Reorder trigger date",
+      "col_2": "[When to place next PO]"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "CASH FLOW TRIGGERS",
+      "col_2": null
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "⚠️ WARNING: Runway < 90 days",
+      "col_2": "Review spend, accelerate collections"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "🛑 CRITICAL: Runway < 60 days",
+      "col_2": "Pause non-essential spend, emergency funding"
+    },
+    {
+      "CASH FLOW MONITORING DASHBOARD": "🚨 EMERGENCY: Runway < 30 days",
+      "col_2": "All hands, immediate action required"
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Cash Flow Monitoring",
+  "sheet_index": 193
+}

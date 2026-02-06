@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S16: Studio Financial Model — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Studio 4 financials. Equity budget, cost structure, revenue model, fundraise assumptions.",
+      "col_2": null
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "TUP",
+      "col_2": "S16: Studio Financial Model"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-3"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Owner",
+      "col_2": "PM (Finance)"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Description",
+      "col_2": "Studio 4 financials. Equity budget, cost structure, revenue model, fundraise assumptions."
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S16: Studio Financial Model — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Studio Financial Model model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S16",
+  "sheet_index": 1019
+}

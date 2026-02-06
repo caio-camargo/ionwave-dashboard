@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "SHELF LIFE / STABILITY TESTING",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SHELF LIFE / STABILITY TESTING": "Ensuring product quality over time",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "WHY SHELF LIFE MATTERS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Customer safety and satisfaction",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Legal compliance (must be accurate)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Inventory management (how long can you hold stock)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Returns/complaints prevention",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "TYPES OF STABILITY TESTING",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Type",
+      "col_2": "Method",
+      "col_3": "Notes"
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Real-time stability",
+      "col_2": "Store at normal conditions, test over actual shelf life",
+      "col_3": "Most accurate"
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Accelerated stability",
+      "col_2": "Store at elevated temp/humidity, extrapolate",
+      "col_3": "Faster, less accurate"
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "SHELF LIFE DOCUMENTATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "PRODUCT: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "STATED SHELF LIFE: _______________ months",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "STORAGE CONDITIONS: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "EXPIRATION DATE FORMAT: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "STABILITY TESTING:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Testing lab: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Test protocol: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Test results: [attach]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "BATCH TRACKING:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Lot code format: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Manufacturing date tracking: _______________",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "TYPICAL SUPPLEMENT SHELF LIFE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Powder supplements: 18-24 months",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Capsules/tablets: 24-36 months",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Liquids: 12-18 months",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "Factors affecting shelf life:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Moisture exposure (desiccants help)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Light exposure (opaque packaging)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Temperature",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SHELF LIFE / STABILITY TESTING": "• Ingredient stability",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Shelf Life Stability",
+  "sheet_index": 224
+}

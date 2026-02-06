@@ -1,0 +1,76 @@
+{
+  "headers": [
+    "LAUNCH NARRATIVE"
+  ],
+  "rows": [
+    {
+      "LAUNCH NARRATIVE": "How this actually rolls out. Corrected. Real names where known."
+    },
+    {
+      "LAUNCH NARRATIVE": "THE NARRATIVE"
+    },
+    {
+      "LAUNCH NARRATIVE": "THE SEED (Week 0)"
+    },
+    {
+      "LAUNCH NARRATIVE": "Danilo built the IonWave Trade with Claude over several weeks — 931 tabs, 103 TUPs, 3 levels, 18 clusters. The complete imagination for how the company should work. Now it needs to leave his head. Caio takes the raw Trade and cleans it up: organizes the tab order, confirms the Directory is accurate, checks that every TUP has its structural tabs (P-, C-, IP-, V-). Caio's job is to make the file legible to someone who isn't Danilo. Once it's clean, Caio hires Elaine."
+    },
+    {
+      "LAUNCH NARRATIVE": "THE LIBRARIAN (Week 1)"
+    },
+    {
+      "LAUNCH NARRATIVE": "Elaine is the librarian. She doesn't read 931 tabs. She reads three: the Directory, the Taxonomy, and the Role Rosters. That's enough to know the architecture — 3 levels, 18 clusters, 103 TUPs, who owns what. Her job is to set up the Google Drive: a read-only master folder (the whole Trade) plus empty working folders for every role that's about to flash in. She also hires the Conductor — the person who sources flash team members from platforms and communities."
+    },
+    {
+      "LAUNCH NARRATIVE": "THE CONDUCTOR (Week 1-2)"
+    },
+    {
+      "LAUNCH NARRATIVE": "The Conductor is the operations backbone. Not an admin — a studio coordinator who sources flash team members, manages the pipeline, and handles logistics. Their first job: find the MC, find the first PM co-founders, post on Upwork and LinkedIn and relevant communities. They use the Recruiting Operations tab as their playbook — cold email templates, platform posting guides, screening criteria. They're persistent (stay for the full production cycle) but small-scoped: sourcing, scheduling, filing. No strategic decisions."
+    },
+    {
+      "LAUNCH NARRATIVE": "THE MC (Week 2)"
+    },
+    {
+      "LAUNCH NARRATIVE": "The MC is the first flash team ritual. Every person who touches the Trade gets an MC conversation on the way in and on the way out. The recruiting conversation IS the interview — recorded, published, fun. Think Hot Ones, not HR. The MC makes experts feel like rockstars and newcomers feel welcome. They ask dumb questions on behalf of the audience. They name things ('The Regulatory Reckoning'). They make people want to watch. The MC is persistent — they stay for the full production cycle because every flash sprint needs an on-air entrance and exit."
+    },
+    {
+      "LAUNCH NARRATIVE": "FLASH SPRINTS BEGIN (Week 3+)"
+    },
+    {
+      "LAUNCH NARRATIVE": "Now the system fans out. The Conductor sources a PM co-founder for BCL-1 (Product & Science). Elaine prepares their working folder: P-M5, P-M6, P-M7, P-M8, plus structural tabs, plus INSTRUCTIONS.md that tells them everything. The MC has their on-air entrance conversation. They sprint for 2-3 weeks, producing their TUPs with Claude as co-pilot. When they're done, MC has the closing conversation, Elaine updates the master, and they dissolve. They might never talk to anyone again. Their contribution lives on the cast page and in the verified models."
+    },
+    {
+      "LAUNCH NARRATIVE": "Meanwhile, the Conductor has sourced PM co-founders for BCL-2 and BCL-3. An expert reviewer flashes in for CL-1 — 10-20 hours over 2 weeks, grades the TUPs, dissolves. A funnel builder flashes in to set up the YouTube funnel (Dan James / Thakos is the reference model, not the actual person). A series producer flashes in to plan the narrative arc for a week, delivers the story bible, dissolves. A product person flashes in to build the site in 2-3 weeks, dissolves."
+    },
+    {
+      "LAUNCH NARRATIVE": "Danilo is not managing any of this. He is a subject matter expert on call. A PM co-founder working on BCL-0 or BCL-7 might ask him to write a specific essay about coordination theory or the thesis — and he produces that deliverable like any other flash contributor. He is not in the loop for hiring, scheduling, reviewing, or approving. The Trade speaks for itself. The librarian distributes. The MC records. The Conductor sources. Danilo writes when asked."
+    },
+    {
+      "LAUNCH NARRATIVE": "CONVERGENCE (Weeks 6-10)"
+    },
+    {
+      "LAUNCH NARRATIVE": "Flash sprints overlap. At any given time, 5-10 people are mid-sprint across different clusters. Each one interacts only with Elaine (folder handoff), the MC (entrance/exit conversations), and Claude (co-pilot). They never need to meet each other. Cross-cluster dependencies are handled by the librarian — if BCL-3 needs something from BCL-1, Elaine routes the output."
+    },
+    {
+      "LAUNCH NARRATIVE": "Expert reviewers flash in behind the PM sprints. A formulation expert grades BCL-1. A lawyer grades BCL-2. A DR marketer grades BCL-3. Each one: 10-20 hours, A/B/C/D/F, dissolve. If a TUP gets a C or D, the PM flashes back in for a revision sprint (shorter, maybe 1 week)."
+    },
+    {
+      "LAUNCH NARRATIVE": "The site goes live around Week 6 with password-protected access. MC daily updates accumulating. Cast page growing with every flash entrance and exit. Content compounds. The site IS the investor pitch — watch a company being built in real time by a globally distributed flash team coordinated by the Trade."
+    },
+    {
+      "LAUNCH NARRATIVE": "LOCK & TRANSITION (Weeks 10-12)"
+    },
+    {
+      "LAUNCH NARRATIVE": "V-tabs converge on A/B grades. Elaine confirms every TUP is verified. The imagination passet locks. It becomes a published reference — a textbook. Nobody edits it again."
+    },
+    {
+      "LAUNCH NARRATIVE": "A CoS (or series of operators) is hired — now potentially with capital from an early raise or on full-time equity. They read the locked imagination passet and extract it into File 2, the implementation passet: tasks organized by month, grouped by role. The PM co-founders who performed well during their flash sprints can now become full-time paid operators on the implementation side."
+    },
+    {
+      "LAUNCH NARRATIVE": "Danilo is not involved post-lock. The Trade contains his thinking. The CoS executes from it. IonWave launches."
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Launch Narrative",
+  "sheet_index": 4
+}

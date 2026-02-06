@@ -1,0 +1,463 @@
+{
+  "headers": [
+    "3PL SELECTION & SETUP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "3PL SELECTION & SETUP": "Third-party logistics: who stores and ships your products",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "WHEN TO USE 3PL VS SELF-FULFILLMENT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": null,
+      "col_2": "Self-Fulfillment",
+      "col_3": "3PL",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Best for",
+      "col_2": "<50 orders/month",
+      "col_3": ">50 orders/month",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Upfront cost",
+      "col_2": "Low ($0)",
+      "col_3": "Medium ($500-2000 setup)",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Per-order cost",
+      "col_2": "Your time + shipping",
+      "col_3": "$2-5 pick/pack + shipping",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Scalability",
+      "col_2": "Limited by your time",
+      "col_3": "Unlimited",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Speed",
+      "col_2": "Depends on you",
+      "col_3": "1-2 day processing guaranteed",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Recommendation",
+      "col_2": "Start here for validation",
+      "col_3": "Switch at 50+ orders/mo",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "3PL OPTIONS COMPARISON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "3PL",
+      "col_2": "Best For",
+      "col_3": "Pick/Pack",
+      "col_4": "Storage",
+      "col_5": "Minimums",
+      "col_6": "Shopify Integration"
+    },
+    {
+      "3PL SELECTION & SETUP": "ShipBob",
+      "col_2": "Growing D2C brands",
+      "col_3": "$5-6/order",
+      "col_4": "$40/pallet/mo",
+      "col_5": "~$500/mo",
+      "col_6": "Excellent"
+    },
+    {
+      "3PL SELECTION & SETUP": "Deliverr/Flexport",
+      "col_2": "Fast shipping focus",
+      "col_3": "$4-5/order",
+      "col_4": "Included",
+      "col_5": "Low",
+      "col_6": "Good"
+    },
+    {
+      "3PL SELECTION & SETUP": "ShipMonk",
+      "col_2": "Startups",
+      "col_3": "$3-4/order",
+      "col_4": "$25/pallet/mo",
+      "col_5": "Low",
+      "col_6": "Good"
+    },
+    {
+      "3PL SELECTION & SETUP": "Red Stag",
+      "col_2": "Heavy/oversized",
+      "col_3": "$2-3/order",
+      "col_4": "Varies",
+      "col_5": "Higher",
+      "col_6": "Good"
+    },
+    {
+      "3PL SELECTION & SETUP": "Amazon FBA",
+      "col_2": "Amazon sellers",
+      "col_3": "$3-5/order",
+      "col_4": "Storage fees",
+      "col_5": "None",
+      "col_6": "Manual"
+    },
+    {
+      "3PL SELECTION & SETUP": "Local 3PL",
+      "col_2": "Personal service",
+      "col_3": "Negotiable",
+      "col_4": "Negotiable",
+      "col_5": "Varies",
+      "col_6": "Varies"
+    },
+    {
+      "3PL SELECTION & SETUP": "3PL EVALUATION CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Pricing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What is per-order pick/pack fee?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What is storage fee structure?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Are there minimum monthly fees?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What are shipping rates (negotiated)?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Any setup or onboarding fees?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Operations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What is average processing time?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What is their error rate / accuracy?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Do they handle returns?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Can they do kitting/bundling?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ What are their cutoff times?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Technology",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Shopify integration native or via app?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Real-time inventory sync?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Automated tracking updates?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Reporting/analytics dashboard?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Service",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Dedicated account manager?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Response time for issues?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Hours of support?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ References from similar brands?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "3PL ONBOARDING CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Contract signed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Shopify app/integration connected",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Products created in 3PL system",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Shipping rates configured",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Branded packing slip uploaded (optional)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Inventory shipped to 3PL warehouse",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Inventory received and counted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Test order placed and verified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Returns process configured",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "⬜ Go live!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "IONWAVE RECOMMENDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Month 1-2: Self-fulfill from home (validate first)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Month 2-3: Transition to ShipBob or ShipMonk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Budget: $500-1000 for 3PL setup + first month",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "3PL SELECTION & SETUP": "Key metric: <48hr ship time, <1% error rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 56,
+  "sheet_name": "3PL Selection",
+  "sheet_index": 519
+}

@@ -1,0 +1,56 @@
+{
+  "headers": [
+    "COMPETITIVE MODEL COMPARISON",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "COMPETITIVE MODEL COMPARISON": "Brand",
+      "col_2": "Minerals",
+      "col_3": "Price",
+      "col_4": "Positioning",
+      "col_5": "Weakness"
+    },
+    {
+      "COMPETITIVE MODEL COMPARISON": "LMNT",
+      "col_2": "3",
+      "col_3": "$1.50/serving",
+      "col_4": "Keto/carnivore",
+      "col_5": "Limited audience"
+    },
+    {
+      "COMPETITIVE MODEL COMPARISON": "Liquid IV",
+      "col_2": "3",
+      "col_3": "$1.25/serving",
+      "col_4": "Mass market",
+      "col_5": "Sugary, basic"
+    },
+    {
+      "COMPETITIVE MODEL COMPARISON": "Drip Drop",
+      "col_2": "3",
+      "col_3": "$1.00/serving",
+      "col_4": "Medical",
+      "col_5": "Clinical, boring"
+    },
+    {
+      "COMPETITIVE MODEL COMPARISON": "Seaonic",
+      "col_2": "78",
+      "col_3": "$2.50/serving",
+      "col_4": "Premium",
+      "col_5": "Too expensive"
+    },
+    {
+      "COMPETITIVE MODEL COMPARISON": "IonWave",
+      "col_2": "78",
+      "col_3": "$1.65/serving",
+      "col_4": "Accessible premium",
+      "col_5": "New brand"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Model Comparison",
+  "sheet_index": 545
+}

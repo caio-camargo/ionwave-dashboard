@@ -1,0 +1,210 @@
+{
+  "headers": [
+    "GRADUATION CRITERIA",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "GRADUATION CRITERIA": "When does the business graduate from the Studio system?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "BUSINESS GRADUATION (Trade → Independent Company)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "Criterion",
+      "col_2": "Threshold",
+      "col_3": "Measured How",
+      "col_4": "Current",
+      "col_5": "Status"
+    },
+    {
+      "GRADUATION CRITERIA": "Revenue",
+      "col_2": "$100K MRR sustained for 3+ months",
+      "col_3": "Shopify + Accounting",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Profitability",
+      "col_2": "Positive net margin for 2+ consecutive months",
+      "col_3": "P&L",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Unit Economics",
+      "col_2": "LTV:CAC > 3:1 at scale",
+      "col_3": "Computed",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Operator Independence",
+      "col_2": "Dean runs all 6 programs without Studio input for 1 full semester",
+      "col_3": "Escalation log",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Team Completeness",
+      "col_2": "3-4 employees covering all programs, all grading B+ or better",
+      "col_3": "Semester Report Cards",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Systems Health",
+      "col_2": "All lifecycle automations live and performing at target",
+      "col_3": "CRM Metrics Dashboard",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Trade Scorecard",
+      "col_2": "Grade A sustained for 2 consecutive semesters",
+      "col_3": "Trade Scorecard",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "Documentation",
+      "col_2": "All TUPs documented, all processes written, outsider test passes",
+      "col_3": "QMS audit",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "GRADUATION CRITERIA": "INDIVIDUAL GRADUATION (Student → Next Level)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "From",
+      "col_2": "To",
+      "col_3": "Requirements",
+      "col_4": "Evaluated By",
+      "col_5": "Timeline"
+    },
+    {
+      "GRADUATION CRITERIA": "Student",
+      "col_2": "Teaching Assistant",
+      "col_3": "2 semesters B+ average, can write own TUPs, peer feedback positive",
+      "col_4": "Dean + CM",
+      "col_5": "Earliest: end of Semester 2"
+    },
+    {
+      "GRADUATION CRITERIA": "Teaching Assistant",
+      "col_2": "Professor",
+      "col_3": "2 semesters A average as TA, can train new students, program improves under their influence",
+      "col_4": "Dean + Studio",
+      "col_5": "Earliest: end of Semester 4"
+    },
+    {
+      "GRADUATION CRITERIA": "Professor",
+      "col_2": "Dean (of new school)",
+      "col_3": "Consistently A in their program, demonstrates cross-program thinking, Studio approves new Trade",
+      "col_4": "Studio",
+      "col_5": "When new Trade is ready"
+    },
+    {
+      "GRADUATION CRITERIA": "Dean",
+      "col_2": "Chancellor",
+      "col_3": "Business graduated (all criteria above), can launch and oversee new schools",
+      "col_4": "Studio board",
+      "col_5": "When portfolio proves model"
+    },
+    {
+      "GRADUATION CRITERIA": "COMMENCEMENT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "Graduation is not metaphorical. When a Trade graduates:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "• Studio reduces oversight from weekly to monthly to quarterly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "• CM shifts from daily monitoring to periodic audit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "• Operator (Dean) has full autonomy within governance framework",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "• Studio focuses on launching the next school (Trade)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "• The graduated business continues running on the ODD — the textbook doesn't expire",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "The goal: a portfolio of graduated businesses,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "each running on its own ODD,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "each staffed by people who came up through the school system,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "GRADUATION CRITERIA": "each generating returns that fund the next Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "Graduation Criteria",
+  "sheet_index": 688
+}

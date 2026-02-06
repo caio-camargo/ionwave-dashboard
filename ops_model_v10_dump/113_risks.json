@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "RISKS & MITIGATIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "RISKS & MITIGATIONS": "Risk",
+      "col_2": "Probability",
+      "col_3": "Impact",
+      "col_4": "Why It Hurts",
+      "col_5": "Mitigation",
+      "col_6": "Status"
+    },
+    {
+      "RISKS & MITIGATIONS": "Supplier COGS too high",
+      "col_2": "HIGH",
+      "col_3": "HIGH",
+      "col_4": "Kills margin entirely",
+      "col_5": "Get 5+ quotes Week 1. Kill if all >$0.60/sachet.",
+      "col_6": "BLOCKING"
+    },
+    {
+      "RISKS & MITIGATIONS": "Seaonic has exclusive supplier deal",
+      "col_2": "MEDIUM",
+      "col_3": "HIGH",
+      "col_4": "Blocked from market",
+      "col_5": "Ask suppliers directly about exclusivity.",
+      "col_6": "BLOCKING"
+    },
+    {
+      "RISKS & MITIGATIONS": "Meta CPM higher than benchmarks",
+      "col_2": "MEDIUM",
+      "col_3": "MEDIUM",
+      "col_4": "CAC math breaks",
+      "col_5": "Test $3K before committing. Pivot to YouTube/TikTok.",
+      "col_6": "MANAGEABLE"
+    },
+    {
+      "RISKS & MITIGATIONS": "Seaonic price matches",
+      "col_2": "LOW",
+      "col_3": "HIGH",
+      "col_4": "Lose differentiation",
+      "col_5": "Build taste/purity differentiation, not just price.",
+      "col_6": "PLAN FOR"
+    },
+    {
+      "RISKS & MITIGATIONS": "Subscription churn >15% M1",
+      "col_2": "MEDIUM",
+      "col_3": "MEDIUM",
+      "col_4": "LTV assumption fails",
+      "col_5": "Strong onboarding email sequence, usage education.",
+      "col_6": "MONITOR"
+    },
+    {
+      "RISKS & MITIGATIONS": "Creative fatigue",
+      "col_2": "HIGH",
+      "col_3": "MEDIUM",
+      "col_4": "CAC rises over time",
+      "col_5": "20+ new creatives monthly, influencer content pipeline.",
+      "col_6": "ONGOING"
+    },
+    {
+      "RISKS & MITIGATIONS": "Operator burnout",
+      "col_2": "MEDIUM",
+      "col_3": "MEDIUM",
+      "col_4": "Trade stalls",
+      "col_5": "CM check-ins, clear milestones, support resources.",
+      "col_6": "MONITOR"
+    },
+    {
+      "RISKS & MITIGATIONS": "Taste complaints",
+      "col_2": "MEDIUM",
+      "col_3": "LOW",
+      "col_4": "Returns, bad reviews",
+      "col_5": "Set expectations (salty), consider flavored variant.",
+      "col_6": "MITIGATE"
+    },
+    {
+      "RISKS & MITIGATIONS": "Regulatory/FDA claims",
+      "col_2": "LOW",
+      "col_3": "MEDIUM",
+      "col_4": "Warning letters, shutdown",
+      "col_5": "Structure/function claims only, no disease claims.",
+      "col_6": "COMPLIANCE"
+    },
+    {
+      "RISKS & MITIGATIONS": "Category doesn't grow",
+      "col_2": "LOW",
+      "col_3": "LOW",
+      "col_4": "Ceiling on market",
+      "col_5": "Adjacent audiences, B2B expansion.",
+      "col_6": "LONG-TERM"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Risks",
+  "sheet_index": 113
+}

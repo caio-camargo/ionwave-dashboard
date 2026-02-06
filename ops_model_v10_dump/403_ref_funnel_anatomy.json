@@ -1,0 +1,84 @@
+{
+  "headers": [
+    "REFERENCE FUNNEL ANATOMY — EMMA RELIEF",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "The exact funnel structure we are replicating for IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "THE EMMA RELIEF FUNNEL (Stage by Stage)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "Stage",
+      "col_2": "Emma Does",
+      "col_3": "IonWave Must Do",
+      "col_4": "Status",
+      "col_5": "Gap"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "1. Meta Ad (Cold Traffic)",
+      "col_2": "Short-form video ads on Meta. Multiple creatives running simultaneously. Authority + UGC + curiosity hooks. Sorted by total impressions in ad library.",
+      "col_3": "Same: short-form Meta ads, multiple creatives, hook variants. Use VSL Hook Library tab for frameworks.",
+      "col_4": "Skeleton",
+      "col_5": "Need creative produced, UGC creators contracted, hooks written"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "2. Advertorial / Pre-Sell",
+      "col_2": "Advertorial-style landing page. Looks like health article, not an ad. Educates on problem (gut bacteria, methane, archaea). Builds trust before asking for sale.",
+      "col_3": "Same: advertorial that educates on electrolyte science, hydration myths, sodium loading. Bridge between ad and VSL.",
+      "col_4": "Skeleton",
+      "col_5": "Need advertorial page designed, copy written, hosted"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "3. VSL (The Conversion Engine)",
+      "col_2": "Dr. Gina Sam 30-minute VSL. Doctor-authority positioning. \"7 Second Morning Ritual\" hook. Problem → Failed Solutions → Mechanism → Product → Offer → Urgency. High production value.",
+      "col_3": "Same structure: authority figure + long-form VSL. Use VSL Script Architecture tab (12-block structure). Can be shorter (10-15 min) for electrolytes vs gut health.",
+      "col_4": "Skeleton",
+      "col_5": "Need script written, authority figure identified, video produced"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "4. Sales Page / Checkout",
+      "col_2": "Below VSL: full long-form sales page with ingredients, studies, testimonials, FAQ. Multi-bottle discount tiers. 90-day satisfaction guarantee. Checkout on same page.",
+      "col_3": "Same: sales page below VSL with ingredient breakdown, hydration science, testimonials, FAQ. Tiered pricing (1/3/6 bottles). Strong guarantee.",
+      "col_4": "Skeleton",
+      "col_5": "Need page built, copy written, Shopify checkout configured"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "5. Upsell Sequence",
+      "col_2": "Post-purchase upsell flow. Additional products (Elimipure, AKKA). One-click upsells. Increases AOV from ~$47 single bottle to ~$126 average.",
+      "col_3": "Same: post-purchase upsell. Bundle offers, subscription conversion, complementary products. Target AOV increase of 2-3x base price.",
+      "col_4": "Skeleton",
+      "col_5": "Need upsell products/offers defined, upsell pages built"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "6. Email / Retention",
+      "col_2": "Post-purchase sequences. Replenishment reminders. Cross-sell to other Konscious brands. Subscription push. Win-back flows.",
+      "col_3": "Same: use Lifecycle Automations tab. Post-purchase → replenishment → subscription → VIP → winback. Klaviyo.",
+      "col_4": "Skeleton",
+      "col_5": "Need Klaviyo sequences built, email copy written"
+    },
+    {
+      "REFERENCE FUNNEL ANATOMY — EMMA RELIEF": "7. Retargeting",
+      "col_2": "Meta retargeting ads to site visitors, cart abandoners, past purchasers. Different creative for each stage.",
+      "col_3": "Same: retargeting by lifecycle stage. Use CRM Architecture + Customer Segmentation tabs for targeting logic.",
+      "col_4": "Skeleton",
+      "col_5": "Need retargeting audiences built, stage-specific creative produced"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Ref Funnel Anatomy",
+  "sheet_index": 403
+}

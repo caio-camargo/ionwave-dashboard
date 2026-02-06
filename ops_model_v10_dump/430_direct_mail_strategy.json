@@ -1,0 +1,187 @@
+{
+  "headers": [
+    "DIRECT MAIL STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DIRECT MAIL STRATEGY": "Physical mail for retention, win-back, and surprise/delight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "WHY DIRECT MAIL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Cuts through digital noise (no inbox competition)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Physical = memorable, higher perceived value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Great for win-back (email addresses go stale, physical addresses don't)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Can include samples, gifts, handwritten notes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Surprisingly cost-effective for targeted campaigns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "DIRECT MAIL USE CASES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Use Case",
+      "col_2": "What to Send",
+      "col_3": "When",
+      "col_4": "Expected ROI"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Package Insert",
+      "col_2": "Thank you card, referral code, tips",
+      "col_3": "Every order",
+      "col_4": "High (no extra shipping)"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Win-Back",
+      "col_2": "Postcard with offer",
+      "col_3": "90+ days since last order",
+      "col_4": "Medium"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "VIP Thank You",
+      "col_2": "Handwritten note, free gift",
+      "col_3": "Top 10% customers",
+      "col_4": "High (retention)"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Birthday/Anniversary",
+      "col_2": "Card + small gift or discount",
+      "col_3": "On date",
+      "col_4": "Medium"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "New Product Launch",
+      "col_2": "Announcement + sample",
+      "col_3": "To best customers",
+      "col_4": "Medium"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Subscription Save",
+      "col_2": "Letter before cancellation",
+      "col_3": "When churn signals detected",
+      "col_4": "High"
+    },
+    {
+      "DIRECT MAIL STRATEGY": "PACKAGE INSERT (DO THIS FIRST)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Every package should include:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "☐ Thank you card (branded, warm)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "☐ Quick start guide (how to use)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "☐ Referral code (Give $10, Get $10)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "☐ QR code to community or review page",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "☐ Optional: Sample of another product, sticker, small gift",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "Cost: $0.50-1.00 per package. ROI: Massive.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "DIRECT MAIL PROVIDERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• PostPilot - Shopify integration, easy for D2C",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Lob - API-driven, good for automation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Postable - Handwritten notes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Sendoso - Gifts and swag",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DIRECT MAIL STRATEGY": "• Local printer - For package inserts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Direct Mail Strategy",
+  "sheet_index": 430
+}

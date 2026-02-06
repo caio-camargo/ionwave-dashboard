@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "FORM FACTOR ANALYSIS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "FORM FACTOR ANALYSIS": "Powder vs liquid vs capsule — why we chose what we chose",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "FORM FACTOR COMPARISON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Form",
+      "col_2": "Pros",
+      "col_3": "Cons",
+      "col_4": "Cost",
+      "col_5": "Best For",
+      "col_6": "Examples"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Powder (stick)",
+      "col_2": "Portable, fast dissolve, customizable dose",
+      "col_3": "Requires water, can spill",
+      "col_4": "$$",
+      "col_5": "On-the-go active users",
+      "col_6": "LMNT, Liquid IV"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Powder (tub)",
+      "col_2": "Cost effective, flexible dosing",
+      "col_3": "Not portable, measuring needed",
+      "col_4": "$",
+      "col_5": "Home use, gym bag",
+      "col_6": "Many sports brands"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Ready-to-drink",
+      "col_2": "Ultimate convenience",
+      "col_3": "Heavy, expensive to ship, short shelf",
+      "col_4": "$$$$",
+      "col_5": "Impulse/convenience",
+      "col_6": "Gatorade, BodyArmor"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Liquid concentrate",
+      "col_2": "No mixing needed",
+      "col_3": "Taste issues, stability concerns",
+      "col_4": "$$$",
+      "col_5": "At home, office",
+      "col_6": "LyteShow"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Capsules/tablets",
+      "col_2": "No taste, precise dose",
+      "col_3": "Slow absorption, no hydration cue",
+      "col_4": "$$",
+      "col_5": "Those who hate taste",
+      "col_6": "Salt tabs"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Effervescent tabs",
+      "col_2": "Fun experience, dissolves well",
+      "col_3": "Bulky packaging, cost",
+      "col_4": "$$$",
+      "col_5": "Premium positioning",
+      "col_6": "Nuun"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Drops",
+      "col_2": "Add to any drink, portable",
+      "col_3": "Limited dose, stability",
+      "col_4": "$$",
+      "col_5": "Minimalists",
+      "col_6": "Various"
+    },
+    {
+      "FORM FACTOR ANALYSIS": "OUR DECISION: POWDER STICK PACKS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Why stick packs:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Portability — fits in pocket, bag, desk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Stability — each serving individually sealed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Portion control — no measuring, no mess",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Premium perception — single-serve = premium",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Matches competitors — customers expect this format",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Unit economics — reasonable cost, good margin",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "Why NOT tub (for now):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Less portable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Opens = moisture exposure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Harder to upsell subscription",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "FORM FACTOR ANALYSIS": "• Can add later as 'value size' SKU",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Form Factor Analysis",
+  "sheet_index": 276
+}

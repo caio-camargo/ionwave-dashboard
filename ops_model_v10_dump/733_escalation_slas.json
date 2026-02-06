@@ -1,0 +1,205 @@
+{
+  "headers": [
+    "ESCALATION & SLAs",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ESCALATION & SLAs": "Who to contact, for what, and expected response times",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "OPERATOR ESCALATION PATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "Issue Type",
+      "col_2": "Contact",
+      "col_3": "Channel",
+      "col_4": "SLA"
+    },
+    {
+      "ESCALATION & SLAs": "Day-to-day questions",
+      "col_2": "Team",
+      "col_3": "Slack #ionwave",
+      "col_4": "24 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Strategic decisions",
+      "col_2": "Nilo",
+      "col_3": "Weekly call or Slack DM",
+      "col_4": "48 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Urgent/blocking issues",
+      "col_2": "Nilo",
+      "col_3": "Text",
+      "col_4": "4 hours (business hrs)"
+    },
+    {
+      "ESCALATION & SLAs": "Budget approval (>$500)",
+      "col_2": "Nilo",
+      "col_3": "Slack DM with rationale",
+      "col_4": "24 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Legal/compliance concern",
+      "col_2": "Nilo",
+      "col_3": "Immediate escalation",
+      "col_4": "Same day"
+    },
+    {
+      "ESCALATION & SLAs": "Tech issues (Shopify etc)",
+      "col_2": "Platform support",
+      "col_3": "Their support",
+      "col_4": "Self-serve first"
+    },
+    {
+      "ESCALATION & SLAs": "Customer emergency",
+      "col_2": "Handle yourself",
+      "col_3": "Then report in Slack",
+      "col_4": "Immediate"
+    },
+    {
+      "ESCALATION & SLAs": "RECRUITER ESCALATION PATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "Issue Type",
+      "col_2": "Contact",
+      "col_3": "Channel",
+      "col_4": "SLA"
+    },
+    {
+      "ESCALATION & SLAs": "Pipeline updates",
+      "col_2": "Nilo",
+      "col_3": "Slack #ionwave-recruiting",
+      "col_4": "Weekly Friday"
+    },
+    {
+      "ESCALATION & SLAs": "Borderline candidate (7-8)",
+      "col_2": "Nilo",
+      "col_3": "Slack DM",
+      "col_4": "24 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Great candidate (move fast)",
+      "col_2": "Nilo",
+      "col_3": "Slack DM marked urgent",
+      "col_4": "Same day"
+    },
+    {
+      "ESCALATION & SLAs": "Candidate has competing offer",
+      "col_2": "Nilo",
+      "col_3": "Text",
+      "col_4": "4 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Ready to present finalists",
+      "col_2": "Nilo",
+      "col_3": "Schedule call",
+      "col_4": "Within 48 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Candidate withdrew",
+      "col_2": "Nilo",
+      "col_3": "Slack DM",
+      "col_4": "FYI, no response needed"
+    },
+    {
+      "ESCALATION & SLAs": "CM ESCALATION PATH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "Issue Type",
+      "col_2": "Contact",
+      "col_3": "Channel",
+      "col_4": "SLA"
+    },
+    {
+      "ESCALATION & SLAs": "Daily compliance flags",
+      "col_2": "Log in tracker",
+      "col_3": "Compliance Log",
+      "col_4": "Same day"
+    },
+    {
+      "ESCALATION & SLAs": "Grade drop (B+ to B or below)",
+      "col_2": "Nilo",
+      "col_3": "Slack DM",
+      "col_4": "24 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Grade = CCC or below",
+      "col_2": "Nilo",
+      "col_3": "Slack DM + call",
+      "col_4": "Same day"
+    },
+    {
+      "ESCALATION & SLAs": "Suspected fraud/misreporting",
+      "col_2": "Nilo",
+      "col_3": "Text + email",
+      "col_4": "Immediate"
+    },
+    {
+      "ESCALATION & SLAs": "Operator non-responsive 48hrs",
+      "col_2": "Nilo",
+      "col_3": "Slack DM",
+      "col_4": "24 hours"
+    },
+    {
+      "ESCALATION & SLAs": "Weekly summary",
+      "col_2": "Nilo",
+      "col_3": "Slack or email",
+      "col_4": "Every Monday"
+    },
+    {
+      "ESCALATION & SLAs": "CONTACT INFO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "Nilo Vicioso (Studio 4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "• Slack: @nilo (preferred)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "• Text: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "• Email: _______________",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ESCALATION & SLAs": "• Weekly call: [scheduled time]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Escalation & SLAs",
+  "sheet_index": 733
+}

@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "INVESTOR NARRATIVE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INVESTOR NARRATIVE": "THE PITCH (Why This Is Investable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "1. Category is proven: LMNT did $66M in 2024 with powder electrolytes. Premium hydration is real.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "2. Marine plasma is validated: Seaonic exists, has customers, charges $69/box. Market is there.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "3. Gap in market: Seaonic is the only marine plasma DTC brand at scale. No credible #2.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "4. Arbitrage opportunity: Same positioning, 10-15% lower price, proven direct response playbook.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "5. De-risked execution: Ads validated before we take your capital. You're funding scale, not experiments.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "6. Clear exit path: TSG Consumer, L Catterton actively acquiring wellness/supplement brands at 4-6x EBITDA.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "7. Small check, big upside: $30-50K gets you into a business targeting $5M revenue, $1.5M EBITDA, $6-9M exit.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "DEAL TERMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Instrument",
+      "col_2": "SAFE (post-money cap)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Raise Amount",
+      "col_2": "$30-50K",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Valuation Cap",
+      "col_2": "$250-500K (depends on validation metrics at raise)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Investor Equity",
+      "col_2": "~10-20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Use of Funds",
+      "col_2": "Inventory (33%), Ad scaling (30%), Working capital (37%)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Timeline to Revenue",
+      "col_2": "2-3 weeks from funding",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Timeline to Profitability",
+      "col_2": "8-12 weeks",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "EXIT SCENARIOS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Scenario",
+      "col_2": "Trigger",
+      "col_3": "Valuation",
+      "col_4": "Likelihood",
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "PE Acquisition (3-5 years)",
+      "col_2": "$5M revenue, 30% EBITDA margin, 4-6x multiple",
+      "col_3": "$6-9M valuation",
+      "col_4": "PRIMARY PATH",
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Strategic Acquisition",
+      "col_2": "Wellness conglomerate (Nestle Health, Unilever) buys category",
+      "col_3": "$8-15M potential",
+      "col_4": "OPPORTUNISTIC",
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Operator Buyout (18-24 months)",
+      "col_2": "Operator buys out investors at 3-5x",
+      "col_3": "$90-250K return on $50K",
+      "col_4": "EARLY EXIT",
+      "col_5": null
+    },
+    {
+      "INVESTOR NARRATIVE": "Ongoing Distributions",
+      "col_2": "Hold equity, receive profit distributions",
+      "col_3": "20-40% annual yield",
+      "col_4": "PASSIVE INCOME",
+      "col_5": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Investor Narrative",
+  "sheet_index": 138
+}

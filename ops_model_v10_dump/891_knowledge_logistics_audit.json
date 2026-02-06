@@ -1,0 +1,227 @@
+{
+  "headers": [
+    "KNOWLEDGE LOGISTICS AUDIT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Information is only valuable if it reaches the right person at the right time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "THE CONSTRAINT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "In LLM-era organizations, the constraint isn't gathering knowledge - it's logistics.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Getting the right information to the right person in the right format at the right time.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "KNOWLEDGE FLOW AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Information Type",
+      "col_2": "Source",
+      "col_3": "Who Needs It",
+      "col_4": "Current Delivery",
+      "col_5": "Reaches Them?",
+      "col_6": "Right Time?",
+      "col_7": "Right Format?",
+      "col_8": "Gap/Fix"
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Daily metrics",
+      "col_2": "Shopify/Meta",
+      "col_3": "Operator, CM",
+      "col_4": "Manual check",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Customer feedback",
+      "col_2": "Support tickets",
+      "col_3": "Operator, Studio",
+      "col_4": "Weekly summary",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Competitive intel",
+      "col_2": "Various",
+      "col_3": "Studio",
+      "col_4": "Ad hoc",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Inventory status",
+      "col_2": "3PL",
+      "col_3": "Operator",
+      "col_4": "Portal login",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Cash position",
+      "col_2": "Bank/Stripe",
+      "col_3": "Studio",
+      "col_4": "Manual",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Ad performance",
+      "col_2": "Meta",
+      "col_3": "Operator",
+      "col_4": "Real-time",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Strategic decisions",
+      "col_2": "Studio",
+      "col_3": "Operator, CM",
+      "col_4": "Groupchat",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "SOPs/processes",
+      "col_2": "Ops Model",
+      "col_3": "Operator",
+      "col_4": "This doc",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "Customer insights",
+      "col_2": "Reviews/surveys",
+      "col_3": "All",
+      "col_4": "Scattered",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "LOGISTICS PROBLEMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "• Information exists but person doesn't know it exists",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "• Information reaches person but too late to act",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "• Information in wrong format (too dense, too sparse, wrong medium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "• Information scattered across too many places",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "KNOWLEDGE LOGISTICS AUDIT": "• Information requires too many steps to access",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Knowledge Logistics Audit",
+  "sheet_index": 891
+}

@@ -1,0 +1,115 @@
+{
+  "headers": [
+    "MEETING TEMPLATES"
+  ],
+  "rows": [
+    {
+      "MEETING TEMPLATES": "Agendas for common meeting types"
+    },
+    {
+      "MEETING TEMPLATES": "WEEKLY SYNC (30 min)"
+    },
+    {
+      "MEETING TEMPLATES": "AGENDA:"
+    },
+    {
+      "MEETING TEMPLATES": "1. Wins this week (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "2. Key metrics review (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "3. Blockers/issues (10 min)"
+    },
+    {
+      "MEETING TEMPLATES": "4. Priorities for next week (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "5. Decisions needed (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "PRE-WORK: Update metrics before meeting"
+    },
+    {
+      "MEETING TEMPLATES": "MONTHLY REVIEW (60 min)"
+    },
+    {
+      "MEETING TEMPLATES": "AGENDA:"
+    },
+    {
+      "MEETING TEMPLATES": "1. Month in review - what happened (10 min)"
+    },
+    {
+      "MEETING TEMPLATES": "2. Metrics deep dive - are we on track? (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "3. P&L review - are we making money? (10 min)"
+    },
+    {
+      "MEETING TEMPLATES": "4. What worked / what didn't (10 min)"
+    },
+    {
+      "MEETING TEMPLATES": "5. Next month priorities (10 min)"
+    },
+    {
+      "MEETING TEMPLATES": "6. Resource needs / asks (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "PRE-WORK: Prepare monthly report"
+    },
+    {
+      "MEETING TEMPLATES": "QUARTERLY STRATEGY (2-3 hrs)"
+    },
+    {
+      "MEETING TEMPLATES": "AGENDA:"
+    },
+    {
+      "MEETING TEMPLATES": "1. Quarter review - results vs plan (20 min)"
+    },
+    {
+      "MEETING TEMPLATES": "2. Market/competitive update (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "3. What we learned (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "4. Strategic discussion - big questions (45 min)"
+    },
+    {
+      "MEETING TEMPLATES": "5. Next quarter goals and priorities (30 min)"
+    },
+    {
+      "MEETING TEMPLATES": "6. Resource planning (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "7. Risks and concerns (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "PRE-WORK: Quarterly report, strategic questions"
+    },
+    {
+      "MEETING TEMPLATES": "1:1 MEETING (30 min)"
+    },
+    {
+      "MEETING TEMPLATES": "AGENDA:"
+    },
+    {
+      "MEETING TEMPLATES": "1. How are you doing? (Personal check-in) (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "2. Their agenda items (15 min)"
+    },
+    {
+      "MEETING TEMPLATES": "3. Your agenda items (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "4. Development / feedback (5 min)"
+    },
+    {
+      "MEETING TEMPLATES": "NOTE: This is THEIR meeting. Let them drive agenda."
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Meeting Templates",
+  "sheet_index": 788
+}

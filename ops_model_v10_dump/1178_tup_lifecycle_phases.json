@@ -1,0 +1,207 @@
+{
+  "headers": [
+    "TUP LIFECYCLE PHASES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "TUP LIFECYCLE PHASES": "Every TUP moves through these phases. The phases are THE integration layer between imagination and implementation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "THE PROBLEM THIS SOLVES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "The imagination phase and the implementation phase feel disconnected from individual TUPs.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "A TUP isn't just 'imagination' or 'implementation' — it moves through a lifecycle WITH phases.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "This tab makes every TUP's current phase explicit and defines what happens at each transition.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "THE LIFECYCLE (per TUP)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "Phase",
+      "col_2": "State",
+      "col_3": "Who's Active",
+      "col_4": "What Happens",
+      "col_5": "Exit Gate",
+      "col_6": "Artifacts Produced"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "0. Pre-Imagination",
+      "col_2": "TUP doesn't exist yet",
+      "col_3": "Nilo + Claude",
+      "col_4": "Thesis commits TUP to existence. Scope defined. Tab structure designed. Initial content spec written. This is where TUP gets its P-tab (project plan) and skeleton.",
+      "col_5": "P-tab exists with scope, win conditions, tab list, dependencies, and assigned cluster",
+      "col_6": "P-[TUP] (project tab), skeleton tabs"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "1. Imagination (AI Draft)",
+      "col_2": "TUP is being authored",
+      "col_3": "Nilo + Claude (or PM + Claude)",
+      "col_4": "AI production loop: prompt Claude with P-tab spec, review output, iterate. Content tabs get filled. This is the 'textbook writing' phase. Solo work — one person + AI.",
+      "col_5": "All content tabs have first-draft content. Librarian confirms completeness against P-tab spec.",
+      "col_6": "All content tabs (C-tabs), draft V-tab"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "2. Internal Review",
+      "col_2": "TUP draft complete, needs QA",
+      "col_3": "Librarian + Conductor",
+      "col_4": "Librarian checks: do all tabs match P-tab spec? Are dependencies to other TUPs consistent? Are terms in Conceptual Index? Conductor checks: is this TUP blocking other clusters?",
+      "col_5": "Librarian signs off on structural completeness. No broken cross-references.",
+      "col_6": "Updated V-tab with internal review notes"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "3. Expert Review",
+      "col_2": "TUP ready for external grading",
+      "col_3": "Expert Reviewer(s)",
+      "col_4": "Domain expert grades the TUP using Course Template grading rubric. ACP criteria: Attestation (is it true?), Completeness (everything there?), Plausibility (could it work?). Expert doesn't need to understand the whole Trade — just their domain.",
+      "col_5": "Expert grade recorded. If B or above: TUP locks (imagination complete). If C or below: remediation loop.",
+      "col_6": "Expert grade, review notes, V-tab updated"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "4. Imagination Lock",
+      "col_2": "TUP graded, imagination frozen",
+      "col_3": "System",
+      "col_4": "TUP content tabs become read-only in imagination passet. Grade is final. TUP is now a 'textbook chapter' — reference material for implementation. Any changes require formal amendment (new version, re-grade).",
+      "col_5": "Lock is automatic on grade ≥ B. Librarian confirms lock.",
+      "col_6": "Locked TUP (versioned)"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "5. Implementation Extract",
+      "col_2": "Tasks extracted for execution",
+      "col_3": "Conductor + PM",
+      "col_4": "Implementation passet receives task extraction from this TUP. 'Here's the textbook chapter on media buying — here are the 47 tasks to actually do media buying.' Time-bound, role-assigned, dependency-mapped.",
+      "col_5": "Implementation TUP created in File 2 with all tasks, owners, deadlines, dependencies.",
+      "col_6": "Implementation TUP (in File 2)"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "6. Execution",
+      "col_2": "Tasks being done",
+      "col_3": "Operator + Team",
+      "col_4": "Real-world execution against the plan. Buying ads, signing contracts, ordering inventory. Progress tracked in implementation passet. Issues that reveal imagination gaps get flagged.",
+      "col_5": "All tasks complete OR kill criteria triggered.",
+      "col_6": "Completed tasks, execution log, issue flags"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "7. Post-Mortem",
+      "col_2": "TUP execution complete",
+      "col_3": "PM + Librarian",
+      "col_4": "What worked? What didn't? What should change in the imagination passet for next time? Lessons flow back into templates and playbooks. If imagination gap found, TUP gets amendment.",
+      "col_5": "Post-mortem filed. Template updates proposed. Lessons captured.",
+      "col_6": "Post-mortem doc, template update proposals"
+    },
+    {
+      "TUP LIFECYCLE PHASES": "HOW THIS CONNECTS TO THE TWO-PASSET MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "Phases 0-4 happen in the IMAGINATION PASSET (this file). The TUP is being designed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "Phases 5-7 happen in the IMPLEMENTATION PASSET (File 2). The TUP is being executed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "Phase 4 (Lock) is the bridge. Once locked, imagination content becomes read-only reference for implementation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "The imagination passet LOCKS when graded. The implementation passet STAYS ALIVE until execution completes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "PHASE TRACKER (Current Status)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "TUP",
+      "col_2": "Current Phase",
+      "col_3": "Phase Start",
+      "col_4": "Blocker?",
+      "col_5": "Next Gate",
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "M0: Thesis",
+      "col_2": "0. Pre-Imagination",
+      "col_3": "Week 1",
+      "col_4": "None",
+      "col_5": "P-tab complete",
+      "col_6": null
+    },
+    {
+      "TUP LIFECYCLE PHASES": "[All other TUPs: Phase 0 — awaiting M0 thesis]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "TUP Lifecycle Phases",
+  "sheet_index": 1178
+}

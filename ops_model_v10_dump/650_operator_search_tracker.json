@@ -1,0 +1,23 @@
+{
+  "headers": [
+    "OPERATOR CANDIDATES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "OPERATOR CANDIDATES": "Name",
+      "col_2": "Source",
+      "col_3": "Stage",
+      "col_4": "Score",
+      "col_5": "Notes",
+      "col_6": "Next Step"
+    }
+  ],
+  "row_count": 1,
+  "sheet_name": "Operator Search Tracker",
+  "sheet_index": 650
+}

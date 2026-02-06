@@ -1,0 +1,202 @@
+{
+  "headers": [
+    "CONSTRAINT SCENARIOS"
+  ],
+  "rows": [
+    {
+      "CONSTRAINT SCENARIOS": "What if we HAD to hit crazy targets? Strategy stress tests."
+    },
+    {
+      "CONSTRAINT SCENARIOS": "WHY DO THIS?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "Extreme constraints reveal hidden assumptions and force creative thinking."
+    },
+    {
+      "CONSTRAINT SCENARIOS": "You don't have to do these - but thinking through them makes your actual plan better."
+    },
+    {
+      "CONSTRAINT SCENARIOS": "SCENARIO 1: $100M Revenue in 12 Months"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What would have to be true?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• ~$8.3M/month revenue"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• ~170K orders/month at $50 AOV"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• ~5,700 orders/day"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Massive paid + retail + B2B"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "How could it possibly work?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Launch in 500 retail stores simultaneously"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Secure $20M in growth capital"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Partner with major distributor (UNFI, KeHE)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Acquire existing electrolyte brand"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• B2B: Gyms, hotels, airlines buying in bulk"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What does this reveal?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• D2C alone can't get there"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Would need to become a different kind of company"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Capital would be the main constraint"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "SCENARIO 2: $100K MRR in 3 Months (not 12)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What would have to be true?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Launch in 30 days not 60"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• CAC under $30 from day 1"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Viral coefficient > 1"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• PR hit that drives massive awareness"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "How could it possibly work?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Pre-launch waitlist of 5,000+"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Influencer launch campaign (20 influencers same day)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• PR story that goes viral (founder story, science angle)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Launch with subscription-only model"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What does this reveal?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• We should build a pre-launch list"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Influencer strategy matters more than we thought"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• PR could be undervalued in our plan"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "SCENARIO 3: $0 Marketing Budget"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What would have to be true?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Product so good it spreads organically"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Content strategy that drives SEO traffic"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Referral program that actually works"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• PR/earned media only"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "How could it possibly work?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Build in public (Twitter, YouTube)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• SEO content: \"best electrolytes\", \"LMNT alternative\""
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Aggressive referral: give $20, get $20"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Seed to micro-influencers for free product only"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What does this reveal?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Our organic/content strategy is weak"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Referral program should be stronger"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• We're over-indexed on paid"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "SCENARIO 4: 10 Hours/Week from Day 1 (not Month 4)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What would have to be true?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Everything automated or delegated"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Playbooks so good anyone can execute"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Systems that run without intervention"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "How could it possibly work?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Hire operator from day 1 (equity only)"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Use AI for support, content, reporting"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Pre-build everything before launch"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Only do strategy, delegate all execution"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "What does this reveal?"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• We could probably automate more"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• Some things we do aren't necessary"
+    },
+    {
+      "CONSTRAINT SCENARIOS": "• The 10hr goal might be achievable earlier"
+    }
+  ],
+  "row_count": 64,
+  "sheet_name": "Constraint Scenarios",
+  "sheet_index": 598
+}

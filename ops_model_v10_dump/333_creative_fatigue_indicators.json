@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "CREATIVE FATIGUE INDICATORS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CREATIVE FATIGUE INDICATORS": "Metrics that tell you an ad is dying.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CREATIVE FATIGUE INDICATORS": "Indicator",
+      "col_2": "Warning",
+      "col_3": "Kill"
+    },
+    {
+      "CREATIVE FATIGUE INDICATORS": "CTR Drop",
+      "col_2": "Down 20%",
+      "col_3": "Down 40%"
+    },
+    {
+      "CREATIVE FATIGUE INDICATORS": "Frequency",
+      "col_2": ">2.0",
+      "col_3": ">3.0"
+    },
+    {
+      "CREATIVE FATIGUE INDICATORS": "CPM Increase",
+      "col_2": "Up 30% WoW",
+      "col_3": "Up 50% WoW"
+    },
+    {
+      "CREATIVE FATIGUE INDICATORS": "ROAS Decline",
+      "col_2": "Down 25%",
+      "col_3": "Below break-even"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Creative Fatigue Indicators",
+  "sheet_index": 333
+}

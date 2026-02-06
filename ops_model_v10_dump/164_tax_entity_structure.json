@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "TAX & ENTITY STRUCTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "TAX & ENTITY STRUCTURE": "LLC vs S-Corp vs C-Corp.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Factor",
+      "col_2": "LLC",
+      "col_3": "S-Corp",
+      "col_4": "C-Corp",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Setup cost",
+      "col_2": "$50-500",
+      "col_3": "$500-1000",
+      "col_4": "$1000+",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Best for <$50K profit",
+      "col_2": "✓",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Best for $50-250K",
+      "col_2": null,
+      "col_3": "✓",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Best for raising VC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "✓",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Start: LLC → Elect S-Corp when profitable >$50K",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "TAX OBLIGATIONS TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Obligation",
+      "col_2": "Jurisdiction",
+      "col_3": "Frequency",
+      "col_4": "Due Date",
+      "col_5": "Amount",
+      "col_6": "Status",
+      "col_7": "Paid Date"
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Sales Tax - [State]",
+      "col_2": "[State]",
+      "col_3": "Monthly",
+      "col_4": "[Date]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Sales Tax - [State]",
+      "col_2": "[State]",
+      "col_3": "Quarterly",
+      "col_4": "[Date]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Federal Income Tax",
+      "col_2": "Federal",
+      "col_3": "Quarterly",
+      "col_4": "[Date]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "State Income Tax",
+      "col_2": "[State]",
+      "col_3": "Quarterly",
+      "col_4": "[Date]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TAX & ENTITY STRUCTURE": "Payroll Tax",
+      "col_2": "Federal",
+      "col_3": "Monthly",
+      "col_4": "[Date]",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Tax & Entity Structure",
+  "sheet_index": 164
+}

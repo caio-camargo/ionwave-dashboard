@@ -1,0 +1,142 @@
+{
+  "headers": [
+    "SEGMENTATION STRATEGIES",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SEGMENTATION STRATEGIES": "How to segment your list for better performance",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "WHY SEGMENT",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Segmented campaigns get:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• 14% higher open rates",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• 100% higher click rates",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• 760% increase in revenue",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "One-size-fits-all emails underperform.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "KEY SEGMENTS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Segment",
+      "col_2": "Definition",
+      "col_3": "Email Strategy"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Never Purchased",
+      "col_2": "Subscribed but $0 spent",
+      "col_3": "Welcome flow, education, first purchase incentive"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "One-Time Buyers",
+      "col_2": "Exactly 1 purchase",
+      "col_3": "Post-purchase, subscription upsell, replenishment"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Repeat Buyers",
+      "col_2": "2+ purchases, not subscribed",
+      "col_3": "Loyalty, subscription push, referral"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Subscribers",
+      "col_2": "Active subscription",
+      "col_3": "Retention, upsell, VIP treatment"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Lapsed (30-60)",
+      "col_2": "No purchase 30-60 days",
+      "col_3": "Light re-engagement"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Lapsed (60-90)",
+      "col_2": "No purchase 60-90 days",
+      "col_3": "Win-back sequence"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Lapsed (90+)",
+      "col_2": "No purchase 90+ days",
+      "col_3": "Heavy discount or sunset"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "VIP",
+      "col_2": "Top 10% by LTV",
+      "col_3": "Exclusive access, early launches, personal touch"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Engaged",
+      "col_2": "Opened email in 30 days",
+      "col_3": "Full communication"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Unengaged",
+      "col_2": "No open in 60+ days",
+      "col_3": "Re-engagement or sunset"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "SEGMENT BY SOURCE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Track where subscribers came from:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• Meta Ads → May need more education",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• Organic/SEO → Already researching, closer to purchase",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• Referral → High trust, convert faster",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "• Influencer X → Speak to that audience",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Tailor welcome flow based on source.",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Segmentation Strategies",
+  "sheet_index": 423
+}

@@ -1,0 +1,132 @@
+{
+  "headers": [
+    "LAUNCH DAY WAR ROOM",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "LAUNCH DAY WAR ROOM": "Minute-by-minute launch day protocol",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "PRE-LAUNCH (T-24 to T-0)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-24",
+      "col_2": "☐ Final inventory check with 3PL",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-24",
+      "col_2": "☐ Test complete customer journey",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-12",
+      "col_2": "☐ Verify all tracking pixels",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-12",
+      "col_2": "☐ Confirm email flows ready",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-6",
+      "col_2": "☐ Ads in review/approved",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-2",
+      "col_2": "☐ Alert team: launch imminent",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T-1",
+      "col_2": "☐ Final go/no-go check",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "LAUNCH (T-0)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+0",
+      "col_2": "☐ Turn on ads",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+5m",
+      "col_2": "☐ Verify ads serving",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+15m",
+      "col_2": "☐ Check first impressions",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+30m",
+      "col_2": "☐ Monitor CTR",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+1hr",
+      "col_2": "☐ First click-through check",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+2hr",
+      "col_2": "☐ Check for first orders",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+4hr",
+      "col_2": "☐ Verify fulfillment triggered",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+8hr",
+      "col_2": "☐ Mid-day performance check",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "T+12hr",
+      "col_2": "☐ End of day report",
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "WAR ROOM CONTACTS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "Operator",
+      "col_2": "[Name]",
+      "col_3": "[Phone]"
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "CM",
+      "col_2": "[Name]",
+      "col_3": "[Phone]"
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "Studio",
+      "col_2": "[Name]",
+      "col_3": "[Phone]"
+    },
+    {
+      "LAUNCH DAY WAR ROOM": "3PL Emergency",
+      "col_2": "[Contact]",
+      "col_3": "[Phone]"
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Launch Day War Room",
+  "sheet_index": 523
+}

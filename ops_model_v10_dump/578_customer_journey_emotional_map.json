@@ -1,0 +1,163 @@
+{
+  "headers": [
+    "CUSTOMER JOURNEY EMOTIONAL MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "What customers feel at each stage of the journey",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "AWARENESS STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Touchpoint",
+      "col_2": "They're Thinking",
+      "col_3": "They're Feeling",
+      "col_4": "We Should"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "See ad",
+      "col_2": "\"What is this? Another supplement?\"",
+      "col_3": "Skeptical, curious",
+      "col_4": "Hook them, pattern interrupt"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Watch ad",
+      "col_2": "\"Hmm, this is different\"",
+      "col_3": "Interested, still skeptical",
+      "col_4": "Build credibility fast"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Visit site",
+      "col_2": "\"Let me see if this is legit\"",
+      "col_3": "Evaluating, guarded",
+      "col_4": "Prove legitimacy immediately"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "CONSIDERATION STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Touchpoint",
+      "col_2": "They're Thinking",
+      "col_3": "They're Feeling",
+      "col_4": "We Should"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Read product page",
+      "col_2": "\"What's actually in this?\"",
+      "col_3": "Analyzing, comparing",
+      "col_4": "Clear ingredients, differentiation"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Check reviews",
+      "col_2": "\"Do real people like this?\"",
+      "col_3": "Looking for validation",
+      "col_4": "Authentic social proof"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Compare to competitors",
+      "col_2": "\"How is this different?\"",
+      "col_3": "Weighing options",
+      "col_4": "Clear comparison, unique value"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Check price",
+      "col_2": "\"Is this worth it?\"",
+      "col_3": "Calculating value",
+      "col_4": "Justify premium, show value"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "PURCHASE STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Touchpoint",
+      "col_2": "They're Thinking",
+      "col_3": "They're Feeling",
+      "col_4": "We Should"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Add to cart",
+      "col_2": "\"Okay let me try this\"",
+      "col_3": "Hopeful, slight anxiety",
+      "col_4": "Reassure (guarantee, easy returns)"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Checkout",
+      "col_2": "\"Last chance to back out\"",
+      "col_3": "Commitment anxiety",
+      "col_4": "Reduce friction, trust signals"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Order confirm",
+      "col_2": "\"Did I make a good choice?\"",
+      "col_3": "Second-guessing, excited",
+      "col_4": "Immediate validation email"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "POST-PURCHASE STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Touchpoint",
+      "col_2": "They're Thinking",
+      "col_3": "They're Feeling",
+      "col_4": "We Should"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Wait for delivery",
+      "col_2": "\"When will it arrive?\"",
+      "col_3": "Impatient, anticipating",
+      "col_4": "Tracking, delivery updates"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Receive package",
+      "col_2": "\"Let's see what I got\"",
+      "col_3": "Excited, judging",
+      "col_4": "Great unboxing experience"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "First use",
+      "col_2": "\"Does this taste okay? Work?\"",
+      "col_3": "Testing, evaluating",
+      "col_4": "Meet or exceed expectations"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Day 7",
+      "col_2": "\"Am I feeling different?\"",
+      "col_3": "Looking for results",
+      "col_4": "Email about what to expect"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Day 14",
+      "col_2": "\"This is/isn't working\"",
+      "col_3": "Forming opinion",
+      "col_4": "Ask for feedback, testimonial"
+    },
+    {
+      "CUSTOMER JOURNEY EMOTIONAL MAP": "Day 30",
+      "col_2": "\"Should I reorder?\"",
+      "col_3": "Deciding on repeat",
+      "col_4": "Reorder reminder, subscription offer"
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Customer Journey Emotional Map",
+  "sheet_index": 578
+}

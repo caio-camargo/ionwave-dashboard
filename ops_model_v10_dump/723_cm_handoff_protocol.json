@@ -1,0 +1,85 @@
+{
+  "headers": [
+    "CM HANDOFF PROTOCOL"
+  ],
+  "rows": [
+    {
+      "CM HANDOFF PROTOCOL": "When CM changes - knowledge transfer process"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "HANDOFF CHECKLIST"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Current grade and rationale documented"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ All open issues/watch items listed"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Upcoming milestones and deadlines noted"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Key stakeholder relationships briefed"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Platform access transferred"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Document repository access granted"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Communication history reviewed"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Operator introduction call scheduled"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Any ongoing concerns flagged"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "☐ Assessment calendar handed off"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "REQUIRED HANDOFF DOCUMENTATION"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Current assessment summary (1-2 pages)"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Grade history with key inflection points"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Open issues register"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Stakeholder contact list"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Platform credentials (secure transfer)"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Upcoming deadlines calendar"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "• Any known risks or concerns"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "TRANSITION PERIOD"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "Week 1: Shadow outgoing CM on all activities"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "Week 2: Lead with outgoing CM observing"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "Week 3: Solo with outgoing CM available"
+    },
+    {
+      "CM HANDOFF PROTOCOL": "Week 4: Full handoff complete"
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "CM Handoff Protocol",
+  "sheet_index": 723
+}

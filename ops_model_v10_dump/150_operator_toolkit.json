@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "OPERATOR TOOLKIT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "OPERATOR TOOLKIT": "Access",
+      "col_2": "Shopify, Klaviyo, Meta, Canva, Figma logins"
+    },
+    {
+      "OPERATOR TOOLKIT": "Templates",
+      "col_2": "Ad templates, email templates, report templates"
+    },
+    {
+      "OPERATOR TOOLKIT": "SOPs",
+      "col_2": "All standard operating procedures"
+    },
+    {
+      "OPERATOR TOOLKIT": "Contacts",
+      "col_2": "Supplier, 3PL, designer, support"
+    },
+    {
+      "OPERATOR TOOLKIT": "Dashboards",
+      "col_2": "Shopify, Meta, Klaviyo bookmarked"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Operator Toolkit",
+  "sheet_index": 150
+}

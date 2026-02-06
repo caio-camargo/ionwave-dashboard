@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "AD ACCOUNT STRUCTURE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "AD ACCOUNT STRUCTURE": "Campaign organization in Meta.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Level",
+      "col_2": "Name",
+      "col_3": "Budget"
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Campaign 1",
+      "col_2": "Prospecting - CBO",
+      "col_3": "$100/day"
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Ad Set",
+      "col_2": "Broad US",
+      "col_3": null
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Ad Set",
+      "col_2": "Interest - Keto",
+      "col_3": null
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Ad Set",
+      "col_2": "LAL - Purchasers",
+      "col_3": null
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Campaign 2",
+      "col_2": "Retargeting - CBO",
+      "col_3": "$30/day"
+    },
+    {
+      "AD ACCOUNT STRUCTURE": "Ad Set",
+      "col_2": "Website 7d",
+      "col_3": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Ad Account Structure",
+  "sheet_index": 357
+}

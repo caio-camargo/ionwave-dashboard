@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "QUALITY ASSURANCE"
+  ],
+  "rows": [
+    {
+      "QUALITY ASSURANCE": "Product"
+    },
+    {
+      "QUALITY ASSURANCE": "Checks: COA review, batch testing, shelf stability"
+    },
+    {
+      "QUALITY ASSURANCE": "Creative"
+    },
+    {
+      "QUALITY ASSURANCE": "Checks: Brand compliance, claim review, A/B results"
+    },
+    {
+      "QUALITY ASSURANCE": "Ops"
+    },
+    {
+      "QUALITY ASSURANCE": "Checks: Order accuracy, ship time, damage rate"
+    },
+    {
+      "QUALITY ASSURANCE": "Support"
+    },
+    {
+      "QUALITY ASSURANCE": "Checks: Response time, resolution rate, CSAT"
+    },
+    {
+      "QUALITY ASSURANCE": "Finance"
+    },
+    {
+      "QUALITY ASSURANCE": "Checks: Reconciliation, cash flow accuracy"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Quality QA",
+  "sheet_index": 844
+}

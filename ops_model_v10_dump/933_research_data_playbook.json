@@ -1,0 +1,787 @@
+{
+  "headers": [
+    "RESEARCH & DATA PLAYBOOK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "RESEARCH & DATA PLAYBOOK": "How to actually gather the inputs this model needs - tactical instructions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "This model has tabs like 'ICP' and 'Competitive Analysis'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "But where does the DATA come from?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "This playbook tells you HOW to fill those tabs with real information.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. REDDIT RESEARCH (ICP Validation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Find real language, pain points, and desires from target customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "SUBREDDITS TO MINE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/keto, r/carnivore, r/fasting (diet communities)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/Supplements, r/Nootropics (supplement users)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/crossfit, r/running, r/fitness (athletes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• r/ChronicFatigue, r/cfs (health conditions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW TO DO IT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Search each subreddit for: 'electrolyte', 'hydration', 'minerals', 'LMNT', 'salt'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Read 50+ posts and comments",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Copy exact language into a spreadsheet:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What problems do they describe?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What solutions have they tried?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What do they wish existed?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What words do they use?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TOOLS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Manual (best for quality)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Reddit search API",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Gummy Search (paid, does this automatically)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Export with browser extensions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill ICP tabs with real quotes and language",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TIME: 4-8 hours for solid research",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. COMPETITOR RESEARCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Understand the competitive landscape and find gaps",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "COMPETITORS TO ANALYZE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• LMNT (market leader)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Drip Drop, Liquid IV (mass market)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Nuun, Ultima (sports focused)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Quinton (ocean minerals, premium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHAT TO CAPTURE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Pricing: Price per serving, subscription discount, bundles",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Positioning: Who are they targeting? What's their message?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Product: Ingredients, format, flavors, serving size",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. Reviews: Read 50+ Amazon/website reviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What do people love?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What do people complain about?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "5. Ads: Use Facebook Ad Library to see their creative",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What hooks are they using?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What angles?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TOOLS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Facebook Ad Library (free)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• SimilarWeb (traffic estimates)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Amazon reviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Buy their products (try them!)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Competitive Landscape tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TIME: 6-10 hours for thorough analysis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. CUSTOMER INTERVIEWS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Deep understanding of real customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHO TO INTERVIEW:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Current customers (post-purchase)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Target ICP (pre-launch validation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Competitor customers (why they chose them)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOW TO FIND THEM:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Post in relevant subreddits (offer $20 gift card)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Facebook groups",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Twitter/X (search for competitor mentions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Friends of friends in target demo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Respondent.io (paid recruiting)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "INTERVIEW SCRIPT (20-30 min):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Background: Tell me about your health/fitness routine",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Problem: What challenges with energy/hydration?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Current solution: What do you use now? Why?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. Gaps: What's missing? What would be better?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "5. Purchase: How did you decide? What mattered?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "6. Language: How would you describe the perfect product?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "CAPTURE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Record (with permission)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Note exact phrases",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Note emotional moments",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Voice of Customer tab, refine ICP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TIME: 5-10 interviews × 30 min + analysis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. BUILDING THE HOOKS LIBRARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Fuel for creative production",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "SOURCES FOR HOOKS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "1. Competitor ads (Facebook Ad Library)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What's their first 3 seconds?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What stops the scroll?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "2. Viral content in the space",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- TikTok search for electrolytes, hydration",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What gets views?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "3. Customer language (from research above)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- Turn pain points into hooks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- Turn desires into hooks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "4. Adjacent categories",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What works for other supplements?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "- What works for health products?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "HOOK FORMATS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Question: 'Are you actually hydrated?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Statement: 'Your tap water is mineral-dead'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Contrast: 'I used to [X], now I [Y]'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Authority: 'Doctors are finally admitting...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Curiosity: 'The mineral 90% of people are missing'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Hooks Library tab with 50+ hooks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TIME: 4-6 hours of research and synthesis",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "5. SUPPLIER RESEARCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "PURPOSE: Find viable suppliers with good price/quality",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHERE TO FIND:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Alibaba (search 'sea minerals', 'ocean electrolyte')",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• ThomasNet (US manufacturers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Google: 'ocean mineral supplier', 'marine electrolyte wholesale'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Trade shows: SupplySide West, Natural Products Expo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Ask other supplement brands (non-competitors)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "KNOWN SUPPLIERS (starting point):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Biocean/Actimar (French, Marc Biss)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Quinton (Spain)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Celtic Sea Salt (for minerals)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Various Alibaba suppliers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "WHAT TO ASK:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• MOQ (minimum order quantity)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Price per unit at different volumes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Lead time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• COA (Certificate of Analysis)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Can they do custom formulation?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Packaging options",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "• Shipping/landed cost",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "OUTPUT: Fill Supplier Research tab with 5+ quotes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "TIME: 1-2 weeks to get real quotes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "RESEARCH SCHEDULE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Research Type",
+      "col_2": "Time Needed",
+      "col_3": "When to Do",
+      "col_4": "Blocks What"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Reddit Research",
+      "col_2": "4-8 hours",
+      "col_3": "Phase 0 / Week 1",
+      "col_4": "ICP definition, creative angles"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Competitor Analysis",
+      "col_2": "6-10 hours",
+      "col_3": "Phase 0 / Week 1",
+      "col_4": "Positioning, pricing"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Customer Interviews",
+      "col_2": "10-15 hours",
+      "col_3": "Phase 0 / Week 1-2",
+      "col_4": "Product decisions, messaging"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Hooks Library",
+      "col_2": "4-6 hours",
+      "col_3": "Pre-Launch / Week 2",
+      "col_4": "Creative production"
+    },
+    {
+      "RESEARCH & DATA PLAYBOOK": "Supplier Research",
+      "col_2": "1-2 weeks",
+      "col_3": "Phase 0",
+      "col_4": "Ability to launch"
+    }
+  ],
+  "row_count": 129,
+  "sheet_name": "Research & Data Playbook",
+  "sheet_index": 933
+}

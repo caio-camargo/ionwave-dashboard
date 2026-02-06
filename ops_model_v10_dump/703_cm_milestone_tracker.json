@@ -1,0 +1,127 @@
+{
+  "headers": [
+    "MILESTONE TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "MILESTONE TRACKER": "Key verification items and pass/fail status",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "Milestone",
+      "col_2": "Target Date",
+      "col_3": "Actual Date",
+      "col_4": "Status",
+      "col_5": "Verified By",
+      "col_6": "Evidence"
+    },
+    {
+      "MILESTONE TRACKER": "Entity formed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "Bank account open",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "Supplier contracted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "First inventory ordered",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "Website live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "First ad live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "First sale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "100 customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "$10K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "Positive unit economics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "$50K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MILESTONE TRACKER": "$100K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": "☐ Pending",
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "CM Milestone Tracker",
+  "sheet_index": 703
+}

@@ -1,0 +1,72 @@
+{
+  "headers": [
+    "Element",
+    "Specification",
+    "Rationale"
+  ],
+  "rows": [
+    {
+      "Element": "Box Size",
+      "Specification": "6\" x 4\" x 2\" (holds 30 sachets in 3x10 arrangement)",
+      "Rationale": "Compact, shippable, premium feel"
+    },
+    {
+      "Element": "Box Material",
+      "Specification": "Matte finish cardstock, 18pt minimum, soft-touch coating",
+      "Rationale": "Premium tactile experience, photograph well"
+    },
+    {
+      "Element": "Primary Color",
+      "Specification": "Deep ocean blue (#1A365D) with white/silver accents",
+      "Rationale": "Differentiate from LMNT black, convey ocean origin"
+    },
+    {
+      "Element": "Typography",
+      "Specification": "Clean sans-serif (Montserrat or similar). Product name large, claims secondary.",
+      "Rationale": "Modern, legible, premium"
+    },
+    {
+      "Element": "Front Panel",
+      "Specification": "IonWave logo (top) | \"Marine Plasma\" | \"78 Ionic Minerals\" | \"30 Sachets\" | Wave graphic element",
+      "Rationale": "Key info at glance, brand recognition"
+    },
+    {
+      "Element": "Side Panel 1",
+      "Specification": "How to use (3 steps with icons) | Suggested use: 1 sachet daily",
+      "Rationale": "Quick reference without opening"
+    },
+    {
+      "Element": "Side Panel 2",
+      "Specification": "Key benefits: Energy, Recovery, Clarity, Hydration | QR to full info",
+      "Rationale": "Scannable benefits"
+    },
+    {
+      "Element": "Back Panel",
+      "Specification": "Full mineral list | Sourcing statement | Company info | Barcode | Batch/lot number",
+      "Rationale": "Regulatory compliance, transparency"
+    },
+    {
+      "Element": "Inside Lid",
+      "Specification": "Welcome message + QR to getting started guide",
+      "Rationale": "Surprise & delight, reduce support"
+    },
+    {
+      "Element": "Sachet Design",
+      "Specification": "Tear notch (top) | Foil interior | Matte exterior matching box | Single-serve 5g",
+      "Rationale": "Functional, cohesive branding"
+    },
+    {
+      "Element": "Sachet Print",
+      "Specification": "IonWave logo | \"1 of 30\" subtle | Batch code | \"Marine Plasma\"",
+      "Rationale": "Reinforce brand every use"
+    },
+    {
+      "Element": "Sustainability",
+      "Specification": "Recyclable box, sachets note disposal instructions, no excess packaging",
+      "Rationale": "Appeal to health-conscious consumers"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Packaging Brief",
+  "sheet_index": 271
+}

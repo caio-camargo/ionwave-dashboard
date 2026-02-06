@@ -1,0 +1,187 @@
+{
+  "headers": [
+    "DOSING PROTOCOLS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DOSING PROTOCOLS": "How much, when, for what purpose — evidence-based recommendations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "GENERAL GUIDELINES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "Standard serving: 1 stick pack in 16-32oz water",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "Daily recommendation: 1-3 servings depending on activity/diet",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "More water = milder taste, spread out minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "Less water = stronger taste, concentrated minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "IMPORTANT: These are general guidelines, not medical advice.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "Individual needs vary. Start with 1/day and adjust.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "PROTOCOL BY SITUATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "Situation",
+      "col_2": "Recommendation",
+      "col_3": "Timing",
+      "col_4": "Notes"
+    },
+    {
+      "DOSING PROTOCOLS": "General daily use",
+      "col_2": "1 serving",
+      "col_3": "Morning",
+      "col_4": "Baseline maintenance"
+    },
+    {
+      "DOSING PROTOCOLS": "Active lifestyle",
+      "col_2": "1-2 servings",
+      "col_3": "Morning + post-workout",
+      "col_4": "Replace sweat losses"
+    },
+    {
+      "DOSING PROTOCOLS": "Keto adaptation",
+      "col_2": "2-3 servings",
+      "col_3": "Throughout day",
+      "col_4": "First 2-4 weeks higher needs"
+    },
+    {
+      "DOSING PROTOCOLS": "Keto maintenance",
+      "col_2": "1-2 servings",
+      "col_3": "Morning + afternoon",
+      "col_4": "Ongoing support"
+    },
+    {
+      "DOSING PROTOCOLS": "Fasting (16:8)",
+      "col_2": "1 serving",
+      "col_3": "During fasting window",
+      "col_4": "No fast break"
+    },
+    {
+      "DOSING PROTOCOLS": "Extended fast (24h+)",
+      "col_2": "2-3 servings",
+      "col_3": "Spread throughout",
+      "col_4": "Critical for longer fasts"
+    },
+    {
+      "DOSING PROTOCOLS": "Pre-workout",
+      "col_2": "1 serving",
+      "col_3": "30min before",
+      "col_4": "Prime muscles"
+    },
+    {
+      "DOSING PROTOCOLS": "Post-workout",
+      "col_2": "1 serving",
+      "col_3": "Within 30min after",
+      "col_4": "Recovery"
+    },
+    {
+      "DOSING PROTOCOLS": "Hot weather/heavy sweat",
+      "col_2": "2-3 servings",
+      "col_3": "Throughout day",
+      "col_4": "Replace higher losses"
+    },
+    {
+      "DOSING PROTOCOLS": "Travel day",
+      "col_2": "1-2 servings",
+      "col_3": "Before + during flight",
+      "col_4": "Combat dry cabin air"
+    },
+    {
+      "DOSING PROTOCOLS": "Hangover",
+      "col_2": "1-2 servings",
+      "col_3": "Before bed + morning",
+      "col_4": "Not medical advice"
+    },
+    {
+      "DOSING PROTOCOLS": "SAFETY NOTES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "• Don't exceed 4 servings/day without medical guidance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "• If on blood pressure meds, consult doctor (sodium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "• If on heart meds, consult doctor (potassium)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "• If kidney issues, consult doctor (all electrolytes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "• Stop if any adverse reactions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "We MUST include: 'Consult your healthcare provider before",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DOSING PROTOCOLS": "starting any supplement regimen.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Dosing Protocols",
+  "sheet_index": 226
+}

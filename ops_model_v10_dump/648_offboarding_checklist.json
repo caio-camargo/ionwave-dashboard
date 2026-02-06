@@ -1,0 +1,46 @@
+{
+  "headers": [
+    "OFFBOARDING CHECKLIST"
+  ],
+  "rows": [
+    {
+      "OFFBOARDING CHECKLIST": "When someone leaves: access, handoff, knowledge."
+    },
+    {
+      "OFFBOARDING CHECKLIST": "IMMEDIATE (Day of departure):"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Revoke all tool access"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Change shared passwords"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Transfer ownership of docs"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "WITHIN 48 HOURS:"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Knowledge transfer complete"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Open tasks reassigned"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Documentation updated"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "WITHIN 1 WEEK:"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Exit interview (if applicable)"
+    },
+    {
+      "OFFBOARDING CHECKLIST": "⬜ Final documentation review"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Offboarding Checklist",
+  "sheet_index": 648
+}

@@ -1,0 +1,215 @@
+{
+  "headers": [
+    "1:1 EXECUTION GAP — EMMA vs IONWAVE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "What Emma has that IonWave needs. Close every gap = ready to compete.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Emma Has",
+      "col_2": "IonWave Status",
+      "col_3": "Gap",
+      "col_4": "Owner",
+      "col_5": "Semester",
+      "col_6": "Priority"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Doctor-authority VSL (30 min)",
+      "col_2": "Script architecture defined (12-block), not produced",
+      "col_3": "Need authority figure + script + production",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Critical"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Advertorial landing pages",
+      "col_2": "Concept only",
+      "col_3": "Need designed, copywritten, hosted advertorial pages",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Critical"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "High-volume Meta ad creative",
+      "col_2": "Hook library defined (10 types), no creative produced",
+      "col_3": "Need 10+ creatives produced and tested",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Critical"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "UGC creator pipeline",
+      "col_2": "Strategy documented",
+      "col_3": "Need 5-10 UGC creators contracted and producing",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Multi-bottle tiered pricing",
+      "col_2": "Pricing strategy documented",
+      "col_3": "Need Shopify configured with tier logic",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Post-purchase upsell flow",
+      "col_2": "Lifecycle Automations tab defines triggers",
+      "col_3": "Need upsell pages built, one-click upsell configured",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "90-day guarantee",
+      "col_2": "Contract terms reference guarantee",
+      "col_3": "Need guarantee copy on site, refund process documented",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Medium"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Klaviyo email sequences",
+      "col_2": "All 12 automations defined in Lifecycle Automations tab",
+      "col_3": "Need sequences built in Klaviyo with actual copy",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Amazon presence",
+      "col_2": "Not planned for launch",
+      "col_3": "Phase 2 channel expansion after D2C proven",
+      "col_4": "Operator",
+      "col_5": "S2",
+      "col_6": "Low"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "SMS marketing (Attentive)",
+      "col_2": "Referenced in automations",
+      "col_3": "Need SMS platform selected and flows built",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Medium"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Review engine (Loox/Yotpo)",
+      "col_2": "Review solicitation automation defined",
+      "col_3": "Need review app installed, solicitation flows live",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "Medium"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Affiliate program (Awin/ShareASale)",
+      "col_2": "Not in current model",
+      "col_3": "Phase 2 after organic funnel proven",
+      "col_4": "Operator",
+      "col_5": "S2",
+      "col_6": "Low"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Subscription (ReCharge)",
+      "col_2": "Subscription program documented",
+      "col_3": "Need ReCharge configured, subscription offers live",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Retargeting by lifecycle stage",
+      "col_2": "CRM Architecture + Segmentation define stages",
+      "col_3": "Need Meta audiences built, stage-specific creative produced",
+      "col_4": "Operator",
+      "col_5": "S1",
+      "col_6": "High"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "650K+ customers",
+      "col_2": "Zero",
+      "col_3": "Execute the funnel",
+      "col_4": "Operator",
+      "col_5": "S1-S4",
+      "col_6": "--"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "Nine-figure revenue",
+      "col_2": "Zero",
+      "col_3": "Execute the funnel",
+      "col_4": "Operator",
+      "col_5": "S1-S4",
+      "col_6": "--"
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "THE INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "There is nothing in Emma Relief's GTM that is secret, proprietary, or unreplicable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "The VSL structure is public. The ad creative is in the ad library. The funnel is inspectable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "The tech stack is visible. The pricing is on the site. The reviews tell you what customers care about.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "The difference between Emma Relief at nine figures and IonWave at zero is not knowledge.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "It is execution. Every gap above is an execution gap, not an information gap.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "1:1 EXECUTION GAP — EMMA vs IONWAVE": "The Trade exists to close every one of these gaps systematically.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Ref Execution Gap",
+  "sheet_index": 550
+}

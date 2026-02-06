@@ -1,0 +1,70 @@
+{
+  "headers": [
+    "COA (CERTIFICATE OF ANALYSIS) TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "Every batch needs a COA.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "Batch #",
+      "col_2": "Supplier",
+      "col_3": "Received",
+      "col_4": "COA on File?",
+      "col_5": "Issues?"
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "BATCH-001",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "BATCH-002",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "COA MUST INCLUDE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "✓ Batch number, mfg date, expiry",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "✓ Test results for ingredients",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COA (CERTIFICATE OF ANALYSIS) TRACKER": "✓ Heavy metal testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "COA Tracker",
+  "sheet_index": 241
+}

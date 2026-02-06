@@ -1,0 +1,92 @@
+{
+  "headers": [
+    "SEGMENTATION STRATEGIES",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SEGMENTATION STRATEGIES": "Send the right message to the right people",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "KEY SEGMENTS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Segment",
+      "col_2": "Definition",
+      "col_3": "Strategy"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Non-Customers",
+      "col_2": "Subscribed but never purchased",
+      "col_3": "Welcome series, education, soft sell"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "One-Time Buyers",
+      "col_2": "Purchased once",
+      "col_3": "Post-purchase nurture, subscription push"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Repeat Customers",
+      "col_2": "2+ purchases",
+      "col_3": "VIP treatment, loyalty rewards"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Subscribers",
+      "col_2": "On subscription",
+      "col_3": "Retention, reduce churn, upsell"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Churned Subscribers",
+      "col_2": "Cancelled subscription",
+      "col_3": "Win-back, feedback"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "At-Risk",
+      "col_2": "No engagement in 30+ days",
+      "col_3": "Re-engagement campaign"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "VIPs",
+      "col_2": "Top 10% by LTV",
+      "col_3": "Exclusive offers, early access"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Keto-Focused",
+      "col_2": "Indicated keto interest",
+      "col_3": "Keto-specific content"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "Athletes",
+      "col_2": "Indicated fitness interest",
+      "col_3": "Performance-focused content"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "ENGAGEMENT-BASED SEGMENTATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SEGMENTATION STRATEGIES": "HIGHLY ENGAGED",
+      "col_2": "Opened 3+ of last 5 emails",
+      "col_3": "Send more, they want it"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "ENGAGED",
+      "col_2": "Opened 1-2 of last 5",
+      "col_3": "Normal cadence"
+    },
+    {
+      "SEGMENTATION STRATEGIES": "DISENGAGED",
+      "col_2": "0 opens in last 5",
+      "col_3": "Re-engagement or sunset"
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "Segmentation Strategies1",
+  "sheet_index": 424
+}

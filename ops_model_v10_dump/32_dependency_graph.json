@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "DEPENDENCY GRAPH — WHAT ENABLES WHAT",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Every box is a workstream. Every arrow is a dependency. If A → B, A must happen before B can start.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Workstream",
+      "col_2": "Depends On (must be done first)",
+      "col_3": "Enables (can start after this)",
+      "col_4": "Can Run In Parallel With"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Nilo + Claude: M0 Thesis",
+      "col_2": "Nothing. This is Day 0.",
+      "col_3": "ALL cluster production. Admin hiring. MC conversations. Dan James content.",
+      "col_4": "Nothing (this is first)"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Hire Admin",
+      "col_2": "Nilo available to post/screen",
+      "col_3": "Cold email. Platform posting. Candidate screening. Entity filing support.",
+      "col_4": "M0 production, Dan James onboarding"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Hire MC",
+      "col_2": "Admin screening pipeline active",
+      "col_3": "ALL MC conversations. Daily updates. Recruiting conversations. Content.",
+      "col_4": "Dan James, Admin ops, M0 production"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Dan James Onboard",
+      "col_2": "M0 exists (content source). Nilo available for brand audit.",
+      "col_3": "YouTube content. Lead magnets. Email sequences. The entire funnel level.",
+      "col_4": "Admin, MC, everything. Independent workstream."
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Hire Series Producer",
+      "col_2": "MC hired (need someone to produce). Admin screening.",
+      "col_3": "Narrative quality. Episode planning. Cast management.",
+      "col_4": "Cluster production, Dan James, entity formation"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Hire Product Person",
+      "col_2": "Brand system exists (from Dan James or Nilo). Site spec ready.",
+      "col_3": "Site live. Video hosting. Cast page. Password-protected access.",
+      "col_4": "MC conversations, cluster production, entity formation"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Entity Formation (I1-I6)",
+      "col_2": "Admin support. PM CL-2 or lawyer identified.",
+      "col_3": "Contracts (equity grants). Banking. IP assignment. Cap table.",
+      "col_4": "MC conversations, content production, cluster work"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Cap Table & Equity (I4)",
+      "col_2": "Entity formed. Lawyer engaged.",
+      "col_3": "All equity-based compensation. PM co-founder contracts. Expert equity.",
+      "col_4": "Content, MC, site build"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "PM Co-Founder #1 (CL-1 or CL-2)",
+      "col_2": "M0 locked. Entity forming. Admin pipeline. MC available.",
+      "col_3": "First cluster production. Proves the model. Recruits expert.",
+      "col_4": "Dan James, MC ongoing, other sourcing"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "PM Co-Founder #2 (CL-3)",
+      "col_2": "PM #1 hired (proves model works). Admin pipeline.",
+      "col_3": "Second cluster production.",
+      "col_4": "CL-1 production, MC, Dan James"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "PM Co-Founders #3-7",
+      "col_2": "PM #1 and #2 working (social proof of model). Pipeline.",
+      "col_3": "Remaining cluster production.",
+      "col_4": "Earlier clusters, MC, Dan James, fundraise prep"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Expert Reviewers (per cluster)",
+      "col_2": "AI draft of that cluster complete. PM co-founder has draft ready.",
+      "col_3": "Verification of that cluster. Model quality.",
+      "col_4": "Other cluster production, MC, fundraise prep"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Site Goes Live",
+      "col_2": "Product Person delivers. Content exists (MC conversations, daily updates).",
+      "col_3": "Investor pipeline (they can see proof). Public recruiting. Social proof.",
+      "col_4": "Cluster production, expert reviews"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Investor-Ready Package",
+      "col_2": "Entity formed. Cap table done. CL-2 verified. Site live. Some clusters verified.",
+      "col_3": "Active fundraise. Investor conversations.",
+      "col_4": "Remaining cluster production"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Active Fundraise",
+      "col_2": "Investor-ready package. Site live with content. Enough verified clusters.",
+      "col_3": "FUNDING. Which enables: salaries, product person v2, experts paid, CoS hired.",
+      "col_4": "Remaining cluster verification"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "CoS Pipeline",
+      "col_2": "Enough verified clusters to show the operating system works. Fundraise progressing.",
+      "col_3": "IonWave operations. The actual business launching.",
+      "col_4": "Final cluster verification, fundraise close"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "ALL CLUSTERS VERIFIED",
+      "col_2": "All PM co-founders delivered. All experts reviewed. All V-tabs green.",
+      "col_3": "Trade complete. Textbook possible. SaaS possible. Full operating system.",
+      "col_4": "Fundraise close, CoS onboarding"
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "PARALLELISM RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "MAX PARALLEL at any given time:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Week 0-1: 2 workstreams (Nilo + Claude on M0, hiring admin)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Week 2-3: 5 workstreams (Nilo, admin, MC, Dan James, sourcing PMs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Week 3-5: 8+ workstreams (above + Series Producer, Product Person, PM #1, entity formation)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Week 5-8: 12+ workstreams (above + multiple clusters producing in parallel + expert reviews)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Week 8-12: 15+ workstreams (above + fundraise + CoS pipeline + remaining clusters)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "The system SCALES its parallelism. Week 0 is narrow (just Nilo).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "By Week 8 there are 15+ concurrent workstreams.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Each person added increases parallelism.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "That's the whole thesis: complexity at launch is the moat.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DEPENDENCY GRAPH — WHAT ENABLES WHAT": "Competitors can't replicate 15 parallel workstreams with 10+ people coordinating.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Dependency Graph",
+  "sheet_index": 32
+}

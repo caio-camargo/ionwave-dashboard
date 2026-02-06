@@ -1,0 +1,205 @@
+{
+  "headers": [
+    "STABILITY & SHELF LIFE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "STABILITY & SHELF LIFE": "How minerals degrade, storage requirements, expiration logic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Minerals are generally stable, BUT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Moisture causes clumping and degradation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Heat accelerates breakdown",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Light can degrade some compounds",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Oxygen causes oxidation of certain minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Bad stability = customer complaints, returns, reputation damage",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Factor",
+      "col_2": "Risk",
+      "col_3": "Mitigation",
+      "col_4": "Spec"
+    },
+    {
+      "STABILITY & SHELF LIFE": "Moisture",
+      "col_2": "Clumping, dissolution",
+      "col_3": "Desiccant packs, sealed packaging",
+      "col_4": "<5% humidity in package"
+    },
+    {
+      "STABILITY & SHELF LIFE": "Heat",
+      "col_2": "Degradation, off-flavors",
+      "col_3": "Cool storage, temp indicators",
+      "col_4": "Store below 77°F"
+    },
+    {
+      "STABILITY & SHELF LIFE": "Light",
+      "col_2": "Vitamin degradation if added",
+      "col_3": "Opaque packaging",
+      "col_4": "No direct sunlight"
+    },
+    {
+      "STABILITY & SHELF LIFE": "Oxygen",
+      "col_2": "Oxidation of iron, etc.",
+      "col_3": "Nitrogen flush packaging",
+      "col_4": "Low oxygen environment"
+    },
+    {
+      "STABILITY & SHELF LIFE": "Time",
+      "col_2": "General degradation",
+      "col_3": "Appropriate shelf life",
+      "col_4": "18-24 months typical"
+    },
+    {
+      "STABILITY & SHELF LIFE": "SHELF LIFE DETERMINATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Standard approach:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "1. Accelerated stability testing (high temp/humidity)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "2. Real-time stability testing (ongoing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "3. Conservative dating (shorter than tested)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Typical electrolyte powder shelf life: 18-24 months",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "After opening: Use within 60-90 days (moisture exposure)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Label requirements:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• 'Best by' date (not expiration)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Lot number for traceability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "• Storage instructions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "PACKAGING REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "For stability:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "☐ Moisture barrier (foil-lined stick packs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "☐ Resealable tub with desiccant (if tub format)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "☐ Opaque or UV-blocking material",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "☐ Individual serving packs preferred (less exposure)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "STABILITY & SHELF LIFE": "Stick packs > Tubs for stability (each serving sealed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 32,
+  "sheet_name": "Stability & Shelf Life",
+  "sheet_index": 220
+}

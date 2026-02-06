@@ -1,0 +1,61 @@
+{
+  "headers": [
+    "DATA DICTIONARY",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DATA DICTIONARY": "What each metric means. How calculated.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "DATA DICTIONARY": "Metric",
+      "col_2": "Definition",
+      "col_3": "Source",
+      "col_4": "Formula"
+    },
+    {
+      "DATA DICTIONARY": "CAC",
+      "col_2": "Cost to acquire customer",
+      "col_3": "Meta + Shopify",
+      "col_4": "Ad spend / New customers"
+    },
+    {
+      "DATA DICTIONARY": "LTV",
+      "col_2": "Lifetime value",
+      "col_3": "Shopify",
+      "col_4": "Avg revenue per customer over time"
+    },
+    {
+      "DATA DICTIONARY": "ROAS",
+      "col_2": "Return on ad spend",
+      "col_3": "Meta",
+      "col_4": "Revenue / Ad spend"
+    },
+    {
+      "DATA DICTIONARY": "MER",
+      "col_2": "Marketing efficiency ratio",
+      "col_3": "All sources",
+      "col_4": "Total revenue / Total marketing"
+    },
+    {
+      "DATA DICTIONARY": "Churn",
+      "col_2": "Subscription cancellation rate",
+      "col_3": "Sub platform",
+      "col_4": "Cancelled / Active subs"
+    },
+    {
+      "DATA DICTIONARY": "AOV",
+      "col_2": "Average order value",
+      "col_3": "Shopify",
+      "col_4": "Revenue / Orders"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Data Dictionary",
+  "sheet_index": 627
+}

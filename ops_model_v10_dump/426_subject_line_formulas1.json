@@ -1,0 +1,127 @@
+{
+  "headers": [
+    "SUBJECT LINE FORMULAS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "SUBJECT LINE FORMULAS": "Subject lines that get opened",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "SUBJECT LINE TYPES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "CURIOSITY",
+      "col_2": "Create information gap",
+      "col_3": "The thing nobody tells you about hydration"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "PERSONAL",
+      "col_2": "Use their name or data",
+      "col_3": "[Name], your cart is waiting"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "URGENCY",
+      "col_2": "Time-limited",
+      "col_3": "Expires tonight: Your 10% off"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "QUESTION",
+      "col_2": "Engage with question",
+      "col_3": "Still tired all the time?"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "BENEFIT",
+      "col_2": "Clear value",
+      "col_3": "Wake up with energy (finally)"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "SOCIAL PROOF",
+      "col_2": "Others are doing it",
+      "col_3": "Why 10,000 people switched"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "STORY",
+      "col_2": "Narrative hook",
+      "col_3": "I used to crash at 2pm every day..."
+    },
+    {
+      "SUBJECT LINE FORMULAS": "DIRECT",
+      "col_2": "Straight to point",
+      "col_3": "Your order shipped"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "EMOJI",
+      "col_2": "Pattern interrupt",
+      "col_3": "🌊 Your hydration is waiting"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "FOMO",
+      "col_2": "Fear of missing out",
+      "col_3": "Don't miss this (seriously)"
+    },
+    {
+      "SUBJECT LINE FORMULAS": "SUBJECT LINE BEST PRACTICES",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ Keep under 50 characters (mobile preview)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ Front-load important words",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ Test with/without emojis",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ Personalize when possible",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ Match subject to email content (no bait and switch)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✓ A/B test subject lines",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✗ ALL CAPS (looks spammy)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✗ Too many emojis",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✗ Misleading subjects",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "SUBJECT LINE FORMULAS": "✗ Over-promising",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Subject Line Formulas1",
+  "sheet_index": 426
+}

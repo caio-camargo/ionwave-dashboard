@@ -1,0 +1,175 @@
+{
+  "headers": [
+    "LINK BUILDING STRATEGY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "LINK BUILDING STRATEGY": "Earning backlinks to build domain authority",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "LINK BUILDING TACTICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Tactic",
+      "col_2": "How It Works",
+      "col_3": "Effort",
+      "col_4": "Impact",
+      "col_5": "Priority",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Guest Posting",
+      "col_2": "Write articles for health/fitness blogs with link back",
+      "col_3": "High",
+      "col_4": "High",
+      "col_5": "1",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Podcast Appearances",
+      "col_2": "Be a guest on health/keto podcasts",
+      "col_3": "Medium",
+      "col_4": "High",
+      "col_5": "2",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "HARO (Help a Reporter)",
+      "col_2": "Respond to journalist queries for quotes",
+      "col_3": "Low",
+      "col_4": "Medium",
+      "col_5": "3",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Resource Page Links",
+      "col_2": "Get listed on \"best electrolytes\" roundups",
+      "col_3": "Medium",
+      "col_4": "High",
+      "col_5": "2",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Influencer Mentions",
+      "col_2": "Get linked from influencer content",
+      "col_3": "Low",
+      "col_4": "Medium",
+      "col_5": "3",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Broken Link Building",
+      "col_2": "Find broken links, offer your content as replacement",
+      "col_3": "High",
+      "col_4": "Medium",
+      "col_5": "4",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Competitor Backlink Mining",
+      "col_2": "Find who links to competitors, pitch them",
+      "col_3": "Medium",
+      "col_4": "High",
+      "col_5": "2",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Original Research",
+      "col_2": "Publish studies/surveys that get cited",
+      "col_3": "Very High",
+      "col_4": "Very High",
+      "col_5": "5",
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "LINK BUILDING TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "Target Site",
+      "col_2": "Type",
+      "col_3": "DA",
+      "col_4": "Contact",
+      "col_5": "Status",
+      "col_6": "Link Acquired"
+    },
+    {
+      "LINK BUILDING STRATEGY": "LINK QUALITY CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✓ Domain Authority > 30 (ideally > 50)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✓ Relevant to health, fitness, nutrition, or wellness",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✓ Real site with real traffic (not link farm)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✓ Dofollow link (nofollow has less SEO value)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✓ Link in content body (not footer or sidebar)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LINK BUILDING STRATEGY": "✗ AVOID: PBNs, link farms, paid links, irrelevant sites",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "SEO Link Building",
+  "sheet_index": 414
+}

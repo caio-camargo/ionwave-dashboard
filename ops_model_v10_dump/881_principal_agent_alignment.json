@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "PRINCIPAL-AGENT ALIGNMENT CHECK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Where might incentives diverge between parties? Surface misalignments early.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Principal (Studio) delegates to Agent (Operator). Their interests MOSTLY align but not perfectly.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Unaddressed misalignments cause problems. Surface them, design around them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "ALIGNMENT AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Area",
+      "col_2": "Principal (Studio) Wants",
+      "col_3": "Agent (Operator) Wants",
+      "col_4": "Aligned?",
+      "col_5": "Potential Conflict",
+      "col_6": "Mitigation"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Timeline",
+      "col_2": "Fastest path to $100K MRR",
+      "col_3": "Sustainable pace, not burnout",
+      "col_4": "~80%",
+      "col_5": "Operator overworks early, burns out",
+      "col_6": "Clear hours expectations"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Risk",
+      "col_2": "Aggressive testing",
+      "col_3": "Job security, avoid big failures",
+      "col_4": "~70%",
+      "col_5": "Operator too conservative",
+      "col_6": "Reward smart risks"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Equity vs Cash",
+      "col_2": "More equity, less cash",
+      "col_3": "More cash, less risk",
+      "col_4": "~60%",
+      "col_5": "Cash crunch vs motivation",
+      "col_6": "Milestone-based structure"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Time Horizon",
+      "col_2": "Long-term value",
+      "col_3": "Near-term compensation",
+      "col_4": "~70%",
+      "col_5": "Short-term optimization",
+      "col_6": "Vesting, long-term incentives"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Transparency",
+      "col_2": "Full visibility",
+      "col_3": "Some autonomy",
+      "col_4": "~80%",
+      "col_5": "Micromanagement vs hiding problems",
+      "col_6": "Clear reporting, trust"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Growth vs Profit",
+      "col_2": "Balance both",
+      "col_3": "Revenue (comp tied to it)",
+      "col_4": "~75%",
+      "col_5": "Growth at expense of margin",
+      "col_6": "Comp tied to contribution margin"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "Quality vs Speed",
+      "col_2": "Both, but quality first",
+      "col_3": "Ship fast, show progress",
+      "col_4": "~70%",
+      "col_5": "Cutting corners",
+      "col_6": "Quality gates"
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "ALIGNMENT MECHANISMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "• Equity: Agent benefits from long-term value creation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "• Transparency: Regular reporting reduces information asymmetry",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "• Milestones: Aligned incentives at key checkpoints",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "• Culture: Shared values reduce need for monitoring",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "PRINCIPAL-AGENT ALIGNMENT CHECK": "• Clear expectations: Both parties know what success looks like",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Principal-Agent Alignment",
+  "sheet_index": 881
+}

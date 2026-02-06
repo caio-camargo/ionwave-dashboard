@@ -1,0 +1,84 @@
+{
+  "headers": [
+    "CREATIVE PRODUCTION QUEUE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "CREATIVE PRODUCTION QUEUE": "Asset Name",
+      "col_2": "Type",
+      "col_3": "Brief Link",
+      "col_4": "Assigned To",
+      "col_5": "Due Date",
+      "col_6": "Status",
+      "col_7": "Review Link",
+      "col_8": "Approved By",
+      "col_9": "Notes"
+    },
+    {
+      "CREATIVE PRODUCTION QUEUE": "Ad_Static_Hook1_v1",
+      "col_2": "Static Ad",
+      "col_3": "[link]",
+      "col_4": "[Name]",
+      "col_5": "[Date]",
+      "col_6": "Not Started",
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CREATIVE PRODUCTION QUEUE": "Ad_Video_VSL_30s",
+      "col_2": "Video Ad",
+      "col_3": "[link]",
+      "col_4": "[Name]",
+      "col_5": "[Date]",
+      "col_6": "Not Started",
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CREATIVE PRODUCTION QUEUE": "Email_Welcome_1",
+      "col_2": "Email",
+      "col_3": "[link]",
+      "col_4": "[Name]",
+      "col_5": "[Date]",
+      "col_6": "Not Started",
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CREATIVE PRODUCTION QUEUE": "LP_Main_Hero",
+      "col_2": "Landing Page",
+      "col_3": "[link]",
+      "col_4": "[Name]",
+      "col_5": "[Date]",
+      "col_6": "Not Started",
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CREATIVE PRODUCTION QUEUE": "STATUS OPTIONS: Not Started | In Progress | In Review | Revisions | Approved | Live",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Creative Production Queue",
+  "sheet_index": 350
+}

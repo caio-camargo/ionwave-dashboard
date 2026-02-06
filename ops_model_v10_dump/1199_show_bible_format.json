@@ -1,0 +1,207 @@
+{
+  "headers": [
+    "MC SHOW BIBLE — FORMAT & IDENTITY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "SHOW IDENTITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Working Title",
+      "col_2": "BUILD IN PUBLIC (or: THE LAUNCH, THE TRADE, ZERO TO ONE — MC picks final name with Nilo)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Logline",
+      "col_2": "Watch a company get built from scratch using a 1,200-tab operating model, a team of strangers, and zero cash.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Genre",
+      "col_2": "Business documentary / reality. Think: The Playlist meets How I Built This meets a live Twitch stream.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Tone",
+      "col_2": "Honest, messy, real. Not polished corporate content. Not cringe hustle culture. Smart people figuring it out in real time.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Audience",
+      "col_2": "Founders, operators, business nerds, people who like watching complex systems work. Secondary: potential hires and investors watching the company being born.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Platform(s)",
+      "col_2": "YouTube (long-form home base), TikTok/Reels/Shorts (daily highlights cut to clips), Spotify/Apple (audio versions of long-form). MC's choice on primary platform — they should go where they already have presence or feel strongest.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Visual Identity",
+      "col_2": "Clean, minimal. Dark background (charcoal/navy) with bright accent color (electric blue or IonWave brand color). Consistent lower-third with name + role for every guest. Episode number always visible. NOT startup-bro aesthetic. Think: Bloomberg meets MKBHD.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Thumbnail Style",
+      "col_2": "Face of guest + bold 3-5 word hook + episode number. High contrast. Consistent template so feed looks like a series, not random uploads. AI-generate 20 sample thumbnails to see how the feed looks at scale.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "TWO CONTENT FORMATS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Format",
+      "col_2": "Length",
+      "col_3": "Frequency",
+      "col_4": "Energy",
+      "col_5": "Structure",
+      "col_6": "Examples"
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "LONG-FORM CONVERSATION",
+      "col_2": "1-3 hours raw (release full or edit to 45-90 min)",
+      "col_3": "2-3 per week",
+      "col_4": "Joe Rogan energy. Let it breathe. Go deep. Tangents are fine. The human moment is the content.",
+      "col_5": "• Cold open (30 sec clip of best moment)\n• MC intro (who is this person, why are they here)\n• The conversation (unstructured, follow the energy)\n• Closing (what's next for this person in the project)\n• Post-roll (next episode preview)",
+      "col_6": "Onboarding a new PM: who are you, why'd you say yes, what are you building, what scares you\nExpert review session: expert pushes back on a TUP, debates quality, gives a C grade live\nMilestone lock: a cluster passes, team celebrates, MC reflects\nNilo thesis conversation: the M0 deep-dive, why this company, what are the kill criteria"
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "DAILY HIGHLIGHT",
+      "col_2": "10-15 minutes",
+      "col_3": "Every weekday",
+      "col_4": "ESPN SportsCenter. Fast, punchy, personality-driven. MC riffs, doesn't read a script.",
+      "col_5": "• Cold open: \"Day 34. Here's what happened.\"\n• The update (2-3 things that happened today, 2-3 min each)\n• The number (one metric or milestone — \"4 clusters locked, 3 to go\")\n• Tomorrow preview (what's coming)\n• Sign-off (consistent catchphrase or ritual)",
+      "col_6": "Day 12: \"Elaine filed 47 tabs today. Our first PM started. And an expert said no.\"\nDay 28: \"We got our first C grade. Here's what that means and why it's actually good.\"\nDay 45: \"The Conductor quit. Here's the plan.\""
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "EPISODE CATEGORIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Category",
+      "col_2": "What Triggers It",
+      "col_3": "Typical Length",
+      "col_4": "Recurring?",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Entrance Conversation",
+      "col_2": "New person joins the project (PM, Expert, anyone)",
+      "col_3": "45-90 min",
+      "col_4": "Yes — every new person gets one",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Exit Conversation",
+      "col_2": "Someone leaves (completes sprint, quits, gets fired)",
+      "col_3": "30-60 min",
+      "col_4": "Yes — every departure gets one",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Expert Review",
+      "col_2": "Expert reviews a TUP live on camera. Gives real grade with real feedback.",
+      "col_3": "60-120 min",
+      "col_4": "Yes — every cluster review",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Milestone Lock",
+      "col_2": "A cluster passes expert review and gets locked",
+      "col_3": "15-30 min",
+      "col_4": "Yes — every lock",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Thesis Deep-Dive",
+      "col_2": "Nilo explains M0 thesis, competitive landscape, kill criteria",
+      "col_3": "90-180 min",
+      "col_4": "Once or twice",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Crisis Episode",
+      "col_2": "Something breaks — someone quits, a grade fails, a plan changes",
+      "col_3": "30-60 min",
+      "col_4": "As needed",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Build Session",
+      "col_2": "MC watches PM + Claude produce a TUP in real time",
+      "col_3": "60-120 min",
+      "col_4": "Occasional — shows the actual work",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Investor Preview",
+      "col_2": "Nilo or MC walks through what the package looks like for investors",
+      "col_3": "30-60 min",
+      "col_4": "Once near end of production",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "MC SHOW BIBLE — FORMAT & IDENTITY": "Daily Highlight",
+      "col_2": "Every weekday",
+      "col_3": "10-15 min",
+      "col_4": "Daily",
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Show Bible - Format",
+  "sheet_index": 1199
+}

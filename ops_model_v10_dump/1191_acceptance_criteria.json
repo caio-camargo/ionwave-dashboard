@@ -1,0 +1,535 @@
+{
+  "headers": [
+    "ACCEPTANCE CRITERIA — GO / NO-GO GATE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "What must be true before the first PM Co-Founder touches a tab. This is Week 0. Nothing starts until this clears.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "THE CLAUDE CALIBRATION TEST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Before anyone starts production, there is a calibration session.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Claude gets prompted with a P-tab and produces a sample C-tab. You or the Steward grades that output against the rubric.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "The test is NOT whether Claude can write. We know it can.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "The test is whether the P-tab spec is clear enough that Claude + any competent PM produces B-grade output on first pass.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "If Claude misses, the P-tab is underspecified. That's the diagnostic. Fix the P-tab, not Claude.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "If it takes two rounds of P-tab revision on M0, fine. Better to find out in Week 0 than Week 4.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "The acceptance criteria is: \"P-tabs are specified well enough that Claude + any competent PM produces B-grade output on first pass.\"",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "This is the single most important gate in the entire production. If this fails, nothing else matters.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "CALIBRATION PROTOCOL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Step",
+      "col_2": "Action",
+      "col_3": "Who",
+      "col_4": "Pass Criteria",
+      "col_5": "If Fail",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "1",
+      "col_2": "Select 2-3 P-tabs from M0 thesis cluster (non-critical TUPs)",
+      "col_3": "Nilo",
+      "col_4": "P-tabs exist with scope, win conditions, tab list, dependencies",
+      "col_5": "Write P-tabs. Cannot proceed without them.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "2",
+      "col_2": "Prompt Claude with P-tab spec. No additional context beyond what the P-tab contains.",
+      "col_3": "Nilo or Steward",
+      "col_4": "Claude produces coherent first-draft C-tab",
+      "col_5": "If Claude produces garbage: P-tab is underspecified. Revise and repeat.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "3",
+      "col_2": "Grade Claude's output against Grading System rubric. Apply ACP criteria as if you were the Expert Reviewer.",
+      "col_3": "Nilo or Steward",
+      "col_4": "Output scores B or above on first pass. Minor edits needed, not major rewrites.",
+      "col_5": "If C or below: identify what's missing from the P-tab spec. Add it. Repeat from Step 2.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "4",
+      "col_2": "Have a DIFFERENT person (not Nilo) prompt Claude with the same P-tab. No coaching.",
+      "col_3": "Steward or test PM",
+      "col_4": "Same person + Claude produces comparable B-grade output. Not person-dependent.",
+      "col_5": "If output quality drops: the P-tab relies on context in Nilo's head that isn't written down. Extract and add to P-tab.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "5",
+      "col_2": "Document the calibration results. Record: which P-tabs tested, grades assigned, revisions needed, final pass/fail.",
+      "col_3": "Steward",
+      "col_4": "Written record exists. Lessons applied to remaining P-tabs.",
+      "col_5": "N/A — this step always passes if you do it.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "6",
+      "col_2": "Apply lessons to ALL P-tabs across all clusters. If M0 P-tabs needed revision, assume others do too.",
+      "col_3": "Nilo + Claude",
+      "col_4": "All P-tabs revised to calibrated standard. Spot-check 2-3 from other clusters.",
+      "col_5": "If widespread P-tab issues: extend Week 0. Do not start production with underspecified P-tabs.",
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "FULL ACCEPTANCE CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Every item must be GREEN before Week 1 production begins.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "#",
+      "col_2": "Acceptance Criterion",
+      "col_3": "Category",
+      "col_4": "Verified By",
+      "col_5": "Status",
+      "col_6": "Bottleneck If Not Met"
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-01",
+      "col_2": "M0 thesis locked or near-locked. Core ICP, positioning, kill criteria committed.",
+      "col_3": "Content",
+      "col_4": "Nilo self-grades + Steward audit",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — M0 is Nilo + Claude. Nobody else can do this."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-02",
+      "col_2": "P-tabs for first 2-3 clusters written and Claude-tested (calibration protocol passed).",
+      "col_3": "Content",
+      "col_4": "Steward confirms calibration results",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — P-tabs encode Nilo's thesis. Cannot be delegated until M0 is locked."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-03",
+      "col_2": "Librarian hired, oriented, and has custody of Trade file + Google Drive structure.",
+      "col_3": "People",
+      "col_4": "Conductor confirms hire + Nilo confirms orientation",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR — sourcing the Librarian is Conductor's first task."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-04",
+      "col_2": "Conductor pipeline active. At least 3 PM candidates in pipeline for CL-1/CL-2.",
+      "col_3": "People",
+      "col_4": "Conductor self-reports pipeline status",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR — if Conductor isn't hired yet, Nilo is bottleneck for hiring Conductor."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-05",
+      "col_2": "Legal entity filed. Stripe Atlas ($500) for incorporation. EIN obtained.",
+      "col_3": "Legal",
+      "col_4": "Nilo + Lawyer confirm",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + LAWYER — legal sequence is blocking for cap table."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-06",
+      "col_2": "Cap table templated in Equity Protocol format. Free template, not Carta. Ready to issue grants.",
+      "col_3": "Legal/Finance",
+      "col_4": "Nilo + Lawyer confirm",
+      "col_5": "NOT STARTED",
+      "col_6": "Blocked by AC-05. Cannot issue equity without entity."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-07",
+      "col_2": "Google personal accounts + free Notion for Drive structure. Mirrors Trade organization. Free tier tools only.",
+      "col_3": "Ops",
+      "col_4": "Librarian confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "Blocked by AC-03 (Librarian). Nilo can set up Workspace, Librarian organizes folders."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-08",
+      "col_2": "Credential vault set up. Free tier (Bitwarden or similar). Before any hires get tool access.",
+      "col_3": "Ops",
+      "col_4": "Nilo confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — 30-minute task. Just do it."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-09",
+      "col_2": "PM and Expert Advisor agreement templates drafted using Claude. Lawyer review later when funded ($500-1K).",
+      "col_3": "Legal",
+      "col_4": "Nilo + Lawyer confirm",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + LAWYER — can parallel-track with AC-05."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-10",
+      "col_2": "Steward audit complete. 10-point structural check on Trade passes.",
+      "col_3": "Quality",
+      "col_4": "Steward files audit report",
+      "col_5": "NOT STARTED",
+      "col_6": "STEWARD — needs to be hired/assigned. Caio or equivalent."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-11",
+      "col_2": "Communication tool set up. Free Slack tier or Discord. Channel structure defined.",
+      "col_3": "Ops",
+      "col_4": "Nilo or Conductor confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "Low bottleneck — 1-hour task."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-12",
+      "col_2": "Role Registry reviewed by Steward. No orphaned aliases in active tabs.",
+      "col_3": "Quality",
+      "col_4": "Steward confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "Blocked by AC-10 (Steward audit)."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-13",
+      "col_2": "One calibration sprint completed on non-critical cluster. 80/20 model validated.",
+      "col_3": "Quality",
+      "col_4": "Nilo grades calibration output",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — this IS the Claude calibration test. Most important gate."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-14",
+      "col_2": "MC identified or pipeline active. Role is ~10-12 hrs/week (compatible with full-time job). 10% equity.",
+      "col_3": "People",
+      "col_4": "Conductor confirms pipeline",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR — MC hire can happen Week 1-2, but sourcing starts Week 0."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-15",
+      "col_2": "Bank account opened (Mercury free tier or similar). Needs EIN from AC-05.",
+      "col_3": "Finance",
+      "col_4": "Nilo confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "Blocked by AC-05 (entity + EIN)."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "BOTTLENECK SEQUENCE (who blocks what)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Phase 1 bottleneck: NILO. M0 thesis, P-tabs, legal entity, cap table template. Nobody else can do these. This is the founder tax.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Phase 2 bottleneck: CONDUCTOR. Hiring Librarian, building PM pipeline, sourcing MC candidates. If Conductor isn't hired, Nilo is bottleneck for hiring Conductor.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Phase 3 bottleneck: LIBRARIAN. Organizing Drive, distributing tab slices, tracking status. Steady-state production depends on Librarian routing speed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "The sequence is: Nilo unblocks → Conductor sources → Librarian routes → Production flows.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "If you're stuck at any point, ask: \"who is the current bottleneck?\" and unblock that person.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "NILO'S ROLE DURING PRODUCTION (after Week 0 clears)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "After M0 locks and acceptance criteria clear, Nilo goes on-call. Genuinely hands-off.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "Two exceptions: (1) On-call for thesis questions from PMs. (2) Final sign-off authority on V-tabs (can delegate to expert grade).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "The protocol replaces the CEO function during imagination. That is the entire claim of the research paper.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "If Nilo ends up being more active in practice, LOG IT. That's data for Paper 2.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "\"Founder involvement was higher/lower than protocol predicted\" is a finding, not a failure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "A proper CEO (CoS/Operator) activates post-funding. Week 8-12 earliest. The protocol holds until then.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "CONTINUITY ACCEPTANCE CRITERIA (from Continuity Protocol)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-16",
+      "col_2": "Backup Librarian identified. Not hired — just identified, sent Role Registry spec, soft yes received.",
+      "col_3": "People",
+      "col_4": "Conductor confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR — must source backup during Week 0."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-17",
+      "col_2": "Backup Conductor identified. Same as above.",
+      "col_3": "People",
+      "col_4": "Nilo confirms (Nilo sources Conductor backup since Conductor can't backup themselves)",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — this is the one backup Nilo must personally source."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-18",
+      "col_2": "MC pipeline has 2+ names. Primary MC hired or in final conversations. Backup aware and soft-committed.",
+      "col_3": "People",
+      "col_4": "Conductor confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR — MC pipeline is part of general sourcing."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-19",
+      "col_2": "2 expert advisor candidates identified per domain for first 2-3 clusters. Sent sample TUP. Soft yes received.",
+      "col_3": "People",
+      "col_4": "Conductor confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "CONDUCTOR + NILO (Nilo's network for expert intros)."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-20",
+      "col_2": "Claude handoff prompt tested. Generate sample handoff packet for Librarian role. Verify it's usable by someone with zero context.",
+      "col_3": "Quality",
+      "col_4": "Nilo or Steward tests",
+      "col_5": "NOT STARTED",
+      "col_6": "Low effort — 15 minute test. Just do it."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "RECRUITING CHAIN ACCEPTANCE CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-21",
+      "col_2": "Recruiter hired. Cold sourced by Nilo from Upwork/LinkedIn. This is Nilo's #1 hire after Elaine.",
+      "col_3": "People",
+      "col_4": "Nilo confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — cannot delegate this hire. Recruiter enables everything else."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-22",
+      "col_2": "MC hired or in final conversations. Cold sourced by Nilo from content creator networks.",
+      "col_3": "People",
+      "col_4": "Nilo confirms",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO — second critical hire. Show can't start without MC."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-23",
+      "col_2": "Domain Questions doc created and shared. PM→Nilo formal question protocol tested.",
+      "col_3": "Process",
+      "col_4": "Elaine confirms doc exists",
+      "col_5": "NOT STARTED",
+      "col_6": "ELAINE — creates the doc. Nilo confirms he'll respond within 24hr SLA."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "DEEP IMAGINATION ACCEPTANCE CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-21",
+      "col_2": "MC Show Bible complete — format, thumbnails, sample scripts, AI mockup of feed with 20 episodes.",
+      "col_3": "Content",
+      "col_4": "Nilo self-review",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + CLAUDE — must exist before MC recruiting."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-22",
+      "col_2": "Recruiting Pitch Deck complete — 5 slides, AI-designed, sendable.",
+      "col_3": "Recruiting",
+      "col_4": "Nilo self-review",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + CLAUDE — must exist before any recruiting."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-23",
+      "col_2": "M0 Thesis locked — real ICP, real positioning, real kill criteria. Calibration test passed.",
+      "col_3": "Content",
+      "col_4": "Steward audit + calibration test",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + CLAUDE — most critical gate."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-24",
+      "col_2": "Expert Advisor Onboarding Packet complete — overview, scope, sample V-tab, sample graded TUP.",
+      "col_3": "Recruiting",
+      "col_4": "Nilo self-review",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + CLAUDE — must exist before PMs recruit experts."
+    },
+    {
+      "ACCEPTANCE CRITERIA — GO / NO-GO GATE": "AC-25",
+      "col_2": "Shopify Storefront Mockup complete — packaging renders, landing page, product page. Visual only.",
+      "col_3": "Content",
+      "col_4": "Nilo self-review",
+      "col_5": "NOT STARTED",
+      "col_6": "NILO + CLAUDE — recruiting + investor tool."
+    }
+  ],
+  "row_count": 65,
+  "sheet_name": "Acceptance Criteria",
+  "sheet_index": 1191
+}

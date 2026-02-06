@@ -1,0 +1,307 @@
+{
+  "headers": [
+    "A/B TESTING FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "A/B TESTING FRAMEWORK": "How to systematically test and improve conversion",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "TESTING PRINCIPLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "• Test one thing at a time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "• Statistical significance before declaring winner",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "• Big changes before small tweaks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "• Document everything",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "• Never stop testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "WHAT TO TEST (Priority Order)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Element",
+      "col_2": "Impact",
+      "col_3": "Easy?",
+      "col_4": "Test First",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Offer/Price",
+      "col_2": "HIGHEST",
+      "col_3": "Medium",
+      "col_4": "1st",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Headline",
+      "col_2": "HIGH",
+      "col_3": "Easy",
+      "col_4": "2nd",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Hero image",
+      "col_2": "HIGH",
+      "col_3": "Easy",
+      "col_4": "3rd",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "CTA text",
+      "col_2": "MEDIUM",
+      "col_3": "Easy",
+      "col_4": "4th",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Social proof placement",
+      "col_2": "MEDIUM",
+      "col_3": "Easy",
+      "col_4": "5th",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Page length",
+      "col_2": "MEDIUM",
+      "col_3": "Medium",
+      "col_4": "6th",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Button color",
+      "col_2": "LOW",
+      "col_3": "Easy",
+      "col_4": "Later",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Font changes",
+      "col_2": "LOW",
+      "col_3": "Easy",
+      "col_4": "Later",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "SAMPLE SIZE CALCULATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Rule of thumb for 95% confidence:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Current CVR | Min. visitors per variation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "1%          | ~40,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "2%          | ~20,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "3%          | ~13,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "5%          | ~8,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "10%         | ~4,000",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Don't declare winners until you have enough data!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Use: abtestguide.com/calc for exact calculations",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "TEST TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "A/B TESTING FRAMEWORK": "Test",
+      "col_2": "Hypothesis",
+      "col_3": "Control",
+      "col_4": "Variant",
+      "col_5": "Start",
+      "col_6": "Traffic",
+      "col_7": "Winner",
+      "col_8": "Lift"
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "AB Testing Framework1",
+  "sheet_index": 380
+}

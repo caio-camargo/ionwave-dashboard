@@ -1,0 +1,197 @@
+{
+  "headers": [
+    "INVESTOR PIPELINE / CRM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "INVESTOR PIPELINE / CRM": "Track investor outreach and relationships",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "PIPELINE STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "1. RESEARCH - Identified, researching fit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "2. OUTREACH - Initial contact made",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "3. MEETING - Had first meeting",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "4. DILIGENCE - They're doing diligence",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "5. TERM SHEET - Negotiating terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "6. CLOSED - Money in bank",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "7. PASSED - They said no",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "INVESTOR TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "Investor",
+      "col_2": "Type",
+      "col_3": "Contact",
+      "col_4": "Intro Source",
+      "col_5": "Stage",
+      "col_6": "Last Contact",
+      "col_7": "Next Step",
+      "col_8": "Notes"
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "INVESTOR TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• Angels - Individuals investing personal money ($5K-$100K)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• Angel Groups - Organized groups (Tech Coast Angels, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• Micro-VCs - Small funds, early stage ($100K-$500K)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• VCs - Traditional venture ($500K+, usually Series A+)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• Strategics - Companies investing for strategic reasons",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "INVESTOR PIPELINE / CRM": "• Family Offices - Wealthy family investment arms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Investor Pipeline CRM",
+  "sheet_index": 204
+}

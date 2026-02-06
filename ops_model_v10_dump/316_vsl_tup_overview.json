@@ -1,0 +1,154 @@
+{
+  "headers": [
+    "VSL TUP — VIDEO SALES LETTER AS TRADE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "The VSL is not 'make a video.' It's a complete business function with its own TUP lifecycle.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "WHY VSL IS A TUP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "A VSL is the highest-leverage single asset in a D2C business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "It determines CAC, conversion rate, AOV, and brand positioning in one artifact.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Getting it wrong costs months of ad spend on a broken funnel.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Getting it right is the difference between $0 and $100K MRR.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Therefore the VSL deserves Trade-level rigor:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Imagination phase (script, hooks, structure, offers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Implementation phase (production, editing, testing)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Verification (does it convert?)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Kill criteria (when to scrap and start over)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Iteration cycles (winner found → scale, loser → diagnose → rebuild)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "VSL TUP LIFECYCLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "Phase",
+      "col_2": "Duration",
+      "col_3": "Activities",
+      "col_4": "Exit Criteria",
+      "col_5": "Kill Criteria"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "1. Imagination",
+      "col_2": "Week 1",
+      "col_3": "Research competitors, extract hooks, map objections, study winning VSLs, define offer stack",
+      "col_4": "3 unique angles identified, offer stack defined, script outline approved",
+      "col_5": "Cannot identify a single differentiated angle after 5 days"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "2. Scripting",
+      "col_2": "Week 2",
+      "col_3": "Write 3 script variants (different hooks/angles), internal review, read-aloud test",
+      "col_4": "3 scripts complete, founder approves top 2, read-aloud passes flow test",
+      "col_5": "Scripts feel generic after 3 rewrites — thesis may be wrong"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "3. Production",
+      "col_2": "Week 3",
+      "col_3": "Record 2 variants (UGC-style + authority-style), edit, add B-roll/graphics/captions",
+      "col_4": "2 finished videos, <4 min each, all CTAs clear, landing page matched",
+      "col_5": "Production quality below minimum bar after 2 attempts"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "4. Testing",
+      "col_2": "Weeks 4-5",
+      "col_3": "Launch both variants, $50-100/day each, track hook rate/hold rate/CVR/CPA",
+      "col_4": "One variant shows >25% hook rate and CPA within 2x target",
+      "col_5": "Both variants below 15% hook rate after $500 spend — back to scripting"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "5. Optimization",
+      "col_2": "Weeks 6-8",
+      "col_3": "Test new hooks on winner, test offers, test audiences, scale spend on winners",
+      "col_4": "CPA at or below target at $200/day spend, 3+ winning hook variants",
+      "col_5": "CPA not improving after 3 rounds of hooks — fundamental VSL rebuild"
+    },
+    {
+      "VSL TUP — VIDEO SALES LETTER AS TRADE": "6. Scale",
+      "col_2": "Weeks 9+",
+      "col_3": "Increase spend, launch on new platforms, create derivative content from winner",
+      "col_4": "Profitable at $500+/day, VSL is primary revenue driver",
+      "col_5": "CPA degrades >30% at scale — creative fatigue, need new VSL TUP"
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "VSL TUP Overview",
+  "sheet_index": 316
+}

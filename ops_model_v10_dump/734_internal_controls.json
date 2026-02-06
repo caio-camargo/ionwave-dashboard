@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "INTERNAL CONTROLS FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "INTERNAL CONTROLS FRAMEWORK": "Approval thresholds, segregation of duties.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "INTERNAL CONTROLS FRAMEWORK": "Action",
+      "col_2": "Operator Alone",
+      "col_3": "Needs CM",
+      "col_4": "Needs Studio"
+    },
+    {
+      "INTERNAL CONTROLS FRAMEWORK": "Ad spend daily",
+      "col_2": "<$200",
+      "col_3": "$200-500",
+      "col_4": ">$500"
+    },
+    {
+      "INTERNAL CONTROLS FRAMEWORK": "Single purchase",
+      "col_2": "<$500",
+      "col_3": "$500-2000",
+      "col_4": ">$2000"
+    },
+    {
+      "INTERNAL CONTROLS FRAMEWORK": "Refund",
+      "col_2": "<$100",
+      "col_3": "$100-300",
+      "col_4": ">$300"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Internal Controls",
+  "sheet_index": 734
+}

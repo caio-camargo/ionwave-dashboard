@@ -1,0 +1,46 @@
+{
+  "headers": [
+    "AUDIT READINESS CHECKLIST"
+  ],
+  "rows": [
+    {
+      "AUDIT READINESS CHECKLIST": "If buyer does due diligence, are books clean?"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "FINANCIAL:"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Monthly P&L (all months)"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Bank statements"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Tax returns"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "LEGAL:"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Formation docs"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Cap table"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ All contracts"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "OPERATIONAL:"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Customer list with LTV"
+    },
+    {
+      "AUDIT READINESS CHECKLIST": "⬜ Cohort analysis"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Audit Readiness",
+  "sheet_index": 192
+}

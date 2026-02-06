@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "How Studio 4 grows. Multiple simultaneous Trades. Operator pipeline. Infrastructure scaling.",
+      "col_2": null
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Section",
+      "col_2": "Content"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Domain Overview",
+      "col_2": "[What is Studio Scaling? 2-3 paragraphs of context for someone new to this domain.]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Key Terms",
+      "col_2": "[Define 5-10 domain-specific terms the flash contributor needs to know.]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Current Best Practices",
+      "col_2": "[How do leading companies/practitioners handle studio scaling?]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Common Pitfalls",
+      "col_2": "[What do most people get wrong about studio scaling?]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Benchmarks",
+      "col_2": "[What does good look like? What numbers/metrics define success?]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Reference Examples",
+      "col_2": "[2-3 real companies or projects that do this well. What can we learn?]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "What Experts Care About",
+      "col_2": "[When a studio scaling expert reviews this, what will they look for?]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "Recommended Reading",
+      "col_2": "[3-5 articles, books, or resources for deeper understanding.]"
+    },
+    {
+      "IP-S37: Studio Scaling — INDUSTRY PERSPECTIVES": "How This Connects to Other TUPs",
+      "col_2": "[Which other TUPs does S37 depend on or feed into?]"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "IP-S37",
+  "sheet_index": 1089
+}

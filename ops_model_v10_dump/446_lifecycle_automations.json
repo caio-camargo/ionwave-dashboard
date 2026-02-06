@@ -1,0 +1,142 @@
+{
+  "headers": [
+    "LIFECYCLE AUTOMATIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "LIFECYCLE AUTOMATIONS": "Every automated touchpoint in the customer journey",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Automation",
+      "col_2": "Trigger",
+      "col_3": "Stage",
+      "col_4": "Channel",
+      "col_5": "Timing",
+      "col_6": "Content",
+      "col_7": "Goal Metric"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Welcome Series",
+      "col_2": "Email opt-in (no purchase)",
+      "col_3": "2→3",
+      "col_4": "Email (4 emails)",
+      "col_5": "Day 0, 1, 3, 5",
+      "col_6": "Brand story → Problem education → Social proof → First offer",
+      "col_7": "First purchase CVR >8%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Abandoned Cart",
+      "col_2": "Cart created, no purchase in 1hr",
+      "col_3": "3→4",
+      "col_4": "Email (3) + SMS (1)",
+      "col_5": "1hr, 24hr, 48hr, 72hr",
+      "col_6": "Reminder → Objection handling → Urgency/discount",
+      "col_7": "Recovery rate >10%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Browse Abandonment",
+      "col_2": "Product page view, no cart in 24hr",
+      "col_3": "2→3",
+      "col_4": "Email (2)",
+      "col_5": "24hr, 72hr",
+      "col_6": "Product highlight → Social proof",
+      "col_7": "Cart creation rate >5%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Post-Purchase",
+      "col_2": "First purchase completed",
+      "col_3": "4→5",
+      "col_4": "Email (5)",
+      "col_5": "Immediately, Day 2, 5, 10, 14",
+      "col_6": "Confirmation → Shipping → Usage guide → Check-in → Review ask",
+      "col_7": "NPS >8, Review rate >15%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Replenishment",
+      "col_2": "Projected product depletion",
+      "col_3": "5→6",
+      "col_4": "Email (2) + SMS (1)",
+      "col_5": "5 days before, 2 days before, day of",
+      "col_6": "Reminder → Subscription offer → Last chance",
+      "col_7": "Repeat rate >35%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Subscription Offer",
+      "col_2": "2nd purchase completed",
+      "col_3": "6→6",
+      "col_4": "Email (2)",
+      "col_5": "Day 1, Day 5 after 2nd order",
+      "col_6": "Subscribe & save pitch → Value comparison",
+      "col_7": "Sub conversion >12%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "VIP Recognition",
+      "col_2": "3rd purchase OR $150+ LTV",
+      "col_3": "6→7",
+      "col_4": "Email (1) + surprise",
+      "col_5": "After qualifying event",
+      "col_6": "Thank you + exclusive offer + referral invite",
+      "col_7": "Referral opt-in >20%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Referral Activation",
+      "col_2": "VIP recognized",
+      "col_3": "7→7",
+      "col_4": "Email (2) + in-package",
+      "col_5": "With VIP email + next shipment",
+      "col_6": "How it works → Share link → Reward reminder",
+      "col_7": "Referral share rate >15%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Review Solicitation",
+      "col_2": "14 days post-delivery",
+      "col_3": "5→7",
+      "col_4": "Email (2) + SMS (1)",
+      "col_5": "Day 14, Day 21, Day 28",
+      "col_6": "Review request → Photo request → Incentive",
+      "col_7": "Review rate >20%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Winback",
+      "col_2": "No purchase in 60 days",
+      "col_3": "8→4",
+      "col_4": "Email (3) + Ad retarget",
+      "col_5": "Day 60, 75, 90",
+      "col_6": "Miss you → New product/offer → Final discount",
+      "col_7": "Winback rate >5%"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Sunset",
+      "col_2": "No email engagement in 90 days",
+      "col_3": "8→9",
+      "col_4": "Email (2)",
+      "col_5": "Day 90, Day 97",
+      "col_6": "Want to stay? → Final goodbye (clean list)",
+      "col_7": "Re-engage >3% or clean list"
+    },
+    {
+      "LIFECYCLE AUTOMATIONS": "Churn Intervention",
+      "col_2": "Churn risk score >70",
+      "col_3": "6→8",
+      "col_4": "Email (1) + CS outreach",
+      "col_5": "Within 24hr of trigger",
+      "col_6": "Personal check-in, exclusive retention offer",
+      "col_7": "Save rate >15%"
+    }
+  ],
+  "row_count": 14,
+  "sheet_name": "Lifecycle Automations",
+  "sheet_index": 446
+}

@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "REVIEW GATES",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "REVIEW GATES": "Structured checkpoints with specific validation criteria",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "WEEK 2 REVIEW",
+      "col_2": "Foundation Complete"
+    },
+    {
+      "REVIEW GATES": "☐ Unit economics validated with real quotes",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ ICP research documented",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Competitive analysis complete",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Initial conditions checklist 100%",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Tech stack selected and accounts created",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "WEEK 8 REVIEW",
+      "col_2": "Operations Infrastructure"
+    },
+    {
+      "REVIEW GATES": "☐ Store live with tracking verified",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Email flows built and tested",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ First 20 ads created",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Supplier confirmed with lead times",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ 3PL contract signed",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "DAY 90 REVIEW",
+      "col_2": "Launch Ready"
+    },
+    {
+      "REVIEW GATES": "☐ First month of data collected",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Unit economics validated with actuals",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ CAC within acceptable range",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Ops model complete with all tabs",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Scale plan documented",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "MONTH 6 REVIEW",
+      "col_2": "Validation Complete"
+    },
+    {
+      "REVIEW GATES": "☐ All equations validated with actual data",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ PMF indicators met",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Path to $100K MRR documented",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ 18-month scaling gantt produced",
+      "col_2": null
+    },
+    {
+      "REVIEW GATES": "☐ Go/no-go decision on scale investment",
+      "col_2": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Review Gates",
+  "sheet_index": 913
+}

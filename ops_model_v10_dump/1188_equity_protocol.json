@@ -1,0 +1,457 @@
+{
+  "headers": [
+    "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Equity as a token-like mechanism with formal trigger conditions, distribution rules, and cap table implementation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Not on-chain. But designed AS IF it were. Formal enough to port to smart contract if DAO infrastructure warrants it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "DISTRIBUTION RULES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Rule ID",
+      "col_2": "Role",
+      "col_3": "Trigger Event",
+      "col_4": "State Machine Reference",
+      "col_5": "Amount",
+      "col_6": "Vesting Condition",
+      "col_7": "Forfeiture Condition",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-01",
+      "col_2": "PM Co-Founder",
+      "col_3": "TUP transitions S4→S5 (EXPERT_REVIEW→LOCKED) via T45",
+      "col_4": "T45: grade ≥ B recorded by authorized Expert Reviewer",
+      "col_5": "0.3-0.5% per sprint",
+      "col_6": "Grade ≥ B on V-tab. Lock confirmed by Librarian.",
+      "col_7": "Grade ≤ C after revision cycle. F grade = immediate forfeiture.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-02",
+      "col_2": "Expert Reviewer",
+      "col_3": "Review completed and grade filed",
+      "col_4": "V-tab updated during S4 (EXPERT_REVIEW)",
+      "col_5": "0.1-0.25% per cluster reviewed. No cash.",
+      "col_6": "Grade filed on V-tab. ACP criteria evaluated.",
+      "col_7": "Review not completed. Name removed from TUP.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-03",
+      "col_2": "Librarian",
+      "col_3": "Continuous — vests monthly over production cycle",
+      "col_4": "Active during S2-S5 for all TUPs",
+      "col_5": "0.5% total over 12+ weeks. No cash.",
+      "col_6": "Monthly vesting. First month = cliff.",
+      "col_7": "Abandonment or material breach of custody duties.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-04",
+      "col_2": "Conductor",
+      "col_3": "Continuous — vests monthly over production cycle",
+      "col_4": "Active during S0-S5 for all clusters",
+      "col_5": "0.3% total over 12+ weeks. No cash.",
+      "col_6": "Monthly vesting. First month = cliff.",
+      "col_7": "Abandonment or material breach of sourcing duties.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-05",
+      "col_2": "MC",
+      "col_3": "Continuous — vests monthly over production cycle + content milestones",
+      "col_4": "Active all phases, all TUPs",
+      "col_5": "10% total over 12+ weeks. No cash.",
+      "col_6": "Monthly vesting + bonus tranches at episode milestones (25, 50, 100 episodes).",
+      "col_7": "Abandonment. Content quality below threshold (Series Producer assessment).",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-06",
+      "col_2": "Series Producer",
+      "col_3": "Sprint-based — setup + recurring check-ins",
+      "col_4": "Active S0-S1 setup, recurring",
+      "col_5": "0.3-0.5% total",
+      "col_6": "Show bible delivered. Quality check-ins completed.",
+      "col_7": "Non-delivery of show structure.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-07 — REMOVED",
+      "col_2": "Product Person — REMOVED",
+      "col_3": "N/A — site builds moved to Conductor + AI",
+      "col_4": "—",
+      "col_5": "—",
+      "col_6": "—",
+      "col_7": "—",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-08",
+      "col_2": "CoS (Operator)",
+      "col_3": "Post-funding — standard startup vesting",
+      "col_4": "Active S6+ (IMPLEMENTATION and beyond)",
+      "col_5": "5-15% with 4yr/1yr cliff",
+      "col_6": "Standard 4-year vesting, 1-year cliff. Performance tied to business KPIs.",
+      "col_7": "Termination for cause. Voluntary departure before cliff.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-09",
+      "col_2": "Funnel Builder",
+      "col_3": "Sprint-based — funnel clusters built and deployed",
+      "col_4": "Active S2 for funnel-level TUPs",
+      "col_5": "0.5-1% per funnel cluster",
+      "col_6": "Funnel live and functional. Metrics baseline established.",
+      "col_7": "Non-delivery.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-10",
+      "col_2": "Steward",
+      "col_3": "One-time — audit completed",
+      "col_4": "Active Week 0 only",
+      "col_5": "0.1% or flat cash",
+      "col_6": "Audit report filed. All 10 initial conditions verified.",
+      "col_7": "Audit not completed.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-11",
+      "col_2": "Recruiter",
+      "col_3": "Continuous — vests monthly over production cycle",
+      "col_4": "Active during S0-S2 for all clusters (sourcing people as clusters activate)",
+      "col_5": "0.5% total over 12+ weeks. No cash.",
+      "col_6": "Monthly vesting. Pipeline active and producing qualified candidates.",
+      "col_7": "Abandonment. Pipeline goes cold with no replacement sourcing.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "CAP TABLE TEMPLATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Stakeholder",
+      "col_2": "Role",
+      "col_3": "Shares/Units",
+      "col_4": "% Ownership",
+      "col_5": "Trigger",
+      "col_6": "Status",
+      "col_7": "Vested",
+      "col_8": "Unvested"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Nilo (Founder)",
+      "col_2": "Nilo",
+      "col_3": "5,200,000",
+      "col_4": "52.0%",
+      "col_5": "Founder allocation",
+      "col_6": "VESTED",
+      "col_7": "60.0%",
+      "col_8": "0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "[Librarian TBD]",
+      "col_2": "Librarian",
+      "col_3": "50,000",
+      "col_4": "0.5%",
+      "col_5": "EQ-03: Monthly over 12+ weeks",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "0.4%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "[Conductor TBD]",
+      "col_2": "Conductor",
+      "col_3": "30,000",
+      "col_4": "0.3%",
+      "col_5": "EQ-04: Monthly over 12+ weeks",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "0.25%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "[MC TBD]",
+      "col_2": "MC",
+      "col_3": "1,000,000",
+      "col_4": "10.0%",
+      "col_5": "EQ-05: Monthly + milestones",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "2.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "PM Pool (7-10 PMs)",
+      "col_2": "PM Co-Founder",
+      "col_3": "350,000",
+      "col_4": "3.5%",
+      "col_5": "EQ-01: T45 per sprint (grade ≥ B)",
+      "col_6": "POOL",
+      "col_7": "—",
+      "col_8": "3.5%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Expert Pool (8-12)",
+      "col_2": "Expert Reviewer",
+      "col_3": "150,000",
+      "col_4": "1.5%",
+      "col_5": "EQ-02: Per cluster reviewed. Advisor framing. No cash.",
+      "col_6": "POOL",
+      "col_7": "—",
+      "col_8": "1.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Series Producer",
+      "col_2": "Series Producer",
+      "col_3": "40,000",
+      "col_4": "0.4%",
+      "col_5": "EQ-06: Sprint-based",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "0.4%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "[Product Person — REMOVED]",
+      "col_2": "Product Person",
+      "col_3": "0",
+      "col_4": "0% — reallocated to Future Hires Pool",
+      "col_5": "EQ-07: Deliverable-based",
+      "col_6": "REMOVED",
+      "col_7": "0%",
+      "col_8": "3.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "CoS (Post-funding)",
+      "col_2": "CoS",
+      "col_3": "1,000,000",
+      "col_4": "10.0%",
+      "col_5": "EQ-08: 4yr/1yr cliff",
+      "col_6": "RESERVED",
+      "col_7": "—",
+      "col_8": "10.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Investor Pool",
+      "col_2": "Investors",
+      "col_3": "1,500,000",
+      "col_4": "15.0%",
+      "col_5": "Purchase at fundraise",
+      "col_6": "RESERVED",
+      "col_7": "—",
+      "col_8": "15.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Future Hires Pool",
+      "col_2": "Future",
+      "col_3": "100,000",
+      "col_4": "1.0%",
+      "col_5": "Various",
+      "col_6": "RESERVED",
+      "col_7": "—",
+      "col_8": "4.0%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Steward",
+      "col_2": "Steward",
+      "col_3": "5,000",
+      "col_4": "0.05%",
+      "col_5": "EQ-10: Audit complete",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "0.05%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Recruiter",
+      "col_2": "Recruiter",
+      "col_3": "50,000",
+      "col_4": "0.5%",
+      "col_5": "EQ-11: Monthly over 12+ weeks. No cash.",
+      "col_6": "UNVESTED",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Funnel Builder",
+      "col_2": "Funnel Builder",
+      "col_3": "75,000",
+      "col_4": "0.75%",
+      "col_5": "EQ-09: Sprint-based",
+      "col_6": "UNVESTED",
+      "col_7": "0%",
+      "col_8": "0.75%"
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "PROTOCOL INVARIANTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Equity vests ONLY when triggered by a state machine transition. No manual grants except Nilo override (logged).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "T45 (grade ≥ B) is the ONLY transition that vests PM equity. No other transition triggers equity for flash roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Cap table must exist (I4 in state LOCKED) before ANY equity grant can execute. PRE-09 enforced.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Trustee has AUDIT access to all equity records, vesting events, and forfeiture decisions post-funding.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Total equity pool = 10,000,000 units. All allocations expressed as units AND percentages for clarity.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Forfeiture events are logged with justification. Pattern of forfeitures = system problem, not people problem.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Claude's contribution (≈80% of content) does not earn equity. Claude is infrastructure, not a stakeholder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "AMENDMENT: RECRUITER ADDED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "EQ-11",
+      "col_2": "Recruiter",
+      "col_3": "Monthly vesting over active recruiting period (6-8 weeks)",
+      "col_4": "Active Week 0 through Week 6-8",
+      "col_5": "0.3% total. No cash.",
+      "col_6": "Monthly vesting. Active recruiting period.",
+      "col_7": "Abandonment during active recruiting.",
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Recruiter",
+      "col_2": "Recruiter",
+      "col_3": "30,000",
+      "col_4": "0.3%",
+      "col_5": "EQ-11: Monthly over 6-8 weeks",
+      "col_6": "UNVESTED",
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "AMENDMENT: ROLLING COMMITMENT + MONTHLY VESTING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "EQUITY PROTOCOL — FORMAL DISTRIBUTION MECHANISM": "Monthly vesting aligns with rolling 2-week commitments. Exit after any sprint, keep what you earned. No cliff for persistent roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 44,
+  "sheet_name": "Equity Protocol",
+  "sheet_index": 1188
+}

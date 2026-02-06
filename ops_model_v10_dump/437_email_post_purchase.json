@@ -1,0 +1,400 @@
+{
+  "headers": [
+    "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)"
+  ],
+  "rows": [
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 1 — DAY 7 (First Week Check-In)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: How's your first week going?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: What most people feel by now"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "One week of IonWave. Let's check in."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "BY NOW, YOU MIGHT NOTICE:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ More stable energy through the day"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ Less of that 3pm crash"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ Subtle improvement in mental clarity"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ Hydration that actually feels different"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "If you're feeling some of these — great. Your body is responding."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "If not yet — that's normal too. Bodies that have been mineral-depleted for years sometimes need 2-3 weeks to fully calibrate."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "The key: don't stop. Consistency is everything."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "One sachet. Every morning. Let the minerals do their work."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "HOW CAN WE HELP?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "If something's not working, reply to this email. I read everything and respond personally."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "You're not just a customer. You're part of this now."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 2 — DAY 14 (The Science)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: The changes happening inside you"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: What 2 weeks of proper mineralization actually does"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Two weeks in. Here's what's happening beneath the surface:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "CELLULAR HYDRATION"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Your cells are finally getting minerals in ionic form—the only form they can actually use. This is different from drinking more water. This is water that works."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "ENZYME ACTIVATION"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Over 300 enzymes in your body require minerals to function. They've been running on fumes. Now they have fuel."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "NERVOUS SYSTEM SUPPORT"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Magnesium, potassium, calcium—these aren't just electrolytes. They're how your neurons fire. Properly mineralized = calmer, clearer, faster."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "RECOVERY OPTIMIZATION"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Your muscles don't just need protein. They need the minerals that power repair at the cellular level."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "This isn't hype. This is biochemistry."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "And you're two weeks into it."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Keep going. The best changes are still ahead."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "P.S. Tracking your health metrics? We'd love to see your before/after. Reply with screenshots if you've got them."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 3 — DAY 21 (Subscription Reminder)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: Heads up: box #2 ships in 9 days"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: Plus: a way to save on your next order"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Quick logistical note:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Your next box of IonWave ships in 9 days."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Same address. Same payment method. Nothing you need to do."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "WANT TO ADD ANYTHING?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Some customers grab a second box for travel. Or switch to our 3-month bundle for better savings."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[MANAGE YOUR SUBSCRIPTION →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "NEED TO PAUSE OR CHANGE TIMING?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "No problem. You can:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Push back your next shipment"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Change delivery frequency"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Update your address"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "All from your account dashboard. No phone calls, no hassle."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[UPDATE PREFERENCES →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Thanks for sticking with it. Three weeks of consistent minerals is when most people really start to feel the difference."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 4 — DAY 25 (Review Request)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: Quick favor? Takes 30 seconds."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: Your feedback helps more than you know"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "You've been with us almost a month now."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Can I ask a quick favor?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "If IonWave has made a difference for you—more energy, better recovery, clearer thinking, anything—would you take 30 seconds to leave a review?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[LEAVE A REVIEW →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "WHY IT MATTERS:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "We're a small team. We don't have celebrity endorsers or massive ad budgets."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "What we have is customers who feel the difference and tell others about it."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Your review helps someone else take the chance you took a month ago."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Even just a sentence or two helps."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Thank you — seriously."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "P.S. Had a problem? Don't leave a bad review—just reply to this email. We'll fix it."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 5 — DAY 30 (Milestone)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: One month in. Here's what we've learned."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: Congratulations—and a special offer"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "30 days of IonWave."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "This is the point where it stops being an experiment and becomes a habit. Your body has had a full cycle to integrate proper mineralization."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "WHAT OUR DATA SHOWS AT 30 DAYS:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ 73% of customers report sustained energy improvements"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ 68% report better recovery after workouts"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ 61% report improved sleep quality"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "→ 84% continue their subscription past month 3"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "You're part of this now."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "AS A THANK YOU:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "For hitting the 30-day mark, here's an exclusive offer:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "UPGRADE TO 90-DAY SUPPLY"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Save 28% vs monthly"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Code: MONTH1"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[CLAIM OFFER →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Locks in your current price. Ships every 3 months. Less to think about."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Or keep your monthly subscription—either way, we're glad you're here."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Here's to month two."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 6 — DAY 45 (Early Access)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: Members-only: new product preview"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: You get first access"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Because you're a subscriber, you get first access to this:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[PRODUCT PREVIEW: IONWAVE MINERAL DROPS]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Same marine plasma. Travel-size format."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Perfect for:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Flights (TSA-friendly)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Hotel stays"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Days you forget your sachet"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— Adding to coffee, smoothies, whatever"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Launches next month. But you can reserve yours now at founding-member pricing:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "$19 (retail will be $29)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[RESERVE NOW →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Only available to existing subscribers. Not on our main site."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "This is our way of saying thanks for being early."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "P.S. Not interested in drops? No worries. Just wanted you to have first shot."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "EMAIL 7 — DAY 60 (Two-Month Check-In)"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Subject: Your 60-day check-in"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Preview: Quick survey + chance to win"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Hey {{first_name}},"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Two months of consistent mineralization."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "At this point, IonWave isn't a supplement you're trying—it's part of your daily system."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "I'D LOVE YOUR FEEDBACK:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "We're building IonWave based on what customers actually experience. A quick 2-minute survey helps us make better decisions:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "[TAKE 2-MIN SURVEY →]"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Everyone who completes it gets entered to win a FREE 3-month supply. We pick a winner every Friday."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "A FEW QUICK QUESTIONS:"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "1. What's the #1 change you've noticed?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "2. What would make IonWave better?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "3. Would you recommend us? Why or why not?"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Your answers shape what we build next."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "Thanks for being part of this."
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "— The IonWave Team"
+    },
+    {
+      "IONWAVE POST-PURCHASE SEQUENCE (7 EMAILS)": "P.S. Know someone who should try IonWave? Forward this email and they'll get 15% off their first box with code FRIEND15."
+    }
+  ],
+  "row_count": 130,
+  "sheet_name": "Email Post-Purchase",
+  "sheet_index": 437
+}

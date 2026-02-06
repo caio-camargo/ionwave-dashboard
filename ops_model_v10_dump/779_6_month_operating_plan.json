@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "Month",
+    "Revenue Target",
+    "Key Activities",
+    "Ad Spend",
+    "Inventory",
+    "Headcount"
+  ],
+  "rows": [
+    {
+      "Month": "Month 1",
+      "Revenue Target": "$5,000",
+      "Key Activities": "Launch winning ads, fulfill first orders, collect reviews, fix fulfillment issues",
+      "Ad Spend": "$3,000",
+      "Inventory": "500 units",
+      "Headcount": "Operator only"
+    },
+    {
+      "Month": "Month 2",
+      "Revenue Target": "$12,000",
+      "Key Activities": "Scale 2-3 winning ads, launch retargeting, email flows live, 50+ reviews",
+      "Ad Spend": "$5,000",
+      "Inventory": "1,000 units",
+      "Headcount": "Operator + VA"
+    },
+    {
+      "Month": "Month 3",
+      "Revenue Target": "$25,000",
+      "Key Activities": "Add YouTube/TikTok test, influencer posts go live, subscription >40%, first reorders",
+      "Ad Spend": "$8,000",
+      "Inventory": "2,000 units",
+      "Headcount": "Operator + VA"
+    },
+    {
+      "Month": "Month 4",
+      "Revenue Target": "$40,000",
+      "Key Activities": "Scale YouTube if working, creative refresh (20 new ads), B2B pilot (3 gyms)",
+      "Ad Spend": "$12,000",
+      "Inventory": "3,500 units",
+      "Headcount": "Operator + VA + PT creative"
+    },
+    {
+      "Month": "Month 5",
+      "Revenue Target": "$55,000",
+      "Key Activities": "Geographic expansion test (Canada?), loyalty program launch, 200+ reviews",
+      "Ad Spend": "$15,000",
+      "Inventory": "5,000 units",
+      "Headcount": "Operator + VA + PT creative"
+    },
+    {
+      "Month": "Month 6",
+      "Revenue Target": "$75,000",
+      "Key Activities": "Evaluate second product (mineral drops), PR push, prep for Series A or profitability",
+      "Ad Spend": "$18,000",
+      "Inventory": "6,500 units",
+      "Headcount": "Consider FT hire"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "6-Month Operating Plan",
+  "sheet_index": 779
+}

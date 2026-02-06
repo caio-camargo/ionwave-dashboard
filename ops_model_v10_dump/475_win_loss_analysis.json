@@ -1,0 +1,169 @@
+{
+  "headers": [
+    "WIN/LOSS ANALYSIS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "WIN/LOSS ANALYSIS": "Why customers bought or didn't - from surveys and interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "WIN ANALYSIS (Why They Bought)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Date",
+      "col_2": "Customer",
+      "col_3": "Source",
+      "col_4": "Primary Reason",
+      "col_5": "Secondary Reasons",
+      "col_6": "Competitor Considered",
+      "col_7": "Quote"
+    },
+    {
+      "WIN/LOSS ANALYSIS": "LOSS ANALYSIS (Why They Didn't Buy)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Date",
+      "col_2": "Source",
+      "col_3": "Got To",
+      "col_4": "Primary Objection",
+      "col_5": "Secondary Objections",
+      "col_6": "Went With",
+      "col_7": "Quote"
+    },
+    {
+      "WIN/LOSS ANALYSIS": "TOP WIN REASONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "78 minerals vs 3",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Price/value",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Ocean-sourced/natural",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Recommendation/review",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Subscription convenience",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "TOP LOSS REASONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Price too high",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Prefer known brand (LMNT)",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Skeptical of claims",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Didn't need/want",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "WIN/LOSS ANALYSIS": "Found cheaper alternative",
+      "col_2": "[X]%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "Win Loss Analysis",
+  "sheet_index": 475
+}

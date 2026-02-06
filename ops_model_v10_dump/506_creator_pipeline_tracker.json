@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "CREATOR / UGC PIPELINE TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "Track UGC creator relationships and content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "CREATOR PIPELINE STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "1. SOURCED - Found potential creator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "2. CONTACTED - Reached out",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "3. NEGOTIATING - Discussing terms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "4. CONTRACTED - Deal signed, product sent",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "5. IN PRODUCTION - Creating content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "6. REVIEW - Content submitted, reviewing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "7. REVISIONS - Requested changes",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "8. APPROVED - Content approved",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "9. DEPLOYED - Running in ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "CREATOR ROSTER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "Name",
+      "col_2": "Source",
+      "col_3": "Cost/Video",
+      "col_4": "Quality",
+      "col_5": "Turnaround",
+      "col_6": "Videos Made",
+      "col_7": "Winners",
+      "col_8": "Status"
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "CONTENT TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "CREATOR / UGC PIPELINE TRACKER": "Video ID",
+      "col_2": "Creator",
+      "col_3": "Hook",
+      "col_4": "Angle",
+      "col_5": "Delivered",
+      "col_6": "Status",
+      "col_7": "Ad Performance",
+      "col_8": "Notes"
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Creator Pipeline Tracker",
+  "sheet_index": 506
+}

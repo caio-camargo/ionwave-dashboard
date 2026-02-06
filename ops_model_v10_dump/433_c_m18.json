@@ -1,0 +1,378 @@
+{
+  "headers": [
+    "CONTRACT — M18: EMAIL LIFECYCLE FLOWS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Agreement between project owner and Studio 4 / IonWave",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "PARTIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Field",
+      "col_2": "Value",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Project Owner (Contractor)",
+      "col_2": "[Name — the person accountable for this model]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Entity",
+      "col_2": "IonWave [Entity TBD] / Studio 4 Ventures",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Authorized by",
+      "col_2": "Nilo (Danilo Vicioso)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Contract Date",
+      "col_2": "[Date]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Effective Period",
+      "col_2": "[Start] to [End]",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "SCOPE OF WORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Production of M18: Email Lifecycle Flows",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Includes 12 content tabs, MC conversations (4-10 hrs), expert coordination, verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Deliverables:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "1. All 12 content tabs complete and verified (see V-M18)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "2. Industry perspectives complete (see IP-M18)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "3. MC conversations recorded and uploaded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "4. Expert review completed with revisions incorporated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "5. Definition of done met (see P-M18)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "COMPENSATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Component",
+      "col_2": "Amount",
+      "col_3": "Trigger",
+      "col_4": "Notes",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Base Fee",
+      "col_2": "[$ TBD]",
+      "col_3": "On contract signing",
+      "col_4": "Covers production time",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Milestone 1: AI Draft Complete",
+      "col_2": "[$ TBD]",
+      "col_3": "All tabs filled with AI first draft",
+      "col_4": "50% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Milestone 2: Expert Reviewed",
+      "col_2": "[$ TBD]",
+      "col_3": "Expert feedback incorporated",
+      "col_4": "25% of remaining fee",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Milestone 3: Verified & Locked",
+      "col_2": "[$ TBD]",
+      "col_3": "V-tab all green, DoD met",
+      "col_4": "Final 25%",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Equity",
+      "col_2": "[% TBD]",
+      "col_3": "On contract signing, vesting over [X] months",
+      "col_4": "IonWave equity",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "MC Conversations Bonus",
+      "col_2": "[$ TBD]",
+      "col_3": "All MC hours completed and uploaded",
+      "col_4": "Optional",
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "QUALITY STANDARDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• All content must pass expert review (domain trust verifier signs off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• All content must pass verification (V-tab shows VERIFIED on every row)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• No placeholder text remaining in any tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• All novel concepts have MC conversations recorded",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• Industry perspectives tab has all 5 sections substantively completed",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• Trust protocol satisfied at all 4 levels (strategic, domain, execution, vibes)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• Definition of Done met (see P-M18)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "TIMELINE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Phase",
+      "col_2": "Duration",
+      "col_3": "Start",
+      "col_4": "End",
+      "col_5": "Gate"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Planning & MC Conversations",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "P-tab locked, MC hours scheduled"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "AI Draft Production",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "All tabs have first draft"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Expert Review",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Expert feedback received"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Revision & Incorporation",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Revisions complete"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Verification",
+      "col_2": "[X] days",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "V-tab all green"
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Final Lock",
+      "col_2": "1 day",
+      "col_3": "[Date]",
+      "col_4": "[Date]",
+      "col_5": "Nilo signs off. Model locked."
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "TERMINATION & FAILURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• If model is not complete by Target End Date + 7 days grace: contract review with Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• If expert review reveals fundamental problems requiring >50% rework: timeline extends, no additional fee",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• If project owner becomes unresponsive for >5 business days: contract terminated, partial payment prorated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• If IonWave kills the project (M0 kill criteria triggered): contract terminated, work-to-date paid in full",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "• IP Assignment: All work product belongs to IonWave / Studio 4. Project owner retains right to reference in portfolio.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "SIGNATURES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Project Owner:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Authorized (Nilo):",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CONTRACT — M18: EMAIL LIFECYCLE FLOWS": "Date:",
+      "col_2": "________________________",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 52,
+  "sheet_name": "C-M18",
+  "sheet_index": 433
+}

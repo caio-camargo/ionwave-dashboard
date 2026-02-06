@@ -1,0 +1,112 @@
+{
+  "headers": [
+    "PMF PHASE CHECKLIST",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "PMF PHASE CHECKLIST": "When LAUNCH is complete, swap this into Command Center",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "Before we can SCALE, these must be TRUE:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "UNIT ECONOMICS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "CAC < $40 sustained for 4+ weeks",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Gross margin > 60%",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "LTV:CAC > 3x",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "RETENTION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Subscription rate > 30%",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Month 2 retention > 70%",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Churn < 10%",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "ORGANIC SIGNALS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Organic referrals happening",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Positive reviews accumulating",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Some customers buying without ads",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "OPERATIONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Processes documented in SOPs",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "Operator working < 20 hrs/week",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "No recurring fires",
+      "col_3": "(Operator)"
+    },
+    {
+      "PMF PHASE CHECKLIST": "DECISION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PMF PHASE CHECKLIST": "☐",
+      "col_2": "PMF declared - ready to scale",
+      "col_3": "(Studio)"
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "Phase - PMF Checklist",
+  "sheet_index": 796
+}

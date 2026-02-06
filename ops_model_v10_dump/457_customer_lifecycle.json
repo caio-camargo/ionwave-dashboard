@@ -1,0 +1,183 @@
+{
+  "headers": [
+    "CUSTOMER LIFECYCLE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "CUSTOMER LIFECYCLE": "LIFECYCLE STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Stage",
+      "col_2": "Definition",
+      "col_3": "Trigger In",
+      "col_4": "Trigger Out",
+      "col_5": "Primary Action",
+      "col_6": "KPI"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Prospect",
+      "col_2": "Saw an ad, visited site, hasn't purchased",
+      "col_3": "Ad impression or site visit",
+      "col_4": "Add to cart OR 30 days inactive",
+      "col_5": "Retarget, popup, email capture",
+      "col_6": "Email capture rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Lead",
+      "col_2": "Gave email, hasn't purchased",
+      "col_3": "Email captured",
+      "col_4": "Purchase OR 60 days inactive",
+      "col_5": "Welcome flow, educational content, first offer",
+      "col_6": "Welcome flow conversion rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "First Purchase",
+      "col_2": "Bought once",
+      "col_3": "First order placed",
+      "col_4": "Second order OR 60 days post-purchase",
+      "col_5": "Post-purchase flow, review request, cross-sell",
+      "col_6": "Second purchase rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Repeat",
+      "col_2": "Bought 2+ times",
+      "col_3": "Second order placed",
+      "col_4": "Subscription OR 90 days since last order",
+      "col_5": "Subscription offer, loyalty program, VIP access",
+      "col_6": "Subscription conversion"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "VIP",
+      "col_2": "3+ purchases OR subscriber",
+      "col_3": "Third order or subscription start",
+      "col_4": "Churn",
+      "col_5": "Exclusive access, new product previews, referral incentives",
+      "col_6": "LTV, referral rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Champion",
+      "col_2": "Actively refers, creates UGC, advocates",
+      "col_3": "Referral generated OR UGC submitted",
+      "col_4": "Inactivity",
+      "col_5": "Ambassador program, co-creation, spotlight",
+      "col_6": "Referrals generated"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "At Risk",
+      "col_2": "Expected purchase window missed",
+      "col_3": "50% past expected repurchase date",
+      "col_4": "Purchase OR win-back flow complete",
+      "col_5": "Win-back flow, special offer, feedback request",
+      "col_6": "Win-back rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Churned",
+      "col_2": "No purchase despite win-back",
+      "col_3": "Win-back flow failed",
+      "col_4": "Re-purchase",
+      "col_5": "Sunset flow, survey, archive",
+      "col_6": "Reactivation rate"
+    },
+    {
+      "CUSTOMER LIFECYCLE": "EMAIL FLOWS BY STAGE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Stage",
+      "col_2": "Flow",
+      "col_3": "Emails",
+      "col_4": "Timing",
+      "col_5": "Goal",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Lead",
+      "col_2": "Welcome Series",
+      "col_3": "5",
+      "col_4": "Day 0, 1, 3, 5, 7",
+      "col_5": "First purchase",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Lead",
+      "col_2": "Abandoned Cart",
+      "col_3": "3",
+      "col_4": "Hour 1, Day 1, Day 3",
+      "col_5": "Complete purchase",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Lead",
+      "col_2": "Browse Abandon",
+      "col_3": "2",
+      "col_4": "Day 1, Day 3",
+      "col_5": "Return to site",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "First Purchase",
+      "col_2": "Post-Purchase",
+      "col_3": "4",
+      "col_4": "Day 0, 3, 7, 14",
+      "col_5": "Education + review",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "First Purchase",
+      "col_2": "Cross-Sell",
+      "col_3": "2",
+      "col_4": "Day 14, 21",
+      "col_5": "Second product",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Repeat",
+      "col_2": "Subscription Pitch",
+      "col_3": "3",
+      "col_4": "After 2nd order: Day 3, 7, 14",
+      "col_5": "Convert to sub",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "VIP",
+      "col_2": "VIP Exclusives",
+      "col_3": "Ongoing",
+      "col_4": "Monthly",
+      "col_5": "Retention + referral",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "At Risk",
+      "col_2": "Win-Back",
+      "col_3": "3",
+      "col_4": "Day 0, 7, 14",
+      "col_5": "Re-purchase",
+      "col_6": null
+    },
+    {
+      "CUSTOMER LIFECYCLE": "Churned",
+      "col_2": "Sunset",
+      "col_3": "2",
+      "col_4": "Day 0, 30",
+      "col_5": "Survey + final offer",
+      "col_6": null
+    }
+  ],
+  "row_count": 21,
+  "sheet_name": "Customer Lifecycle",
+  "sheet_index": 457
+}

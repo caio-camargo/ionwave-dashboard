@@ -1,0 +1,109 @@
+{
+  "headers": [
+    "TWO COMPANIES, ONE SYSTEM"
+  ],
+  "rows": [
+    {
+      "TWO COMPANIES, ONE SYSTEM": "WHAT EXISTS"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "There are two things being built simultaneously. They share a system but raise separately."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "COMPANY A: IonWave (and every spinoff like it)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "A D2C electrolyte brand. The first DAO spinoff."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Raises from investors who want returns on a specific product."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Everyone in the labor chain gets equity in IonWave."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "The Trade (698 tabs) is the operating system for this specific business."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "COMPANY B: The Coordination Hedgefund (the DAO infrastructure company)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "The system that launches IonWaves."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Raises from investors who want to own the factory, not the product."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "The thesis: hedge funds reduced investing to thesis → order → fulfillment."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "We do the same for complex coordination. Submit a thesis, the system executes it."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "IonWave is the first proof that the system works."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "IonWave is the demo. The Coordination Hedgefund is the business."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "But IonWave also needs to succeed on its own terms — it's not just a demo, it's a real company"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "that needs to hit $100K MRR and graduate. The demo only works if the product works."
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "HOW THEY RELATE"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Company A (IonWave) generates:"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• Revenue (proves unit economics work)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• Training data (every decision, metric, expert calibration is data for the system)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• Proof (investors in Company B see a live company running on the system)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Company B (Coordination Hedgefund) provides:"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• The Trade system (698-tab operating model)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• The labor sequence (VA → CoS → PM → experts → operator)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• The AI interface (Claude as UI for the Trade)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• The governance framework (CM, School Model, semesters, graduation)"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• Future: automation, RL environment, Trade parameterization"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "Each new spinoff (Company A2, A3, A4...) makes Company B more valuable because:"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• More training data for automation"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• More proof for investors"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• More expert calibrations in the Quality Calibration Log"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• More operators in the network"
+    },
+    {
+      "TWO COMPANIES, ONE SYSTEM": "• The mad libs problem gets easier with each Trade completed"
+    }
+  ],
+  "row_count": 33,
+  "sheet_name": "Two Companies",
+  "sheet_index": 65
+}

@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-F14: Course / Info Product — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Cluster: FCL-3 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Trade knowledge packaged as paid course ($500-2K). Curriculum, platform, launch strategy.",
+      "col_2": null
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Course / Info Product (F14)"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Sprint Scope",
+      "col_2": "Produce F14: Course / Info Product within FCL-3"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for F14]"
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Course / Info Product model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-F14: Course / Info Product — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-F14",
+  "sheet_index": 1156
+}

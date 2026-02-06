@@ -1,0 +1,61 @@
+{
+  "headers": [
+    "CONTENT CALENDAR",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "CONTENT CALENDAR": "Day",
+      "col_2": "Instagram",
+      "col_3": "TikTok",
+      "col_4": "Email"
+    },
+    {
+      "CONTENT CALENDAR": "Monday",
+      "col_2": "Product feature",
+      "col_3": "Educational",
+      "col_4": "—"
+    },
+    {
+      "CONTENT CALENDAR": "Tuesday",
+      "col_2": "UGC repost",
+      "col_3": "Trend",
+      "col_4": "—"
+    },
+    {
+      "CONTENT CALENDAR": "Wednesday",
+      "col_2": "Science/benefit",
+      "col_3": "Behind scenes",
+      "col_4": "Newsletter"
+    },
+    {
+      "CONTENT CALENDAR": "Thursday",
+      "col_2": "Lifestyle",
+      "col_3": "UGC",
+      "col_4": "—"
+    },
+    {
+      "CONTENT CALENDAR": "Friday",
+      "col_2": "Community",
+      "col_3": "Fun/relatable",
+      "col_4": "—"
+    },
+    {
+      "CONTENT CALENDAR": "Saturday",
+      "col_2": "Testimonial",
+      "col_3": "—",
+      "col_4": "Promo (if any)"
+    },
+    {
+      "CONTENT CALENDAR": "Sunday",
+      "col_2": "—",
+      "col_3": "—",
+      "col_4": "—"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Content Calendar",
+  "sheet_index": 409
+}

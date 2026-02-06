@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S11: Participant UX — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S11: Participant UX — CONTRACT": "Cluster: SCL-1 | Owner: Librarian",
+      "col_2": null
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "The experience of participating in the Trade. From discovery to cast page. Every touchpoint designed.",
+      "col_2": null
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Participant UX (S11)"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S11: Participant UX within SCL-1"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S11]"
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Participant UX model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S11: Participant UX — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S11",
+  "sheet_index": 980
+}

@@ -1,0 +1,39 @@
+{
+  "headers": [
+    "RELATIONSHIP CONTRACTS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "RELATIONSHIP CONTRACTS": "Explicit agreements between every role/entity",
+      "col_2": null
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "Studio → Operator",
+      "col_2": "Provide model, funding, oversight. Expect execution, transparency."
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "Operator → Studio",
+      "col_2": "Execute model, report daily, flag issues early. Expect support, clear guidance."
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "CM → Operator",
+      "col_2": "Validate work, ensure compliance. Expect documentation, access."
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "Operator → CM",
+      "col_2": "Provide evidence, accept feedback. Expect fair assessment, timely review."
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "Studio → Supplier",
+      "col_2": "Pay on time, clear specs. Expect quality, reliability."
+    },
+    {
+      "RELATIONSHIP CONTRACTS": "Studio → 3PL",
+      "col_2": "Volume commitments, clear SLAs. Expect accuracy, speed."
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Relationship Contracts",
+  "sheet_index": 869
+}

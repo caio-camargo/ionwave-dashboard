@@ -1,0 +1,483 @@
+{
+  "headers": [
+    "INFRASTRUCTURE SETUP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INFRASTRUCTURE SETUP": "One domain. One Google Drive. One spreadsheet. One shared calendar. One folder per person (hyperlinked).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "This is the entire operational infrastructure. No Slack, no project management tool, no custom software. Spreadsheet + Drive + Calendar.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "THE STACK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Component",
+      "col_2": "What It Is",
+      "col_3": "Status",
+      "col_4": "Owner",
+      "col_5": "Notes"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Domain",
+      "col_2": "ionwave.com (or similar)",
+      "col_3": "Not acquired",
+      "col_4": "Nilo",
+      "col_5": "Register domain → Google Workspace"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Google Workspace",
+      "col_2": "ionwave.com domain → Gmail, Drive, Calendar, Meet",
+      "col_3": "Not set up",
+      "col_4": "Nilo",
+      "col_5": "One Workspace account. Everyone gets @ionwave.com email."
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Google Drive (root)",
+      "col_2": "Single shared Drive = entire company file system",
+      "col_3": "Not set up",
+      "col_4": "Nilo → Librarian",
+      "col_5": "Structure mirrors the Trade: Level → Cluster → TUP → Tabs"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "The Spreadsheet",
+      "col_2": "IonWave_Ops_Model_v10 (this file, 1181 tabs)",
+      "col_3": "Active",
+      "col_4": "Nilo",
+      "col_5": "THE artifact. Lives in Drive root. Single source of truth."
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Google Calendar (shared)",
+      "col_2": "One shared calendar for all deadlines, sprints, reviews",
+      "col_3": "Not set up",
+      "col_4": "Conductor",
+      "col_5": "Sprint starts/ends, review gates, expert review windows"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "1Password Vault",
+      "col_2": "Shared credential management",
+      "col_3": "Not set up",
+      "col_4": "Nilo",
+      "col_5": "Every tool credential. Shared vaults per role."
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Bank Account (Mercury)",
+      "col_2": "Operating account",
+      "col_3": "Not set up",
+      "col_4": "Nilo",
+      "col_5": "Needs EIN + entity first"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Entity (Delaware C-Corp)",
+      "col_2": "Legal existence",
+      "col_3": "Not set up",
+      "col_4": "Nilo + Lawyer",
+      "col_5": "Prerequisite for bank, cap table, equity grants"
+    },
+    {
+      "INFRASTRUCTURE SETUP": "GOOGLE DRIVE STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Everything lives in one shared Google Drive. Folder structure mirrors the Trade hierarchy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Path",
+      "col_2": "What Lives Here",
+      "col_3": "Managed By",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/",
+      "col_2": "Root. The spreadsheet lives here.",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/People/",
+      "col_2": "One folder per person. Hyperlinked from People Track tab.",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/People/[Name]/",
+      "col_2": "That person's working docs, drafts, deliverables, contracts",
+      "col_3": "Each person",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/People/[Name]/Contract/",
+      "col_2": "Signed agreement, equity docs, NDA",
+      "col_3": "Nilo + Person",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/People/[Name]/Sprints/",
+      "col_2": "Sprint deliverables organized by cluster",
+      "col_3": "Person",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Studio Level/",
+      "col_2": "S0-S40 TUP working files",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Studio Level/SCL-1 People/",
+      "col_2": "Cluster working files for S2, S6-S13",
+      "col_3": "PM assigned to cluster",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/",
+      "col_2": "M0-M40 TUP working files",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/BCL-1 Product/",
+      "col_2": "Cluster working files for M1-M5",
+      "col_3": "PM CL-1",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/BCL-2 Digital/",
+      "col_2": "Cluster working files for M6-M10",
+      "col_3": "PM CL-2",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/BCL-3 Creative/",
+      "col_2": "Cluster working files for M11-M15",
+      "col_3": "PM CL-3",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/BCL-4 Finance/",
+      "col_2": "Cluster working files for M16-M20",
+      "col_3": "PM CL-4",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Business Level/BCL-5 Growth/",
+      "col_2": "Cluster working files for M21-M25",
+      "col_3": "PM CL-5",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Funnel Level/",
+      "col_2": "F0-F20 TUP working files",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Funnel Level/FCL-0 Brand/",
+      "col_2": "Cluster working files for F0-F3, F17",
+      "col_3": "Dan James / Content PM",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Expert Reviews/",
+      "col_2": "Expert review docs, grade sheets, feedback",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Expert Reviews/[Cluster]/",
+      "col_2": "Reviews for that cluster's TUPs",
+      "col_3": "Expert reviewer",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/MC Conversations/",
+      "col_2": "Transcripts, signal notes, daily updates",
+      "col_3": "MC",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Legal/",
+      "col_2": "Entity docs, contracts, cap table, insurance",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Finance/",
+      "col_2": "QuickBooks exports, invoices, receipts",
+      "col_3": "Admin",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Research/",
+      "col_2": "S41 research materials, paper drafts, reviewer correspondence",
+      "col_3": "Nilo",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "/IonWave/Templates/",
+      "col_2": "Master templates: PM agreement, expert agreement, NDA, sprint report",
+      "col_3": "Librarian",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PERSON FOLDERS (Hyperlinked)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Every person who touches the Trade gets a folder. Hyperlink from People Track tab to their Drive folder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Person",
+      "col_2": "Role",
+      "col_3": "Drive Folder",
+      "col_4": "Hyperlink Status",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Nilo",
+      "col_2": "Founder",
+      "col_3": "/IonWave/People/Nilo/",
+      "col_4": "Create on Drive setup",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Librarian (TBD)",
+      "col_2": "Librarian",
+      "col_3": "/IonWave/People/[Librarian]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "MC (TBD)",
+      "col_2": "Master of Ceremonies",
+      "col_3": "/IonWave/People/[MC]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Conductor (TBD)",
+      "col_2": "Conductor",
+      "col_3": "/IonWave/People/[Conductor]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PM CL-1 (TBD)",
+      "col_2": "PM Co-Founder",
+      "col_3": "/IonWave/People/[PM-CL1]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PM CL-2 (TBD)",
+      "col_2": "PM Co-Founder",
+      "col_3": "/IonWave/People/[PM-CL2]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PM CL-3 (TBD)",
+      "col_2": "PM Co-Founder",
+      "col_3": "/IonWave/People/[PM-CL3]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PM CL-4 (TBD)",
+      "col_2": "PM Co-Founder",
+      "col_3": "/IonWave/People/[PM-CL4]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "PM CL-5 (TBD)",
+      "col_2": "PM Co-Founder",
+      "col_3": "/IonWave/People/[PM-CL5]/",
+      "col_4": "Create on hire",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Expert 1 (TBD)",
+      "col_2": "Expert Reviewer",
+      "col_3": "/IonWave/People/[Expert1]/",
+      "col_4": "Create on engagement",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Expert 2 (TBD)",
+      "col_2": "Expert Reviewer",
+      "col_3": "/IonWave/People/[Expert2]/",
+      "col_4": "Create on engagement",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Dan James (if)",
+      "col_2": "Content/Brand",
+      "col_3": "/IonWave/People/DanJames/",
+      "col_4": "Create if engaged",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "SHARED CALENDAR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "One Google Calendar shared with everyone. No per-person calendars needed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Event Type",
+      "col_2": "Cadence",
+      "col_3": "Who",
+      "col_4": "Purpose",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Sprint Start: [Cluster]",
+      "col_2": "Every 2-3 weeks per cluster",
+      "col_3": "PM + Librarian + Conductor",
+      "col_4": "New sprint begins. PM gets cluster assignment.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Sprint End: [Cluster]",
+      "col_2": "Every 2-3 weeks per cluster",
+      "col_3": "PM + Librarian",
+      "col_4": "Deliverables due. Librarian checks completeness.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Expert Review Window: [Cluster]",
+      "col_2": "After sprint end, 3-5 day window",
+      "col_3": "Expert + Librarian",
+      "col_4": "Expert reviews TUPs. Grade due by window close.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "MC Daily Update",
+      "col_2": "Daily",
+      "col_3": "MC",
+      "col_4": "Conversation recording + signal extraction posted to Drive.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Conductor Weekly Sequence",
+      "col_2": "Weekly (Monday)",
+      "col_3": "Conductor",
+      "col_4": "Which clusters are active, which are blocked, which start next.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Nilo Review Gate",
+      "col_2": "As needed (flagged by Librarian)",
+      "col_3": "Nilo",
+      "col_4": "Override decisions, strategic calls, blocked items.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Post-Mortem: [Cluster]",
+      "col_2": "After expert review",
+      "col_3": "PM + Librarian",
+      "col_4": "What worked, what didn't, template updates.",
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "WHAT WE DON'T USE (and why)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Slack",
+      "col_2": "Async comms happen in Drive (comments) and MC conversations. Slack creates coordination debt — another channel to monitor.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Notion/Asana/Monday",
+      "col_2": "The spreadsheet IS the project management tool. Adding another tool creates split brain.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Custom software",
+      "col_2": "Meta constraint: cheap and easy. Spreadsheet + Drive + Calendar = $0 infrastructure beyond Google Workspace.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFRASTRUCTURE SETUP": "Meetings",
+      "col_2": "Zero meetings. All coordination is artifact-mediated. MC conversations are content, not standup meetings.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 67,
+  "sheet_name": "Infrastructure Setup",
+  "sheet_index": 1182
+}

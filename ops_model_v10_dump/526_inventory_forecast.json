@@ -1,0 +1,112 @@
+{
+  "headers": [
+    "INVENTORY FORECASTING MODEL",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "INVENTORY FORECASTING MODEL": "When to reorder. How much.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Reorder Point = (Daily Sales × Lead Time) + Safety Stock",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Variable",
+      "col_2": "Value",
+      "col_3": "Notes"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Daily sales",
+      "col_2": "[TBD]",
+      "col_3": "Track after launch"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Lead time",
+      "col_2": "4-6 weeks",
+      "col_3": "From supplier"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Safety stock",
+      "col_2": "14 days",
+      "col_3": "Buffer"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "REAL-TIME INVENTORY POSITION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "As of:",
+      "col_2": "[Date/Time]",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "On Hand (at 3PL)",
+      "col_2": "[X] units",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "In Transit (to 3PL)",
+      "col_2": "[X] units",
+      "col_3": "ETA: [Date]"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "On Order (manufacturing)",
+      "col_2": "[X] units",
+      "col_3": "ETA: [Date]"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Committed (open orders)",
+      "col_2": "[X] units",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Available to Sell",
+      "col_2": "[X] units",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Daily Sell Rate (14-day avg)",
+      "col_2": "[X] units/day",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Days of Stock Remaining",
+      "col_2": "[X] days",
+      "col_3": "Available / Daily Rate"
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "REORDER STATUS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Reorder Point",
+      "col_2": "[X] units",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Current vs Reorder",
+      "col_2": "[Above/Below]",
+      "col_3": null
+    },
+    {
+      "INVENTORY FORECASTING MODEL": "Action Needed",
+      "col_2": "[None/Order Now]",
+      "col_3": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "Inventory Forecast",
+  "sheet_index": 526
+}

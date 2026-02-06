@@ -1,0 +1,191 @@
+{
+  "headers": [
+    "COMPETITIVE FORMULATION ANALYSIS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Compare our formula to competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "FORMULATION COMPARISON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Attribute",
+      "col_2": "IonWave",
+      "col_3": "LMNT",
+      "col_4": "Liquid IV",
+      "col_5": "Gatorade",
+      "col_6": "Drip Drop"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "# of Minerals",
+      "col_2": "78",
+      "col_3": "3",
+      "col_4": "3",
+      "col_5": "3",
+      "col_6": "3"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Sodium (mg)",
+      "col_2": "___",
+      "col_3": "1000",
+      "col_4": "500",
+      "col_5": "160",
+      "col_6": "330"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Potassium (mg)",
+      "col_2": "___",
+      "col_3": "200",
+      "col_4": "370",
+      "col_5": "45",
+      "col_6": "185"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Magnesium (mg)",
+      "col_2": "___",
+      "col_3": "60",
+      "col_4": "0",
+      "col_5": "0",
+      "col_6": "39"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Sugar (g)",
+      "col_2": "0",
+      "col_3": "0",
+      "col_4": "11",
+      "col_5": "36",
+      "col_6": "7"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Calories",
+      "col_2": "0",
+      "col_3": "0",
+      "col_4": "45",
+      "col_5": "140",
+      "col_6": "35"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Source",
+      "col_2": "Ocean",
+      "col_3": "Synthetic",
+      "col_4": "Synthetic",
+      "col_5": "Synthetic",
+      "col_6": "Synthetic"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Price/serving",
+      "col_2": "$___",
+      "col_3": "$1.50",
+      "col_4": "$1.25",
+      "col_5": "$0.50",
+      "col_6": "$1.00"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Positioning",
+      "col_2": "Premium natural",
+      "col_3": "Keto-focused",
+      "col_4": "Hydration multiplier",
+      "col_5": "Sports",
+      "col_6": "Medical"
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "OUR ADVANTAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "✓ 78 minerals vs 3-4 (complete spectrum)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "✓ Ocean-sourced (natural vs synthetic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "✓ Zero sugar (clean label)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "✓ Trace minerals included",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "COMPETITOR WEAKNESSES TO EXPLOIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "LMNT: Only 3 minerals, synthetic, no trace minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Liquid IV: Sugar, only 3 minerals, CTM technology is marketing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Gatorade: Sugar bomb, minimal electrolytes, mass market",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPETITIVE FORMULATION ANALYSIS": "Drip Drop: Medical positioning, sugar, limited minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Competitive Formulation Analysis",
+  "sheet_index": 228
+}

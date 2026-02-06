@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "QUALITY MANAGEMENT SYSTEM",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "QUALITY MANAGEMENT SYSTEM": "Quality policy, objectives, CAPA process.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "QUALITY MANAGEMENT SYSTEM": "QUALITY OBJECTIVES:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "QUALITY MANAGEMENT SYSTEM": "Objective",
+      "col_2": "Metric",
+      "col_3": "Target"
+    },
+    {
+      "QUALITY MANAGEMENT SYSTEM": "Product Quality",
+      "col_2": "Complaints",
+      "col_3": "<2%"
+    },
+    {
+      "QUALITY MANAGEMENT SYSTEM": "Fulfillment Accuracy",
+      "col_2": "Order accuracy",
+      "col_3": ">99%"
+    },
+    {
+      "QUALITY MANAGEMENT SYSTEM": "Customer Satisfaction",
+      "col_2": "NPS",
+      "col_3": ">40"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Quality Management System",
+  "sheet_index": 824
+}

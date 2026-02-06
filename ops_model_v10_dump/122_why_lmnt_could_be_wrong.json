@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "WHY LMNT COULD BE WRONG",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WHY LMNT COULD BE WRONG": "Only 3 minerals",
+      "col_2": "Missing 75 trace minerals the body needs"
+    },
+    {
+      "WHY LMNT COULD BE WRONG": "Keto/carnivore positioning",
+      "col_2": "Limits market to niche audience"
+    },
+    {
+      "WHY LMNT COULD BE WRONG": "High price",
+      "col_2": "$45 for 30 servings = $1.50/serving"
+    },
+    {
+      "WHY LMNT COULD BE WRONG": "Bro marketing",
+      "col_2": "Alienates health-conscious women"
+    },
+    {
+      "WHY LMNT COULD BE WRONG": "No subscription moat",
+      "col_2": "Easy to switch, no lock-in"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Why LMNT Could Be Wrong",
+  "sheet_index": 122
+}

@@ -1,0 +1,215 @@
+{
+  "headers": [
+    "STAKEHOLDER MAP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "STAKEHOLDER MAP": "All parties involved in this venture and their roles",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "INTERNAL STAKEHOLDERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Role",
+      "col_2": "Name",
+      "col_3": "Responsibility",
+      "col_4": "Decision Authority",
+      "col_5": "Contact",
+      "col_6": "Reports To"
+    },
+    {
+      "STAKEHOLDER MAP": "Studio 4",
+      "col_2": null,
+      "col_3": "Strategic oversight, capital, ODD",
+      "col_4": "All strategic, >$X spend",
+      "col_5": null,
+      "col_6": "Investors"
+    },
+    {
+      "STAKEHOLDER MAP": "Operator",
+      "col_2": null,
+      "col_3": "Day-to-day execution",
+      "col_4": "Operational, <$X spend",
+      "col_5": null,
+      "col_6": "Studio 4"
+    },
+    {
+      "STAKEHOLDER MAP": "Compliance Mgr",
+      "col_2": null,
+      "col_3": "Assessment, grading, reporting",
+      "col_4": "Grade determination",
+      "col_5": null,
+      "col_6": "Studio 4"
+    },
+    {
+      "STAKEHOLDER MAP": "Legal Counsel",
+      "col_2": null,
+      "col_3": "Contracts, compliance review",
+      "col_4": "Legal sign-off",
+      "col_5": null,
+      "col_6": "Studio 4"
+    },
+    {
+      "STAKEHOLDER MAP": "Accountant/CFO",
+      "col_2": null,
+      "col_3": "Books, tax, financial reporting",
+      "col_4": "Financial sign-off",
+      "col_5": null,
+      "col_6": "Studio 4"
+    },
+    {
+      "STAKEHOLDER MAP": "EXTERNAL STAKEHOLDERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Type",
+      "col_2": "Name",
+      "col_3": "Relationship",
+      "col_4": "What They Need",
+      "col_5": "Frequency",
+      "col_6": "Owner"
+    },
+    {
+      "STAKEHOLDER MAP": "Investors",
+      "col_2": null,
+      "col_3": "Capital providers",
+      "col_4": "Reports, grades, returns",
+      "col_5": "Monthly/Quarterly",
+      "col_6": "CM"
+    },
+    {
+      "STAKEHOLDER MAP": "Supplier/Mfg",
+      "col_2": null,
+      "col_3": "Product manufacturer",
+      "col_4": "Orders, specs, payment",
+      "col_5": "As needed",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "3PL",
+      "col_2": null,
+      "col_3": "Fulfillment partner",
+      "col_4": "Inventory, orders",
+      "col_5": "Daily",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "Ad Platforms",
+      "col_2": null,
+      "col_3": "Meta, TikTok",
+      "col_4": "Spend, compliance",
+      "col_5": "Daily",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "Shopify",
+      "col_2": null,
+      "col_3": "Ecommerce platform",
+      "col_4": "Fees, compliance",
+      "col_5": "Ongoing",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "Klaviyo",
+      "col_2": null,
+      "col_3": "Email platform",
+      "col_4": "Fees",
+      "col_5": "Ongoing",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "Bank",
+      "col_2": null,
+      "col_3": "Banking partner",
+      "col_4": "Statements, compliance",
+      "col_5": "Monthly",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "Customers",
+      "col_2": null,
+      "col_3": "End buyers",
+      "col_4": "Product, support",
+      "col_5": "Ongoing",
+      "col_6": "Operator"
+    },
+    {
+      "STAKEHOLDER MAP": "REPORTING MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Report",
+      "col_2": "Audience",
+      "col_3": "Frequency",
+      "col_4": "Owner",
+      "col_5": "Format",
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Daily KPIs",
+      "col_2": "Operator, Studio",
+      "col_3": "Daily",
+      "col_4": "Operator",
+      "col_5": "Dashboard",
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Weekly Report",
+      "col_2": "Studio, CM",
+      "col_3": "Weekly",
+      "col_4": "Operator",
+      "col_5": "Doc",
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Monthly Assessment",
+      "col_2": "Investors, Studio",
+      "col_3": "Monthly",
+      "col_4": "CM",
+      "col_5": "Report",
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Quarterly Deep Dive",
+      "col_2": "Investors, Studio",
+      "col_3": "Quarterly",
+      "col_4": "CM",
+      "col_5": "Report",
+      "col_6": null
+    },
+    {
+      "STAKEHOLDER MAP": "Annual Grade",
+      "col_2": "All stakeholders",
+      "col_3": "Annual",
+      "col_4": "CM",
+      "col_5": "Formal report",
+      "col_6": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Stakeholder Map",
+  "sheet_index": 719
+}

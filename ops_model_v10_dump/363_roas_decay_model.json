@@ -1,0 +1,266 @@
+{
+  "headers": [
+    "IONWAVE ROAS DECAY MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "IONWAVE ROAS DECAY MODEL": "ROAS doesn't stay constant. It decays as you scale. Plan for it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "WHY ROAS DECAYS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Audience saturation: Best prospects convert first, then you reach less-interested people",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Creative fatigue: Same ads get stale after 7-14 days, CTR drops",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Competition: More advertisers = higher CPMs = worse economics",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Seasonality: Q4 CPMs are 15-25% higher than Q1",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Scaling penalty: Meta's algorithm optimizes for smaller budgets",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "• Benchmark: Varos 2024 shows ROAS drops 15-25% when scaling 5x",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "EXPECTED ROAS BY PHASE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Phase",
+      "col_2": "Timeline",
+      "col_3": "Daily Spend",
+      "col_4": "Expected ROAS",
+      "col_5": "Why"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Learning",
+      "col_2": "Week 1-2",
+      "col_3": "$50-100",
+      "col_4": "1.5-2.0x",
+      "col_5": "Testing, no optimization yet"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Optimization",
+      "col_2": "Week 3-4",
+      "col_3": "$100-200",
+      "col_4": "2.0-2.5x",
+      "col_5": "Finding winners, killing losers"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Early Scale",
+      "col_2": "Month 2",
+      "col_3": "$200-500",
+      "col_4": "2.5-3.0x",
+      "col_5": "Best performance window"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Growth",
+      "col_2": "Month 3-4",
+      "col_3": "$500-1000",
+      "col_4": "2.2-2.8x",
+      "col_5": "Slight decay as audience expands"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Mature",
+      "col_2": "Month 5-6",
+      "col_3": "$1000-2000",
+      "col_4": "2.0-2.5x",
+      "col_5": "Need constant creative refresh"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Scale",
+      "col_2": "Month 7-12",
+      "col_3": "$2000-5000",
+      "col_4": "1.8-2.3x",
+      "col_5": "Broader audiences, more competition"
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "SEASONAL CPM ADJUSTMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Quarter",
+      "col_2": "CPM Adjustment",
+      "col_3": "Impact on ROAS",
+      "col_4": "Strategy",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Q1 (Jan-Mar)",
+      "col_2": "-10 to -15%",
+      "col_3": "ROAS +15%",
+      "col_4": "Scale aggressively, test new creative",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Q2 (Apr-Jun)",
+      "col_2": "Baseline",
+      "col_3": "Baseline",
+      "col_4": "Steady optimization",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Q3 (Jul-Sep)",
+      "col_2": "+5 to +10%",
+      "col_3": "ROAS -5 to -10%",
+      "col_4": "Build creative library for Q4",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Q4 (Oct-Dec)",
+      "col_2": "+15 to +25%",
+      "col_3": "ROAS -15 to -20%",
+      "col_4": "Focus on retention, pause if unprofitable",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "CREATIVE REFRESH TO MAINTAIN ROAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "Spend Level",
+      "col_2": "Creative Refresh Rate",
+      "col_3": "New Creatives/Week",
+      "col_4": "Testing Budget",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "$100/day",
+      "col_2": "Every 14 days",
+      "col_3": "5-10",
+      "col_4": "20% of spend",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "$500/day",
+      "col_2": "Every 10 days",
+      "col_3": "10-15",
+      "col_4": "25% of spend",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "$1000/day",
+      "col_2": "Every 7 days",
+      "col_3": "15-20",
+      "col_4": "30% of spend",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "$3000/day",
+      "col_2": "Every 5 days",
+      "col_3": "25-30",
+      "col_4": "30% of spend",
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "ROAS DECAY MITIGATION STRATEGIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "1. Constant creative testing",
+      "col_2": "Always have new creative in pipeline. Never rely on one winner.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "2. Audience expansion",
+      "col_2": "Test new interests, LALs, and broad targeting as you scale.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "3. Channel diversification",
+      "col_2": "Add TikTok, Google to reduce Meta dependency.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "4. Retention focus",
+      "col_2": "Email/SMS reduces reliance on paid acquisition.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "5. Seasonal planning",
+      "col_2": "Budget higher in Q1, conservative in Q4.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "6. Margin buffer",
+      "col_2": "Build model assuming 2.0x ROAS, not 3.0x.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "IONWAVE ROAS DECAY MODEL": "⚠️ PLANNING ASSUMPTION: Model at 2.0-2.2x ROAS for financial projections. Anything better is upside.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 36,
+  "sheet_name": "ROAS Decay Model",
+  "sheet_index": 363
+}

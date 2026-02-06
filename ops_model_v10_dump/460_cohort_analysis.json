@@ -1,0 +1,61 @@
+{
+  "headers": [
+    "COHORT ANALYSIS TEMPLATE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "COHORT ANALYSIS TEMPLATE": "Track revenue by acquisition month.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "COHORT ANALYSIS TEMPLATE": "Cohort",
+      "col_2": "Customers",
+      "col_3": "M0",
+      "col_4": "M1",
+      "col_5": "M2",
+      "col_6": "M3",
+      "col_7": "LTV"
+    },
+    {
+      "COHORT ANALYSIS TEMPLATE": "Jan 2026",
+      "col_2": "100",
+      "col_3": "$5,500",
+      "col_4": "$2,200",
+      "col_5": "$1,800",
+      "col_6": null,
+      "col_7": "$9,500"
+    },
+    {
+      "COHORT ANALYSIS TEMPLATE": "Feb 2026",
+      "col_2": "150",
+      "col_3": "$8,250",
+      "col_4": "$3,300",
+      "col_5": null,
+      "col_6": null,
+      "col_7": "$11,550"
+    },
+    {
+      "COHORT ANALYSIS TEMPLATE": "Mar 2026",
+      "col_2": "200",
+      "col_3": "$11,000",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": "$11,000"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Cohort Analysis",
+  "sheet_index": 460
+}

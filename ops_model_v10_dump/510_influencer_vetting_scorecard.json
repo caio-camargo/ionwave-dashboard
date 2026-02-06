@@ -1,0 +1,182 @@
+{
+  "headers": [
+    "INFLUENCER VETTING SCORECARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INFLUENCER VETTING SCORECARD": "How to evaluate if an influencer is worth working with",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Criteria",
+      "col_2": "Weight",
+      "col_3": "Score (1-5)",
+      "col_4": "Weighted",
+      "col_5": "Notes"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Audience Fit (ICP match)",
+      "col_2": "25%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Do their followers match our target?"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Engagement Rate",
+      "col_2": "20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">3% good, >5% great"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Content Quality",
+      "col_2": "15%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Production, authenticity, style"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Brand Alignment",
+      "col_2": "15%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Values, tone, other brands they work with"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Audience Authenticity",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Real followers? Check for fake engagement"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Past Brand Results",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Do they drive results for other brands?"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "Responsiveness",
+      "col_2": "5%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Easy to work with?"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "TOTAL SCORE",
+      "col_2": "100%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": "Minimum 3.5 to proceed"
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "RED FLAGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Follower/engagement ratio way off (fake followers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Only sponsored content (not authentic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Promotes competing products",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Controversial past content",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Audience is wrong geography",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Engagement is all emojis/generic (bot comments)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "🚩 Huge follower spikes (bought followers)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "VETTING TOOLS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "• HypeAuditor (fake follower check)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "• Social Blade (growth patterns)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "• Modash (audience demographics)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INFLUENCER VETTING SCORECARD": "• Manual review (look at comments, engagement)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Influencer Vetting Scorecard",
+  "sheet_index": 510
+}

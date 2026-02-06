@@ -1,0 +1,238 @@
+{
+  "headers": [
+    "CUSTOMER ACQUISITION SOURCE DEEP DIVE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9"
+  ],
+  "rows": [
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Beyond basic attribution - understand true source performance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "SOURCE PERFORMANCE (MTD)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Source",
+      "col_2": "Spend",
+      "col_3": "Customers",
+      "col_4": "CAC",
+      "col_5": "AOV",
+      "col_6": "Sub Rate",
+      "col_7": "30-Day LTV",
+      "col_8": "Payback Days",
+      "col_9": "Quality Score"
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Meta - Prospecting",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Meta - Retargeting",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Meta - Lookalike",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Google - Brand",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Google - Non-Brand",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "TikTok",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Influencer",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Organic Social",
+      "col_2": "$0",
+      "col_3": "[X]",
+      "col_4": "$0",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "0",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Organic Search",
+      "col_2": "$0",
+      "col_3": "[X]",
+      "col_4": "$0",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "0",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Email (New)",
+      "col_2": "$0",
+      "col_3": "[X]",
+      "col_4": "$0",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "0",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Referral",
+      "col_2": "$[X]",
+      "col_3": "[X]",
+      "col_4": "$[X]",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "[X]",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Direct/Unknown",
+      "col_2": "$0",
+      "col_3": "[X]",
+      "col_4": "$0",
+      "col_5": "$[X]",
+      "col_6": "[X]%",
+      "col_7": "$[X]",
+      "col_8": "?",
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "QUALITY SCORE CALCULATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Quality Score = (Sub Rate × 2) + (30-Day Retention × 3) + (Refund Rate × -5)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "Higher = better quality customers, not just cheaper acquisition",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "KEY INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    },
+    {
+      "CUSTOMER ACQUISITION SOURCE DEEP DIVE": "CAC alone is misleading. A $50 CAC customer who stays 12 months beats a $30 CAC customer who churns in 2.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "Acquisition Source Deep Dive",
+  "sheet_index": 367
+}

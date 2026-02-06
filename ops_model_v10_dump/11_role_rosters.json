@@ -1,0 +1,721 @@
+{
+  "headers": [
+    "ROLE ROSTERS — EVERY PERSON'S TABS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "The librarian's master reference. Each person → their tabs. This IS the navigation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "NILO (Dean / Custodian)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "0. Start Here",
+      "col_2": "—",
+      "col_3": "Master navigation",
+      "col_4": "Always"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Three-Level Architecture",
+      "col_2": "—",
+      "col_3": "System overview",
+      "col_4": "Always"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Parallel Execution Map",
+      "col_2": "—",
+      "col_3": "Timeline & dependencies",
+      "col_4": "Always"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Dependency Graph",
+      "col_2": "—",
+      "col_3": "What triggers what",
+      "col_4": "Always"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Role Rosters",
+      "col_2": "—",
+      "col_3": "Who owns what (this tab)",
+      "col_4": "Always"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "The Innovation",
+      "col_2": "S0",
+      "col_3": "Studio thesis",
+      "col_4": "Week 0"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Trade Architecture",
+      "col_2": "S4",
+      "col_3": "System of systems",
+      "col_4": "Week 0"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "S0: Studio Thesis",
+      "col_2": "S0",
+      "col_3": "Why the studio exists",
+      "col_4": "Week 0"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "P-M0",
+      "col_2": "M0",
+      "col_3": "Trade thesis project plan",
+      "col_4": "Week 0"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "M0 tabs (all)",
+      "col_2": "M0",
+      "col_3": "The thesis itself",
+      "col_4": "Week 0"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "V-M0",
+      "col_2": "M0",
+      "col_3": "Thesis verification",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cluster Architecture",
+      "col_2": "—",
+      "col_3": "How clusters are organized",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Equity & Economics",
+      "col_2": "—",
+      "col_3": "Cap table & compensation",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Studio Model Map",
+      "col_2": "S0-S40",
+      "col_3": "Full studio model inventory",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Funnel Model Map",
+      "col_2": "F0-F20",
+      "col_3": "Full funnel model inventory",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "V-tabs (ALL)",
+      "col_2": "All",
+      "col_3": "Final verification sign-off on every model",
+      "col_4": "Week 6-12"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Trust Protocol",
+      "col_2": "—",
+      "col_3": "Password system for site access",
+      "col_4": "Week 4"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "LIBRARIAN (First Hire)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "0. Start Here",
+      "col_2": "—",
+      "col_3": "Master navigation — the map of maps",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Three-Level Architecture",
+      "col_2": "—",
+      "col_3": "Understand the 3 levels",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Role Rosters",
+      "col_2": "—",
+      "col_3": "THIS TAB — the librarian's primary tool",
+      "col_4": "Daily"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Studio Model Map",
+      "col_2": "S0-S40",
+      "col_3": "Know every studio model",
+      "col_4": "Day 1-3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Funnel Model Map",
+      "col_2": "F0-F20",
+      "col_3": "Know every funnel model",
+      "col_4": "Day 1-3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cluster Architecture",
+      "col_2": "—",
+      "col_3": "Know which models are in which cluster",
+      "col_4": "Day 1-3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ALL P- tabs",
+      "col_2": "All",
+      "col_3": "Project plans — to prepare handoff folders",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ALL C- tabs",
+      "col_2": "All",
+      "col_3": "Contracts — to include in handoff folders",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ALL V- tabs",
+      "col_2": "All",
+      "col_3": "Track verification status",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Parallel Execution Map",
+      "col_2": "—",
+      "col_3": "Know the timeline to prep folders ahead of schedule",
+      "col_4": "Weekly"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ADMIN (Hired by Librarian, Week 2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Recruiting Operations",
+      "col_2": "—",
+      "col_3": "Cold email + platforms + pipeline management",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Recruiting Funnel",
+      "col_2": "—",
+      "col_3": "How the funnel works end-to-end",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Labor Architecture v3",
+      "col_2": "—",
+      "col_3": "All roles, comp, career boosters",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Career Booster Framework",
+      "col_2": "—",
+      "col_3": "How to pitch each role",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Parallel Execution Map",
+      "col_2": "—",
+      "col_3": "Who to source when",
+      "col_4": "Weekly"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "C-M1 (Labor)",
+      "col_2": "M1",
+      "col_3": "Labor deployment contracts & agreements",
+      "col_4": "Week 3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "C-M31 (Hiring)",
+      "col_2": "M31",
+      "col_3": "Hiring process docs",
+      "col_4": "Week 3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Incorporation tabs (I1-I10)",
+      "col_2": "—",
+      "col_3": "Support entity filing & compliance",
+      "col_4": "Week 3-5"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cold Email Templates",
+      "col_2": "F7",
+      "col_3": "Outbound templates per role",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC (Hired Week 2-3)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC Role Spec",
+      "col_2": "—",
+      "col_3": "What the MC does, how, equipment, cadence",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC Conversation Map",
+      "col_2": "—",
+      "col_3": "Which conversations to have with whom, when",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Participant UX Journey",
+      "col_2": "—",
+      "col_3": "How each person experiences the system (MC is the guide)",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "P-M0 (Thesis)",
+      "col_2": "M0",
+      "col_3": "Context for first Nilo conversations",
+      "col_4": "Week 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "P- tab of active cluster",
+      "col_2": "varies",
+      "col_3": "Context for cluster conversations (librarian provides)",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cast Page doc",
+      "col_2": "—",
+      "col_3": "Who is on the cast, bios, photos",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Series Producer notes",
+      "col_2": "—",
+      "col_3": "Episode plan, narrative arc (from Series Producer)",
+      "col_4": "Ongoing"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "SERIES PRODUCER (Hired Week 3-4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Series Producer Role",
+      "col_2": "—",
+      "col_3": "Role definition, scope, authority",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC Role Spec",
+      "col_2": "—",
+      "col_3": "Understand the MC to manage them",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC Conversation Map",
+      "col_2": "—",
+      "col_3": "Episode planning source material",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Participant UX Journey",
+      "col_2": "—",
+      "col_3": "The audience experience to design for",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Parallel Execution Map",
+      "col_2": "—",
+      "col_3": "What's happening when (drives episode calendar)",
+      "col_4": "Weekly"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cluster Architecture",
+      "col_2": "—",
+      "col_3": "Which clusters are active = which stories are live",
+      "col_4": "Weekly"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "S8: Series Production",
+      "col_2": "S8",
+      "col_3": "Full series production model (when built)",
+      "col_4": "Week 4+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "DAN JAMES / THAKOS (Onboarded Week 1-2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Dan James Integration",
+      "col_2": "—",
+      "col_3": "Scope, comp, ownership",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Funnel Model Map",
+      "col_2": "F0-F20",
+      "col_3": "His full scope — the funnel level",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Swipe File Catalog",
+      "col_2": "—",
+      "col_3": "Lead magnets to package and distribute",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Advertorial Engine",
+      "col_2": "—",
+      "col_3": "How models become lead magnets",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Recruiting Funnel",
+      "col_2": "—",
+      "col_3": "The recruiting architecture his funnel feeds into",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "P-M0 (Thesis)",
+      "col_2": "M0",
+      "col_3": "Content source — the thesis to build videos around",
+      "col_4": "Week 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "The Innovation",
+      "col_2": "S0",
+      "col_3": "Content source — the big idea",
+      "col_4": "Week 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "S33: Coordination Theory",
+      "col_2": "S33",
+      "col_3": "Content source — the intellectual framework",
+      "col_4": "Week 3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "PRODUCT PERSON (Hired Week 3-4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Product Person Pitch",
+      "col_2": "—",
+      "col_3": "Role definition, equity deal, scope",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Site Architecture",
+      "col_2": "S22",
+      "col_3": "Design requirements, CMS, video hosting",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Trust Protocol",
+      "col_2": "—",
+      "col_3": "Password system & access tiers",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Participant UX Journey",
+      "col_2": "—",
+      "col_3": "What the site experience should feel like",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "M8 (Brand)",
+      "col_2": "M8",
+      "col_3": "Brand guidelines, visual identity",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cast Page doc",
+      "col_2": "—",
+      "col_3": "Design the cast page",
+      "col_4": "Week 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "PM CO-FOUNDER (template — per cluster)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cluster Architecture",
+      "col_2": "—",
+      "col_3": "Understand their cluster scope",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Career Booster Framework",
+      "col_2": "—",
+      "col_3": "What they get from this",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "P- tabs (their cluster only)",
+      "col_2": "e.g. P-M5 thru P-M8 for CL-1",
+      "col_3": "Project plans for their models",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "C- tabs (their cluster only)",
+      "col_2": "e.g. C-M5 thru C-M8 for CL-1",
+      "col_3": "Contracts & agreements",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "IP- tabs (their cluster only)",
+      "col_2": "e.g. IP-M5 thru IP-M8 for CL-1",
+      "col_3": "Industry perspectives to study",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Content tabs (their cluster)",
+      "col_2": "All tabs within their models",
+      "col_3": "The actual models to produce/verify",
+      "col_4": "Week 1+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "V- tabs (their cluster only)",
+      "col_2": "e.g. V-M5 thru V-M8 for CL-1",
+      "col_3": "Verification sheets for expert grading",
+      "col_4": "Week 3+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Expert Reviewer Spec",
+      "col_2": "—",
+      "col_3": "How to engage their expert",
+      "col_4": "Week 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "MC Conversation Map",
+      "col_2": "—",
+      "col_3": "Which MC conversations to schedule",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "EXPERT REVIEWER (template — per cluster)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Expert Reviewer Spec",
+      "col_2": "—",
+      "col_3": "The engagement: phases, hours, grading rubric",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "IP- tabs (their cluster only)",
+      "col_2": "e.g. IP-M5 thru IP-M8 for CL-1",
+      "col_3": "Industry perspectives — Phase 1 orientation reading",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Content tabs (their cluster)",
+      "col_2": "All tabs within their models",
+      "col_3": "What they're reviewing and grading",
+      "col_4": "Phase 2"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "V- tabs (their cluster only)",
+      "col_2": "e.g. V-M5 thru V-M8 for CL-1",
+      "col_3": "Where they record their grades and sign-off",
+      "col_4": "Phase 3"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "CoS / IONWAVE OPERATOR (Hired Week 8-10)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Tab",
+      "col_2": "Model",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "M0 (full thesis)",
+      "col_2": "M0",
+      "col_3": "The business they're running",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ALL verified models",
+      "col_2": "M1-M40",
+      "col_3": "The complete operating system",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "ALL V- tabs",
+      "col_2": "All",
+      "col_3": "Expert grades — know what's strong and what's weak",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Cluster Architecture",
+      "col_2": "—",
+      "col_3": "How the operating system is organized",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Financial Model tabs",
+      "col_2": "M3",
+      "col_3": "The money",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Execution Plans",
+      "col_2": "M35",
+      "col_3": "What to do first",
+      "col_4": "Day 1"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "INVESTOR (not in the spreadsheet)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "What They See",
+      "col_2": "Where",
+      "col_3": "Purpose",
+      "col_4": "When"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "The site (password-protected)",
+      "col_2": "Website",
+      "col_3": "The series. MC conversations. Cast page. Daily updates.",
+      "col_4": "Week 5+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Data room",
+      "col_2": "Google Drive",
+      "col_3": "Entity docs, cap table, financial model (extracted from Trade by librarian)",
+      "col_4": "Week 7+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "Deck",
+      "col_2": "PDF",
+      "col_3": "The pitch (Nilo builds from M0 + M4)",
+      "col_4": "Week 7+"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "NOT the 907-tab spreadsheet",
+      "col_2": "—",
+      "col_3": "Investors never see the raw Trade. They see the output.",
+      "col_4": "Never"
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "HOW THE LIBRARIAN USES THIS TAB",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "1. New person gets hired",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "2. Librarian looks up their role on this tab",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "3. Librarian creates a Google Drive folder with those exact tabs extracted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "4. Librarian shares the folder with the new person",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "5. When the person produces work, librarian updates the master Trade",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "6. When a tab status changes, librarian updates the Role Roster",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ROLE ROSTERS — EVERY PERSON'S TABS": "That's the whole job. This tab + Google Drive + the master spreadsheet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 118,
+  "sheet_name": "Role Rosters",
+  "sheet_index": 11
+}

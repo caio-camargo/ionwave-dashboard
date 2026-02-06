@@ -1,0 +1,301 @@
+{
+  "headers": [
+    "ABANDONED CART SEQUENCE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ABANDONED CART SEQUENCE": "3 emails to recover abandoned carts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "ABANDONED CART FLOW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Approach",
+      "col_5": "Include Discount?"
+    },
+    {
+      "ABANDONED CART SEQUENCE": "1. Reminder",
+      "col_2": "1 hour",
+      "col_3": "Did you forget something?",
+      "col_4": "Helpful reminder",
+      "col_5": "No"
+    },
+    {
+      "ABANDONED CART SEQUENCE": "2. Objection",
+      "col_2": "24 hours",
+      "col_3": "Still thinking about it?",
+      "col_4": "Handle objections",
+      "col_5": "Optional (5-10%)"
+    },
+    {
+      "ABANDONED CART SEQUENCE": "3. Urgency",
+      "col_2": "48 hours",
+      "col_3": "Last chance - cart expiring",
+      "col_4": "Urgency + discount",
+      "col_5": "Yes (10-15%)"
+    },
+    {
+      "ABANDONED CART SEQUENCE": "EMAIL 1: REMINDER (1 hour)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "SUBJECT: You left something behind 👀",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Looks like you left [Product] in your cart.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[PRODUCT IMAGE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "No worries - we saved it for you.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[CTA: Complete Your Order]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Questions? Just reply to this email.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "EMAIL 2: OBJECTION HANDLING (24 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "SUBJECT: Is something holding you back?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "I noticed you haven't completed your order yet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Totally get it - here's what I can tell you:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Worried it won't work?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "→ 30-day money-back guarantee. No questions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Not sure about taste?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "→ Light, clean, not sweet. Most people love it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Thinking about price?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "→ Less than $1.50/serving. Less than your coffee.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[PRODUCT IMAGE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[CTA: Complete Your Order]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Questions? Reply to this email - I read every one.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "EMAIL 3: URGENCY (48 hours)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "SUBJECT: Your cart is about to expire (+ 15% off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Your cart is about to expire, and I don't want you to miss out.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "Here's 15% off to make it easy: [CODE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[PRODUCT IMAGE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[CTA: Complete Your Order - 15% Off]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "This code expires in 24 hours.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "P.S. Still not sure? Remember: 30-day guarantee.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ABANDONED CART SEQUENCE": "If you don't love it, full refund. No risk.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 41,
+  "sheet_name": "Abandoned Cart Sequence",
+  "sheet_index": 440
+}

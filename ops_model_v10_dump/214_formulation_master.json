@@ -1,0 +1,490 @@
+{
+  "headers": [
+    "FORMULATION MASTER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "FORMULATION MASTER": "Everything about what's actually in the product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "If you don't understand the product, you can't:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Write believable ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Answer customer questions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Defend against competitors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Make supplier decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Handle quality issues",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "This is not optional. You must KNOW the product.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "THE CORE THESIS: WHY OCEAN-SOURCED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "SYNTHETIC ELECTROLYTES (Competitors: LMNT, Liquid IV, Drip Drop):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• 3-4 minerals: Sodium, Potassium, Magnesium (maybe Chloride)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Lab-created, isolated compounds",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Missing: 74+ trace minerals body needs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Analogy: Synthetic vitamins vs whole food",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "OCEAN-SOURCED (Our approach):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• 78 minerals in natural ratios",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Matches human plasma mineral profile",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Deep ocean water = clean, mineral-rich",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Same principle as hospital saline (derived from ocean)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "THE CLAIM: Your body is 70% water with a mineral profile that",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "matches ocean water. Synthetic electrolytes are incomplete.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Ocean-sourced gives you what cells actually evolved to use.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "INGREDIENT BREAKDOWN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Ingredient",
+      "col_2": "Amount/Serving",
+      "col_3": "Function",
+      "col_4": "Why It Matters",
+      "col_5": "Competitor Comparison"
+    },
+    {
+      "FORMULATION MASTER": "Sodium",
+      "col_2": "1000mg",
+      "col_3": "Fluid balance, nerve signaling",
+      "col_4": "Most people are deficient, especially active/keto",
+      "col_5": "LMNT: 1000mg ✓"
+    },
+    {
+      "FORMULATION MASTER": "Potassium",
+      "col_2": "200mg",
+      "col_3": "Heart rhythm, muscle function",
+      "col_4": "Works with sodium for cellular balance",
+      "col_5": "LMNT: 200mg ✓"
+    },
+    {
+      "FORMULATION MASTER": "Magnesium",
+      "col_2": "60mg",
+      "col_3": "Muscle/nerve, energy, sleep",
+      "col_4": "50% of Americans deficient",
+      "col_5": "LMNT: 60mg ✓"
+    },
+    {
+      "FORMULATION MASTER": "Chloride",
+      "col_2": "___mg",
+      "col_3": "Digestion, pH balance",
+      "col_4": "Often overlooked but essential",
+      "col_5": "LMNT: Has it"
+    },
+    {
+      "FORMULATION MASTER": "Calcium",
+      "col_2": "___mg",
+      "col_3": "Bones, muscle, heart",
+      "col_4": "Works with magnesium",
+      "col_5": "LMNT: None ✗"
+    },
+    {
+      "FORMULATION MASTER": "Phosphorus",
+      "col_2": "___mg",
+      "col_3": "Energy production, bones",
+      "col_4": "ATP synthesis",
+      "col_5": "LMNT: None ✗"
+    },
+    {
+      "FORMULATION MASTER": "78 Trace Minerals",
+      "col_2": "Varies",
+      "col_3": "Enzyme function, detox, etc.",
+      "col_4": "THE DIFFERENTIATOR",
+      "col_5": "LMNT: None ✗"
+    },
+    {
+      "FORMULATION MASTER": "KEY TRACE MINERALS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Mineral",
+      "col_2": "Function",
+      "col_3": "Deficiency Symptoms",
+      "col_4": "Marketing Hook",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Zinc",
+      "col_2": "Immune, wound healing, taste",
+      "col_3": "Weak immunity, slow healing",
+      "col_4": "Immune support",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Iron",
+      "col_2": "Oxygen transport, energy",
+      "col_3": "Fatigue, weakness",
+      "col_4": "Energy",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Iodine",
+      "col_2": "Thyroid, metabolism",
+      "col_3": "Fatigue, weight gain",
+      "col_4": "Metabolism",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Selenium",
+      "col_2": "Antioxidant, thyroid",
+      "col_3": "Muscle weakness",
+      "col_4": "Antioxidant",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Copper",
+      "col_2": "Iron metabolism, nerves",
+      "col_3": "Anemia, bone issues",
+      "col_4": "Recovery",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Manganese",
+      "col_2": "Bone, metabolism",
+      "col_3": "Weak bones",
+      "col_4": "Bone health",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Chromium",
+      "col_2": "Blood sugar regulation",
+      "col_3": "Insulin issues",
+      "col_4": "Blood sugar",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Molybdenum",
+      "col_2": "Enzyme function, detox",
+      "col_3": "Headaches, racing heart",
+      "col_4": "Detox",
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "SOURCING & QUALITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Source: Deep ocean water (600-3000m depth)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Why deep: Below pollution, sunlight, contains ancient minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Processing: Desalinated, concentrated, tested",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Quality markers to verify:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Heavy metal testing (lead, mercury, arsenic)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Microbiological testing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Certificate of Analysis (CoA) per batch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Third-party lab verification",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "Supplier questions:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Where exactly is water sourced?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• What depth?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Processing method?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Testing protocols?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "• Can we visit facility?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "QUESTIONS TO ANSWER BEFORE LAUNCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What is the EXACT mg breakdown per mineral?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What are the specific health claims we CAN make (FDA)?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What claims does our supplier documentation support?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ How does our mineral profile compare to competitors SPECIFICALLY?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What's the taste profile? Salty? Bitter? Neutral?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What flavoring system? Natural? Artificial? Stevia?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ Shelf life? Storage requirements?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ Allergen considerations?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ Vegan/Keto/Paleo certifications available?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "FORMULATION MASTER": "☐ What's the cost breakdown per serving?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 68,
+  "sheet_name": "Formulation Master",
+  "sheet_index": 214
+}

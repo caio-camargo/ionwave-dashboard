@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "CUSTOMER RESEARCH",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CUSTOMER RESEARCH": "Post-purchase survey",
+      "col_2": "How did you hear about us? Why did you buy?"
+    },
+    {
+      "CUSTOMER RESEARCH": "Review mining",
+      "col_2": "Competitor reviews for pain points"
+    },
+    {
+      "CUSTOMER RESEARCH": "Reddit/forums",
+      "col_2": "What do people complain about with electrolytes?"
+    },
+    {
+      "CUSTOMER RESEARCH": "Customer interviews",
+      "col_2": "10-20 calls with target customers"
+    },
+    {
+      "CUSTOMER RESEARCH": "Support tickets",
+      "col_2": "What questions/issues come up?"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Customer Research",
+  "sheet_index": 558
+}

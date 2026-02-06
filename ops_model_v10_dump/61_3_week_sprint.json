@@ -1,0 +1,295 @@
+{
+  "headers": [
+    "3-WEEK SPRINT: FROM ZERO TO LIVE",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Compressed timeline. Assumes imagination asset already exists and CoS brings capital.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "PRECONDITIONS (Must be true before Week 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "1. Imagination asset EXISTS. 694-tab Trade is filled. It's not perfect but it's complete.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "This is already true as of today.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "2. M0 (Trade Thesis) is LOCKED. The bet is defined. No strategy changes during sprint.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "3. Nilo has a warm network of potential CoS candidates or a channel to reach them fast.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "The CoS is the bottleneck. Everything depends on finding the right person in Week 1.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "WEEK 1: IGNITION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Day",
+      "col_2": "Action",
+      "col_3": "Owner",
+      "col_4": "Output"
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "Post VA job (Upwork, test task, $100 perf basis + bonus)",
+      "col_3": "Nilo",
+      "col_4": "Live posting. Applications incoming."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "Activate CoS pipeline. Warm intros, DMs, cold outreach.",
+      "col_3": "Nilo",
+      "col_4": "5-10 conversations opened."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Tue",
+      "col_2": "Screen VA applicants. Top 3 get test task.",
+      "col_3": "Nilo",
+      "col_4": "Test tasks sent."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Tue-Wed",
+      "col_2": "CoS conversations. Frame the opportunity. Send Start Here + M0.",
+      "col_3": "Nilo",
+      "col_4": "2-3 serious candidates."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed",
+      "col_2": "Hire VA. Best test task wins. Kickoff call.",
+      "col_3": "Nilo",
+      "col_4": "VA contracted and working."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed-Thu",
+      "col_2": "CoS finalist interviews. Assessment workbook.",
+      "col_3": "Nilo",
+      "col_4": "CoS selected."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Thu",
+      "col_2": "VA begins: CoS onboarding prep, entity formation research, systems setup.",
+      "col_3": "VA",
+      "col_4": "Onboarding packet ready. Entity checklist started."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "CoS signs. Capital commitment confirmed (theirs or from their network).",
+      "col_3": "Nilo + CoS",
+      "col_4": "CoS contracted. Funding path clear."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "VA gets bonus for hitting Week 1 milestones on time.",
+      "col_3": "Nilo",
+      "col_4": "VA incentive validated. Retention locked."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Week 1 output: VA working. CoS signed. Capital committed. Entity in process.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Nilo's time: ~10-12 hours total across 5 days.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "WEEK 2: ACTIVATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Day",
+      "col_2": "Action",
+      "col_3": "Owner",
+      "col_4": "Output"
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "CoS onboards. Claude Project walkthrough. Learns Trade structure via Claude.",
+      "col_3": "CoS",
+      "col_4": "CoS can navigate Trade through Claude."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "Entity formed (LLC, EIN). VA handles filings.",
+      "col_3": "VA",
+      "col_4": "Entity exists. Bank account pending."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Tue",
+      "col_2": "CoS maps their network: experts, investors, potential operators.",
+      "col_3": "CoS",
+      "col_4": "Warm intro list. 15-20 names across domains."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Tue",
+      "col_2": "VA sets up Shopify skeleton, domain, email, basic tool stack.",
+      "col_3": "VA",
+      "col_4": "Shell infrastructure live."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed-Thu",
+      "col_2": "CoS sends expert briefs (via PM Brief Template). Books 4-6 sessions for Week 3.",
+      "col_3": "CoS",
+      "col_4": "Expert sessions scheduled. Cluster coverage planned."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed-Thu",
+      "col_2": "CoS reaches out to 3-5 potential operators from their network.",
+      "col_3": "CoS",
+      "col_4": "Operator pipeline opened."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "CoS + Nilo check-in. Review progress. Adjust Week 3 plan.",
+      "col_3": "CoS + Nilo",
+      "col_4": "Week 3 locked. Expert schedule confirmed."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "Bank account opened. Capital deposited. VA and CoS first payments processed.",
+      "col_3": "VA + CoS",
+      "col_4": "Money flowing. Entity operational."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Week 2 output: CoS fully operational. Entity live. Expert sessions booked. Operator pipeline open.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Nilo's time: ~2 hours (Friday check-in + async Slack).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "WEEK 3: VALIDATION BLITZ",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Day",
+      "col_2": "Action",
+      "col_3": "Owner",
+      "col_4": "Output"
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "Expert session #1 (Cluster A: Finance or Cluster B: Product)",
+      "col_3": "CoS",
+      "col_4": "First cluster at A-grade or clear revision list."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Mon",
+      "col_2": "Claude incorporates feedback immediately. Revised draft same day.",
+      "col_3": "CoS + Claude",
+      "col_4": "First model revised."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Tue",
+      "col_2": "Expert session #2 + #3 (two clusters in one day)",
+      "col_3": "CoS",
+      "col_4": "Three clusters reviewed in 3 days."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed",
+      "col_2": "Expert session #4. Investor intro conversations begin.",
+      "col_3": "CoS",
+      "col_4": "Four clusters reviewed. Investor pipeline open."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Wed",
+      "col_2": "Operator candidate interviews begin.",
+      "col_3": "CoS",
+      "col_4": "2-3 operator conversations."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Thu",
+      "col_2": "Expert session #5 + #6. Remaining clusters.",
+      "col_3": "CoS",
+      "col_4": "All 8 clusters with expert feedback."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Thu",
+      "col_2": "Claude revises all remaining models from expert feedback.",
+      "col_3": "CoS + Claude",
+      "col_4": "Full Trade at expert-reviewed quality."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "Nilo reviews proprietary models (M0, M1, M32-34, M38-39).",
+      "col_3": "Nilo",
+      "col_4": "Proprietary models confirmed."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Fri",
+      "col_2": "Sprint retrospective. What is A-grade, what needs more work.",
+      "col_3": "CoS + Nilo",
+      "col_4": "Trade status: validated. Next steps clear."
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Week 3 output: Trade expert-validated. Investor conversations live. Operator pipeline active.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "Nilo's time: ~3-4 hours (proprietary review + retro).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "TOTAL NILO TIME ACROSS 3 WEEKS: ~15-18 hours.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "3-WEEK SPRINT: FROM ZERO TO LIVE": "After Week 3, Nilo drops to ~1 hour/week (CoS check-in + async).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 47,
+  "sheet_name": "3-Week Sprint",
+  "sheet_index": 61
+}

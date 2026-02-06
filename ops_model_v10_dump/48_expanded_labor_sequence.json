@@ -1,0 +1,167 @@
+{
+  "headers": [
+    "EXPANDED LABOR SEQUENCE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "EXPANDED LABOR SEQUENCE": "The full chain from zero to graduated business. Each role creates the conditions for the next.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "THE OLD SEQUENCE (4 LINKS)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "VA → Chief of Staff → Recruiter → Operator",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "This was the hiring sequence. It assumed the Trade was already built.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "THE FULL SEQUENCE (9 LINKS)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "Nilo → VA → CoS → Recruiter → Lead PM → Cluster PMs → Venture Partners → Experts/Investors → CEO Recruiter → CEO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "The first 4 links BUILD the Trade. The next 3 links VALIDATE it. The last 2 links DEPLOY it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "Link",
+      "col_2": "Role",
+      "col_3": "What They Do",
+      "col_4": "What They Produce",
+      "col_5": "How Long",
+      "col_6": "Creates Conditions For"
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D0",
+      "col_2": "Nilo (Studio)",
+      "col_3": "Locks M0 (Trade Thesis). Defines the bet. Sets quality bar. Designs the system.",
+      "col_4": "Locked M0. Production Architecture. Expert Cluster map. Quality standard.",
+      "col_5": "Week 1",
+      "col_6": "VA has clear instructions. Everything downstream has fixed strategic inputs."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D1",
+      "col_2": "VA",
+      "col_3": "Posts jobs, screens candidates, manages pipeline for CoS hire. Administrative execution.",
+      "col_4": "Screened CoS candidate pipeline. Interview-ready shortlist.",
+      "col_5": "Weeks 1-4",
+      "col_6": "CoS hired without Nilo doing admin work."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D2",
+      "col_2": "Chief of Staff",
+      "col_3": "Hires Recruiter. Manages production schedule. Coordinates between PM and experts. Tracks progress.",
+      "col_4": "Recruiter hired. Production Tracker maintained. Expert sessions scheduled.",
+      "col_5": "Weeks 3-ongoing",
+      "col_6": "Recruiter has JD and sourcing criteria. PM has schedule and support."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D3",
+      "col_2": "Recruiter (for Lead PM)",
+      "col_3": "Sources and screens Lead PM candidates. First recruiting engagement.",
+      "col_4": "Lead PM hired. Someone who can run the production loop.",
+      "col_5": "Weeks 4-6",
+      "col_6": "Trade production can begin."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D4",
+      "col_2": "Lead PM (Imagination Asset Builder)",
+      "col_3": "Runs the AI production loop. Generates first drafts of ALL 41 models using Claude. Builds the imagination asset — the complete first-draft Trade that makes the opportunity legible.",
+      "col_4": "Complete first-draft Trade (688 tabs, all filled). Cluster briefs for expert review. This IS the imagination asset.",
+      "col_5": "Weeks 6-12",
+      "col_6": "Cluster PMs have something concrete to improve. Venture Partners have something to show. Experts have something to react to."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D5",
+      "col_2": "Cluster PMs (6-7 people)",
+      "col_3": "Each owns one cluster (collection of models). Takes Lead PM's first draft and runs expert calibration loop for their cluster. Uses Claude as interface to the Trade — never navigates the raw spreadsheet.",
+      "col_4": "A-grade models within their cluster. Expert feedback incorporated. Quality Calibration Log entries.",
+      "col_5": "Weeks 10-20",
+      "col_6": "Trade goes from draft to expert-grade. Each completed cluster is a proof point for investors."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D5.1",
+      "col_2": "Cluster PMs find → Venture Partners",
+      "col_3": "PMs identify and recruit VPs through their expert networks. VPs are domain experts willing to go deeper — they don't just review, they validate and connect.",
+      "col_4": "Introductions to investors. Introductions to domain experts who become advisors. Credibility layer.",
+      "col_5": "Weeks 12-20",
+      "col_6": "Investors see a validated Trade. Experts provide ongoing advisory. Network effects compound."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D6",
+      "col_2": "Venture Partners",
+      "col_3": "Provide deep domain validation. Introduce investors. Introduce senior experts. Grade the Trade from their domain perspective. By means of doing this, they attract investors.",
+      "col_4": "Investor introductions. Expert introductions. Domain grades on relevant clusters. Credibility.",
+      "col_5": "Weeks 14-22",
+      "col_6": "Investors have trusted referral. CEO recruitment has credibility backing."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D7",
+      "col_2": "Investors",
+      "col_3": "Provide grading — the ultimate external validation. Their diligence process IS a quality check on the Trade. Introduce to recruiters and CEO candidates in their network.",
+      "col_4": "Funding commitment. Validation signal. CEO candidate introductions. Recruiter introductions.",
+      "col_5": "Weeks 18-26",
+      "col_6": "CEO recruiter has funded company to recruit for. CEO candidates see real opportunity."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D8",
+      "col_2": "CEO Recruiter",
+      "col_3": "Recruited by CoS or sourced through investor network. Searches for CEO/Operator using the now-complete, funded, expert-validated Trade as the pitch.",
+      "col_4": "CEO candidate pipeline. Screened and interviewed finalists.",
+      "col_5": "Weeks 22-30",
+      "col_6": "CEO can be hired into a real company with real funding and a real operating system."
+    },
+    {
+      "EXPANDED LABOR SEQUENCE": "D9",
+      "col_2": "CEO / Operator",
+      "col_3": "Executes the Trade. Runs the business using the 41-model operating system. Enrolls in School Model. Gets graded by CM.",
+      "col_4": "Revenue. Customers. A running business.",
+      "col_5": "Week 30+",
+      "col_6": "Graduation. Business runs independently. Studio launches next Trade."
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "Expanded Labor Sequence",
+  "sheet_index": 48
+}

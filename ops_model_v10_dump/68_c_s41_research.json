@@ -1,0 +1,51 @@
+{
+  "headers": [
+    "C-S41: APPLIED RESEARCH — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "RESEARCHER DEAL STRUCTURE",
+      "col_2": null
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "What They Get",
+      "col_2": "Co-authorship on case study paper\nAccess to operational data (anonymized if needed)\nReal-world validation of their theoretical work\nBridge publication between biology/CS and organizational design"
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "What We Get",
+      "col_2": "\"Research Contributor, [Institution]\" credential\nAcademic validation of the coordination thesis\nNetwork access to swarm intelligence / collective behavior community\nInvestor narrative: \"Princeton/Stanford is studying our model\""
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "IP",
+      "col_2": "Shared. They can publish. We can cite. Neither owns the other's prior work.\nTrade content remains Studio 4 IP. Research findings are jointly published."
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Time Commitment (Researcher)",
+      "col_2": "5-10 hours for initial review of Trade + research design\n2-3 hours/month during production (check-ins, data review)\n10-20 hours for case study co-authorship\nTOTAL: ~30-50 hours over 4-6 months"
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Time Commitment (Us)",
+      "col_2": "Data collection embedded in librarian workflow (no extra effort)\nDanilo available for 2-3 interviews about coordination theory\nFlash contributor or Claude drafts the paper"
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Compensation (Researcher)",
+      "col_2": "No cash. This is a research collaboration.\nThey get publication + data + real-world case study.\nIf they want equity: 0.1-0.25% (advisory-level)"
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Formal Structure",
+      "col_2": "Option A: Informal collaboration (email agreement, co-authorship)\nOption B: Research affiliate (formal letter from institution)\nOption C: Advisory board member (equity + title)\nStart with A, upgrade to B or C if it works."
+    },
+    {
+      "C-S41: APPLIED RESEARCH — CONTRACT": "Termination",
+      "col_2": "Either party can exit at any time.\nPublished work remains published. Credential remains valid for work done.\nNo exclusivity."
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "C-S41 Research",
+  "sheet_index": 68
+}

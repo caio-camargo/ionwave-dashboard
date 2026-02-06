@@ -1,0 +1,32 @@
+{
+  "headers": [
+    "AFFILIATE & COMMISSION STACKING",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "AFFILIATE & COMMISSION STACKING": "Program",
+      "col_2": "Rate",
+      "col_3": "Structure"
+    },
+    {
+      "AFFILIATE & COMMISSION STACKING": "Influencer affiliate",
+      "col_2": "15-20%",
+      "col_3": "Per sale via unique code"
+    },
+    {
+      "AFFILIATE & COMMISSION STACKING": "Customer referral",
+      "col_2": "$10 credit",
+      "col_3": "Give $10, get $10"
+    },
+    {
+      "AFFILIATE & COMMISSION STACKING": "Ambassador program",
+      "col_2": "25%",
+      "col_3": "Top performers, exclusive"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Commission Stacking",
+  "sheet_index": 156
+}

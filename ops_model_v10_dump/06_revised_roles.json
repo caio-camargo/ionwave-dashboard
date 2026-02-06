@@ -1,0 +1,214 @@
+{
+  "headers": [
+    "REVISED ROLES — FLASH TEAMS MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Role",
+      "col_2": "Type",
+      "col_3": "Real Person",
+      "col_4": "Sprint Scope",
+      "col_5": "Duration",
+      "col_6": "Equity",
+      "col_7": "Fancy Title"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Caio",
+      "col_2": "One-time",
+      "col_3": "Caio",
+      "col_4": "Clean up the Trade. Organize tabs. Hire Elaine.",
+      "col_5": "Week 0 (1 week)",
+      "col_6": "1-2%",
+      "col_7": "Chief of Staff — Studio 4"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Librarian",
+      "col_2": "Persistent",
+      "col_3": "Elaine",
+      "col_4": "Maintain both passets. Distribute slices. Update master. Route dependencies.",
+      "col_5": "Full cycle (12+ weeks)",
+      "col_6": "1-2%",
+      "col_7": "Librarian"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Conductor",
+      "col_2": "Persistent",
+      "col_3": "TBD",
+      "col_4": "Source flash team members. Manage pipeline. Handle logistics.",
+      "col_5": "Full cycle (12+ weeks)",
+      "col_6": "1-2%",
+      "col_7": "Studio Conductor"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "MC",
+      "col_2": "Persistent",
+      "col_3": "TBD",
+      "col_4": "On-air entrance/exit conversations. Daily updates. Makes it fun.",
+      "col_5": "Full cycle (12+ weeks)",
+      "col_6": "1-2%",
+      "col_7": "MC / Host"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "PM Co-Founder\n(per cluster)",
+      "col_2": "Flash",
+      "col_3": "TBD (7-10 people)",
+      "col_4": "Produce 4-8 TUPs in their cluster. 2-3 week sprint.",
+      "col_5": "2-3 weeks per sprint",
+      "col_6": "0.25-0.5% per sprint",
+      "col_7": "Cluster Lead"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Expert Reviewer\n(per cluster)",
+      "col_2": "Flash",
+      "col_3": "TBD (8-12 people)",
+      "col_4": "Review and grade TUPs. 10-20 hours. A/B/C/D/F.",
+      "col_5": "2 weeks per sprint",
+      "col_6": "0.1-0.25% per sprint",
+      "col_7": "Domain Expert"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Funnel Builder",
+      "col_2": "Flash",
+      "col_3": "TBD",
+      "col_4": "Set up YouTube funnel (Dan James/Thakos as reference model). 2-3 week sprint.",
+      "col_5": "2-3 weeks",
+      "col_6": "0.25-0.5%",
+      "col_7": "Funnel Architect"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Series Producer",
+      "col_2": "Flash",
+      "col_3": "TBD",
+      "col_4": "Plan narrative arc. Story bible. Episode calendar. 1-2 week sprint.",
+      "col_5": "1-2 weeks",
+      "col_6": "0.25-0.5%",
+      "col_7": "Series Producer"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Product Person",
+      "col_2": "Flash",
+      "col_3": "TBD",
+      "col_4": "Build 2 sites. 2-3 week sprint.",
+      "col_5": "2-3 weeks",
+      "col_6": "0.25-0.5%",
+      "col_7": "Product Designer"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Danilo",
+      "col_2": "On-call SME",
+      "col_3": "Danilo",
+      "col_4": "Writes specific essays when asked by a PM. Coordination theory, thesis, strategy.",
+      "col_5": "As needed (hours not weeks)",
+      "col_6": "Founder equity",
+      "col_7": "Founder / SME"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "CoS / Operators",
+      "col_2": "Post-funding",
+      "col_3": "TBD",
+      "col_4": "Run IonWave from the implementation passet. Can be PM co-founders who performed well.",
+      "col_5": "Full-time post-raise",
+      "col_6": "Salary + equity from raise",
+      "col_7": "General Manager"
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "HEADCOUNT ESTIMATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Persistent roles: 3 (Elaine, Conductor, MC)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Flash PM sprints: 7-10 people (one per cluster, some clusters may take 2 sprints)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Flash expert sprints: 8-12 people (1-2 per cluster)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Flash specialists: 3-5 (funnel builder, series producer, product person, others)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "One-time: Caio (Week 0)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "On-call: Danilo (as needed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "TOTAL: 40-60 people touch the Trade across 12 weeks.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Most for less than 3 weeks. Some for less than 20 hours.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "REVISED ROLES — FLASH TEAMS MODEL": "Nobody has a big job. Everybody has a small, clear sprint.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 22,
+  "sheet_name": "Revised Roles",
+  "sheet_index": 6
+}

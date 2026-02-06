@@ -1,0 +1,154 @@
+{
+  "headers": [
+    "SPAN OF CONTROL CALCULATOR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SPAN OF CONTROL CALCULATOR": "How many things is each person managing? Too wide = quality drops.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "Span of control = number of distinct responsibilities a person manages",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "Optimal span: 5-9 things. Beyond that, quality and attention suffer.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "SPAN AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "Person",
+      "col_2": "Responsibilities",
+      "col_3": "Count",
+      "col_4": "Optimal?",
+      "col_5": "Action if Overloaded"
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "Operator",
+      "col_2": "Ads, Email, Support, Inventory, Reporting, Creative brief, Supplier comms, Analytics",
+      "col_3": "8",
+      "col_4": "✓",
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "CM",
+      "col_2": "Review operator work, Approve deliverables, Escalate issues, QC",
+      "col_3": "4",
+      "col_4": "✓",
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "Studio",
+      "col_2": "Strategy, Capital, Major decisions, Operator management, Portfolio",
+      "col_3": "5",
+      "col_4": "✓",
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "SPAN THRESHOLDS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• 1-4: Under-utilized, can take on more",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• 5-7: Optimal range",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• 8-9: At capacity, watch for quality drops",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• 10+: Overloaded, quality will suffer, delegate or cut",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "IF SPAN TOO WIDE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• Delegate: Move responsibilities to someone else",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• Automate: Remove human attention requirement",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• Eliminate: Stop doing things that don't matter",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• Simplify: Reduce complexity of remaining responsibilities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SPAN OF CONTROL CALCULATOR": "• Hire: Add capacity if justified by value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 20,
+  "sheet_name": "Span of Control Calculator",
+  "sheet_index": 889
+}

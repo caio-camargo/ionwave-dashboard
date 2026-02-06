@@ -1,0 +1,239 @@
+{
+  "headers": [
+    "VSL TESTING PROTOCOL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VSL TESTING PROTOCOL": "Systematic creative testing with statistical discipline",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "TESTING FRAMEWORK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Test Level",
+      "col_2": "What You Test",
+      "col_3": "Budget/Variant",
+      "col_4": "Duration",
+      "col_5": "Sample Size",
+      "col_6": "Winner Criteria"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L1: Hook Test",
+      "col_2": "First 5 seconds (5 variants)",
+      "col_3": "$20-30 each",
+      "col_4": "2-3 days",
+      "col_5": "3,000+ impressions",
+      "col_6": "Highest hook rate >25%"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L2: Body Test",
+      "col_2": "Middle section (2-3 variants, winning hook)",
+      "col_3": "$50-75 each",
+      "col_4": "3-5 days",
+      "col_5": "1,000+ ThruPlays",
+      "col_6": "Highest hold rate + lowest CPA"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L3: Offer Test",
+      "col_2": "Offer stack/price/guarantee (2-3 variants)",
+      "col_3": "$75-100 each",
+      "col_4": "5-7 days",
+      "col_5": "50+ purchases",
+      "col_6": "Lowest CPA at target ROAS"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L4: Audience Test",
+      "col_2": "Different targeting (3-5 audiences, winning creative)",
+      "col_3": "$50-75 each",
+      "col_4": "5-7 days",
+      "col_5": "5,000+ reach each",
+      "col_6": "Lowest CPA across audiences"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L5: Scale Test",
+      "col_2": "Budget increase (1.2x, 1.5x, 2x steps)",
+      "col_3": "Incremental",
+      "col_4": "7+ days",
+      "col_5": "Ongoing",
+      "col_6": "CPA stays within 20% of test CPA"
+    },
+    {
+      "VSL TESTING PROTOCOL": "L6: Platform Test",
+      "col_2": "New channels (TikTok, YouTube, etc.)",
+      "col_3": "$100-200 each",
+      "col_4": "7-14 days",
+      "col_5": "Platform-specific",
+      "col_6": "Profitable on new platform"
+    },
+    {
+      "VSL TESTING PROTOCOL": "METRICS DASHBOARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Metric",
+      "col_2": "Definition",
+      "col_3": "Target",
+      "col_4": "Red Flag",
+      "col_5": "Measured At",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Hook Rate",
+      "col_2": "ThruPlays / Impressions (3-sec video views / impressions)",
+      "col_3": ">25%",
+      "col_4": "<15%",
+      "col_5": "L1",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Hold Rate @15s",
+      "col_2": "15-sec views / ThruPlays",
+      "col_3": ">50%",
+      "col_4": "<30%",
+      "col_5": "L2",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Hold Rate @30s",
+      "col_2": "30-sec views / ThruPlays",
+      "col_3": ">35%",
+      "col_4": "<20%",
+      "col_5": "L2",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Completion Rate",
+      "col_2": "Completed views / ThruPlays",
+      "col_3": ">15%",
+      "col_4": "<8%",
+      "col_5": "L2",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "CTR (link)",
+      "col_2": "Link clicks / Impressions",
+      "col_3": ">1.5%",
+      "col_4": "<0.5%",
+      "col_5": "L3",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "CVR (landing page)",
+      "col_2": "Purchases / Link clicks",
+      "col_3": ">3%",
+      "col_4": "<1%",
+      "col_5": "L3",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "CPA",
+      "col_2": "Spend / Purchases",
+      "col_3": "<$30 (category dependent)",
+      "col_4": ">$60",
+      "col_5": "L3+",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "ROAS",
+      "col_2": "Revenue / Spend",
+      "col_3": ">2.5x",
+      "col_4": "<1.5x",
+      "col_5": "L3+",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "AOV",
+      "col_2": "Revenue / Orders",
+      "col_3": ">$45",
+      "col_4": "<$30",
+      "col_5": "L3+",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Frequency",
+      "col_2": "Impressions / Reach",
+      "col_3": "<2.5 in testing",
+      "col_4": ">3.5",
+      "col_5": "L4+",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "Creative Fatigue Index",
+      "col_2": "CPA today / CPA first 3 days",
+      "col_3": "<1.3x",
+      "col_4": ">1.5x",
+      "col_5": "L5+",
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL CRITERIA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL THE HOOK: Hook rate <15% after $50 spend → new hook",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL THE BODY: Hold rate @30s <20% with winning hook → rewrite mechanism section",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL THE OFFER: CVR <1% after 100+ link clicks → restructure offer stack",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL THE VSL: CPA >2x target after all L1-L3 optimization → full VSL rebuild (new TUP)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL TESTING PROTOCOL": "KILL THE ANGLE: 3 VSL rebuilds on same angle all fail → thesis may be wrong, reassess product-market fit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 28,
+  "sheet_name": "VSL Testing Protocol1",
+  "sheet_index": 319
+}

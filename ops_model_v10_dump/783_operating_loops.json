@@ -1,0 +1,46 @@
+{
+  "headers": [
+    "OPERATING LOOPS"
+  ],
+  "rows": [
+    {
+      "OPERATING LOOPS": "DAILY LOOP"
+    },
+    {
+      "OPERATING LOOPS": "• Check ad performance"
+    },
+    {
+      "OPERATING LOOPS": "• Review orders/revenue"
+    },
+    {
+      "OPERATING LOOPS": "• Respond to support tickets"
+    },
+    {
+      "OPERATING LOOPS": "• Update inventory count"
+    },
+    {
+      "OPERATING LOOPS": "• Note any issues"
+    },
+    {
+      "OPERATING LOOPS": "WEEKLY LOOP"
+    },
+    {
+      "OPERATING LOOPS": "• Full P&L review"
+    },
+    {
+      "OPERATING LOOPS": "• Creative performance analysis"
+    },
+    {
+      "OPERATING LOOPS": "• Inventory forecast update"
+    },
+    {
+      "OPERATING LOOPS": "• Email metrics review"
+    },
+    {
+      "OPERATING LOOPS": "• Team sync (if applicable)"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Operating Loops",
+  "sheet_index": 783
+}

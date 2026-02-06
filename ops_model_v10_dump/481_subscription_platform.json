@@ -1,0 +1,140 @@
+{
+  "headers": [
+    "SUBSCRIPTION PLATFORM COMPARISON",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Recharge vs Skio vs Stay.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Feature",
+      "col_2": "Recharge",
+      "col_3": "Skio",
+      "col_4": "Stay AI",
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Price",
+      "col_2": "$99/mo + 1%",
+      "col_3": "$100/mo + 1%",
+      "col_4": "$149/mo + 1.5%",
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Shopify Native",
+      "col_2": "No",
+      "col_3": "Yes",
+      "col_4": "Yes",
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Churn Prevention",
+      "col_2": "Basic",
+      "col_3": "Good",
+      "col_4": "Best (AI)",
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "RECOMMENDATION: Start with Skio",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "SUBSCRIPTION ANALYTICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Metric",
+      "col_2": "This Month",
+      "col_3": "Last Month",
+      "col_4": "Change",
+      "col_5": "Target"
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Active Subscribers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "New Subscriptions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Churned",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Reactivated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Net Change",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Subscription Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Avg Subscription Value",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Churn Rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": "<8%"
+    },
+    {
+      "SUBSCRIPTION PLATFORM COMPARISON": "Subscription as % of Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": ">50%"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Subscription Platform",
+  "sheet_index": 481
+}

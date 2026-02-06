@@ -1,0 +1,277 @@
+{
+  "headers": [
+    "ONE-WAY / TWO-WAY DOOR LOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Reversible decisions: decide fast. Irreversible decisions: decide carefully.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "THE FRAMEWORK (Bezos)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "TWO-WAY DOOR: Reversible. Walk through, if you don't like it, walk back. Decide FAST.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "ONE-WAY DOOR: Irreversible (or very costly to reverse). Decide CAREFULLY.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "COMMON MISTAKE: Treating two-way doors like one-way doors (over-deliberating reversible decisions)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "DECISION LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Decision",
+      "col_2": "Date",
+      "col_3": "Door Type",
+      "col_4": "Reversal Cost",
+      "col_5": "Time Spent Deciding",
+      "col_6": "Appropriate?",
+      "col_7": "Outcome",
+      "col_8": "Learning"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Test new ad creative",
+      "col_2": null,
+      "col_3": "2-Way",
+      "col_4": "$50",
+      "col_5": "10 min",
+      "col_6": "✓",
+      "col_7": null,
+      "col_8": "Just test it"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Sign 12-month supplier contract",
+      "col_2": null,
+      "col_3": "1-Way",
+      "col_4": "$10K+",
+      "col_5": "2 weeks",
+      "col_6": "✓",
+      "col_7": null,
+      "col_8": "Worth the diligence"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Choose brand colors",
+      "col_2": null,
+      "col_3": "2-Way",
+      "col_4": "$500",
+      "col_5": "3 weeks",
+      "col_6": "✗ Over-thought",
+      "col_7": null,
+      "col_8": "Could have changed later"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Hire operator",
+      "col_2": null,
+      "col_3": "1-Way",
+      "col_4": "$5K+, months",
+      "col_5": "4 weeks",
+      "col_6": "✓",
+      "col_7": null,
+      "col_8": "High stakes, worth it"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "Change email subject line",
+      "col_2": null,
+      "col_3": "2-Way",
+      "col_4": "$0",
+      "col_5": "2 days",
+      "col_6": "✗ Over-thought",
+      "col_7": null,
+      "col_8": "Just A/B test"
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "ONE-WAY DOORS (Decide Carefully)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Signing long-term contracts (supplier, lease, employment)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Choosing business entity structure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Major brand/positioning changes after launch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Taking on investors/debt",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Hiring key roles (costly to undo)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Public statements that can't be retracted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "TWO-WAY DOORS (Decide Fast)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Ad creative (can always turn off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Pricing (can always change)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Email copy (can send different tomorrow)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Landing page design (can revert)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Most marketing decisions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ONE-WAY / TWO-WAY DOOR LOG": "• Tool/software choices (can switch)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "One-Way Two-Way Doors",
+  "sheet_index": 130
+}

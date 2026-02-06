@@ -1,0 +1,332 @@
+{
+  "headers": [
+    "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Every tab must answer every question. Nobody should ever need to ask Nilo anything.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "THE THICK BOUNDARY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "The boundary between Nilo and everyone else is: THE TABS SPEAK FOR THEMSELVES.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "If someone reads their tabs and still has a question, that's a failure of the Trade.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "It means the tab is incomplete. The fix is not 'ask Nilo.' The fix is: Claude fills the gap,",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "librarian updates the tab, and the question never gets asked again.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "The MC is the pressure valve for human questions. But even the MC should be able to",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "answer most questions by pointing to tabs. 'Oh, that's in your P-tab, section 3.'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Nilo touches the Trade in exactly two places:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "1. Week 0: Produce M0 and S0 with Claude (the seed)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "2. Week 8+: Final V-tab sign-offs (the grade)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Everything in between: librarian distributes, people work, MC records, Claude fills gaps.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "INSTRUCTIONS.md TEMPLATE (every working folder gets one)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Every working folder the librarian creates contains an INSTRUCTIONS.md file.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "This file is role-specific. It tells the person everything they need to know.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "─── TEMPLATE ───",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "# Welcome to the IonWave Trade",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## Who You Are",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "[Role name]. [One sentence about what this role does.]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## Your Scope",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "You own: [list of specific models/tabs]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "You can read: Everything in the MASTER folder (read-only link below)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "You edit: Only the files in THIS folder",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## What 'Done' Looks Like",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "[Specific, measurable criteria for each tab they own]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- P-tab: Fill in every section. No blanks. If uncertain, write your best guess and flag it.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Content tabs: Complete every field. Cite sources where possible.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- V-tab: You don't fill this in. The expert does.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## How To Work",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "1. Read the MASTER folder for context (start with M0 Thesis, then your cluster's IP-tabs)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "2. Read each P-tab in your working folder (these are your project plans)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "3. Produce the content tabs (use Claude if you have access, or work from the P-tab spec)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "4. When a tab is complete, move it to your SUBMIT/ folder",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "5. The librarian will update the master and schedule your expert review",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## When You Have Questions",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "1. Check your P-tab first (most answers are there)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "2. Check the MASTER folder (search for keywords)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "3. Ask the MC (they'll record the conversation — your question becomes content)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "4. If none of the above: flag it in your SUBMIT/ folder as 'QUESTION: [your question]'",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "The librarian will route it to Claude, get an answer, and update the tab.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## You Do NOT Need To",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Talk to Nilo (he'll see your work at V-tab sign-off)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Coordinate with other clusters (the librarian handles cross-cluster dependencies)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Worry about the site, the fundraise, or anything outside your scope",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Attend meetings (MC conversations are the only scheduled touchpoint)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## Your MC Conversations",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "The MC will schedule [X] conversations with you:",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Onboarding conversation (Day 1): Who are you, what excites you, what's your background?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Working conversations (weekly): What are you finding? What's surprising? What's hard?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Completion conversation (final): What did you build? What would you change? What grade?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "All conversations are recorded and published. This is part of the series. Be yourself. Have fun.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "## Links",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- MASTER folder (read-only): [link]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Your WORKING folder (edit): [link]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- MC scheduling: [link or email]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "- Librarian contact: [email]",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "─── END TEMPLATE ───",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "WHAT EACH TAB TYPE NEEDS (self-explanatory checklist)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Tab Type",
+      "col_2": "Must Contain",
+      "col_3": "Reader Can Answer Without Asking Anyone"
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "P- (Project Plan)",
+      "col_2": "Scope statement. Deliverables list. \"Done\" criteria per deliverable. Timeline. Dependencies on other models. Key decisions already made. Key decisions still open.",
+      "col_3": "\"What am I supposed to produce?\" → YES\n\"How will I know it's done?\" → YES\n\"What do I need from other models?\" → YES\n\"When is it due?\" → YES"
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "C- (Contract)",
+      "col_2": "Role title. Equity amount. Time commitment. Duration. Deliverables. IP assignment. Termination. Comp details.",
+      "col_3": "\"What do I get paid?\" → YES\n\"How much equity?\" → YES\n\"What happens if I leave?\" → YES\n\"Who owns my work?\" → YES"
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "IP- (Industry)",
+      "col_2": "Domain context. Key terms defined. Current best practices. Common pitfalls. Reference examples. Benchmarks. What experts in this field care about.",
+      "col_3": "\"What is this domain about?\" → YES\n\"What does good look like?\" → YES\n\"What are the common mistakes?\" → YES\n\"What would an expert check for?\" → YES"
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "V- (Verification)",
+      "col_2": "Grading rubric (A/B/C/D/F). What each grade means for this specific model. Sign-off fields. Expert name. Date. Comments per section.",
+      "col_3": "\"How do I grade this?\" → YES\n\"What's the difference between A and B?\" → YES\n\"Where do I write my feedback?\" → YES"
+    },
+    {
+      "INSTRUCTIONS SPEC — SELF-EXPLANATORY TABS": "Content tabs",
+      "col_2": "Header with model name and purpose. Instructions at top: \"This tab covers X. Fill in every field. If uncertain, flag with [?] and the expert will address it.\" Field labels that are self-explanatory. Examples where helpful.",
+      "col_3": "\"What goes in this field?\" → YES\n\"How detailed should I be?\" → YES\n\"What format?\" → YES"
+    }
+  ],
+  "row_count": 64,
+  "sheet_name": "Instructions Spec",
+  "sheet_index": 13
+}

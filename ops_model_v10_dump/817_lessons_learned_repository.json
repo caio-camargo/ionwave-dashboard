@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "LESSONS LEARNED REPOSITORY",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "LESSONS LEARNED REPOSITORY": "What we've learned - so we don't repeat mistakes - from PMBOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Organizations that don't capture lessons repeat mistakes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Every failure is tuition. Don't waste it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Every success has replicable elements. Capture them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "This is the institutional memory of the business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "LESSONS LOG",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Date",
+      "col_2": "Category",
+      "col_3": "What Happened",
+      "col_4": "What We Learned",
+      "col_5": "Action Taken",
+      "col_6": "Added By"
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": null,
+      "col_2": "Creative",
+      "col_3": "First 20 ads all failed",
+      "col_4": "Hooks matter more than production quality",
+      "col_5": "Rebuilt hook library, prioritize stopping power",
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": null,
+      "col_2": "Ops",
+      "col_3": "First 3PL had 20% error rate",
+      "col_4": "Check references, start with test batch",
+      "col_5": "Switched 3PL, always test first",
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": null,
+      "col_2": "Marketing",
+      "col_3": "Scaled too fast, CAC doubled",
+      "col_4": "Scale 20%/day max, not 100%",
+      "col_5": "Created scaling rules",
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": null,
+      "col_2": "Product",
+      "col_3": "First batch had taste complaints",
+      "col_4": "Test with real users before bulk order",
+      "col_5": "Added taste testing to QC",
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": null,
+      "col_2": "Finance",
+      "col_3": "Almost ran out of cash week 4",
+      "col_4": "Build more buffer than you think",
+      "col_5": "Minimum 60 day runway rule",
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "CATEGORIES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Creative | Marketing | Product | Operations | Finance | Team | Tech | Customer | Strategy",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "LESSON CAPTURE TRIGGERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "Capture a lesson when:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• Something failed unexpectedly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• Something succeeded unexpectedly",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• We said 'we should have...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• We said 'next time we'll...'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• Weekly retro surfaces an insight",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LESSONS LEARNED REPOSITORY": "• Post-mortem on any incident",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Lessons Learned Repository",
+  "sheet_index": 817
+}

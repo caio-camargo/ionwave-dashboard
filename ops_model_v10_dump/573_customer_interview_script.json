@@ -1,0 +1,88 @@
+{
+  "headers": [
+    "CUSTOMER INTERVIEW SCRIPT"
+  ],
+  "rows": [
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "Exact questions to ask (based on The Mom Test)"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "SETUP (2 min)"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Thanks for chatting! I'm trying to understand [problem space] better. No sales pitch - just want to learn from your experience.\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "PROBLEM DISCOVERY (10 min)"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Tell me about the last time you [experienced problem]?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What did you do about it?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What was the hardest part?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Why was that hard?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"How often does this happen?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What have you tried to solve this?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What don't you like about [current solution]?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "CURRENT BEHAVIOR (5 min)"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What are you currently using for [problem]?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"How did you find that solution?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"How much do you spend on this?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"What would make you switch?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "WRAP UP (3 min)"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Is there anything else about [problem] I should know?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Who else should I talk to about this?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "\"Can I follow up if I have more questions?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "DO NOT:"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "❌ Talk about your product/idea"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "❌ Ask \"would you buy X?\""
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "❌ Ask leading questions"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "❌ Accept compliments as validation"
+    },
+    {
+      "CUSTOMER INTERVIEW SCRIPT": "❌ Talk more than 20% of the time"
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Customer Interview Script",
+  "sheet_index": 573
+}

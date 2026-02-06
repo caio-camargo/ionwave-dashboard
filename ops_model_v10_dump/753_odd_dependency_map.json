@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "ODD DEPENDENCY MAP",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ODD DEPENDENCY MAP": "What blocks what — critical path visualization",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "CRITICAL PATH (longest dependency chain)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "ICP → Customer Interviews → VOC → Hooks/Angles → Ad Scripts →",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "Creative Briefs → UGC Content → Edited Ads → Ad Upload → LAUNCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "Total time: ~4 weeks minimum",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "Bottleneck: UGC content creation (1-2 week wait)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "PARALLEL PATHS (can run simultaneously)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "While waiting for UGC content:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Build Shopify store",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Set up Klaviyo flows",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Order inventory",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Set up tracking",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "While waiting for inventory:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Finalize ads",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• QA website",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "• Set up 3PL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "COMMON BLOCKERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ODD DEPENDENCY MAP": "Blocker",
+      "col_2": "What It Blocks",
+      "col_3": "How to Unblock",
+      "col_4": "Lead Time"
+    },
+    {
+      "ODD DEPENDENCY MAP": "No ICP defined",
+      "col_2": "All creative, all messaging",
+      "col_3": "Do customer interviews",
+      "col_4": "1 week"
+    },
+    {
+      "ODD DEPENDENCY MAP": "Waiting on supplier quote",
+      "col_2": "Pricing, unit economics",
+      "col_3": "Get multiple quotes in parallel",
+      "col_4": "3-5 days"
+    },
+    {
+      "ODD DEPENDENCY MAP": "Waiting on UGC",
+      "col_2": "Ad creation",
+      "col_3": "Source 3+ creators, stagger deliveries",
+      "col_4": "1-2 weeks"
+    },
+    {
+      "ODD DEPENDENCY MAP": "Waiting on inventory",
+      "col_2": "Launch",
+      "col_3": "Order early, use 3PL with fast receiving",
+      "col_4": "2-4 weeks"
+    },
+    {
+      "ODD DEPENDENCY MAP": "Ad account setup/review",
+      "col_2": "Launch",
+      "col_3": "Set up accounts before you need them",
+      "col_4": "1-3 days"
+    },
+    {
+      "ODD DEPENDENCY MAP": "Domain propagation",
+      "col_2": "Launch",
+      "col_3": "Connect domain early",
+      "col_4": "24-48 hrs"
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "ODD Dependency Map",
+  "sheet_index": 753
+}

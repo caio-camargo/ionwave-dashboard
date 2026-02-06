@@ -1,0 +1,63 @@
+{
+  "headers": [
+    "CANDIDATE EVALUATION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CANDIDATE EVALUATION MATRIX": "Criteria",
+      "col_2": "Weight",
+      "col_3": "Candidate 1",
+      "col_4": "Candidate 2",
+      "col_5": "Candidate 3"
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "D2C Experience",
+      "col_2": "25%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "Media Buying",
+      "col_2": "20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "Ownership Mindset",
+      "col_2": "20%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "Learning Velocity",
+      "col_2": "15%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "Culture Fit",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CANDIDATE EVALUATION MATRIX": "Communication",
+      "col_2": "10%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Candidate Evaluation",
+  "sheet_index": 655
+}

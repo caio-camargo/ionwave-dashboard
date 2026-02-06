@@ -1,0 +1,87 @@
+{
+  "headers": [
+    "PPC CAMPAIGN STRUCTURE",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "PPC CAMPAIGN STRUCTURE": "How to structure paid advertising for systematic testing",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "CAMPAIGN HIERARCHY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Level 1: Campaign",
+      "col_2": "Budget container, objective",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Level 2: Ad Set",
+      "col_2": "Audience, placement, schedule",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Level 3: Ad",
+      "col_2": "Creative, copy, CTA",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "TESTING STRUCTURE",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Campaign 1: Hook Testing",
+      "col_2": "5 hooks × 1 format",
+      "col_3": "$50/day"
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Campaign 2: Angle Testing",
+      "col_2": "Top 2 hooks × 5 angles",
+      "col_3": "$50/day"
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Campaign 3: Format Testing",
+      "col_2": "Winners × static/video/carousel",
+      "col_3": "$50/day"
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "Campaign 4: Scale",
+      "col_2": "Proven winners only",
+      "col_3": "Scale 20%/week"
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "DECISION TRIGGERS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "KILL if",
+      "col_2": "ROAS < 1x after $100 spend",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "WATCH if",
+      "col_2": "ROAS 1-2x, need more data",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "SCALE if",
+      "col_2": "ROAS > 2x after $200 spend",
+      "col_3": null
+    },
+    {
+      "PPC CAMPAIGN STRUCTURE": "PAUSE if",
+      "col_2": "Frequency > 3, performance declining",
+      "col_3": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "PPC Campaign Structure",
+  "sheet_index": 610
+}

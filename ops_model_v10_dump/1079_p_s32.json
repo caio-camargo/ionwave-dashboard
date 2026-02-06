@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S32: School Model — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S32: School Model — PROJECT PLAN": "Cluster: SCL-5 | Owner: PM (Systems)",
+      "col_2": null
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "The Trade-as-school metaphor formalized. Enrollment, graduation, credentials, curriculum design.",
+      "col_2": null
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "TUP",
+      "col_2": "S32: School Model"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-5"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Owner",
+      "col_2": "PM (Systems)"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Description",
+      "col_2": "The Trade-as-school metaphor formalized. Enrollment, graduation, credentials, curriculum design."
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S32: School Model — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the School Model model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S32",
+  "sheet_index": 1079
+}

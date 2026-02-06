@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "POST-PURCHASE FLOW",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "POST-PURCHASE FLOW": "Turn buyers into repeat customers and advocates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "POST-PURCHASE SEQUENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Goal"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP1",
+      "col_2": "Order confirm",
+      "col_3": "Order confirmed! #[order]",
+      "col_4": "Confirm, reduce anxiety"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP2",
+      "col_2": "Shipped",
+      "col_3": "Your IonWave is on the way!",
+      "col_4": "Excitement, tracking"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP3",
+      "col_2": "Delivered + 1 day",
+      "col_3": "Your IonWave arrived!",
+      "col_4": "Check-in, how to use"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP4",
+      "col_2": "Day 5",
+      "col_3": "How are you feeling?",
+      "col_4": "Early feedback, support"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP5",
+      "col_2": "Day 14",
+      "col_3": "Loving IonWave? Leave a review",
+      "col_4": "Review request"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP6",
+      "col_2": "Day 21",
+      "col_3": "Time to restock?",
+      "col_4": "Replenishment reminder"
+    },
+    {
+      "POST-PURCHASE FLOW": "PP7",
+      "col_2": "Day 28",
+      "col_3": "Your next order + subscribe offer",
+      "col_4": "Subscription conversion"
+    },
+    {
+      "POST-PURCHASE FLOW": "EMAIL 3 TEMPLATE (Day After Delivery)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "SUBJECT: Your IonWave arrived! Here's how to get started",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Hey [Name]!",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Your IonWave should be in your hands now. 🎉",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "HERE'S HOW TO GET THE BEST RESULTS:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "1. Start with 1 scoop in the morning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "2. Mix with 12-16oz of water",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "3. Drink before or after your workout",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "4. For keto flu: Add a second serving",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Most customers notice a difference within 3-5 days.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Give it a week and you'll wonder how you lived without it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Questions? Reply to this email - we actually read them.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "Here's to real hydration,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "POST-PURCHASE FLOW": "[Founder name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 24,
+  "sheet_name": "Post-Purchase Flow",
+  "sheet_index": 443
+}

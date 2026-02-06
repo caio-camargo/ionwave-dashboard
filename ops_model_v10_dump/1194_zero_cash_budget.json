@@ -1,0 +1,271 @@
+{
+  "headers": [
+    "ZERO-CASH BUDGET — LAUNCH WITH ~$500",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Every role is equity-only. Every tool is free tier. Inventory delayed until funded. Hard floor: ~$500.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "CASH EXPENSES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Item",
+      "col_2": "Cost",
+      "col_3": "When",
+      "col_4": "Alternative to"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Stripe Atlas (incorporation + EIN)",
+      "col_2": "$500",
+      "col_3": "Week 0",
+      "col_4": "Lawyer at $2-5K"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Domain registration (launchionwave.com)",
+      "col_2": "$12-15/year",
+      "col_3": "Week 0",
+      "col_4": "—"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Domain registration (customer domain TBD)",
+      "col_2": "$12-15/year",
+      "col_3": "Pre-launch",
+      "col_4": "—"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Lawyer review of agreements (optional, defer)",
+      "col_2": "$500-1K",
+      "col_3": "When funded",
+      "col_4": "Claude-drafted agreements for now"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "TOTAL HARD FLOOR",
+      "col_2": "~$500-530",
+      "col_3": "Week 0",
+      "col_4": "—"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "EQUITY-ONLY ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Role",
+      "col_2": "Equity",
+      "col_3": "Cash",
+      "col_4": "Why They Say Yes"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "MC",
+      "col_2": "10%",
+      "col_3": "$0",
+      "col_4": "10% in a company is real ownership. 120-150 hrs of hosted content for their reel. Compatible with full-time job. They're building their show, not doing you a favor."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Librarian",
+      "col_2": "0.5%",
+      "col_3": "$0",
+      "col_4": "Portfolio piece: \"information architect for 1,193-tab venture studio launch.\" Resume gold for ops/library science/EA career."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Conductor",
+      "col_2": "0.3%",
+      "col_3": "$0",
+      "col_4": "Portfolio piece: \"coordinated 40+ flash contributors across 10 clusters.\" Ops/recruiting career booster."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "PM Co-Founders (×7-10)",
+      "col_2": "0.3-0.5% per sprint",
+      "col_3": "$0",
+      "col_4": "Co-founder credit on verified TUPs. Graded work product. 2-3 week commitment."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Expert Reviewers (×8-12)",
+      "col_2": "0.1-0.25% per cluster",
+      "col_3": "$0",
+      "col_4": "Advisor framing. Name on verified operating model. Show appearance. Credit + content + equity."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Series Producer",
+      "col_2": "0.3-0.5%",
+      "col_3": "$0",
+      "col_4": "Show bible + narrative architecture credit. Content portfolio."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Steward",
+      "col_2": "0.1%",
+      "col_3": "$0",
+      "col_4": "One week. Audit credit. Low commitment."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Funnel Builder",
+      "col_2": "0.5-1%",
+      "col_3": "$0",
+      "col_4": "Funnel portfolio piece. Sprint-based."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "FREE TOOLS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Tool",
+      "col_2": "Free Tier",
+      "col_3": "Replaces",
+      "col_4": "Limitation"
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Google personal accounts",
+      "col_2": "Free",
+      "col_3": "Google Workspace ($7/user/mo)",
+      "col_4": "15GB storage per account. Enough for docs/sheets."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Notion (free tier)",
+      "col_2": "Free",
+      "col_3": "Paid project management",
+      "col_4": "Unlimited pages, 10 guests on free plan."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Slack (free tier)",
+      "col_2": "Free",
+      "col_3": "Paid Slack",
+      "col_4": "90-day message history. Fine for 12-week production."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Discord",
+      "col_2": "Free",
+      "col_3": "Slack",
+      "col_4": "No message limit. Less professional but functional."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Bitwarden",
+      "col_2": "Free",
+      "col_3": "1Password ($4/user/mo)",
+      "col_4": "Free for individuals. Shared vault on free org tier."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Shopify (free trial → defer)",
+      "col_2": "Free trial",
+      "col_3": "Shopify ($39/mo)",
+      "col_4": "Don't activate until ready to sell. Build store during trial."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Claude (via your existing subscription)",
+      "col_2": "Free",
+      "col_3": "Additional AI tools",
+      "col_4": "Already paying for this. 80% of content production."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Webflow (free tier) or Carrd ($19/yr)",
+      "col_2": "Free / $19",
+      "col_3": "Custom site development",
+      "col_4": "Ops site. Conductor builds with AI. Functional not cinematic."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Loom (free tier)",
+      "col_2": "Free",
+      "col_3": "Professional video hosting",
+      "col_4": "25 videos on free plan. For daily highlights."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Riverside/Zencastr (free tier)",
+      "col_2": "Free",
+      "col_3": "Professional recording studio",
+      "col_4": "For long-form conversations. Free tier records enough."
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "WHAT GETS DELAYED UNTIL FUNDED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "First inventory run ($5-15K)",
+      "col_2": "Raise money first. The verified operating model IS the fundraising asset.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Lawyer review of agreements",
+      "col_2": "Claude drafts now. Lawyer reviews when you have $500-1K.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Carta cap table",
+      "col_2": "Free spreadsheet template now. Carta when funded.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Paid tools (Workspace, Slack pro, Shopify)",
+      "col_2": "Upgrade when revenue or funding arrives.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Trademark registration",
+      "col_2": "File when funded. Use ™ (common law) in the meantime.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Insurance",
+      "col_2": "Not needed until selling product.",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "THE TRADE-OFF",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Equity-only hires take longer to find and are less reliable than paid ones.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "Free tools are scrappier. Guests on Notion free plan is limited.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "No inventory means you can't sell anything during imagination phase. That's fine — you're building the operating model, not the product yet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "The protocol still works. The state machine still runs. The grading still has teeth. The show still gets produced.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ZERO-CASH BUDGET — LAUNCH WITH ~$500": "You're trading speed for zero burn. That's the right trade when you have zero cash.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 43,
+  "sheet_name": "Zero-Cash Budget",
+  "sheet_index": 1194
+}

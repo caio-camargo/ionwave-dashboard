@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "INSURANCE CHECKLIST",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "INSURANCE CHECKLIST": "Protect the business from catastrophic risk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "REQUIRED INSURANCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Type",
+      "col_2": "What It Covers",
+      "col_3": "Typical Cost",
+      "col_4": "Status",
+      "col_5": "Provider",
+      "col_6": "Renewal"
+    },
+    {
+      "INSURANCE CHECKLIST": "Product Liability",
+      "col_2": "Claims if product harms someone",
+      "col_3": "$500-2000/yr",
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "General Liability",
+      "col_2": "Slip/fall, property damage, etc.",
+      "col_3": "$400-1500/yr",
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Professional Liability",
+      "col_2": "Errors, advice given",
+      "col_3": "$500-1500/yr",
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Cyber Liability",
+      "col_2": "Data breach, hacking",
+      "col_3": "$500-2000/yr",
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Business Property",
+      "col_2": "Inventory, equipment",
+      "col_3": "Varies",
+      "col_4": "☐",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "WHY PRODUCT LIABILITY IS CRITICAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Selling ingestible products = significant liability exposure",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "One lawsuit can bankrupt the business without insurance.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Most 3PLs and retailers REQUIRE proof of product liability insurance.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "Typical coverage: $1M per occurrence, $2M aggregate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "GET THIS BEFORE SHIPPING ANY PRODUCT.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "INSURANCE PROVIDERS TO CONTACT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "• Thimble (easy online, good for startups)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "• Next Insurance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "• Hiscox",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "• Hartford",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "• Local insurance broker (can shop multiple)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "WHAT YOU'LL NEED TO GET QUOTES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ Business entity details (EIN, formation docs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ Product description and ingredients",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ Manufacturing/supplier information",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ Projected annual revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ COA (Certificate of Analysis) for product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INSURANCE CHECKLIST": "☐ Any certifications (FDA, GMP, etc.)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Insurance Checklist",
+  "sheet_index": 174
+}

@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "COMPETITOR CLAIMS AUDIT",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "COMPETITOR CLAIMS AUDIT": "What competitors claim, whether it's substantiated, vulnerabilities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "PURPOSE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "Know competitor claims to:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Find weaknesses to exploit",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Avoid making same unsubstantiated claims",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Differentiate our positioning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Prepare for customer comparisons",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "LMNT CLAIMS AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "Claim",
+      "col_2": "Substantiated?",
+      "col_3": "Our Counter",
+      "col_4": "Opportunity"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Zero sugar\"",
+      "col_2": "Yes (factual)",
+      "col_3": "Match it",
+      "col_4": "None - we have this too"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Developed with Robb Wolf\"",
+      "col_2": "Yes (factual)",
+      "col_3": "N/A",
+      "col_4": "We can have experts too"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Science-backed ratios\"",
+      "col_2": "Weak - general science",
+      "col_3": "Our ratios are natural",
+      "col_4": "\"Science\" is vague"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Everything you need\"",
+      "col_2": "Weak - only 3 minerals",
+      "col_3": "78 minerals vs 3",
+      "col_4": "Major vulnerability"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Keto/Paleo approved\"",
+      "col_2": "Yes (fits macros)",
+      "col_3": "Match it",
+      "col_4": "None"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"No junk\"",
+      "col_2": "Yes (clean label)",
+      "col_3": "Match it",
+      "col_4": "None"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "SEAONIC CLAIMS AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "Claim",
+      "col_2": "Substantiated?",
+      "col_3": "Our Position",
+      "col_4": "Opportunity"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"78 minerals\"",
+      "col_2": "Yes (if verified)",
+      "col_3": "Same - we match",
+      "col_4": "None"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Marine plasma\"",
+      "col_2": "Yes (sourcing claim)",
+      "col_3": "Same claim",
+      "col_4": "None"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Premium ocean water\"",
+      "col_2": "Vague",
+      "col_3": "Be more specific",
+      "col_4": "Specify depth, location"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "\"Superior hydration\"",
+      "col_2": "Weak - no studies",
+      "col_3": "Avoid this claim too",
+      "col_4": "Neither should claim"
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "KEY VULNERABILITIES TO EXPLOIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "LMNT:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Only 3 minerals - 'incomplete' angle",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Synthetic - 'lab-made' vs natural",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• No trace minerals - 'missing what your body needs'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "Liquid IV:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• 11g sugar - 'sugar bomb' angle",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Mass market - 'not for serious biohackers'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "Seaonic:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Price ($69) - 'overpriced' angle",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Limited flavors/availability",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "General:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Most competitors can't explain WHY their formula",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "COMPETITOR CLAIMS AUDIT": "• Most competitors don't show sourcing transparency",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Competitor Claims Audit",
+  "sheet_index": 255
+}

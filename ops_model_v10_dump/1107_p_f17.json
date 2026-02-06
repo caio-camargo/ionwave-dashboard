@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-F17: Podcast / Interview — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Cluster: FCL-0 | Owner: Funnel Builder",
+      "col_2": null
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Guest strategy, booking, format, distribution. Podcast as recruiting tool.",
+      "col_2": null
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "TUP",
+      "col_2": "F17: Podcast / Interview"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Cluster",
+      "col_2": "FCL-0"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Owner",
+      "col_2": "Funnel Builder"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Description",
+      "col_2": "Guest strategy, booking, format, distribution. Podcast as recruiting tool."
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-F17: Podcast / Interview — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Podcast / Interview model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-F17",
+  "sheet_index": 1107
+}

@@ -1,0 +1,367 @@
+{
+  "headers": [
+    "PM COMPETENCE FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "PM COMPETENCE FRAMEWORK": "What 'good' looks like — holding ourselves accountable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "WHAT IS PM COMPETENCE?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "PM Competence = Deep understanding of product, market, and customer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "such that you can make good decisions without asking.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Signs of PM INCOMPETENCE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Can't explain product in detail without looking it up",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Can't name competitors and their positioning",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Can't describe ideal customer's daily life",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Guessing at pricing rationale",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Surprised by customer objections",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Signs of PM COMPETENCE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Can debate product decisions from first principles",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Knows competitor's strengths and weaknesses cold",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Can predict customer reactions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Pricing tied to clear value logic",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "• Customer objections are anticipated and scripted",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "COMPETENCE ASSESSMENT: PRODUCT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Question",
+      "col_2": "Competent Answer",
+      "col_3": "Incompetent Answer",
+      "col_4": "Score (1-5)"
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What are the exact ingredients?",
+      "col_2": "Lists all with mg amounts",
+      "col_3": "Vaguely knows \"electrolytes\"",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Why ocean-sourced vs synthetic?",
+      "col_2": "78 minerals, natural ratios, plasma match",
+      "col_3": "\"It's more natural\"",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What health claims can we make?",
+      "col_2": "Knows FDA structure/function limits",
+      "col_3": "Not sure / makes stuff up",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "How is it manufactured?",
+      "col_2": "Knows supplier process",
+      "col_3": "No idea",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What does it taste like?",
+      "col_2": "Has tasted, can describe",
+      "col_3": "Hasn't tried it",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Why this price point?",
+      "col_2": "Unit economics + positioning logic",
+      "col_3": "Competitor-based guess",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "COMPETENCE ASSESSMENT: MARKET",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Question",
+      "col_2": "Competent Answer",
+      "col_3": "Incompetent Answer",
+      "col_4": "Score (1-5)"
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Who are top 5 competitors?",
+      "col_2": "Names, positioning, pricing, weaknesses",
+      "col_3": "LMNT and... um...",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What's LMNT's weakness?",
+      "col_2": "Synthetic only, no trace minerals",
+      "col_3": "They're expensive?",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Market size?",
+      "col_2": "TAM/SAM/SOM with sources",
+      "col_3": "$X billion (no source)",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Why now?",
+      "col_2": "Specific trends with evidence",
+      "col_3": "Health is trending",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Who else tried and failed?",
+      "col_2": "Names failures and why",
+      "col_3": "Don't know",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What's the substitutes?",
+      "col_2": "Coconut water, sports drinks, salt tabs",
+      "col_3": "Just other electrolytes",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "COMPETENCE ASSESSMENT: CUSTOMER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Question",
+      "col_2": "Competent Answer",
+      "col_3": "Incompetent Answer",
+      "col_4": "Score (1-5)"
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Describe ideal customer's day",
+      "col_2": "Detailed routine with pain points",
+      "col_3": "Active health-conscious person",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Top 3 objections to buying?",
+      "col_2": "Price, taste, \"I have LMNT\"",
+      "col_3": "Not sure",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What triggers purchase?",
+      "col_2": "Specific moments/contexts",
+      "col_3": "When they need electrolytes",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What words do THEY use?",
+      "col_2": "Quotes from interviews/reviews",
+      "col_3": "Benefits language (our words)",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "What would disappoint them?",
+      "col_2": "Specific unmet expectations",
+      "col_3": "If it didn't work",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Why would they churn?",
+      "col_2": "Specific reasons with data",
+      "col_3": "If they find something better",
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "SCORING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "Total possible: 90 points (18 questions × 5)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "75-90: PM Competent — Ready to execute",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "60-74: PM Developing — Gaps to fill before scaling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "45-59: PM Deficient — Major knowledge gaps, pause and learn",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "<45: PM Incompetent — Not ready to run this product",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "RULE: Don't spend money on ads until PM Score > 60",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "You're burning cash if you don't understand what you're selling.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "HOW TO BUILD COMPETENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "1. USE THE PRODUCT for 2+ weeks",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "2. READ every tab in this ops model",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "3. DO 10+ customer interviews",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "4. STUDY 5 competitors deeply (buy their products)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "5. READ all reviews (yours and competitors)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "6. WRITE ad copy yourself (forces understanding)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "7. ANSWER customer support tickets (reveals gaps)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "8. VISIT the supplier/manufacturer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "9. TALK to industry experts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PM COMPETENCE FRAMEWORK": "10. TEACH someone else about the product (reveals gaps)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 59,
+  "sheet_name": "PM Competence Framework",
+  "sheet_index": 669
+}

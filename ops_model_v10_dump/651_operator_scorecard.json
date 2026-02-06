@@ -1,0 +1,42 @@
+{
+  "headers": [
+    "OPERATOR SCORECARD",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "OPERATOR SCORECARD": "D2C Experience",
+      "col_2": "Has run ads, built funnels, managed ops",
+      "col_3": "Score: /5"
+    },
+    {
+      "OPERATOR SCORECARD": "Ownership Mindset",
+      "col_2": "Treats it like their business",
+      "col_3": "Score: /5"
+    },
+    {
+      "OPERATOR SCORECARD": "Learning Velocity",
+      "col_2": "Can figure things out quickly",
+      "col_3": "Score: /5"
+    },
+    {
+      "OPERATOR SCORECARD": "Communication",
+      "col_2": "Proactive, clear, documented",
+      "col_3": "Score: /5"
+    },
+    {
+      "OPERATOR SCORECARD": "Technical Skills",
+      "col_2": "Shopify, Klaviyo, Meta Ads",
+      "col_3": "Score: /5"
+    },
+    {
+      "OPERATOR SCORECARD": "Culture Fit",
+      "col_2": "Aligned with Studio values",
+      "col_3": "Score: /5"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Operator Scorecard",
+  "sheet_index": 651
+}

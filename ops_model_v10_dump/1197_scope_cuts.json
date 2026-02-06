@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Reducing scope to match zero-cash, speed-to-production reality.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I-LEVEL: CUT FROM 10 WORKSTREAMS TO 3",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Workstream",
+      "col_2": "Status",
+      "col_3": "Rationale",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I1: Entity Formation",
+      "col_2": "KEEP",
+      "col_3": "Stripe Atlas. $500. Must happen Week 0.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I4: Cap Table",
+      "col_2": "KEEP",
+      "col_3": "Free spreadsheet template. Blocks all equity grants.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I9: Agreements",
+      "col_2": "KEEP",
+      "col_3": "Claude-drafted PM/Expert/MC agreements. Lawyer review post-funding.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I2: Banking",
+      "col_2": "DEFER",
+      "col_3": "Mercury free tier when needed. Not blocking for imagination phase.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I3: Insurance",
+      "col_2": "DEFER",
+      "col_3": "Not needed until selling product.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I5: Trademark",
+      "col_2": "DEFER",
+      "col_3": "Use ™ common law. File when funded.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I6: Compliance/FDA",
+      "col_2": "DEFER",
+      "col_3": "Needed before selling, not before imagining.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I7: Accounting",
+      "col_2": "DEFER",
+      "col_3": "No revenue = no accounting needed yet.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I8: IP Protection",
+      "col_2": "DEFER",
+      "col_3": "Trade secrets via NDA in agreements (I9). Formal IP protection post-funding.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I10: Tax Structure",
+      "col_2": "DEFER",
+      "col_3": "Post-funding problem.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-7 AND CL-8: COLLAPSED / DEFERRED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-7 and CL-8 are post-launch operations clusters. You don't need verified operating playbooks before selling a single unit.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Cluster",
+      "col_2": "Status",
+      "col_3": "What It Contains",
+      "col_4": "Why Defer"
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-7",
+      "col_2": "DEFER TO POST-FUNDING",
+      "col_3": "Post-launch operations — customer service, fulfillment scaling, retention playbooks, operational SOPs",
+      "col_4": "These are execution artifacts. You need them when you're running the business, not when you're designing it. Build them when the CoS/Operator is hired and has real operational data."
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-8",
+      "col_2": "DEFER TO POST-FUNDING",
+      "col_3": "Growth/scaling operations — channel expansion, international, B2B, partnerships at scale",
+      "col_4": "Premature optimization. You haven't sold unit #1. Scaling playbooks without baseline data are fiction."
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "ACTIVE PRODUCTION SCOPE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "After scope cuts, active production = CL-0 through CL-6 + I1/I4/I9 only.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-0 (SCL-0 + BCL-0)",
+      "col_2": "ACTIVE",
+      "col_3": "Thesis clusters. M0. Nilo + Claude. Foundation for everything.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-1",
+      "col_2": "ACTIVE",
+      "col_3": "People & Culture. Elaine's cluster. Recruiting, roles, labor architecture.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-2",
+      "col_2": "ACTIVE",
+      "col_3": "Studio Operations. Conductor's cluster. Scheduling, sequencing, tools.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-3",
+      "col_2": "ACTIVE",
+      "col_3": "Product & Supply Chain. Formulation, suppliers, COGS, packaging.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-4",
+      "col_2": "ACTIVE",
+      "col_3": "Marketing & Creative. Funnel, creative strategy, media buying, brand.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-5",
+      "col_2": "ACTIVE",
+      "col_3": "Finance & Strategy. Unit economics, financial model, fundraising.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-6",
+      "col_2": "ACTIVE (watch scope)",
+      "col_3": "Content & Distribution. MC show, content strategy, distribution. Large cluster — may need split.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-7",
+      "col_2": "DEFERRED",
+      "col_3": "Post-launch operations. Build post-funding with real data.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "CL-8",
+      "col_2": "DEFERRED",
+      "col_3": "Growth/scaling. Build post-funding with real data.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "I1 + I4 + I9",
+      "col_2": "ACTIVE",
+      "col_3": "Entity, cap table, agreements. The 3 legal workstreams that can't wait.",
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "SCOPE IMPACT ON RECRUITING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Cutting CL-7/CL-8 removes 2 PM sprints + 2 expert reviews from the recruiting load.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Active clusters = 7 (CL-0 through CL-6). CL-0 is Nilo. So Recruiter sources PMs for 6 clusters, not 8.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Expert advisors needed for 6 clusters, not 8. PMs find their own.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "SCOPE CUTS — WHAT'S IN, WHAT'S DEFERRED": "Total people to recruit drops from ~30 to ~20. Much more feasible.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 35,
+  "sheet_name": "Scope Cuts",
+  "sheet_index": 1197
+}

@@ -1,0 +1,91 @@
+{
+  "headers": [
+    "Shot Type",
+    "Description",
+    "Styling Notes",
+    "Use Case",
+    "Priority"
+  ],
+  "rows": [
+    {
+      "Shot Type": "Hero Product",
+      "Description": "Box + 3 sachets fanned + glass of water with minerals dissolving",
+      "Styling Notes": "Clean white/light gray background. Natural light. Water should show slight mineral tint.",
+      "Use Case": "Homepage hero, ads",
+      "Priority": "CRITICAL"
+    },
+    {
+      "Shot Type": "Lifestyle - Morning",
+      "Description": "Person pouring sachet into water, kitchen counter, morning light",
+      "Styling Notes": "Minimal clutter. Premium kitchen. Subject in athleisure. Calm, intentional moment.",
+      "Use Case": "Ads, lifestyle section",
+      "Priority": "HIGH"
+    },
+    {
+      "Shot Type": "Lifestyle - Gym",
+      "Description": "Sachet + shaker bottle in gym bag context",
+      "Styling Notes": "Clean gym bag, towel, earbuds. Not sweaty/gross. Aspirational.",
+      "Use Case": "Athlete targeting",
+      "Priority": "HIGH"
+    },
+    {
+      "Shot Type": "Lifestyle - Work",
+      "Description": "Sachet on desk next to laptop and water glass",
+      "Styling Notes": "Clean desk setup. Professional but not corporate. Plant, nice lighting.",
+      "Use Case": "Professional targeting",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Shot Type": "Flat Lay",
+      "Description": "Box + sachets + ingredients (sea salt crystals, ocean water vial)",
+      "Styling Notes": "Organized grid layout. Ingredients as props. Scientific but approachable.",
+      "Use Case": "Ingredients section",
+      "Priority": "HIGH"
+    },
+    {
+      "Shot Type": "Pour Shot",
+      "Description": "Close-up of powder pouring from sachet into water",
+      "Styling Notes": "Macro lens. Capture the dissolve moment. Dynamic but clean.",
+      "Use Case": "How it works section",
+      "Priority": "HIGH"
+    },
+    {
+      "Shot Type": "Box Detail",
+      "Description": "Box at angle showing front + side",
+      "Styling Notes": "Subtle shadow. Premium product feel. Show key claims visible.",
+      "Use Case": "Product page gallery",
+      "Priority": "HIGH"
+    },
+    {
+      "Shot Type": "Sachet Detail",
+      "Description": "Single sachet, front and back",
+      "Styling Notes": "Show full label legibility. Clean background.",
+      "Use Case": "Product page, specs",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Shot Type": "Scale/Size",
+      "Description": "Sachet in hand for size reference",
+      "Styling Notes": "Clean hand, natural pose. Show portability.",
+      "Use Case": "FAQ, product page",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Shot Type": "Ocean Source",
+      "Description": "Ocean/water imagery (can be stock)",
+      "Styling Notes": "Deep blue, pristine, depth feeling. Not tropical/vacation.",
+      "Use Case": "Brand story, about",
+      "Priority": "MEDIUM"
+    },
+    {
+      "Shot Type": "Before/After",
+      "Description": "Split image: cluttered supplements vs single IonWave box",
+      "Styling Notes": "Dramatic contrast. Overwhelm vs simplicity.",
+      "Use Case": "Comparison ads",
+      "Priority": "HIGH"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Photo Brief",
+  "sheet_index": 279
+}

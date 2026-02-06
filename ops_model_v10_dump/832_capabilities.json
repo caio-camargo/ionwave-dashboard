@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "IONWAVE CAPABILITY FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "Maturity: 1 = not doing | 2 = doing, not hitting targets | 3 = hitting targets | 4 = exceeding",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "#",
+      "col_2": "Capability",
+      "col_3": "Artifact Target",
+      "col_4": "Performance Target",
+      "col_5": "Current Maturity",
+      "col_6": "Owner"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "1",
+      "col_2": "Supplier & Product",
+      "col_3": "Supplier locked, samples approved, MOQ agreed",
+      "col_4": "COGS <$0.60/sachet, lead time <4 weeks",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "2",
+      "col_2": "Meta Creative",
+      "col_3": "100+ ads tested, 20 new/week",
+      "col_4": "CAC <$40, CTR >1.5%, 3%+ win rate",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "3",
+      "col_2": "Landing Page",
+      "col_3": "2+ variants live, A/B testing active",
+      "col_4": "CVR >2.5%, ATC >8%, <3s load",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "4",
+      "col_2": "Funnel & Checkout",
+      "col_3": "Upsells live, subscription default, bump offer",
+      "col_4": "AOV >$60, sub rate >40%, bump take >15%",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "5",
+      "col_2": "Email Flows",
+      "col_3": "Welcome, cart, post-purchase sequences live",
+      "col_4": "Open >40%, click >3%, flow revenue >15%",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "6",
+      "col_2": "Influencer Program",
+      "col_3": "10+ micro-influencers, 3+ posts/week",
+      "col_4": "CPM <$10, 5%+ of revenue from organic",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "7",
+      "col_2": "Customer Service",
+      "col_3": "Response templates, <4hr response time",
+      "col_4": "CSAT >4.5, refund rate <5%",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "8",
+      "col_2": "Fulfillment",
+      "col_3": "3PL live, tracking automated, <48hr ship",
+      "col_4": "Ship <48hr, damage <1%, cost <$4/order",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "9",
+      "col_2": "Analytics & Reporting",
+      "col_3": "Daily dashboard, weekly report, attribution",
+      "col_4": "CAC/LTV visible daily, decisions data-driven",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "10",
+      "col_2": "Investor Relations",
+      "col_3": "Pipeline warm, materials ready, updates flowing",
+      "col_4": "Raise closed in <3 weeks when triggered",
+      "col_5": "1",
+      "col_6": "Operator"
+    },
+    {
+      "IONWAVE CAPABILITY FRAMEWORK": "11",
+      "col_2": "New Product Launch",
+      "col_3": "Launch process documented, 1 successful expansion",
+      "col_4": "New SKU profitable within 60 days, <30% hero cannibalization",
+      "col_5": "1",
+      "col_6": "Operator"
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Capabilities",
+  "sheet_index": 832
+}

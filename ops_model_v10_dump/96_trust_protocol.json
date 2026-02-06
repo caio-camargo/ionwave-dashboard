@@ -1,0 +1,997 @@
+{
+  "headers": [
+    "TRUST PROTOCOL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "TRUST PROTOCOL": "Who Nilo trusts to verify what. This is the verification layer for every model in the Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "WHAT THIS IS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Every model, every tab, every decision has a person Nilo trusts to say 'this is right.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "That's not the same as who does the work. It's not the same as who reviews the AI draft.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "It's: who is the final pair of eyes that Nilo trusts for THIS specific thing?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Trust operates at different levels of abstraction:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "STRATEGIC TRUST — 'I trust this person's judgment on whether to do this at all.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Example: Should we enter the subscription model? Should we raise at this valuation?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "These are bet-level questions. Very few people qualify.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "DOMAIN TRUST — 'I trust this person knows what good looks like in this domain.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Example: Is this media buying strategy sound? Are these email flows best practice?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "These are expert-level questions. The expert cluster map partially covers this.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "EXECUTION TRUST — 'I trust this person to do this specific task correctly.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Example: Did the entity get filed right? Is the cap table clean? Are the ads formatted correctly?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "These are detail-level questions. PMs and operators handle this.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "VIBES TRUST — 'I trust this person's taste and instinct on things that can't be measured.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Example: Does this brand feel right? Is this the right person for CoS? Does the site feel premium?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "These are aesthetic and intuitive questions. Very personal.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Not every person covers every level. Hannah might be domain + vibes but not execution.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "A lawyer is execution (did the docs get filed right) but not strategic (should we do this deal).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Nilo is the only person who covers all four levels, which is exactly why delegation",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "requires mapping trust explicitly — otherwise everything routes back to Nilo.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "HOW THIS APPEARS IN EVERY MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Every model in the Trade gets a trust line. It says:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "VERIFICATION: [Name] at [level]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Example: 'VERIFICATION: Hannah Kowalski (domain + vibes). Route final output to her before marking complete.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "The PM producing the model sees this and knows: don't ship until Hannah has seen it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Claude sees this and knows: when generating the review brief, address it to Hannah.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "For models where Nilo is the only trusted verifier (proprietary / Studio 4 IP),",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "the trust line says: 'VERIFICATION: Nilo only. No external review.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "For models where no trusted person exists yet,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "the trust line says: 'VERIFICATION: TBD — this is a gap. Find someone before producing this model.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "That gap IS the recruiting signal. The trust protocol tells you who you still need to find.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "TRUST MAP — ALL 44 MODELS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Model",
+      "col_2": "Domain",
+      "col_3": "Strategic Trust",
+      "col_4": "Domain Trust",
+      "col_5": "Execution Trust",
+      "col_6": "Vibes Trust",
+      "col_7": "Notes"
+    },
+    {
+      "TRUST PROTOCOL": "S1",
+      "col_2": "Production System",
+      "col_3": "Nilo",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Proprietary. Nilo sets the quality bar for how Trades get built."
+    },
+    {
+      "TRUST PROTOCOL": "S2",
+      "col_2": "Labor Architecture",
+      "col_3": "Nilo",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Proprietary. The labor chain is Studio 4 IP."
+    },
+    {
+      "TRUST PROTOCOL": "S3",
+      "col_2": "Infrastructure & Fundraising",
+      "col_3": "Nilo",
+      "col_4": "[TBD — investor-grade advisor]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Need someone Nilo trusts on fundraising strategy. VC partner? Angel mentor?"
+    },
+    {
+      "TRUST PROTOCOL": "M0",
+      "col_2": "Trade Thesis",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Nilo and only Nilo. This is the locked bet."
+    },
+    {
+      "TRUST PROTOCOL": "M1",
+      "col_2": "Labor Chain & Deployment",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Proprietary. PM executes but Nilo verifies."
+    },
+    {
+      "TRUST PROTOCOL": "M2",
+      "col_2": "Entity & Legal",
+      "col_3": "Nilo",
+      "col_4": "[Startup lawyer]",
+      "col_5": "[Startup lawyer]",
+      "col_6": "Nilo",
+      "col_7": "Lawyer verifies domain + execution. Nilo verifies strategic + vibes."
+    },
+    {
+      "TRUST PROTOCOL": "M3",
+      "col_2": "Financial Model",
+      "col_3": "[TBD — CFO type]",
+      "col_4": "[TBD — CFO type]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "CRITICAL GAP. Need someone Nilo trusts on numbers."
+    },
+    {
+      "TRUST PROTOCOL": "M4",
+      "col_2": "Fundraising & Investors",
+      "col_3": "Nilo",
+      "col_4": "[TBD — investor-grade advisor]",
+      "col_5": "CoS",
+      "col_6": "Nilo",
+      "col_7": "Same person as S3 strategic trust ideally."
+    },
+    {
+      "TRUST PROTOCOL": "M5",
+      "col_2": "Product Formulation",
+      "col_3": "[TBD — formulation expert]",
+      "col_4": "[TBD — formulation expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Need someone Nilo trusts on supplement science."
+    },
+    {
+      "TRUST PROTOCOL": "M6",
+      "col_2": "Supply Chain",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — supply chain expert]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Expert cluster B covers domain trust."
+    },
+    {
+      "TRUST PROTOCOL": "M7",
+      "col_2": "Regulatory & FDA",
+      "col_3": "[Startup lawyer]",
+      "col_4": "[Regulatory consultant]",
+      "col_5": "[Regulatory consultant]",
+      "col_6": "Nilo",
+      "col_7": "Legal territory. Must be right, not just good."
+    },
+    {
+      "TRUST PROTOCOL": "M8",
+      "col_2": "Brand & Packaging",
+      "col_3": "Nilo",
+      "col_4": "[TBD — creative director]",
+      "col_5": "Product Person",
+      "col_6": "Nilo",
+      "col_7": "Vibes trust is critical here. Nilo has to feel it."
+    },
+    {
+      "TRUST PROTOCOL": "M9",
+      "col_2": "Ecommerce Infrastructure",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — Shopify expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Execution-heavy. Domain expert verifies."
+    },
+    {
+      "TRUST PROTOCOL": "M10",
+      "col_2": "Pricing & Offer",
+      "col_3": "Nilo",
+      "col_4": "[TBD — D2C pricing expert]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Strategic because pricing affects everything."
+    },
+    {
+      "TRUST PROTOCOL": "M11",
+      "col_2": "VSL Production",
+      "col_3": "Nilo",
+      "col_4": "[TBD — DR creative director]",
+      "col_5": "[TBD — DR creative director]",
+      "col_6": "Nilo",
+      "col_7": "Need someone who has done winning VSLs."
+    },
+    {
+      "TRUST PROTOCOL": "M12",
+      "col_2": "Ad Creative",
+      "col_3": "Nilo",
+      "col_4": "[TBD — DR creative director]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Same person as M11 ideally."
+    },
+    {
+      "TRUST PROTOCOL": "M13",
+      "col_2": "Media Buying",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — media buyer]",
+      "col_5": "[TBD — media buyer]",
+      "col_6": "[TBD]",
+      "col_7": "Need a trusted media buyer. This is where money burns."
+    },
+    {
+      "TRUST PROTOCOL": "M14",
+      "col_2": "Testing & Optimization",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — media buyer]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Related to M13 — same person."
+    },
+    {
+      "TRUST PROTOCOL": "M15",
+      "col_2": "Landing Pages & Conversion",
+      "col_3": "Nilo",
+      "col_4": "[TBD — CRO expert]",
+      "col_5": "Product Person",
+      "col_6": "Nilo",
+      "col_7": "Where revenue happens. High stakes."
+    },
+    {
+      "TRUST PROTOCOL": "M16",
+      "col_2": "Content & SEO",
+      "col_3": "[TBD]",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Lower priority. Can verify later."
+    },
+    {
+      "TRUST PROTOCOL": "M17",
+      "col_2": "Email & SMS",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — Klaviyo expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Expert cluster E."
+    },
+    {
+      "TRUST PROTOCOL": "M18",
+      "col_2": "Email Lifecycle Flows",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — Klaviyo expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Same as M17."
+    },
+    {
+      "TRUST PROTOCOL": "M19",
+      "col_2": "Customer Lifecycle & CRM",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — Klaviyo expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Same as M17."
+    },
+    {
+      "TRUST PROTOCOL": "M20",
+      "col_2": "Customer Support",
+      "col_3": "[TBD]",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Low trust requirement. PM can verify."
+    },
+    {
+      "TRUST PROTOCOL": "M21",
+      "col_2": "Subscription & Retention",
+      "col_3": "Nilo",
+      "col_4": "[TBD — retention expert]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "LTV-critical. Strategic."
+    },
+    {
+      "TRUST PROTOCOL": "M22",
+      "col_2": "Referral & Community",
+      "col_3": "[TBD]",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Lower priority early."
+    },
+    {
+      "TRUST PROTOCOL": "M23",
+      "col_2": "Influencer & Creator",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — influencer mgr]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Nilo has distribution context from Tabs."
+    },
+    {
+      "TRUST PROTOCOL": "M24",
+      "col_2": "Fulfillment & Inventory",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — 3PL expert]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Execution-heavy. Expert verifies."
+    },
+    {
+      "TRUST PROTOCOL": "M25",
+      "col_2": "Financial Operations",
+      "col_3": "[TBD — CFO type]",
+      "col_4": "[TBD — CFO type]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Same as M3."
+    },
+    {
+      "TRUST PROTOCOL": "M26",
+      "col_2": "Competitive Intelligence",
+      "col_3": "[TBD]",
+      "col_4": "PM co-founder",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "PM can verify. Low trust requirement."
+    },
+    {
+      "TRUST PROTOCOL": "M27",
+      "col_2": "Customer Research",
+      "col_3": "Nilo",
+      "col_4": "[TBD — UX researcher]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Strategic. Nilo needs to trust the ICP read."
+    },
+    {
+      "TRUST PROTOCOL": "M28",
+      "col_2": "Market & Expansion",
+      "col_3": "Nilo",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Strategic. Future bets."
+    },
+    {
+      "TRUST PROTOCOL": "M29",
+      "col_2": "PR & Communications",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — PR person]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Nilo verifies vibes. PR person verifies domain."
+    },
+    {
+      "TRUST PROTOCOL": "M30",
+      "col_2": "Analytics & Dashboards",
+      "col_3": "[TBD]",
+      "col_4": "[TBD]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Execution-heavy. PM can verify."
+    },
+    {
+      "TRUST PROTOCOL": "M31",
+      "col_2": "Hiring & Roles",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "People decisions. Nilo-heavy."
+    },
+    {
+      "TRUST PROTOCOL": "M32",
+      "col_2": "School Model",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Proprietary Studio 4 IP."
+    },
+    {
+      "TRUST PROTOCOL": "M33",
+      "col_2": "Governance & CM",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Proprietary Studio 4 IP."
+    },
+    {
+      "TRUST PROTOCOL": "M34",
+      "col_2": "Trade Architecture",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Proprietary Studio 4 IP."
+    },
+    {
+      "TRUST PROTOCOL": "M35",
+      "col_2": "Execution Plans & Rhythms",
+      "col_3": "Nilo",
+      "col_4": "[TBD — COO type]",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Expert cluster H."
+    },
+    {
+      "TRUST PROTOCOL": "M36",
+      "col_2": "Operational Infrastructure",
+      "col_3": "[TBD]",
+      "col_4": "[TBD — COO type]",
+      "col_5": "PM co-founder",
+      "col_6": "[TBD]",
+      "col_7": "Same as M35."
+    },
+    {
+      "TRUST PROTOCOL": "M37",
+      "col_2": "AI & Automation",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Proprietary."
+    },
+    {
+      "TRUST PROTOCOL": "M38",
+      "col_2": "Strategic Frameworks",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Proprietary Studio 4 IP."
+    },
+    {
+      "TRUST PROTOCOL": "M39",
+      "col_2": "Conceptual & Philosophical",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "Nilo",
+      "col_6": "Nilo",
+      "col_7": "Proprietary. coordinationprotocols.com territory."
+    },
+    {
+      "TRUST PROTOCOL": "M40",
+      "col_2": "Navigation & Command",
+      "col_3": "Nilo",
+      "col_4": "Nilo",
+      "col_5": "PM co-founder",
+      "col_6": "Nilo",
+      "col_7": "Proprietary but PM executes."
+    },
+    {
+      "TRUST PROTOCOL": "GAP ANALYSIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Counting [TBD] entries above reveals the trust gaps:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "CRITICAL GAPS (high-stakes models with no trusted verifier):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• CFO / Finance person — covers M3, M25, and financial judgment across all models",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• DR Creative Director — covers M11, M12, M15. This is where ad spend converts or doesn't.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• Media Buyer — covers M13, M14. This is where money burns fastest.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• Investor-grade advisor — covers S3, M4. Fundraising strategy for both companies.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "MODERATE GAPS (important but can wait):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• Supplement formulation expert — M5, M6. Need before product production.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• Regulatory consultant — M7. Need before FDA claims.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• Klaviyo / retention expert — M17-M19, M21. Need before email launch.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "LOW GAPS (PM can cover initially):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• SEO, support, referral, analytics — M16, M20, M22, M30.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "ZERO GAPS (Nilo is the verifier):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "• M0, M32-M34, M38-M39. Proprietary Studio 4 IP. Only Nilo.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "The trust map is also a RECRUITING PRIORITY LIST.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Fill the critical gaps first. Those people become the trust anchors",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "that make everything else verifiable.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "HOW TO FILL IN THIS MAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Nilo fills this in by asking one question per cell:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "'If I got a final draft of [this model] and needed someone to tell me if it's right,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "who would I call?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "If a name comes to mind instantly: fill it in.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "If no name comes to mind: that's a [TBD]. That's a gap.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "If the answer is 'only me': that's fine for proprietary models, but a bottleneck for everything else.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "The goal is to get Nilo out of as many cells as possible",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "without lowering the trust bar.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Every [TBD] that gets filled is one less thing that routes back to Nilo.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "Every [TBD] that stays empty is one more thing that can't be verified without Nilo.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "TRUST PROTOCOL": "The trust map is the delegation map.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    }
+  ],
+  "row_count": 109,
+  "sheet_name": "Trust Protocol",
+  "sheet_index": 96
+}

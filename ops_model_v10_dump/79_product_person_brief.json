@@ -1,0 +1,227 @@
+{
+  "headers": [
+    "PRODUCT PERSON — HIRING BRIEF",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "THE JOB",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Build two sites in ~2 weeks:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "SITE 1: IonWave DAO Spinoff Page (password-protected)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "The site described in this spec. Password gate, hero, story, cast, system,",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "numbers, daily video feed, FAQ, apply/CTA. Consumer-grade quality.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "The VA will update daily. You build it so she can.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "SITE 2: DAO Infrastructure Company Page (public or password-protected)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "The coordination hedgefund thesis. IonWave as proof. Tech roadmap.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Team. How to participate. This is the parent company investor page.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Both sites must feel like the same brand. Same design system. Same quality bar.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Reference: remedymeds.com for quality and direct response sensibility.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Think: if Remedy made a venture studio site.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "REQUIREMENTS",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Technical:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Next.js or equivalent (fast, SEO-ready, component-based)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• CMS for VA to post daily updates (video + text) without touching code",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Password gate with tier support (1 password or multiple tiers TBD)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Video hosting (Mux, Cloudflare Stream, or Vimeo OTT — not YouTube)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Mobile-first responsive design",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Fast (<2s load, optimized video streaming)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Design:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Consumer-grade — must pass the 'would I show this to a stranger' test",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Cinematic feel — full-bleed video, dramatic typography, intentional whitespace",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Direct response elements — social proof counters, authority badges, CTAs, FAQ",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Brand system — logo, color palette, typography, components reusable across both sites",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• No templates. No WordPress themes. Custom.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Content management:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• VA can upload video + write 1-line summary without developer help",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Cast page editable (add new character, update photo, mark role as filled)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Stats/counters update easily (Day X, team count, expert count)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• FAQ expandable without code changes",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "WHO THIS PERSON IS",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Not just a developer. Not just a designer. A product person.",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "They need:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Design sensibility (portfolio of consumer-grade work, not enterprise dashboards)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Frontend engineering (can build it themselves, not just design in Figma)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Speed (2 weeks to two production-quality sites is aggressive but doable)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Taste (knows the difference between 'good enough' and 'actually good')",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Where to find them:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Contra, Toptal, or curated freelance networks",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Indie hackers who have shipped beautiful consumer products",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Design engineers (the hybrid role that's increasingly common)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Compensation:",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Contract fee ($3-8K for both sites, depending on talent level)",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Small equity in IonWave (0.5-1%) if they're exceptional and want ongoing involvement",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "• Portfolio piece: 'I built the launch infrastructure for a YC-backed venture studio'",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "DELIVERABLES & TIMELINE",
+      "col_2": null
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "Day",
+      "col_2": "Deliverable"
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "1-2",
+      "col_2": "Brand system: logo, colors, typography, component library. Design comps for 3 key pages (Home, Cast, Daily Update)."
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "3-4",
+      "col_2": "Password gate + Home/Hero page live. Video hosting configured. VA can test upload."
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "5-7",
+      "col_2": "Story page + Cast page + Daily Update feed live. CMS working. VA does first real update."
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "8-9",
+      "col_2": "System page + Numbers page + FAQ + Apply/CTA. Full Site 1 complete."
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "10-12",
+      "col_2": "Site 2 (infrastructure company page). Same design system, different content."
+    },
+    {
+      "PRODUCT PERSON — HIRING BRIEF": "13-14",
+      "col_2": "QA, mobile testing, speed optimization, final polish. Both sites live."
+    }
+  ],
+  "row_count": 54,
+  "sheet_name": "Product Person Brief",
+  "sheet_index": 79
+}

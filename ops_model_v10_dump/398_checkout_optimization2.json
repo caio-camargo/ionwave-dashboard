@@ -1,0 +1,137 @@
+{
+  "headers": [
+    "CHECKOUT OPTIMIZATION",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "CHECKOUT OPTIMIZATION": "Reduce cart abandonment and increase conversion at checkout",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CART ABANDONMENT REASONS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Reason",
+      "col_2": "% of Abandons",
+      "col_3": "Fix"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Extra costs (shipping, tax)",
+      "col_2": "48%",
+      "col_3": "Show all costs upfront, free shipping threshold"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Account required",
+      "col_2": "24%",
+      "col_3": "Guest checkout option"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Too long/complicated",
+      "col_2": "18%",
+      "col_3": "Fewer fields, one-page checkout"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Didn't trust with card info",
+      "col_2": "17%",
+      "col_3": "Trust badges, security seals"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Website errors",
+      "col_2": "13%",
+      "col_3": "Test regularly, fast load"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Returns policy",
+      "col_2": "12%",
+      "col_3": "Clear, generous return policy"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "Not enough payment options",
+      "col_2": "9%",
+      "col_3": "Apple Pay, PayPal, Afterpay"
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "CHECKOUT OPTIMIZATION CHECKLIST",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Guest checkout enabled",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Express checkout (Apple Pay, Shop Pay, PayPal)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Shipping cost shown BEFORE checkout",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Free shipping threshold clear",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Trust badges visible (SSL, payment logos)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Money-back guarantee visible",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Order summary always visible",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Minimal form fields",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Auto-fill enabled",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Mobile-optimized",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Progress indicator (Step 1 of 3)",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Error messages are clear",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ No surprise fees at end",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "CHECKOUT OPTIMIZATION": "☐ Multiple payment options",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Checkout Optimization2",
+  "sheet_index": 398
+}

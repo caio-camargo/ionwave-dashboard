@@ -1,0 +1,421 @@
+{
+  "headers": [
+    "SUPPLIER EVALUATION FRAMEWORK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7"
+  ],
+  "rows": [
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "How to find, evaluate, and select suppliers. Don't rush this.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "WHERE TO FIND SUPPLIERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Source",
+      "col_2": "How to access",
+      "col_3": "Notes",
+      "col_4": "Quality",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Alibaba",
+      "col_2": "alibaba.com",
+      "col_3": "Largest, verify with Trade Assurance",
+      "col_4": "Medium",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Global Sources",
+      "col_2": "globalsources.com",
+      "col_3": "More vetted than Alibaba",
+      "col_4": "Medium-High",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "ThomasNet",
+      "col_2": "thomasnet.com",
+      "col_3": "US/North American suppliers",
+      "col_4": "High",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Industry tradeshows",
+      "col_2": "SupplySide West, Natural Products Expo",
+      "col_3": "Meet in person, see products",
+      "col_4": "High",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Competitor research",
+      "col_2": "Check their labels for manufacturer",
+      "col_3": "Reverse-engineer supply chain",
+      "col_4": "High",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "LinkedIn",
+      "col_2": "Search \"[product] manufacturer\"",
+      "col_3": "Direct outreach",
+      "col_4": "Medium",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Referrals",
+      "col_2": "Ask other brand founders",
+      "col_3": "Best source",
+      "col_4": "Very High",
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "SUPPLIER EVALUATION SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Criterion",
+      "col_2": "Weight",
+      "col_3": "How to Verify",
+      "col_4": "Supplier 1",
+      "col_5": "Supplier 2",
+      "col_6": "Supplier 3",
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Price (per unit at MOQ)",
+      "col_2": "25%",
+      "col_3": "Get written quote",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "MOQ",
+      "col_2": "15%",
+      "col_3": "Ask directly, negotiate",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Lead time",
+      "col_2": "15%",
+      "col_3": "Confirm in writing",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Quality (sample test)",
+      "col_2": "20%",
+      "col_3": "Order samples, test",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Communication",
+      "col_2": "10%",
+      "col_3": "Response time, English",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Certifications",
+      "col_2": "10%",
+      "col_3": "Request certificates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Payment terms",
+      "col_2": "5%",
+      "col_3": "Negotiate NET terms",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "TOTAL SCORE",
+      "col_2": "100%",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "QUESTIONS TO ASK EVERY SUPPLIER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• What is your MOQ and price at that quantity?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• What is price at 2x and 5x that quantity?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• What is your lead time from order to ship?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Can you provide samples? What is the cost?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Do you have FDA registration / GMP certification?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Can you provide COA (Certificate of Analysis) for each batch?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• What are your payment terms for new customers?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• After how many orders can we get NET-30 terms?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Can you do custom packaging/labeling?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• What is your defect rate / quality guarantee?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Can you provide references from US customers?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "• Do you have product liability insurance?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "SUPPLIER RED FLAGS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Won't provide samples or charges excessively",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Can't provide certifications or COA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Requires 100% payment upfront (50/50 is standard)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Extremely low prices (if too good to be true...)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Poor English and slow communication",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 No verified reviews or trade assurance",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Won't provide customer references",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "🚩 Pressure to order immediately",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "═══════════════════════════════════════════════════════════",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "ONGOING SUPPLIER SCORECARD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null
+    },
+    {
+      "SUPPLIER EVALUATION FRAMEWORK": "Month",
+      "col_2": "Quality Score",
+      "col_3": "On-Time %",
+      "col_4": "Communication",
+      "col_5": "Issue Count",
+      "col_6": "Overall",
+      "col_7": "Notes"
+    }
+  ],
+  "row_count": 45,
+  "sheet_name": "Supplier Evaluation",
+  "sheet_index": 234
+}

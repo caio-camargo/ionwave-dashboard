@@ -1,0 +1,215 @@
+{
+  "headers": [
+    "BEAUTY SCORE DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "BEAUTY SCORE DASHBOARD": "Beauty = Compression without loss. Maximum information, minimum space, perfect recovery.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Beautiful = high information density + lossless decompression",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Ugly = low density (verbose) OR lossy (can't recover meaning)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "DOCUMENT BEAUTY SCORES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Document",
+      "col_2": "Length",
+      "col_3": "Info Density (1-10)",
+      "col_4": "Recovery Rate (1-10)",
+      "col_5": "Beauty Score",
+      "col_6": "Action"
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "This Ops Model",
+      "col_2": "323 tabs",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": "Add Command Center (done)"
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Weekly Report Template",
+      "col_2": "1 page",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Onboarding Doc",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Brand Book",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Email Templates",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Ad Briefs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "SCORING GUIDE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Info Density",
+      "col_2": "10 = Every word essential, 1 = Mostly filler",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Recovery Rate",
+      "col_2": "10 = Reader gets full meaning, 1 = Reader confused",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Beauty Score",
+      "col_2": "Density × Recovery / 10 = Max 10",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "BEAUTY TARGETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "• Command Center: 10/10 (compressed 323 tabs to 1 page)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "• Weekly Report: >8/10 (dense but recoverable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "• SOPs: >7/10 (comprehensive but usable)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "• Strategy Docs: >6/10 (depth required, but not verbose)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "FALSE ORDER vs SUBSTANTIVE ORDER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "False Order: Looks organized (sections, headers) but ideas don't actually connect",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Substantive Order: Ideas genuinely integrate, each part reinforces others",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "BEAUTY SCORE DASHBOARD": "Test: Remove formatting. Does the logic still flow? If not, it's False Order.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Beauty Score Dashboard",
+  "sheet_index": 899
+}

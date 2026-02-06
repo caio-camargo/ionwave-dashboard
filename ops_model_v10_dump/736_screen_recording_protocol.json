@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "SCREEN RECORDING PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "SCREEN RECORDING PROTOCOL": "When and how to record work sessions",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "WHEN TO RECORD",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "• All training/onboarding sessions",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "• Complex problem-solving sessions",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "• When requested by CM or Studio",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "• Any session involving sensitive decisions",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "• Process documentation for SOPs",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "HOW TO RECORD",
+      "col_2": null
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "Tool",
+      "col_2": "Loom (free tier) or local screen recording"
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "Storage",
+      "col_2": "Google Drive shared folder"
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "Naming",
+      "col_2": "[DATE]_[TOPIC]_[DURATION]"
+    },
+    {
+      "SCREEN RECORDING PROTOCOL": "Retention",
+      "col_2": "90 days unless flagged for permanent"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Screen Recording Protocol",
+  "sheet_index": 736
+}

@@ -1,0 +1,147 @@
+{
+  "headers": [
+    "INVESTOR DASHBOARD TEMPLATE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Standard KPI dashboard format for investor reporting",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "[VENTURE NAME] — [PERIOD]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Current Grade: [___]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "KEY METRICS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Metric",
+      "col_2": "Target",
+      "col_3": "Actual",
+      "col_4": "vs Target",
+      "col_5": "MoM"
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Revenue",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Customers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "CAC",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "LTV",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Gross Margin",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Burn Rate",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "Runway",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "HIGHLIGHTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "• [Key win 1]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "• [Key win 2]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "• [Key win 3]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "CONCERNS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "• [Issue 1]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "INVESTOR DASHBOARD TEMPLATE": "• [Issue 2]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 19,
+  "sheet_name": "CM Dashboard Template",
+  "sheet_index": 710
+}

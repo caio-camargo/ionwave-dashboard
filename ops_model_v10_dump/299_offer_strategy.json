@@ -1,0 +1,32 @@
+{
+  "headers": [
+    "OPERATOR OFFER STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "OPERATOR OFFER STRATEGY": "Equity",
+      "col_2": "15-25% of trade",
+      "col_3": "Vesting over 4 years, 1 year cliff"
+    },
+    {
+      "OPERATOR OFFER STRATEGY": "Base",
+      "col_2": "$0 during sprint",
+      "col_3": "Equity-only model"
+    },
+    {
+      "OPERATOR OFFER STRATEGY": "Bonus",
+      "col_2": "Milestone-based",
+      "col_3": "$X at $25K MRR, $Y at $50K MRR"
+    },
+    {
+      "OPERATOR OFFER STRATEGY": "Upside",
+      "col_2": "Profit share",
+      "col_3": "After break-even, % of profits"
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Offer Strategy",
+  "sheet_index": 299
+}

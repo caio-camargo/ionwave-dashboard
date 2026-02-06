@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "This is what the expert uses to assign grades. Specific enough that two experts would give similar grades on the same work.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Grade",
+      "col_2": "Label",
+      "col_3": "What It Means",
+      "col_4": "Expert Action",
+      "col_5": "Equity Impact"
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "A",
+      "col_2": "Exceptional",
+      "col_3": "Could be published or implemented as-is. Original insights beyond what Claude + a generalist PM would produce. Expert learned something reading it. No significant gaps.",
+      "col_4": "Lock immediately. File V-tab with per-tab notes. Record on show.",
+      "col_5": "PM earns full sprint equity + recognition."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "B+",
+      "col_2": "Strong",
+      "col_3": "Minor gaps or refinements needed but the structure, reasoning, and conclusions are sound. A competent operator could use this with light editing.",
+      "col_4": "Lock with noted minor improvements. PM can address in implementation phase.",
+      "col_5": "PM earns full sprint equity."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "B",
+      "col_2": "Solid",
+      "col_3": "Meets the standard. No major errors. Covers the scope. Some areas could be deeper but nothing is wrong. This is the EXPECTED grade for well-specified P-tabs + Claude + competent PM.",
+      "col_4": "Lock. File V-tab. Note areas for future depth.",
+      "col_5": "PM earns full sprint equity."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "B-",
+      "col_2": "Acceptable",
+      "col_3": "Barely meets standard. Several areas feel thin. Would need meaningful revision before an operator could use it confidently. On the boundary.",
+      "col_4": "Expert's judgment: lock with caveats or return for revision. Must justify either way in writing.",
+      "col_5": "PM earns full sprint equity if locked. If returned, see C."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "C",
+      "col_2": "Needs Work",
+      "col_3": "Significant gaps, errors, or missing analysis. Not usable as-is. Requires substantial revision. Usually means the PM didn't engage deeply with Claude's output — just submitted the draft.",
+      "col_4": "Return to production. Expert writes specific remediation notes: \"fix X, add Y, redo Z.\" PM gets one revision cycle.",
+      "col_5": "PM equity paused for this sprint. Earned on successful re-review."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "D",
+      "col_2": "Failing",
+      "col_3": "Fundamental problems. Wrong conclusions, missing core sections, no original contribution beyond Claude's raw output. Would mislead an operator who relied on it.",
+      "col_4": "Return to production with major remediation. Post-mortem required: why did this happen? P-tab underspecified? PM disengaged? Wrong domain fit?",
+      "col_5": "PM equity at risk. Forfeiture possible on second D."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "F",
+      "col_2": "Reject",
+      "col_3": "Not submitted in good faith. Placeholder content. Claude output pasted with no refinement. Or factually dangerous (would cause legal/financial/health harm if implemented).",
+      "col_4": "Reject entirely. PM exits the cluster. New PM assigned. This TUP starts over.",
+      "col_5": "PM equity forfeited for this sprint. No re-review."
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "PER-TAB REVIEW REQUIREMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Every C-tab gets a note. Not just the overall TUP — each individual tab.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Notes must be specific. \"Looks good\" is rejected. \"Strong supplier analysis for sodium; missing backup supplier for magnesium citrate; price assumptions need sourcing verification\" is accepted.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Expert must note at least one strength and one gap per tab. If they can't find a gap, the tab is either perfect (rare) or the expert didn't read carefully (common).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Estimated review time: 1-2 hours per TUP (3-5 C-tabs). If the expert finishes in 30 minutes, they didn't engage deeply enough.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "EXPERT GRADING RUBRIC — INCLUDED IN ONBOARDING PACKET": "Grade without per-tab notes is automatically rejected by the Librarian. Expert must resubmit.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Expert Onboarding - Rubric",
+  "sheet_index": 1207
+}

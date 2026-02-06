@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "The Librarian shouldn't grade their own homework. Conductor counter-signs state transitions. Two-key system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "THE PROBLEM",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "The Librarian routes work AND enforces process compliance. That's a conflict.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "They have incentive to keep things moving, not to slow things down for compliance.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "A standalone Compliance Manager is overhead the pre-funding model can't afford.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Solution: two-key system. Librarian routes and locks. Conductor confirms the transition was legitimate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Neither can do it alone. Zero additional headcount. Just a procedural check.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "TWO-KEY TRANSITION TABLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Transition",
+      "col_2": "Key 1 (Initiator)",
+      "col_3": "Key 2 (Counter-signer)",
+      "col_4": "What Key 2 Verifies",
+      "col_5": "If Key 2 Refuses"
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "T01: NULL→DRAFT",
+      "col_2": "Nilo (commits TUP to existence)",
+      "col_3": "Librarian (confirms P-tab exists and is filed)",
+      "col_4": "P-tab is structurally complete and filed in correct location",
+      "col_5": "TUP stays in NULL. Nilo must complete P-tab."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "T12: DRAFT→PRODUCTION",
+      "col_2": "Conductor (activates cluster)",
+      "col_3": "Librarian (confirms PM has tab slice and tool access)",
+      "col_4": "PM's Google Drive folder is populated. Dependencies are met (PRE-01 etc).",
+      "col_5": "Cluster stays in DRAFT. Conductor resolves access/dependency issue."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "T23: PRODUCTION→INTERNAL_REVIEW",
+      "col_2": "PM Co-Founder (submits work)",
+      "col_3": "Librarian (accepts for review)",
+      "col_4": "All C-tabs listed in P-tab are present with content. No empty tabs submitted.",
+      "col_5": "TUP stays in PRODUCTION. PM must complete missing tabs."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "T34: INTERNAL_REVIEW→EXPERT_REVIEW",
+      "col_2": "Librarian (approves structural completeness)",
+      "col_3": "Conductor (confirms not blocking other clusters + expert assigned)",
+      "col_4": "Expert Reviewer is assigned, independent (no conflicts), and available within timeline.",
+      "col_5": "TUP stays in INTERNAL_REVIEW. Conductor resolves scheduling/independence issue."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "T45: EXPERT_REVIEW→LOCKED",
+      "col_2": "Expert Reviewer (records grade ≥ B)",
+      "col_3": "Librarian (confirms lock) + Conductor (confirms grade inflation check passed)",
+      "col_4": "Grade is recorded with per-tab notes. Review time ≥ minimum threshold. Grade inflation defense not triggered.",
+      "col_5": "TUP stays in EXPERT_REVIEW. If inflation flagged: secondary review triggered."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "TAMEND: LOCKED→EXPERT_REVIEW",
+      "col_2": "Nilo (authorizes amendment)",
+      "col_3": "Librarian (confirms justification filed) + Conductor (confirms downstream impact assessed)",
+      "col_4": "Written justification exists. Impact on dependent TUPs documented.",
+      "col_5": "Lock holds. Amendment denied. Nilo can override but it's logged."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "COMPLIANCE ROLES (pre-funding vs post-funding)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Phase",
+      "col_2": "Process Compliance",
+      "col_3": "Fiduciary Compliance",
+      "col_4": "Grade Quality",
+      "col_5": "State Machine Integrity"
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Pre-funding (imagination)",
+      "col_2": "Librarian + Conductor (two-key)",
+      "col_3": "N/A — no external capital yet",
+      "col_4": "Grade Inflation Defense mechanisms",
+      "col_5": "Two-key transitions. Override = Nilo only, logged."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Post-funding (implementation)",
+      "col_2": "Librarian + Conductor (two-key continues)",
+      "col_3": "Trustee (fiduciary oversight, AU permission on everything)",
+      "col_4": "Grade Inflation Defense + Trustee audit rights",
+      "col_5": "Two-key + Trustee audit trail. Trustee can pause operations on threshold breach."
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "WHAT HAPPENED TO THE COMPLIANCE MANAGER?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "The Vicioso/DAO model has a Compliance Manager who assesses and grades process adherence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "In the IonWave implementation, that function is distributed:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "— Process compliance during production → Librarian + Conductor two-key system",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "— Grade quality → Grade Inflation Defense structural mechanisms",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "— Fiduciary compliance post-funding → Trustee with AU permission",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "— State machine integrity → Two-key transitions + logged overrides",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "No standalone CM role because the protocol IS the compliance mechanism.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "If transitions require guard conditions, and two people must confirm them, that's compliance by design.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "A dedicated CM might make sense at scale (multiple Trades running simultaneously). For IonWave v1, the distributed model is sufficient.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "NOTE: CONDUCTOR SCOPE EXPANSION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "COMPLIANCE PROTOCOL — TWO-KEY STATE TRANSITIONS": "Conductor now also builds ops site + Shopify storefront using AI tools. This adds to Conductor workload but eliminates Product Person role (saves 2-4% equity). Conductor's two-key counter-sign duties remain unchanged — site building is a separate workstream.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Compliance Protocol",
+  "sheet_index": 1193
+}

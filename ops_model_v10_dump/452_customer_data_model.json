@@ -1,0 +1,140 @@
+{
+  "headers": [
+    "CUSTOMER DATA MODEL",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "CUSTOMER DATA MODEL": "What we know about each customer and where it lives",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER DATA MODEL": "CUSTOMER RECORD",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "CUSTOMER DATA MODEL": "Field",
+      "col_2": "Source",
+      "col_3": "Updated When",
+      "col_4": "Used By",
+      "col_5": "Privacy Level"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Email",
+      "col_2": "Opt-in / Purchase",
+      "col_3": "Once",
+      "col_4": "Klaviyo, Support, Fulfillment",
+      "col_5": "PII — encrypted"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Name",
+      "col_2": "Purchase",
+      "col_3": "Once",
+      "col_4": "Fulfillment, Support, Personalization",
+      "col_5": "PII — encrypted"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Lifecycle Stage",
+      "col_2": "Computed",
+      "col_3": "Every interaction",
+      "col_4": "All marketing automation, reporting",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "First Touch Source",
+      "col_2": "UTM / Meta pixel",
+      "col_3": "Once (at acquisition)",
+      "col_4": "Attribution, CAC by channel",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Total Orders",
+      "col_2": "Shopify",
+      "col_3": "Every purchase",
+      "col_4": "Segmentation, VIP tiers",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Total LTV",
+      "col_2": "Shopify",
+      "col_3": "Every purchase",
+      "col_4": "Retention targeting, ROI analysis",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Days Since Last Purchase",
+      "col_2": "Computed",
+      "col_3": "Daily",
+      "col_4": "Winback triggers, churn prediction",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Subscription Status",
+      "col_2": "Shopify / ReCharge",
+      "col_3": "On change",
+      "col_4": "Retention, forecasting",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "NPS Score",
+      "col_2": "Survey",
+      "col_3": "Post-purchase + quarterly",
+      "col_4": "Product quality, advocate identification",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Support Tickets",
+      "col_2": "Help desk",
+      "col_3": "On ticket",
+      "col_4": "Quality monitoring, experience flags",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Product Feedback",
+      "col_2": "Survey / Review",
+      "col_3": "On submission",
+      "col_4": "Product development, testimonials",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Referral Count",
+      "col_2": "Referral program",
+      "col_3": "On referral",
+      "col_4": "Advocate tier, rewards",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Email Engagement",
+      "col_2": "Klaviyo",
+      "col_3": "Every send",
+      "col_4": "Deliverability, segmentation, sunset",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Ad Engagement",
+      "col_2": "Meta pixel",
+      "col_3": "Every interaction",
+      "col_4": "Retargeting, lookalike seeds",
+      "col_5": "Internal"
+    },
+    {
+      "CUSTOMER DATA MODEL": "Churn Risk Score",
+      "col_2": "Computed",
+      "col_3": "Weekly",
+      "col_4": "Retention intervention triggers",
+      "col_5": "Internal"
+    }
+  ],
+  "row_count": 18,
+  "sheet_name": "Customer Data Model",
+  "sheet_index": 452
+}

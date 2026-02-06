@@ -1,0 +1,127 @@
+{
+  "headers": [
+    "WEEK 1 DAY-BY-DAY CHECKLIST",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "Hour-by-hour first week of launch",
+      "col_2": null
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "DAY 1 - LAUNCH",
+      "col_2": null
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "6:00 AM",
+      "col_2": "☐ Final check: inventory, tracking, email flows"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "7:00 AM",
+      "col_2": "☐ Turn on ads (start with $50/day)"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "8:00 AM",
+      "col_2": "☐ Monitor first impressions, CTR"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "10:00 AM",
+      "col_2": "☐ Check for first orders"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "12:00 PM",
+      "col_2": "☐ Verify order flow: Shopify → 3PL"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "2:00 PM",
+      "col_2": "☐ Check email triggers firing"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "4:00 PM",
+      "col_2": "☐ First performance snapshot"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "6:00 PM",
+      "col_2": "☐ Address any issues"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "9:00 PM",
+      "col_2": "☐ End of day report to groupchat"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "DAY 2 - MONITOR",
+      "col_2": null
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "8:00 AM",
+      "col_2": "☐ Check overnight performance"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "10:00 AM",
+      "col_2": "☐ Review ad metrics (CTR, CPC, ROAS)"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "12:00 PM",
+      "col_2": "☐ Check fulfillment status"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "2:00 PM",
+      "col_2": "☐ Respond to any support tickets"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "4:00 PM",
+      "col_2": "☐ Adjust bids if needed"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "6:00 PM",
+      "col_2": "☐ Daily report"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "DAY 3-5 - OPTIMIZE",
+      "col_2": null
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "Morning",
+      "col_2": "☐ Performance review, kill underperformers"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "Midday",
+      "col_2": "☐ Scale what's working (+20% budget)"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "Afternoon",
+      "col_2": "☐ Monitor CAC trend"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "Evening",
+      "col_2": "☐ Daily report, flag concerns"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": "DAY 6-7 - WEEK 1 REVIEW",
+      "col_2": null
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": null,
+      "col_2": "☐ Compile Week 1 metrics"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": null,
+      "col_2": "☐ Calculate actual CAC, ROAS, CVR"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": null,
+      "col_2": "☐ Document learnings"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": null,
+      "col_2": "☐ Prepare Week 1 Report"
+    },
+    {
+      "WEEK 1 DAY-BY-DAY CHECKLIST": null,
+      "col_2": "☐ Adjust Week 2 plan based on data"
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Week 1 Day-by-Day",
+  "sheet_index": 782
+}

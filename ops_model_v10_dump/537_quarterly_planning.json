@@ -1,0 +1,199 @@
+{
+  "headers": [
+    "QUARTERLY PLANNING",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "QUARTERLY PLANNING": "OKRs, resource allocation, strategic shifts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "QUARTER: Q[X] 2026",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "THEME",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "[One phrase that captures the quarter's focus, e.g., 'Foundation' or 'Scale' or 'Optimize']",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "OBJECTIVES & KEY RESULTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "OBJECTIVE 1:",
+      "col_2": "[Big outcome we want]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Key Result",
+      "col_2": "Description",
+      "col_3": "Target",
+      "col_4": "Actual"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 1.1",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 1.2",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 1.3",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "OBJECTIVE 2:",
+      "col_2": "[Big outcome we want]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Key Result",
+      "col_2": "Description",
+      "col_3": "Target",
+      "col_4": "Actual"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 2.1",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 2.2",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 2.3",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "OBJECTIVE 3:",
+      "col_2": "[Big outcome we want]",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Key Result",
+      "col_2": "Description",
+      "col_3": "Target",
+      "col_4": "Actual"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 3.1",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 3.2",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "KR 3.3",
+      "col_2": "[Measurable result]",
+      "col_3": "[Target]",
+      "col_4": "[Actual]"
+    },
+    {
+      "QUARTERLY PLANNING": "RESOURCE ALLOCATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Budget",
+      "col_2": "$[X] total",
+      "col_3": "Inventory: $[X], Marketing: $[X], Ops: $[X]",
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Time",
+      "col_2": "[X] hrs/week operator",
+      "col_3": "Marketing: [X]%, Ops: [X]%, Admin: [X]%",
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Focus",
+      "col_2": "[Primary focus area]",
+      "col_3": "[Secondary]",
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "STRATEGIC BETS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Bet #1",
+      "col_2": "[What we're betting on]",
+      "col_3": "[Why]",
+      "col_4": "[How we'll know if it worked]"
+    },
+    {
+      "QUARTERLY PLANNING": "Bet #2",
+      "col_2": "[What we're betting on]",
+      "col_3": "[Why]",
+      "col_4": "[How we'll know if it worked]"
+    },
+    {
+      "QUARTERLY PLANNING": "RISKS TO MONITOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "QUARTERLY PLANNING": "Risk",
+      "col_2": "Likelihood",
+      "col_3": "Impact",
+      "col_4": "Mitigation"
+    },
+    {
+      "QUARTERLY PLANNING": "[Risk 1]",
+      "col_2": "H/M/L",
+      "col_3": "H/M/L",
+      "col_4": "[Plan]"
+    },
+    {
+      "QUARTERLY PLANNING": "[Risk 2]",
+      "col_2": "H/M/L",
+      "col_3": "H/M/L",
+      "col_4": "[Plan]"
+    }
+  ],
+  "row_count": 31,
+  "sheet_name": "Quarterly Planning",
+  "sheet_index": 537
+}

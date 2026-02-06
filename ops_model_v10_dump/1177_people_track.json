@@ -1,0 +1,287 @@
+{
+  "headers": [
+    "PEOPLE TRACK",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "PEOPLE TRACK": "Every person who touches the Trade. Where they are, what they owe, what they've earned.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "WHY THIS VIEW EXISTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "The Trade is organized by domain (TUPs). But people don't live in one domain.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "A PM might touch 5 clusters. An expert reviewer grades 3 TUPs. The MC talks to everyone.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "This tab answers: who is involved, what's their role, what TUPs are they assigned to, what's their grade status?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "Cross-reference: Course Template (per-TUP view), Cluster assignments (per-cluster view), this tab (per-person view).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "PERSISTENT ROLES (Always Active)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "Person",
+      "col_2": "Role",
+      "col_3": "Scope",
+      "col_4": "Compensation",
+      "col_5": "Status",
+      "col_6": "Grade",
+      "col_7": "TUPs Assigned",
+      "col_8": "Notes"
+    },
+    {
+      "PEOPLE TRACK": "Nilo",
+      "col_2": "Founder / Trade Author",
+      "col_3": "Entire Trade — greenlight authority",
+      "col_4": "Equity (majority)",
+      "col_5": "Active",
+      "col_6": "—",
+      "col_7": "M0 (direct), all (oversight)",
+      "col_8": "Sets initial conditions. Grader of last resort."
+    },
+    {
+      "PEOPLE TRACK": "TBD",
+      "col_2": "Librarian (Elaine role)",
+      "col_3": "All TUPs — routing, QA, tracking",
+      "col_4": "Equity (0.3-0.5%) + hourly",
+      "col_5": "Hiring",
+      "col_6": "—",
+      "col_7": "All 103 TUPs (routing)",
+      "col_8": "First persistent hire. Makes artifact-mediated coordination work."
+    },
+    {
+      "PEOPLE TRACK": "TBD",
+      "col_2": "MC (Master of Ceremonies)",
+      "col_3": "Produces the live show — the unfolding story of the Trade being built, in real time",
+      "col_4": "Equity (0.3-0.5%) + hourly",
+      "col_5": "Hiring",
+      "col_6": "—",
+      "col_7": "All TUPs (narrative layer — every TUP is a storyline)",
+      "col_8": "The MC is producing a live show. Every conversation is an episode. The Trade building itself IS the content. Recruiting, expert interviews, daily updates, investor conversations — it's all one unfolding story being documented as it happens. The show IS the company being born."
+    },
+    {
+      "PEOPLE TRACK": "TBD",
+      "col_2": "Conductor",
+      "col_3": "Production sequencing — which clusters when",
+      "col_4": "Equity (0.2-0.3%)",
+      "col_5": "Hiring",
+      "col_6": "—",
+      "col_7": "All clusters (scheduling)",
+      "col_8": "The meta-coordinator. Doesn't produce, ensures production flows."
+    },
+    {
+      "PEOPLE TRACK": "FLASH ROLES (Per-Sprint)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "Person",
+      "col_2": "Role Type",
+      "col_3": "Cluster Assignment",
+      "col_4": "TUPs",
+      "col_5": "Sprint",
+      "col_6": "Status",
+      "col_7": "Grade",
+      "col_8": "Equity Earned"
+    },
+    {
+      "PEOPLE TRACK": "TBD — PM CL-1",
+      "col_2": "PM Co-Founder",
+      "col_3": "BCL-1: Product & Supply",
+      "col_4": "M1-M5",
+      "col_5": "Weeks 3-6",
+      "col_6": "Not hired",
+      "col_7": "—",
+      "col_8": "0.3-0.5%"
+    },
+    {
+      "PEOPLE TRACK": "TBD — PM CL-2",
+      "col_2": "PM Co-Founder",
+      "col_3": "BCL-2: Digital & Funnel",
+      "col_4": "M6-M10",
+      "col_5": "Weeks 4-7",
+      "col_6": "Not hired",
+      "col_7": "—",
+      "col_8": "0.3-0.5%"
+    },
+    {
+      "PEOPLE TRACK": "TBD — PM CL-3",
+      "col_2": "PM Co-Founder",
+      "col_3": "BCL-3: DR & Creative",
+      "col_4": "M11-M15",
+      "col_5": "Weeks 5-8",
+      "col_6": "Not hired",
+      "col_7": "—",
+      "col_8": "0.3-0.5%"
+    },
+    {
+      "PEOPLE TRACK": "TBD — PM CL-4",
+      "col_2": "PM Co-Founder",
+      "col_3": "BCL-4: CX & Finance",
+      "col_4": "M16-M20",
+      "col_5": "Weeks 6-9",
+      "col_6": "Not hired",
+      "col_7": "—",
+      "col_8": "0.3-0.5%"
+    },
+    {
+      "PEOPLE TRACK": "TBD — PM CL-5",
+      "col_2": "PM Co-Founder",
+      "col_3": "BCL-5: Growth & Scale",
+      "col_4": "M21-M25",
+      "col_5": "Weeks 7-10",
+      "col_6": "Not hired",
+      "col_7": "—",
+      "col_8": "0.3-0.5%"
+    },
+    {
+      "PEOPLE TRACK": "TBD — Expert 1",
+      "col_2": "Expert Reviewer",
+      "col_3": "Per cluster",
+      "col_4": "Assigned at review",
+      "col_5": "Review sprint",
+      "col_6": "Not assigned",
+      "col_7": "—",
+      "col_8": "0.1% per review"
+    },
+    {
+      "PEOPLE TRACK": "TBD — Expert 2",
+      "col_2": "Expert Reviewer",
+      "col_3": "Per cluster",
+      "col_4": "Assigned at review",
+      "col_5": "Review sprint",
+      "col_6": "Not assigned",
+      "col_7": "—",
+      "col_8": "0.1% per review"
+    },
+    {
+      "PEOPLE TRACK": "Dan James (if)",
+      "col_2": "Content / Brand",
+      "col_3": "FCL-0: Brand & Content",
+      "col_4": "F0-F3, F17",
+      "col_5": "Weeks 4-10",
+      "col_6": "Pipeline",
+      "col_7": "—",
+      "col_8": "TBD"
+    },
+    {
+      "PEOPLE TRACK": "PERSON → TUP CROSS-REFERENCE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "This section maps every person to every TUP they touch, with their role in that TUP.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "Use this to answer: 'If person X disappears, which TUPs are affected?'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "Person",
+      "col_2": "TUP",
+      "col_3": "Role in TUP",
+      "col_4": "Graded?",
+      "col_5": "Current Grade",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "PEOPLE TRACK": "[Populated as assignments are made]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "People Track",
+  "sheet_index": 1177
+}

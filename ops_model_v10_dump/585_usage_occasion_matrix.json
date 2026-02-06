@@ -1,0 +1,189 @@
+{
+  "headers": [
+    "USAGE OCCASION MATRIX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "USAGE OCCASION MATRIX": "When/why people use electrolytes — occasion-based marketing",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "Occasion",
+      "col_2": "Trigger",
+      "col_3": "Need State",
+      "col_4": "Messaging Angle",
+      "col_5": "Creative Hook"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Morning workout",
+      "col_2": "Wake up, gym time",
+      "col_3": "Energy, performance",
+      "col_4": "Start your workout right",
+      "col_5": "Pre-workout without the jitters"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Post-workout",
+      "col_2": "Finished exercise, sweaty",
+      "col_3": "Recovery, replenishment",
+      "col_4": "Recover faster",
+      "col_5": "What you lost, restored"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Keto/Carnivore",
+      "col_2": "Diet depletes electrolytes",
+      "col_3": "Avoid keto flu",
+      "col_4": "Keto without the crash",
+      "col_5": "The missing piece of keto"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Fasting",
+      "col_2": "Hours without food",
+      "col_3": "Feel good during fast",
+      "col_4": "Fast without suffering",
+      "col_5": "Zero cal, zero fast-break"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Hot weather",
+      "col_2": "Sweating from heat",
+      "col_3": "Prevent heat issues",
+      "col_4": "Beat the heat",
+      "col_5": "Summer survival"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Travel",
+      "col_2": "Flying, dry air",
+      "col_3": "Combat dehydration",
+      "col_4": "Travel better",
+      "col_5": "Jet lag hack"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Hangover",
+      "col_2": "Drank too much",
+      "col_3": "Feel human again",
+      "col_4": "Morning after",
+      "col_5": "Bounce back"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Illness",
+      "col_2": "Sick, not eating well",
+      "col_3": "Recovery support",
+      "col_4": "Get better faster",
+      "col_5": "When you need it most"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Afternoon slump",
+      "col_2": "2-3pm energy crash",
+      "col_3": "Sustained energy",
+      "col_4": "Skip the coffee",
+      "col_5": "No crash energy"
+    },
+    {
+      "USAGE OCCASION MATRIX": "Before bed",
+      "col_2": "Trouble sleeping",
+      "col_3": "Relaxation (Mg)",
+      "col_4": "Sleep better",
+      "col_5": "Wind down right"
+    },
+    {
+      "USAGE OCCASION MATRIX": "OCCASION PRIORITIZATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "Tier 1 (Core messaging):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Keto/Low-carb — Largest, most aware audience",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Workout (pre/post) — Broadest appeal",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Fasting — Growing, aware of electrolyte need",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "Tier 2 (Secondary angles):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Afternoon energy — Relatable to many",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Hot weather/Summer — Seasonal campaign",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Travel — Niche but valuable",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "Tier 3 (Test):",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Hangover — Works but brand association risk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Sleep — May require different formula",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "USAGE OCCASION MATRIX": "• Illness — Medical adjacency, be careful",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Usage Occasion Matrix",
+  "sheet_index": 585
+}

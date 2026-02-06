@@ -1,0 +1,111 @@
+{
+  "headers": [
+    "OBJECTION LIBRARY",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "OBJECTION LIBRARY": "Every objection customers have + how to respond",
+      "col_2": null
+    },
+    {
+      "OBJECTION LIBRARY": "PRICE OBJECTIONS",
+      "col_2": null
+    },
+    {
+      "OBJECTION LIBRARY": "Objection",
+      "col_2": "Response"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Too expensive\"",
+      "col_2": "Per serving, it's $1.50 - less than your coffee. Plus 78 minerals vs 3 in cheaper options."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Cheaper alternatives exist\"",
+      "col_2": "They have 3-4 synthetic minerals. This has 78 ocean-sourced. You get what you pay for."
+    },
+    {
+      "OBJECTION LIBRARY": "\"I can't afford it\"",
+      "col_2": "We have a subscription that saves 15%. And the energy savings from not buying coffee adds up."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Need to think about it\"",
+      "col_2": "Totally understand. We have a 30-day guarantee, so zero risk to try."
+    },
+    {
+      "OBJECTION LIBRARY": "TRUST/SKEPTICISM OBJECTIONS",
+      "col_2": null
+    },
+    {
+      "OBJECTION LIBRARY": "Objection",
+      "col_2": "Response"
+    },
+    {
+      "OBJECTION LIBRARY": "\"Does it actually work?\"",
+      "col_2": "We have X reviews averaging 4.8 stars. Plus 30-day money back if you don't feel a difference."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Never heard of you\"",
+      "col_2": "We're newer but growing fast because the product speaks for itself. Check our reviews."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Supplements are all hype\"",
+      "col_2": "Most are. That's why we third-party test every batch. Here's the COA."
+    },
+    {
+      "OBJECTION LIBRARY": "\"How do I know it's real?\"",
+      "col_2": "Every batch is tested. We publish certificates of analysis. Ocean-sourced from [location]."
+    },
+    {
+      "OBJECTION LIBRARY": "PRODUCT OBJECTIONS",
+      "col_2": null
+    },
+    {
+      "OBJECTION LIBRARY": "Objection",
+      "col_2": "Response"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I already take electrolytes\"",
+      "col_2": "Most have 3-4 minerals. You might be missing the other 74 your body needs."
+    },
+    {
+      "OBJECTION LIBRARY": "\"I just drink water\"",
+      "col_2": "Water without minerals doesn't actually hydrate your cells. That's why you pee it right out."
+    },
+    {
+      "OBJECTION LIBRARY": "\"What does it taste like?\"",
+      "col_2": "Light, clean, slightly mineral. Not sweet or artificial. Most people love it."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Is it keto/vegan/etc?\"",
+      "col_2": "Yes - zero sugar, zero carbs, 100% plant-based minerals from the ocean."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Will it break my fast?\"",
+      "col_2": "Zero calories, so no. Many people use it specifically during fasts."
+    },
+    {
+      "OBJECTION LIBRARY": "TIMING/URGENCY OBJECTIONS",
+      "col_2": null
+    },
+    {
+      "OBJECTION LIBRARY": "Objection",
+      "col_2": "Response"
+    },
+    {
+      "OBJECTION LIBRARY": "\"I'll buy later\"",
+      "col_2": "Current offer expires soon. And every day without proper minerals is a day of suboptimal energy."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Not the right time\"",
+      "col_2": "When would be? The fatigue and brain fog aren't going away on their own."
+    },
+    {
+      "OBJECTION LIBRARY": "\"Need to research more\"",
+      "col_2": "Happy to answer any questions. What do you want to know?"
+    }
+  ],
+  "row_count": 25,
+  "sheet_name": "Objection Library1",
+  "sheet_index": 565
+}

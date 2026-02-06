@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "COMPANY AS CRM",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "COMPANY AS CRM": "The ops model IS the CRM. Every relationship the business has is managed here.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Most companies have an ops model AND a CRM. We don't need both.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "The ops model already contains every relationship the business manages:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "customers, creators, suppliers, partners, hires, investors.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "The CRM isn't a tool. It's a lens on the ops model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Every tab that touches a relationship is a CRM function.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Every pipeline is a CRM pipeline. Every lifecycle is a CRM lifecycle.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "The advantage: zero data fragmentation. The customer pipeline,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "the creator pipeline, and the hiring pipeline all live in the same system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "A change in one (e.g., customer feedback) can immediately inform another",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "(e.g., VSL angle selection, product development, hiring priorities).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "RELATIONSHIP TYPES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Type",
+      "col_2": "Who",
+      "col_3": "Pipeline",
+      "col_4": "Lifecycle",
+      "col_5": "Managed In",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Customer",
+      "col_2": "People who buy the product",
+      "col_3": "Awareness → Interest → Purchase → Retention → Advocacy",
+      "col_4": "Prospect → First Purchase → Repeat → VIP → Champion → Churned",
+      "col_5": "Customer Lifecycle tab + Klaviyo",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Creator",
+      "col_2": "UGC/content creators",
+      "col_3": "Discovery → Outreach → Test → Contract → Scaling → Alumni",
+      "col_4": "Prospect → One-off → Retained → Exclusive → Ambassador",
+      "col_5": "Creator Pipeline tab",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Supplier",
+      "col_2": "Manufacturers, fulfillment, ingredients",
+      "col_3": "Research → Sample → Negotiate → Contract → Monitor → Renew/Replace",
+      "col_4": "Prospect → Trial → Active → Strategic → Exit",
+      "col_5": "Supply Chain tabs",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Hire",
+      "col_2": "Operators, CoS, recruiters, VAs",
+      "col_3": "Source → Screen → Interview → Offer → Onboard → Perform → Exit",
+      "col_4": "Candidate → Onboarding → Probation → Performing → Promoted → Exited",
+      "col_5": "Hiring Pipeline tab + Assessment Workbooks",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Investor/Partner",
+      "col_2": "Studio partners, advisors",
+      "col_3": "Identify → Approach → Align → Commit → Active → Exit",
+      "col_4": "Prospect → Active → Strategic → Alumni",
+      "col_5": "Partnership tabs",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Vendor",
+      "col_2": "Tools, services, freelancers",
+      "col_3": "Evaluate → Test → Contract → Monitor → Renew/Replace",
+      "col_4": "Prospect → Trial → Active → Preferred → Exit",
+      "col_5": "Vendor Management tab",
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "UNIFIED PIPELINE VIEW",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "COMPANY AS CRM": "Relationship",
+      "col_2": "Stage 1",
+      "col_3": "Stage 2",
+      "col_4": "Stage 3",
+      "col_5": "Stage 4",
+      "col_6": "Stage 5"
+    },
+    {
+      "COMPANY AS CRM": "Customer",
+      "col_2": "Cold Traffic",
+      "col_3": "Engaged",
+      "col_4": "Cart/Checkout",
+      "col_5": "Purchased",
+      "col_6": "Retained"
+    },
+    {
+      "COMPANY AS CRM": "Creator",
+      "col_2": "Identified",
+      "col_3": "Outreach Sent",
+      "col_4": "Responded",
+      "col_5": "Test Content",
+      "col_6": "Contracted"
+    },
+    {
+      "COMPANY AS CRM": "Supplier",
+      "col_2": "Researched",
+      "col_3": "Sampled",
+      "col_4": "Negotiating",
+      "col_5": "Contracted",
+      "col_6": "Active"
+    },
+    {
+      "COMPANY AS CRM": "Hire",
+      "col_2": "Sourced",
+      "col_3": "Screened",
+      "col_4": "Interviewed",
+      "col_5": "Offered",
+      "col_6": "Onboarded"
+    },
+    {
+      "COMPANY AS CRM": "Vendor",
+      "col_2": "Evaluated",
+      "col_3": "Testing",
+      "col_4": "Contracted",
+      "col_5": "Active",
+      "col_6": "Preferred"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Relationship Map",
+  "sheet_index": 157
+}

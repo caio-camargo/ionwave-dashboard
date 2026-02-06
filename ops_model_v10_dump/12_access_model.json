@@ -1,0 +1,337 @@
+{
+  "headers": [
+    "ACCESS MODEL — WHAT EACH PERSON SEES",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Everyone gets the full Trade for context. They only EDIT their slice. Librarian marks the boundary.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "THE PRINCIPLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "You can't do good work on your slice if you don't know the whole exists.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "PM CL-1 needs to see M7 Regulatory to know it affects M5 Formulation.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "The expert needs to see the thesis to understand why we made certain choices.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "So everyone gets TWO things:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "1. CONTEXT ACCESS: Read-only view of the entire Trade (the Google Drive master folder)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "2. WORKING TABS: Their specific tabs in their own editable folder",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "The librarian maintains both. The master folder is read-only (view link, not edit).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Each person's working folder is edit-access. They only write in their folder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "When they're done, librarian copies their work back into the master.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "GOOGLE DRIVE STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "IonWave Trade/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ MASTER (read-only link shared with everyone)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ 0. Architecture & Navigation/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ S. Studio Level/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ F. Funnel Level/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ M. Business Level/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    └─ X. Cross-Cutting (Labor, Incorporation, etc.)/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ WORKING — PM CL-1 [Name]/ (edit access for this person only)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ INSTRUCTIONS.md  ← role-specific instructions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ P-M5.xlsx",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ P-M6.xlsx",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ ... (their working tabs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    └─ SUBMIT/ (drop finished work here, librarian picks up)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ WORKING — Expert CL-1 [Name]/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ INSTRUCTIONS.md",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ IP-M5.xlsx (orientation reading)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ Content tabs (to review)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    ├─ V-M5.xlsx (to grade)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│    └─ SUBMIT/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "│",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ WORKING — Dan James/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ WORKING — MC [Name]/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "├─ WORKING — Admin [Name]/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "└─ WORKING — Series Producer [Name]/",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "MASTER never gets edited by anyone except the librarian.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Everyone can VIEW master. Only the librarian WRITES to master.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Each person WRITES only in their WORKING folder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "ACCESS PER ROLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Role",
+      "col_2": "Context (Read-Only)",
+      "col_3": "Working Tabs (Edit)",
+      "col_4": "Boundary Rule"
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Nilo",
+      "col_2": "Everything (owner)",
+      "col_3": "M0, S0, all V-tabs",
+      "col_4": "Only edits thesis and final sign-offs. Everything else delegated."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Librarian",
+      "col_2": "Everything (custodian)",
+      "col_3": "Master file only (updates from working folders)",
+      "col_4": "Never creates content. Only files, distributes, updates."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Admin",
+      "col_2": "Full master for context",
+      "col_3": "Recruiting pipeline, incorporation docs, scheduling",
+      "col_4": "Never touches model content. Only ops and logistics."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "MC",
+      "col_2": "Full master for context",
+      "col_3": "MC Conversation Map, cast page, episode notes",
+      "col_4": "Never edits models. Creates conversation content only."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Series Producer",
+      "col_2": "Full master for context",
+      "col_3": "Story bible, episode calendar, production notes",
+      "col_4": "Never edits models. Shapes narrative and quality only."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Dan James",
+      "col_2": "Full master for context",
+      "col_3": "F0-F20 working tabs, content calendar, funnel assets",
+      "col_4": "Owns funnel level completely. Doesn't touch S- or M- models."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Product Person",
+      "col_2": "Full master for context",
+      "col_3": "Site design files, brand assets",
+      "col_4": "Builds the site. Doesn't edit Trade content."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "PM Co-Founder",
+      "col_2": "Full master for context",
+      "col_3": "Their cluster P-, content, and V-tabs only",
+      "col_4": "Owns their cluster. Can VIEW other clusters. Cannot EDIT them."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Expert Reviewer",
+      "col_2": "Full master for context",
+      "col_3": "Their cluster IP-, content, and V-tabs only",
+      "col_4": "Reviews and grades their cluster only. Can read everything for context."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "CoS",
+      "col_2": "Full master (this IS their operating system)",
+      "col_3": "All M- tabs (they run the business)",
+      "col_4": "Post-funding. They inherit the verified Trade as their playbook."
+    },
+    {
+      "ACCESS MODEL — WHAT EACH PERSON SEES": "Investor",
+      "col_2": "Site + data room only. NOT the raw Trade.",
+      "col_3": "Nothing. View only.",
+      "col_4": "They never see the spreadsheet. They see the output."
+    }
+  ],
+  "row_count": 54,
+  "sheet_name": "Access Model",
+  "sheet_index": 12
+}

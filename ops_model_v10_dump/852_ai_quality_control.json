@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "AI QUALITY CONTROL"
+  ],
+  "rows": [
+    {
+      "AI QUALITY CONTROL": "How we catch AI mistakes before they go live."
+    },
+    {
+      "AI QUALITY CONTROL": "CHECKLIST:"
+    },
+    {
+      "AI QUALITY CONTROL": "⬜ ACCURACY: Facts correct?"
+    },
+    {
+      "AI QUALITY CONTROL": "⬜ HALLUCINATION: Made up anything?"
+    },
+    {
+      "AI QUALITY CONTROL": "⬜ BRAND VOICE: Sounds like us?"
+    },
+    {
+      "AI QUALITY CONTROL": "⬜ FDA COMPLIANCE: No prohibited claims?"
+    },
+    {
+      "AI QUALITY CONTROL": "⬜ LINKS: Real and working?"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "AI Quality Control",
+  "sheet_index": 852
+}

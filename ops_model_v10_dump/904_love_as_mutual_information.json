@@ -1,0 +1,223 @@
+{
+  "headers": [
+    "LOVE AS MUTUAL INFORMATION INDEX",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "How much do both sides compress/decompress the same meaning? High MI = strong relationship.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Mutual Information: How much both sides of a relationship share the same compressed understanding.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "High MI = They 'get' each other. You say little, they understand much.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Low MI = Constant explanation, misunderstanding, friction.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Love (in any relationship) is high mutual information.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "RELATIONSHIP MUTUAL INFORMATION AUDIT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Relationship",
+      "col_2": "They Understand Us?",
+      "col_3": "We Understand Them?",
+      "col_4": "Shared Language?",
+      "col_5": "MI Score",
+      "col_6": "How to Increase"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Customers",
+      "col_2": "Do they get why we're different?",
+      "col_3": "Do we get their real problem?",
+      "col_4": "Do we speak same language?",
+      "col_5": "/10",
+      "col_6": "Customer interviews"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Operator ↔ Studio",
+      "col_2": "Does operator get strategy?",
+      "col_3": "Does studio get execution reality?",
+      "col_4": "Shared frameworks?",
+      "col_5": "/10",
+      "col_6": "More context sharing"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Operator ↔ CM",
+      "col_2": "Does CM get operator challenges?",
+      "col_3": "Does operator get quality bar?",
+      "col_4": "Clear criteria?",
+      "col_5": "/10",
+      "col_6": "Rubrics, examples"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Us ↔ Supplier",
+      "col_2": "Do they get our quality needs?",
+      "col_3": "Do we get their constraints?",
+      "col_4": "Clear specs?",
+      "col_5": "/10",
+      "col_6": "Spec documents"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Us ↔ 3PL",
+      "col_2": "Do they get our standards?",
+      "col_3": "Do we get their process?",
+      "col_4": "SLA defined?",
+      "col_5": "/10",
+      "col_6": "SLA review"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Brand ↔ Market",
+      "col_2": "Does market get our positioning?",
+      "col_3": "Do we get market dynamics?",
+      "col_4": "Clear message?",
+      "col_5": "/10",
+      "col_6": "Message testing"
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "AVERAGE MUTUAL INFORMATION SCORE: ___ / 10",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "HOW TO INCREASE MUTUAL INFORMATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Shared experiences: Work together, not just exchange docs",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Shared language: Calibrate word meanings (see Word Size Matrix)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Shared frameworks: Use same mental models",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Repeated interaction: MI builds over time",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Feedback loops: Check if message was received as intended",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "• Vulnerability: Share context, not just instructions",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "THE INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Low MI relationships require constant management, supervision, correction.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "High MI relationships flow. Little communication, high alignment.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "LOVE AS MUTUAL INFORMATION INDEX": "Invest in increasing MI. It compounds. The relationship becomes effortless.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 26,
+  "sheet_name": "Love as Mutual Information",
+  "sheet_index": 904
+}

@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "DEPENDENCIES & BLOCKERS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DEPENDENCIES & BLOCKERS": "Task",
+      "col_2": "Depends On",
+      "col_3": "Owner",
+      "col_4": "Risk"
+    },
+    {
+      "DEPENDENCIES & BLOCKERS": "Launch ads",
+      "col_2": "Store complete + inventory received",
+      "col_3": "Operator",
+      "col_4": "High"
+    },
+    {
+      "DEPENDENCIES & BLOCKERS": "Inventory order",
+      "col_2": "Supplier contract signed",
+      "col_3": "CM",
+      "col_4": "High"
+    },
+    {
+      "DEPENDENCIES & BLOCKERS": "Email flows",
+      "col_2": "Klaviyo setup + copy approved",
+      "col_3": "Operator",
+      "col_4": "Medium"
+    },
+    {
+      "DEPENDENCIES & BLOCKERS": "Creative production",
+      "col_2": "Brand guidelines finalized",
+      "col_3": "Operator",
+      "col_4": "Medium"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Dependencies",
+  "sheet_index": 842
+}

@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "Scenario",
+    "Trigger",
+    "Action",
+    "Capital Required",
+    "Path Forward"
+  ],
+  "rows": [
+    {
+      "Scenario": "A: Full Raise Success",
+      "Trigger": "Raise $30-50K by Week 7",
+      "Action": "Execute scaling plan as designed",
+      "Capital Required": "$30-50K raised",
+      "Path Forward": "Scale winning ads, add inventory, hit $15K MRR Month 3"
+    },
+    {
+      "Scenario": "B: Partial Raise",
+      "Trigger": "Raise $15-25K by Week 7",
+      "Action": "Reduced scope: slower scaling, smaller inventory buys",
+      "Capital Required": "$15-25K raised",
+      "Path Forward": "Extend runway, focus on profitability over growth, re-raise at traction"
+    },
+    {
+      "Scenario": "C: Bootstrap Path",
+      "Trigger": "Raise fails but ads validated (ROAS >2.0)",
+      "Action": "Operator self-funds $5-10K, studio provides bridge",
+      "Capital Required": "$5-10K self-funded",
+      "Path Forward": "Slow roll: minimal inventory, reinvest profits, prove model then raise"
+    },
+    {
+      "Scenario": "D: Pivot to Services",
+      "Trigger": "Ads fail validation (ROAS <1.5)",
+      "Action": "Pivot to B2B/wholesale or operator services",
+      "Capital Required": "$0 additional",
+      "Path Forward": "Sell to gyms, wellness centers, or pivot operator to new thesis"
+    },
+    {
+      "Scenario": "E: Clean Kill",
+      "Trigger": "COGS too high AND ads fail",
+      "Action": "Wind down, return any unused capital, document learnings",
+      "Capital Required": "$0",
+      "Path Forward": "Operator exits, thesis archived, learnings applied to future trades"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Backup Funding Plan",
+  "sheet_index": 203
+}

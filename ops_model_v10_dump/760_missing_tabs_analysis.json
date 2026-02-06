@@ -1,0 +1,43 @@
+{
+  "headers": [
+    "MISSING TABS ANALYSIS"
+  ],
+  "rows": [
+    {
+      "MISSING TABS ANALYSIS": "What 5 experts would say is missing"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Media Buyer"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Would ask for: Creative testing infrastructure, attribution model"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Retention Specialist"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Would ask for: Segmentation strategy, cohort analysis"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Supply Chain"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Would ask for: Inventory forecasting, supplier backup"
+    },
+    {
+      "MISSING TABS ANALYSIS": "CFO"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Would ask for: Cash flow model, scenario planning"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Brand Director"
+    },
+    {
+      "MISSING TABS ANALYSIS": "Would ask for: Visual identity, tone of voice"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Missing Tabs Analysis",
+  "sheet_index": 760
+}

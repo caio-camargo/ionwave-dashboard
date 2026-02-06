@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "PRODUCT DEVELOPMENT PROCESS",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "How to develop new products from idea to launch",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "PRODUCT DEVELOPMENT STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "Stage",
+      "col_2": "Activities",
+      "col_3": "Outputs",
+      "col_4": "Gate Criteria"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "1. Ideation",
+      "col_2": "Customer research, market analysis, brainstorm",
+      "col_3": "Product concept",
+      "col_4": "Clear customer need identified"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "2. Validation",
+      "col_2": "Customer interviews, competitor analysis, pricing tests",
+      "col_3": "Validated concept",
+      "col_4": ">50% of prospects say \"I would buy\""
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "3. Formulation",
+      "col_2": "R&D, ingredient sourcing, prototype development",
+      "col_3": "Working prototype",
+      "col_4": "Prototype meets specs and tastes good"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "4. Testing",
+      "col_2": "Beta testing, stability testing, compliance review",
+      "col_3": "Tested product",
+      "col_4": "Passes all quality and compliance checks"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "5. Production",
+      "col_2": "Supplier selection, MOQ negotiation, first batch",
+      "col_3": "Production-ready product",
+      "col_4": "Unit economics work at scale"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "6. Launch",
+      "col_2": "Marketing, fulfillment setup, go-live",
+      "col_3": "Launched product",
+      "col_4": "Available for purchase"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "7. Iterate",
+      "col_2": "Customer feedback, optimization, scaling",
+      "col_3": "Improved product",
+      "col_4": "Hitting growth targets"
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "NEW PRODUCT CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "BEFORE STARTING:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Clear problem/need identified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Market size validated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Fits with brand and capabilities",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Resource commitment approved",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "BEFORE LAUNCH:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Formulation finalized",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Compliance approved (FDA, labels)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Unit economics validated",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Supply chain ready",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Marketing assets ready",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "PRODUCT DEVELOPMENT PROCESS": "☐ Fulfillment ready",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 23,
+  "sheet_name": "Product Development Process",
+  "sheet_index": 225
+}

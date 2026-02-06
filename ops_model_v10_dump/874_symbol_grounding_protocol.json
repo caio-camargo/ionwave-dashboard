@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "SYMBOL GROUNDING PROTOCOL",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "SYMBOL GROUNDING PROTOCOL": "How we ensure words mean the same thing to everyone",
+      "col_2": null
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "THE PROBLEM",
+      "col_2": null
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Words without examples are meaningless. 'Good performance' means different things to different people.",
+      "col_2": null
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "THE SOLUTION",
+      "col_2": null
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Examples first",
+      "col_2": "Every term has A/B/C graded examples"
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Reference models",
+      "col_2": "Point to specific real-world instances"
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Numeric where possible",
+      "col_2": "$40 CAC not \"low CAC\""
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Verification",
+      "col_2": "Can show, not just tell"
+    },
+    {
+      "SYMBOL GROUNDING PROTOCOL": "Dictionary updates",
+      "col_2": "If term is ambiguous, update dictionary"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Symbol Grounding Protocol",
+  "sheet_index": 874
+}

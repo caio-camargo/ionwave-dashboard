@@ -1,0 +1,157 @@
+{
+  "headers": [
+    "INTEGRATION POINT HEALTH MONITOR",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "The 3 fundamental relationships that determine if the business works",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "THE THREE INTEGRATION POINTS",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Every business lives or dies on three relationships. Score each weekly.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "1. INTERNAL INTEGRATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Do we do what we say? Alignment between stated and actual.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We say we respond to support in <4 hours",
+      "col_2": "Actual: _____ hours",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We say our product has 78 minerals",
+      "col_2": "Verified: Yes/No",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We say we ship in 2-3 days",
+      "col_2": "Actual avg: _____ days",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Our values say X",
+      "col_2": "We actually do: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Strategy says focus on Y",
+      "col_2": "Time spent on Y: _____%",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "INTERNAL INTEGRATION SCORE:",
+      "col_2": "_____ / 50",
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "2. EXTERNAL INTEGRATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Do stakeholders get what they need from us?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Customers: Product solves their problem",
+      "col_2": "NPS/Reviews: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Customers: Experience matches expectation",
+      "col_2": "CSAT: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Team: Clear direction and support",
+      "col_2": "Team satisfaction: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Suppliers: We're a good partner",
+      "col_2": "Relationship health: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Investors (if any): Updates and transparency",
+      "col_2": "Feedback: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "EXTERNAL INTEGRATION SCORE:",
+      "col_2": "_____ / 50",
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "3. DOMAIN INTEGRATION",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "Do we actually understand how this market works?",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We understand why people buy electrolytes",
+      "col_2": "Confidence: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We understand competitive dynamics",
+      "col_2": "Confidence: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We understand Meta ads mechanics",
+      "col_2": "Confidence: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We understand D2C subscription economics",
+      "col_2": "Confidence: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "We understand our supply chain",
+      "col_2": "Confidence: _____",
+      "col_3": "/10"
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "DOMAIN INTEGRATION SCORE:",
+      "col_2": "_____ / 50",
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "TOTAL INTEGRATION HEALTH: _____ / 150",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "INTEGRATION POINT HEALTH MONITOR": "<75 = Critical | 75-100 = Concerning | 100-125 = Healthy | 125+ = Strong",
+      "col_2": null,
+      "col_3": null
+    }
+  ],
+  "row_count": 29,
+  "sheet_name": "Integration Point Health",
+  "sheet_index": 878
+}

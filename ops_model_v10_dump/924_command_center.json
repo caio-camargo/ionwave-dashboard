@@ -1,0 +1,259 @@
+{
+  "headers": [
+    "⚡ COMMAND CENTER ⚡",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "⚡ COMMAND CENTER ⚡": "Last Updated:",
+      "col_2": "______________",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "PHASE: PRE-LAUNCH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "Before we can LAUNCH, these must be TRUE:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "MONEY & LEGAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Cash in bank sufficient for launch",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Investor signed (if applicable)",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Entity formed, bank account open",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Operator agreement signed",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "PRODUCT & SUPPLY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Product formulation finalized",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Supplier confirmed, PO issued",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "First batch ordered, ETA known",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Packaging designed and approved",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "OPERATIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "3PL selected and account set up",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Shopify store built (not public)",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Payment processing live and tested",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Shipping rates configured",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "MARKETING",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Landing page live",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "3 ad creatives ready",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Meta ad account funded",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Tracking/attribution set up",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "READY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Unit economics validated with real numbers",
+      "col_3": "(Operator)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "☐",
+      "col_2": "Kill criteria defined",
+      "col_3": "(Studio)",
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "DONE:",
+      "col_2": "___ / 18",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "BLOCKED ON",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "What:",
+      "col_2": "________________________________________",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "Who can unblock:",
+      "col_2": "________________________________________",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "Asked them?",
+      "col_2": "☐ Yes   ☐ No (if no, ask NOW)",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "NEXT ACTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "→",
+      "col_2": "________________________________________",
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "PHASE PROGRESSION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "[■ PRE-LAUNCH]  →  [ LAUNCH ]  →  [ PMF ]  →  [ SCALE ]  →  $100K MRR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "▲",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "YOU ARE HERE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "WHEN STUCK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "• What's the ONE thing blocking launch?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "• Who can unblock it? Ask them NOW.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "⚡ COMMAND CENTER ⚡": "• Is this critical path or nice-to-have?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 41,
+  "sheet_name": "!! COMMAND CENTER !!",
+  "sheet_index": 924
+}

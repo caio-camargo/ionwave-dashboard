@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "MARKET DATA & INTELLIGENCE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "MARKET DATA & INTELLIGENCE": "TAM",
+      "col_2": "US electrolyte market: $XX billion"
+    },
+    {
+      "MARKET DATA & INTELLIGENCE": "Growth rate",
+      "col_2": "XX% CAGR"
+    },
+    {
+      "MARKET DATA & INTELLIGENCE": "Key segments",
+      "col_2": "Sports, wellness, medical"
+    },
+    {
+      "MARKET DATA & INTELLIGENCE": "Trends",
+      "col_2": "Clean label, functional, subscription"
+    },
+    {
+      "MARKET DATA & INTELLIGENCE": "Seasonality",
+      "col_2": "Peak: Jan (resolutions), Summer (hydration)"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Market Data",
+  "sheet_index": 553
+}

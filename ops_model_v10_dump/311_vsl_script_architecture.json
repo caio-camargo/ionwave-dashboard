@@ -1,0 +1,231 @@
+{
+  "headers": [
+    "VSL SCRIPT ARCHITECTURE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "VSL SCRIPT ARCHITECTURE": "The structural blueprint for every VSL script",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "SCRIPT STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Section",
+      "col_2": "Duration",
+      "col_3": "Purpose",
+      "col_4": "What It Contains",
+      "col_5": "Kill If...",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "1. Hook",
+      "col_2": "0:00-0:05",
+      "col_3": "Stop the scroll. Pattern interrupt.",
+      "col_4": "Bold claim, question, or visual disruption. Must match ad hook.",
+      "col_5": "View-through rate < 25% at 3 sec",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "2. Problem",
+      "col_2": "0:05-0:30",
+      "col_3": "Make them feel the pain.",
+      "col_4": "Describe the problem they live with. Use their language. Be specific.",
+      "col_5": "Drop-off > 50% before 30 sec",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "3. Agitation",
+      "col_2": "0:30-1:00",
+      "col_3": "Make the pain urgent.",
+      "col_4": "What happens if they do nothing. Future-pace the negative outcome.",
+      "col_5": "Audience doesn't identify (low engagement)",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "4. Mechanism",
+      "col_2": "1:00-2:00",
+      "col_3": "Explain WHY your solution works.",
+      "col_4": "The unique mechanism. Not features — the underlying reason it solves the problem.",
+      "col_5": "Confusion (high drop-off, low completion)",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "5. Proof",
+      "col_2": "2:00-3:00",
+      "col_3": "Make them believe.",
+      "col_4": "Testimonials, data, credentials, before/after, social proof, expert endorsement.",
+      "col_5": "Trust signals don't move needle",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "6. Offer",
+      "col_2": "3:00-3:30",
+      "col_3": "Make it a no-brainer.",
+      "col_4": "What they get, price anchoring, bonuses, guarantee, urgency/scarcity.",
+      "col_5": "Offer doesn't convert despite interest",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "7. CTA",
+      "col_2": "3:30-4:00",
+      "col_3": "Tell them exactly what to do.",
+      "col_4": "Clear instruction, button/link, urgency reinforcement, final objection handle.",
+      "col_5": "Click-through < 1%",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "8. Objection Loop",
+      "col_2": "4:00-5:00",
+      "col_3": "Handle remaining doubt.",
+      "col_4": "Top 3 objections addressed directly. FAQ-style or narrative.",
+      "col_5": "N/A — this is catch net",
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "HOOK FORMULAS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Formula",
+      "col_2": "Example (IonWave)",
+      "col_3": "Best For",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Bold Claim",
+      "col_2": "\"Your sports drink is dehydrating you.\"",
+      "col_3": "Contrarian takes, myth-busting",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Question",
+      "col_2": "\"Why do you feel worse AFTER drinking electrolytes?\"",
+      "col_3": "Problem-aware audiences",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Story",
+      "col_2": "\"I was an athlete who couldn't recover until I discovered...\"",
+      "col_3": "Cold audiences, emotional connection",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Visual Demo",
+      "col_2": "Side-by-side absorption test",
+      "col_3": "Visual products, science-backed",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Authority",
+      "col_2": "\"As a sports nutritionist with 10 years...\"",
+      "col_3": "Expert-led brands",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Social Proof",
+      "col_2": "\"237,000 athletes switched to this last month\"",
+      "col_3": "Scaled brands with data",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Urgency",
+      "col_2": "\"They're trying to remove this ingredient from shelves\"",
+      "col_3": "Scarcity plays, trending topics",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "IONWAVE ANGLE LIBRARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "Angle ID",
+      "col_2": "Hook",
+      "col_3": "Mechanism",
+      "col_4": "Target Avatar",
+      "col_5": "Status",
+      "col_6": "CPA"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "ANG-01",
+      "col_2": "Your electrolytes are missing the one mineral that matters",
+      "col_3": "Trace mineral complex absorption",
+      "col_4": "Health-conscious 25-40",
+      "col_5": "To Test",
+      "col_6": "—"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "ANG-02",
+      "col_2": "Why athletes are quitting Gatorade",
+      "col_3": "Sugar-free full spectrum vs sugar+sodium only",
+      "col_4": "Athletes 18-35",
+      "col_5": "To Test",
+      "col_6": "—"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "ANG-03",
+      "col_2": "The dehydration lie: why drinking more water isn't helping",
+      "col_3": "Cellular hydration vs fluid volume",
+      "col_4": "Biohackers 28-45",
+      "col_5": "To Test",
+      "col_6": "—"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "ANG-04",
+      "col_2": "I tested every electrolyte brand. Here's what I found.",
+      "col_3": "Ingredient comparison/transparency",
+      "col_4": "Research-driven buyers",
+      "col_5": "To Test",
+      "col_6": "—"
+    },
+    {
+      "VSL SCRIPT ARCHITECTURE": "ANG-05",
+      "col_2": "The morning routine ingredient nobody talks about",
+      "col_3": "Electrolytes as daily foundation",
+      "col_4": "Wellness/morning routine crowd",
+      "col_5": "To Test",
+      "col_6": "—"
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "VSL Script Architecture",
+  "sheet_index": 311
+}

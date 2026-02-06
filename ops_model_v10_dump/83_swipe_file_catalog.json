@@ -1,0 +1,343 @@
+{
+  "headers": [
+    "SWIPE FILE CATALOG",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "SWIPE FILE CATALOG": "Fernando Oliver model: fernando-oliver.kit.com/swipe-file. Every model produces a downloadable artifact.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "WHAT A SWIPE FILE IS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "A swipe file is a free, immediately useful resource that demonstrates competence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Fernando Oliver gives away his best ad examples. People download. They're impressed. They're in his world.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "We do the same thing with every Trade model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "The swipe file IS the advertorial. It advertises our competence by being useful.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Format: PDF, spreadsheet template, or interactive tool.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Distribution: Kit (ConvertKit) landing page, gated behind email opt-in.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Follow-up: 5-7 email sequence → behind the scenes → application.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Source Model",
+      "col_2": "Swipe File Name",
+      "col_3": "Format",
+      "col_4": "What's Inside",
+      "col_5": "Who Downloads This",
+      "col_6": "Funnel Destination"
+    },
+    {
+      "SWIPE FILE CATALOG": "S0: Studio Thesis",
+      "col_2": "Venture Studio Thesis Template",
+      "col_3": "PDF",
+      "col_4": "How to write a venture studio thesis. Our framework (with IonWave as example). Fill-in template.",
+      "col_5": "Aspiring studio founders, investors",
+      "col_6": "Investor funnel (F12)"
+    },
+    {
+      "SWIPE FILE CATALOG": "S1: Production",
+      "col_2": "AI-Assisted Operations Playbook",
+      "col_3": "PDF",
+      "col_4": "How to use Claude/AI to produce business documentation. Our 5-step loop. Prompt templates.",
+      "col_5": "Ops people, founders, consultants",
+      "col_6": "PM co-founder recruiting (F6)"
+    },
+    {
+      "SWIPE FILE CATALOG": "S2: Labor",
+      "col_2": "Startup Hiring Sequence Template",
+      "col_3": "Spreadsheet",
+      "col_4": "What order to hire. Role scorecards. Career booster framework. Contract templates.",
+      "col_5": "First-time founders, hiring managers",
+      "col_6": "PM / Admin recruiting"
+    },
+    {
+      "SWIPE FILE CATALOG": "S6: Recruiting",
+      "col_2": "Recruiting Funnel Blueprint",
+      "col_3": "PDF",
+      "col_4": "Dan Crowley model for recruiting. Content → lead magnet → sequence → application. Templates.",
+      "col_5": "Founders, HR, talent ops",
+      "col_6": "Meta: recruits people who run recruiting"
+    },
+    {
+      "SWIPE FILE CATALOG": "S15: Advertorial",
+      "col_2": "Lead Magnet Creation Checklist",
+      "col_3": "PDF",
+      "col_4": "How to turn expertise into downloadable swipe files. Our extraction → packaging → distribution process.",
+      "col_5": "Content creators, marketers",
+      "col_6": "Funnel level (F4) pipeline"
+    },
+    {
+      "SWIPE FILE CATALOG": "S32: School",
+      "col_2": "Operator Training Curriculum Template",
+      "col_3": "Spreadsheet",
+      "col_4": "Semesters, graduation criteria, competency matrix. Our school model framework.",
+      "col_5": "Franchise operators, L&D, accelerators",
+      "col_6": "PM CL-7 recruiting"
+    },
+    {
+      "SWIPE FILE CATALOG": "S33: Coordination",
+      "col_2": "Coordination Theory Primer",
+      "col_3": "PDF",
+      "col_4": "Key concepts: coordination debt, requisite variety, eigenform. Applied to business building.",
+      "col_5": "Systems thinkers, academics, consultants",
+      "col_6": "Investor funnel + thought leadership"
+    },
+    {
+      "SWIPE FILE CATALOG": "M0: Thesis",
+      "col_2": "D2C Launch Thesis Template",
+      "col_3": "PDF",
+      "col_4": "How to write a product thesis with kill criteria, computational PMF, bifurcation points.",
+      "col_5": "D2C founders",
+      "col_6": "CoS pipeline"
+    },
+    {
+      "SWIPE FILE CATALOG": "M3: Financial",
+      "col_2": "Seed-Stage D2C Financial Model",
+      "col_3": "Spreadsheet",
+      "col_4": "Pre-built model with assumptions, sensitivity analysis, scenario planning. Fill in your numbers.",
+      "col_5": "Founders, MBA students",
+      "col_6": "CFO advisor pipeline"
+    },
+    {
+      "SWIPE FILE CATALOG": "M5: Formulation",
+      "col_2": "Supplement Formulation Decision Tree",
+      "col_3": "PDF",
+      "col_4": "Ingredient selection framework. Dosing. Sourcing. Testing requirements.",
+      "col_5": "CPG founders, food scientists",
+      "col_6": "Expert CL-1"
+    },
+    {
+      "SWIPE FILE CATALOG": "M7: Regulatory",
+      "col_2": "FDA Supplement Compliance Checklist",
+      "col_3": "PDF",
+      "col_4": "Everything you need to be compliant. Claims. Labeling. GMP. Testing.",
+      "col_5": "Supplement founders",
+      "col_6": "Expert CL-1"
+    },
+    {
+      "SWIPE FILE CATALOG": "M11: VSL",
+      "col_2": "VSL Script Framework + 50 Hook Templates",
+      "col_3": "PDF",
+      "col_4": "Script structure. Hook categories. Opening lines that work. Testing methodology.",
+      "col_5": "DR marketers, copywriters",
+      "col_6": "Expert/PM CL-3"
+    },
+    {
+      "SWIPE FILE CATALOG": "M13: Media",
+      "col_2": "Meta Ads Account Structure Guide 2026",
+      "col_3": "PDF",
+      "col_4": "Campaign structure. Budget allocation. Audience setup. Attribution. Current CPMs.",
+      "col_5": "Media buyers",
+      "col_6": "Expert/PM CL-3"
+    },
+    {
+      "SWIPE FILE CATALOG": "M17: Email",
+      "col_2": "Klaviyo Flow Architecture Map",
+      "col_3": "Spreadsheet",
+      "col_4": "Every flow. Trigger. Timing. Content. Expected performance. Fill-in template.",
+      "col_5": "Email marketers",
+      "col_6": "Expert/PM CL-4"
+    },
+    {
+      "SWIPE FILE CATALOG": "M20: Support",
+      "col_2": "11-Star Customer Experience Playbook",
+      "col_3": "PDF",
+      "col_4": "Framework for exceptional support. Escalation paths. Response templates. Metrics.",
+      "col_5": "CX professionals",
+      "col_6": "PM CL-4"
+    },
+    {
+      "SWIPE FILE CATALOG": "M24: Fulfillment",
+      "col_2": "3PL Selection Scorecard",
+      "col_3": "Spreadsheet",
+      "col_4": "Evaluation criteria. Pricing comparison. SLA requirements. Red flags.",
+      "col_5": "D2C operators",
+      "col_6": "PM CL-6"
+    },
+    {
+      "SWIPE FILE CATALOG": "M27: Research",
+      "col_2": "Customer Research Kit (Interview Guide + JTBD)",
+      "col_3": "PDF",
+      "col_4": "Interview questions. JTBD framework. Psychographic profiling. Language dictionary template.",
+      "col_5": "Product managers, researchers",
+      "col_6": "PM CL-5"
+    },
+    {
+      "SWIPE FILE CATALOG": "M30: Analytics",
+      "col_2": "D2C Dashboard Metrics Cheat Sheet",
+      "col_3": "PDF",
+      "col_4": "Every metric you should track. By stage. With benchmarks. Red flag thresholds.",
+      "col_5": "Analysts, ops people",
+      "col_6": "PM CL-6"
+    },
+    {
+      "SWIPE FILE CATALOG": "M33: Governance",
+      "col_2": "Performance Grading Framework",
+      "col_3": "Spreadsheet",
+      "col_4": "How to grade operational performance. Our CM methodology adapted for any company.",
+      "col_5": "Ops leaders, investors",
+      "col_6": "PM CL-7 + investors"
+    },
+    {
+      "SWIPE FILE CATALOG": "M34: Trade",
+      "col_2": "Business Operating Model Template",
+      "col_3": "Spreadsheet",
+      "col_4": "The meta template. How to structure your own Trade. Model categories. Tab types.",
+      "col_5": "Systems thinkers, consultants",
+      "col_6": "Investors + DFY service leads"
+    },
+    {
+      "SWIPE FILE CATALOG": "M38: Strategy",
+      "col_2": "Strategic Games Playbook",
+      "col_3": "PDF",
+      "col_4": "10 strategic frameworks with explicit win conditions, move sets, scoring. Applied examples.",
+      "col_5": "Strategy consultants, founders",
+      "col_6": "Investor funnel + thought leadership"
+    },
+    {
+      "SWIPE FILE CATALOG": "F3: YouTube",
+      "col_2": "First 20 YouTube Videos Planner",
+      "col_3": "Spreadsheet",
+      "col_4": "Topic selection. Hook formulas. Thumbnail concepts. Publishing cadence. Analytics tracking.",
+      "col_5": "Aspiring YouTubers, founders",
+      "col_6": "Community (F16)"
+    },
+    {
+      "SWIPE FILE CATALOG": "F7: Cold Email",
+      "col_2": "Cold Email Recruiting Templates",
+      "col_3": "PDF",
+      "col_4": "10 templates for recruiting PM co-founders, experts, MC, product people. With follow-ups.",
+      "col_5": "Founders who need to recruit",
+      "col_6": "Meta: recruits recruiters"
+    },
+    {
+      "SWIPE FILE CATALOG": "PRODUCTION PRIORITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Phase 1 (Week 1-2): Produce 3-5 swipe files from existing M- models. Highest-value, easiest to extract.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Start with: M11 (VSL hooks), M13 (Meta ads), M3 (financial model), M27 (research kit), M34 (operating model template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Phase 2 (Week 3-4): Add S-level swipe files as studio models get built.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Add: S1 (AI ops playbook), S6 (recruiting funnel), S33 (coordination theory)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Phase 3 (Week 5+): Complete catalog. One swipe file per model that has been verified.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Each swipe file: Claude extracts from Trade model (1 hr) → PM packages (1 hr) → Admin sets up Kit landing page (30 min)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "SWIPE FILE CATALOG": "Total per swipe file: ~2.5 hours. For 25 swipe files: ~60 hours over 4-6 weeks.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 41,
+  "sheet_name": "Swipe File Catalog",
+  "sheet_index": 83
+}

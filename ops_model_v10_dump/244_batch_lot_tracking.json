@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "BATCH LOT TRACKING",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "BATCH LOT TRACKING": "Trace which customers got which batch (for recalls).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BATCH LOT TRACKING": "Batch #",
+      "col_2": "Received",
+      "col_3": "Units",
+      "col_4": "Date Range Shipped"
+    },
+    {
+      "BATCH LOT TRACKING": "BATCH-001",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    },
+    {
+      "BATCH LOT TRACKING": "BATCH-002",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null
+    }
+  ],
+  "row_count": 4,
+  "sheet_name": "Batch Lot Tracking",
+  "sheet_index": 244
+}

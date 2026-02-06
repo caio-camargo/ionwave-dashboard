@@ -1,0 +1,35 @@
+{
+  "headers": [
+    "WEEKLY OPERATING RHYTHM",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "WEEKLY OPERATING RHYTHM": "Monday AM",
+      "col_2": "Review weekend performance, plan week"
+    },
+    {
+      "WEEKLY OPERATING RHYTHM": "Tuesday",
+      "col_2": "Creative review, new ads launch"
+    },
+    {
+      "WEEKLY OPERATING RHYTHM": "Wednesday",
+      "col_2": "Inventory check, supplier comms"
+    },
+    {
+      "WEEKLY OPERATING RHYTHM": "Thursday",
+      "col_2": "Email performance, flow optimization"
+    },
+    {
+      "WEEKLY OPERATING RHYTHM": "Friday",
+      "col_2": "Weekly metrics review, team sync"
+    },
+    {
+      "WEEKLY OPERATING RHYTHM": "Weekend",
+      "col_2": "Monitor only, no new launches"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Weekly Operating Rhythm",
+  "sheet_index": 785
+}

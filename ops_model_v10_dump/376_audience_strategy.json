@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "AUDIENCE STRATEGY",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "AUDIENCE STRATEGY": "Core",
+      "col_2": "Health-conscious 25-45, interested in supplements"
+    },
+    {
+      "AUDIENCE STRATEGY": "Expansion 1",
+      "col_2": "Athletes, fitness enthusiasts"
+    },
+    {
+      "AUDIENCE STRATEGY": "Expansion 2",
+      "col_2": "Biohackers, optimization community"
+    },
+    {
+      "AUDIENCE STRATEGY": "Expansion 3",
+      "col_2": "Wellness moms, family health"
+    },
+    {
+      "AUDIENCE STRATEGY": "Lookalikes",
+      "col_2": "Based on purchasers, high-value customers"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Audience Strategy",
+  "sheet_index": 376
+}

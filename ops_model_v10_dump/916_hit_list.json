@@ -1,0 +1,40 @@
+{
+  "headers": [
+    "HIT LIST: KEY CONTACTS"
+  ],
+  "rows": [
+    {
+      "HIT LIST: KEY CONTACTS": "Suppliers"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Ocean Harvest, SeaMineral Labs, Pacific Trace"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "3PLs"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "ShipBob, Deliverr, Red Stag"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Agencies"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Homestead Studio, Raindrop, Pilothouse"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Advisors"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "D2C operators, supplement founders"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Creators"
+    },
+    {
+      "HIT LIST: KEY CONTACTS": "Micro-influencers in health/wellness"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Hit List",
+  "sheet_index": 916
+}

@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "M0 THESIS — DOWNSTREAM READS (who reads what from M0)",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "Every cluster reads specific M0 fields. If a field is wrong, the cluster is wrong.",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "Cluster",
+      "col_2": "M0 Fields They Read",
+      "col_3": "What They Do With It"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-1: People & Culture",
+      "col_2": "ICP (to understand who we serve), Kill Criteria (to know when to stop hiring)",
+      "col_3": "Defines hiring criteria, team culture, what \"the right PM\" looks like for this specific ICP"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-2: Studio Operations",
+      "col_2": "All fields (CL-2 is the coordination layer)",
+      "col_3": "Sequences clusters, schedules sprints, manages dependencies across all fields"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-3: Product & Supply Chain",
+      "col_2": "Core Formulation, Form Factor, Flavor Strategy, Target COGS, Price Point",
+      "col_3": "Builds formulation brief, sources manufacturers, calculates COGS, designs packaging"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-4: Marketing & Creative",
+      "col_2": "ICP (primary + secondary + anti), Positioning, Launch Channel, Customer Acquisition Thesis, Price Point",
+      "col_3": "Builds funnel, writes creative briefs, designs ad strategy, plans content calendar"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-5: Finance & Strategy",
+      "col_2": "Price Point, Target COGS, Fundraise Target, Kill Criteria, Timeline Kill",
+      "col_3": "Builds unit economics model, P&L projection, fundraise deck, break-even analysis"
+    },
+    {
+      "M0 THESIS — DOWNSTREAM READS (who reads what from M0)": "CL-6: Content & Distribution",
+      "col_2": "ICP, Positioning, Customer Acquisition Thesis",
+      "col_3": "Designs content strategy, distribution plan, creator partnerships, organic growth playbook"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "M0 Thesis - Downstream",
+  "sheet_index": 1205
+}

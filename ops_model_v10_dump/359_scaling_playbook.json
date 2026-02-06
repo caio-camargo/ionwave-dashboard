@@ -1,0 +1,84 @@
+{
+  "headers": [
+    "Trigger",
+    "Action",
+    "Budget Change",
+    "Risk",
+    "Rollback Criteria"
+  ],
+  "rows": [
+    {
+      "Trigger": "ROAS >2.5x for 7 days",
+      "Action": "Increase ad spend 20%",
+      "Budget Change": "+20% weekly",
+      "Risk": "CPM spike, audience saturation",
+      "Rollback Criteria": "ROAS drops below 2.0x for 3 days"
+    },
+    {
+      "Trigger": "ROAS >3.0x for 14 days",
+      "Action": "Increase ad spend 50%, add new ad sets",
+      "Budget Change": "+50% + expansion",
+      "Risk": "Creative fatigue, fulfillment strain",
+      "Rollback Criteria": "ROAS drops below 2.5x for 5 days"
+    },
+    {
+      "Trigger": "Single ad >$500 spend, >3.0x ROAS",
+      "Action": "Duplicate to new audiences (LAL, interest expansion)",
+      "Budget Change": "Proportional increase",
+      "Risk": "Audience overlap, diminishing returns",
+      "Rollback Criteria": "New ad sets <2.0x ROAS after $200 spend"
+    },
+    {
+      "Trigger": "Meta CAC <$30 stable",
+      "Action": "Test YouTube ($2K pilot)",
+      "Budget Change": "+$2K/month",
+      "Risk": "Different creative needs, longer sales cycle",
+      "Rollback Criteria": "YouTube CAC >$60 after $2K spend"
+    },
+    {
+      "Trigger": "YouTube CAC <$40",
+      "Action": "Scale YouTube to 30% of budget",
+      "Budget Change": "Reallocate from Meta",
+      "Risk": "Dividing attention, creative bandwidth",
+      "Rollback Criteria": "YouTube CAC rises above Meta CAC"
+    },
+    {
+      "Trigger": "100+ reviews, 4.5+ stars",
+      "Action": "Launch TikTok organic + spark ads",
+      "Budget Change": "+$1K/month",
+      "Risk": "Platform learning curve, different content",
+      "Rollback Criteria": "TikTok engagement <1% after 30 days"
+    },
+    {
+      "Trigger": "$50K MRR reached",
+      "Action": "Hire part-time creative help",
+      "Budget Change": "+$2K/month labor",
+      "Risk": "Training time, quality control",
+      "Rollback Criteria": "Creative quality drops, ROAS declines"
+    },
+    {
+      "Trigger": "Subscription rate <35%",
+      "Action": "A/B test subscription incentives",
+      "Budget Change": "No spend change",
+      "Risk": "Margin compression",
+      "Rollback Criteria": "No improvement after 2 weeks"
+    },
+    {
+      "Trigger": "Churn >12% monthly",
+      "Action": "Implement retention campaign, survey churned",
+      "Budget Change": "+$500/month email tools",
+      "Risk": "Ignore root cause",
+      "Rollback Criteria": "Churn doesnt improve after 30 days"
+    },
+    {
+      "Trigger": "Inventory <2 weeks supply",
+      "Action": "Emergency reorder + expedited shipping",
+      "Budget Change": "+30% COGS for rush",
+      "Risk": "Stockout loses customers",
+      "Rollback Criteria": "Standard order when >4 weeks supply"
+    }
+  ],
+  "row_count": 10,
+  "sheet_name": "Scaling Playbook",
+  "sheet_index": 359
+}

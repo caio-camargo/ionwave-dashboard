@@ -1,0 +1,364 @@
+{
+  "headers": [
+    "PHASE 0: TRADE SETUP",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "PHASE 0: TRADE SETUP": "Before Pre-Launch: What must be true before the clock starts",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "WHY PHASE 0 EXISTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "The Command Center starts at 'Pre-Launch'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "But Pre-Launch assumes certain things are ALREADY true:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "• Someone is doing the work (Operator)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "• Money exists to fund it (Capital)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "• The bet makes sense (Validated Thesis)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "• Everyone knows the deal (Signed Agreements)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Phase 0 is: Get these things in place BEFORE starting the clock.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "PHASE 0 CHECKLIST",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "All must be TRUE before moving to Pre-Launch:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Item",
+      "col_2": "Owner",
+      "col_3": "Status",
+      "col_4": "Artifact (Proof)",
+      "col_5": "Notes"
+    },
+    {
+      "PHASE 0: TRADE SETUP": "THESIS VALIDATION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Market opportunity confirmed",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Thesis doc with data",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "ICP identified with evidence",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "ICP doc with research source",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Competitive landscape understood",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Competitive intel doc",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Unit economics modeled (theoretical)",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Unit economics tab filled",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Kill criteria defined",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Kill criteria tab",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "CAPITAL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Funding amount determined",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Cash flow model",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Funding source confirmed",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Bank statement or signed commitment",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Money accessible when needed",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Confirmed with source",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Entity formed (LLC/Corp)",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Formation docs",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Bank account opened",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Bank statement",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "OPERATOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Operator identified",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Name and contact",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Operator evaluated",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Completed scorecard",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Terms negotiated",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Term sheet or offer letter",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Contract signed",
+      "col_2": "Both",
+      "col_3": "☐",
+      "col_4": "Signed contract PDF",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Operator onboarded to this model",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Operator confirms access",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "LEGAL / ADMIN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Operating agreement (if LLC)",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Signed document",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "IP assignment (if needed)",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Signed document",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Insurance quoted (not yet purchased)",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Quote in hand",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "ADVISORS (Optional)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Key advisors identified",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Names and roles",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Advisor agreements signed",
+      "col_2": "Studio",
+      "col_3": "☐",
+      "col_4": "Signed agreements",
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "PHASE 0 → PRE-LAUNCH GATE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Ready to start Pre-Launch when:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "☐ All 'Thesis Validation' items complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "☐ All 'Capital' items complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "☐ All 'Operator' items complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "☐ All 'Legal/Admin' items complete",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Gate approval: Studio signs off, Operator confirms ready",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "→ Then move to Command Center and start Pre-Launch phase",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "WHO DOES PHASE 0?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "STUDIO owns Phase 0.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "The operator doesn't exist yet (that's part of Phase 0).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Or if operator is identified, they're in 'evaluation' mode.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "PHASE 0: TRADE SETUP": "Solo founder? You do both. Complete this before starting the clock.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 50,
+  "sheet_name": "Phase 0 - Trade Setup1",
+  "sheet_index": 926
+}

@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "CULTURE AS COORDINATION DOC",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "CULTURE AS COORDINATION DOC": "Unwritten rules that enable coordination. Make implicit explicit.",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "THE PRINCIPLE",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Culture = shared assumptions that enable coordination without explicit instruction",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Good culture = people make same decisions you would without asking",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Making culture explicit helps new people coordinate faster",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "HOW WE WORK",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Principle",
+      "col_2": "What It Means in Practice"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Speed over perfection",
+      "col_2": "Ship fast, iterate. 80% today beats 100% next month."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Ownership not tasks",
+      "col_2": "You own outcomes, not just to-do items. If it's not working, fix it."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Transparency default",
+      "col_2": "Share information freely. Bad news travels fast. No surprises."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Data over opinion",
+      "col_2": "When we disagree, we test. The data wins, not the loudest voice."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Direct communication",
+      "col_2": "Say what you mean. Disagree openly. No passive-aggressive."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Resourcefulness",
+      "col_2": "Figure it out. Google first, ask second. Don't wait for permission."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Customer obsession",
+      "col_2": "When in doubt, ask what's best for customer."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Intellectual honesty",
+      "col_2": "Admit when wrong. Update beliefs based on evidence."
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "HOW WE COMMUNICATE",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Groupchat",
+      "col_2": "Daily updates, quick questions, real-time coordination"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "This doc (Ops Model)",
+      "col_2": "Source of truth, SOPs, reference"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Weekly report",
+      "col_2": "Formal summary, metrics, decisions needed"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Monthly review",
+      "col_2": "Deep dive, strategy, course corrections"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "Email",
+      "col_2": "External comms only, not internal"
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "WHAT WE DON'T DO",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "• Blame without solution",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "• Surprise stakeholders with bad news",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "• Make decisions without data",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "• Wait for permission on small things",
+      "col_2": null
+    },
+    {
+      "CULTURE AS COORDINATION DOC": "• Tolerate underperformance silently",
+      "col_2": null
+    }
+  ],
+  "row_count": 27,
+  "sheet_name": "Culture as Coordination",
+  "sheet_index": 885
+}

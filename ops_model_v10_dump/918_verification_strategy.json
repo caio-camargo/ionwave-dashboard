@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "VERIFICATION STRATEGY",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "VERIFICATION STRATEGY": "How we verify assumptions before spending money",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "VERIFICATION STRATEGY": "VERIFICATION HIERARCHY",
+      "col_2": null,
+      "col_3": null
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 1: Desk Research",
+      "col_2": "Free",
+      "col_3": "Google, Reddit, forums, reviews"
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 2: Competitor Analysis",
+      "col_2": "Free",
+      "col_3": "Ad Library, websites, pricing"
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 3: Expert Conversations",
+      "col_2": "$0-500",
+      "col_3": "5-10 calls with industry people"
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 4: Customer Interviews",
+      "col_2": "$0-200",
+      "col_3": "10-20 target customer calls"
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 5: Micro-Tests",
+      "col_2": "$500-2K",
+      "col_3": "Landing page + $500 ad spend"
+    },
+    {
+      "VERIFICATION STRATEGY": "Level 6: MVP Test",
+      "col_2": "$5-10K",
+      "col_3": "Real product, real customers"
+    }
+  ],
+  "row_count": 8,
+  "sheet_name": "Verification Strategy",
+  "sheet_index": 918
+}

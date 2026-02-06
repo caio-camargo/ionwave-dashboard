@@ -1,0 +1,399 @@
+{
+  "headers": [
+    "INCORPORATION — DOING IT RIGHT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "INCORPORATION — DOING IT RIGHT": "Entity formation is not a checkbox. It's a foundation. Get it wrong and everything downstream is harder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "WHY THIS NEEDS ITS OWN MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Most startups incorporate as an afterthought. File a Delaware LLC on Stripe Atlas,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "sort out the cap table later, figure out the operating agreement when investors ask for it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "That's fine for a normal startup. This isn't a normal startup.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "IonWave is:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• A DAO spinoff (novel governance structure, needs to be reflected in docs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• A portfolio company of an infrastructure company (relationship needs to be clean)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Giving equity to 5-10 people in the labor chain (cap table must be right from Day 1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Planning two simultaneous raises (entity structure affects both)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Potentially operating across jurisdictions (Nilo in Brazil, team distributed)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Getting incorporation right means the CoS can raise without legal cleanup.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Getting it wrong means the first investor's lawyer finds problems that delay everything.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "INCORPORATION WORKSTREAMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "#",
+      "col_2": "Workstream",
+      "col_3": "What It Covers",
+      "col_4": "Owner",
+      "col_5": "Timeline",
+      "col_6": "Dependencies"
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I1",
+      "col_2": "Entity Type & Jurisdiction",
+      "col_3": "Delaware C-Corp vs LLC vs other. Why Delaware. Tax implications. State registration requirements. Foreign qualification if needed.",
+      "col_4": "PM co-founder + lawyer",
+      "col_5": "Day 1-3",
+      "col_6": "M0 locked (need to know the thesis before choosing entity type)"
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I2",
+      "col_2": "Formation Filing",
+      "col_3": "Articles of incorporation/organization. EIN application. Registered agent. State filing. Certificate of formation.",
+      "col_4": "VA (execution) + PM (oversight)",
+      "col_5": "Day 2-5",
+      "col_6": "I1 decided"
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I3",
+      "col_2": "Operating Agreement / Bylaws",
+      "col_3": "Governance structure. Decision rights. Voting. DAO-compatible provisions. How the CM system maps to legal governance. Amendment procedures.",
+      "col_4": "PM co-founder + lawyer",
+      "col_5": "Day 3-7",
+      "col_6": "I1 decided. CoS identified (they need to sign)."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I4",
+      "col_2": "Cap Table & Equity Allocation",
+      "col_3": "Founder shares. Co-founder equity (PM). Option pool. VA bonus equity. Expert equity. CoS equity. Vesting schedules. Cliff periods. Dilution modeling for two raises.",
+      "col_4": "PM co-founder + Nilo + lawyer",
+      "col_5": "Day 3-10",
+      "col_6": "I1 and I3 done. All equity participants identified."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I5",
+      "col_2": "Banking & Financial Infrastructure",
+      "col_3": "Business bank account. Mercury or equivalent. Payment processing. Bookkeeping setup (QBO). Initial capital deposit.",
+      "col_4": "VA (execution) + PM (oversight)",
+      "col_5": "Day 5-8",
+      "col_6": "I2 done (need EIN). CoS capital commitment confirmed."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I6",
+      "col_2": "IP Assignment & Protection",
+      "col_3": "Trade system IP assignment from Studio 4 to IonWave (license? transfer? limited rights?). Brand name. Domain. Trademark search/filing.",
+      "col_4": "PM co-founder + Nilo + lawyer",
+      "col_5": "Day 5-10",
+      "col_6": "I1 done. Relationship between IonWave and holding company defined."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I7",
+      "col_2": "Holding Company Relationship",
+      "col_3": "How IonWave relates to the infrastructure company legally. Equity stake. License agreement for Trade system. Governance rights. Information rights. Anti-dilution.",
+      "col_4": "Nilo + lawyer",
+      "col_5": "Day 7-14",
+      "col_6": "I1, I3, I4 done. Infrastructure company structure at least outlined."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I8",
+      "col_2": "Contractor & Employment Agreements",
+      "col_3": "VA agreement. PM co-founder agreement. Actor agreement. Product person contract. Expert engagement letters. IP assignment clauses in all agreements.",
+      "col_4": "PM co-founder + lawyer",
+      "col_5": "Day 3-10 (rolling)",
+      "col_6": "I1 done. Each person hired needs an agreement."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I9",
+      "col_2": "Compliance & Regulatory Setup",
+      "col_3": "State business licenses. Sales tax registration (for D2C). Supplement-specific registrations if needed. Insurance (D&O, general liability, product liability).",
+      "col_4": "PM co-founder + VA",
+      "col_5": "Day 7-14",
+      "col_6": "I2 done. Product category confirmed in M0."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "I10",
+      "col_2": "Investor-Ready Package",
+      "col_3": "Data room setup. All formation docs organized. Cap table current. Financial projections linked. Diligence checklist pre-completed. Term sheet template ready.",
+      "col_4": "PM co-founder",
+      "col_5": "Day 10-14",
+      "col_6": "I1-I9 substantially complete."
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "THE LAWYER QUESTION",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "You need a startup lawyer for this. Not a general practitioner.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Specifically someone who has done:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Delaware C-Corp formations for venture-backed startups",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Cap tables with multiple equity classes and option pools",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Operating agreements with non-standard governance (DAO-adjacent)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• IP licensing between related entities (holding co ↔ portfolio co)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Cost: $3-8K for full incorporation package (not hourly, flat fee).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Or: use Clerky / Stripe Atlas for formation + pay lawyer for operating agreement + cap table.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "This is a Week 1 spend. The PM co-founder drives it. The VA supports with filings.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "By end of Week 2, the entity should be fully formed, banked, and investor-ready.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "WHAT 'DOING IT RIGHT' MEANS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Day 14 state: an investor's lawyer reviews the formation docs and finds zero issues.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "That means:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Entity type makes sense for planned raises",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Cap table is clean with all allocations documented and vesting in place",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Operating agreement reflects actual governance (including DAO/CM elements)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• IP relationship between IonWave and holding company is clear and clean",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• All contractors have signed agreements with IP assignment",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Bank account is funded and bookkeeping is set up",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "• Data room is organized and investor-ready",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "This is the legal equivalent of 'complexity at launch.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "INCORPORATION — DOING IT RIGHT": "Most startups fix this stuff during diligence. We fix it before the first meeting.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 48,
+  "sheet_name": "Incorporation Model",
+  "sheet_index": 94
+}

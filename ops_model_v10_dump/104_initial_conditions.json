@@ -1,0 +1,47 @@
+{
+  "headers": [
+    "INITIAL CONDITIONS",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "INITIAL CONDITIONS": "What must be true before launch",
+      "col_2": null
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Supplier confirmed",
+      "col_2": "MOQ, pricing, lead time locked"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ 3PL selected",
+      "col_2": "Contract signed, rates confirmed"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Store built",
+      "col_2": "Shopify live, checkout tested"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Tracking verified",
+      "col_2": "Pixels firing, UTMs working"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Email flows live",
+      "col_2": "Welcome, cart, post-purchase"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ First 20 ads ready",
+      "col_2": "Static + video in approved formats"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Legal complete",
+      "col_2": "LLC, TM search, terms/privacy"
+    },
+    {
+      "INITIAL CONDITIONS": "☐ Inventory ordered",
+      "col_2": "First batch in transit"
+    }
+  ],
+  "row_count": 9,
+  "sheet_name": "Initial Conditions",
+  "sheet_index": 104
+}

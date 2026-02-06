@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "OPERATOR CONTRACT TEMPLATE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "OPERATOR CONTRACT TEMPLATE": "The actual agreement structure (consult lawyer before use)",
+      "col_2": null
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "1. PARTIES",
+      "col_2": "Studio entity and Operator individual"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "2. ROLE & SCOPE",
+      "col_2": "Full operational ownership of [Trade Name]"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "3. TERM",
+      "col_2": "Initial 7-week sprint, renewable"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "4. COMPENSATION",
+      "col_2": "Equity: [X]% vesting over 4 years, 1-year cliff"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "5. EQUITY TERMS",
+      "col_2": "Vesting schedule, acceleration triggers, buyback rights"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "6. PERFORMANCE STANDARDS",
+      "col_2": "Link to Performance Standards Matrix"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "7. INTELLECTUAL PROPERTY",
+      "col_2": "All work product belongs to Studio"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "8. CONFIDENTIALITY",
+      "col_2": "NDA terms, duration, exceptions"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "9. TERMINATION",
+      "col_2": "Link to Termination Triggers"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "10. DISPUTE RESOLUTION",
+      "col_2": "Link to Dispute Resolution Flowchart"
+    },
+    {
+      "OPERATOR CONTRACT TEMPLATE": "11. GOVERNING LAW",
+      "col_2": "[State] law, [venue] jurisdiction"
+    }
+  ],
+  "row_count": 12,
+  "sheet_name": "Operator Contract Template",
+  "sheet_index": 151
+}

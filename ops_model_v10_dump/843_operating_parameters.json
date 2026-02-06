@@ -1,0 +1,37 @@
+{
+  "headers": [
+    "OPERATING PARAMETERS",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "OPERATING PARAMETERS": "Max CAC",
+      "col_2": "$40",
+      "col_3": "Kill ads above this"
+    },
+    {
+      "OPERATING PARAMETERS": "Min ROAS",
+      "col_2": "2x",
+      "col_3": "Scale above this"
+    },
+    {
+      "OPERATING PARAMETERS": "Safety stock",
+      "col_2": "14 days",
+      "col_3": "Buffer inventory"
+    },
+    {
+      "OPERATING PARAMETERS": "Support SLA",
+      "col_2": "4 hours",
+      "col_3": "First response time"
+    },
+    {
+      "OPERATING PARAMETERS": "Ad test budget",
+      "col_2": "$100/ad",
+      "col_3": "Before kill decision"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Operating Parameters",
+  "sheet_index": 843
+}

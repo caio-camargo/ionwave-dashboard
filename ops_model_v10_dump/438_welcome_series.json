@@ -1,0 +1,280 @@
+{
+  "headers": [
+    "WELCOME SERIES",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "WELCOME SERIES": "4-6 emails to build relationship with new subscribers",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "WELCOME SERIES STRUCTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Email",
+      "col_2": "Timing",
+      "col_3": "Subject",
+      "col_4": "Purpose",
+      "col_5": "CTA"
+    },
+    {
+      "WELCOME SERIES": "1. Welcome",
+      "col_2": "Immediately",
+      "col_3": "Welcome to IonWave 👋",
+      "col_4": "Deliver promise, set expectations",
+      "col_5": "Shop / Discount"
+    },
+    {
+      "WELCOME SERIES": "2. Story",
+      "col_2": "Day 2",
+      "col_3": "Why I created IonWave",
+      "col_4": "Build connection, credibility",
+      "col_5": "Learn More"
+    },
+    {
+      "WELCOME SERIES": "3. Education",
+      "col_2": "Day 4",
+      "col_3": "The truth about hydration",
+      "col_4": "Educate, create desire",
+      "col_5": "Shop"
+    },
+    {
+      "WELCOME SERIES": "4. Social Proof",
+      "col_2": "Day 6",
+      "col_3": "See what others are saying",
+      "col_4": "Build trust",
+      "col_5": "Shop"
+    },
+    {
+      "WELCOME SERIES": "5. Offer",
+      "col_2": "Day 8",
+      "col_3": "Still thinking about it?",
+      "col_4": "Convert with urgency",
+      "col_5": "Buy Now"
+    },
+    {
+      "WELCOME SERIES": "6. Last Chance",
+      "col_2": "Day 10",
+      "col_3": "Your discount expires...",
+      "col_4": "Final push",
+      "col_5": "Buy Now"
+    },
+    {
+      "WELCOME SERIES": "EMAIL 1: WELCOME (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "SUBJECT: Welcome to IonWave 👋 (Here's your [X]% off)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Welcome! You just joined [X] people who are done feeling",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "tired, foggy, and dehydrated.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Here's your exclusive [X]% discount: [CODE]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Quick intro: IonWave is different because...",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• 78 ocean-sourced minerals (not 3-4 synthetic ones)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• Zero sugar, zero junk",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• Actually hydrates your cells",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Over the next few days, I'll share:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• Why most electrolytes don't work",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• The science behind ocean minerals",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "• What to expect when you start",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "For now, use code [CODE] for [X]% off your first order.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[CTA BUTTON: Shop Now]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Talk soon,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "EMAIL 2: FOUNDER STORY (Template)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "SUBJECT: Why I created IonWave (it's personal)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Hey [First Name],",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[Personal story about the problem you experienced]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[What you tried that didn't work]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[Discovery moment - what changed everything]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[Why you created IonWave]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "That's why every batch is [quality claim].",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "That's why we use [differentiator].",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "Try it yourself: [LINK]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WELCOME SERIES": "[Founder Name]",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 38,
+  "sheet_name": "Welcome Series",
+  "sheet_index": 438
+}

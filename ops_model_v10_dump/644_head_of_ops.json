@@ -1,0 +1,31 @@
+{
+  "headers": [
+    "HEAD OF OPS PROFILE",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "HEAD OF OPS PROFILE": "Background",
+      "col_2": "Ex-consultant + operator, or scaled D2C brand"
+    },
+    {
+      "HEAD OF OPS PROFILE": "Superpower",
+      "col_2": "Can design systems AND execute"
+    },
+    {
+      "HEAD OF OPS PROFILE": "Experience",
+      "col_2": "Built playbooks, managed fulfillment, scaled ops"
+    },
+    {
+      "HEAD OF OPS PROFILE": "Comp",
+      "col_2": "$80-120K base + equity"
+    },
+    {
+      "HEAD OF OPS PROFILE": "When to hire",
+      "col_2": "After $50K MRR, before $100K MRR"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Head of Ops",
+  "sheet_index": 644
+}

@@ -1,0 +1,75 @@
+{
+  "headers": [
+    "C-S33: Coordination Theory — CONTRACT",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Cluster: SCL-0 | Owner: Nilo",
+      "col_2": null
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "The theoretical foundation. Maximum variety with fewest rules. Coordination protocols. Published at coordinationprotocols.com.",
+      "col_2": null
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Term",
+      "col_2": "Details"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Role Title",
+      "col_2": "Flash Contributor — Coordination Theory (S33)"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Sprint Scope",
+      "col_2": "Produce S33: Coordination Theory within SCL-0"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Time Commitment",
+      "col_2": "[1-4 weeks, X hours/week]"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Equity",
+      "col_2": "[0.1-0.5% per sprint]"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Vesting",
+      "col_2": "[Upon V-tab grade of B or above. No grade = no vest.]"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "IP Assignment",
+      "col_2": "All work product assigned to [Entity]. Contributor retains portfolio rights (can show work, can't reuse IP)."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "AI-Generated Content",
+      "col_2": "Content produced with Claude is jointly owned by contributor + entity. Claude's output is not contributor's sole IP."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Deliverables",
+      "col_2": "[Specific content tabs for S33]"
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Revision Policy",
+      "col_2": "If expert grades C or D, contributor does one revision sprint (1 week) at no additional equity."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Termination",
+      "col_2": "Either party can exit. Completed work is assigned. Incomplete work reverts. Equity prorated to deliverables completed."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Portfolio Rights",
+      "col_2": "Contributor may list: \"Produced the Coordination Theory model for [Studio Name] venture studio Trade.\" May show sanitized samples."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Confidentiality",
+      "col_2": "Trade content is confidential until published on site. MC conversations are public from recording."
+    },
+    {
+      "C-S33: Coordination Theory — CONTRACT": "Non-Compete",
+      "col_2": "None. Contributor is free to do any other work during and after sprint."
+    }
+  ],
+  "row_count": 16,
+  "sheet_name": "C-S33",
+  "sheet_index": 952
+}

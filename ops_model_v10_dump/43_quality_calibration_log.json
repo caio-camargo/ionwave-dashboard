@@ -1,0 +1,119 @@
+{
+  "headers": [
+    "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "After each expert session, PM logs patterns. These improve every subsequent model.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "Cluster",
+      "col_2": "Expert",
+      "col_3": "Date",
+      "col_4": "Pattern: What AI Does Well",
+      "col_5": "Pattern: Where AI Fails",
+      "col_6": "Calibration Rule for Future Models"
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "WHY THIS MATTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "Each expert session doesn't just improve one model — it improves the AI's output for all future models.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "By model 10, the PM has a library of calibration rules that make AI drafts significantly better.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "By model 30, the PM barely needs expert review because the patterns are baked into prompts.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "Example calibration rules that might emerge:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "- 'AI tends to use generic benchmarks. Always prompt with IonWave-specific numbers from M0.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "- 'AI writes process docs that sound like textbooks. Prompt for operator-voice, first-person instructions.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "- 'AI overcomplicates financial models. Prompt for simplest version that captures the real dynamics.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "- 'AI underestimates FDA risk. Always prompt with worst-case regulatory scenarios.'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "The calibration log IS the institutional knowledge that makes the Trade factory possible.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "QUALITY CALIBRATION LOG — WHAT AI LEARNS FROM EACH EXPERT": "When you produce Trade #2 for a different product, this log is the starting intelligence.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 13,
+  "sheet_name": "Quality Calibration Log",
+  "sheet_index": 43
+}

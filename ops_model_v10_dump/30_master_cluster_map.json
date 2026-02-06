@@ -1,0 +1,767 @@
+{
+  "headers": [
+    "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "926 tabs. 3 levels. 18 clusters. 103 models. Every cluster has an owner. Every model has a home.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "█ STUDIO LEVEL (S0-S40) — 6 CLUSTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Cluster",
+      "col_2": "Name",
+      "col_3": "Models",
+      "col_4": "Model Count",
+      "col_5": "Owner",
+      "col_6": "Expert Type",
+      "col_7": "Priority",
+      "col_8": "Hrs/Week"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-0",
+      "col_2": "STUDIO THESIS\n& ARCHITECTURE",
+      "col_3": "S0: Studio Thesis\nS1: Production System\nS4: Trade Architecture\nS5: Studio Governance\nS33: Coordination Theory\nS34: Conceptual Foundations",
+      "col_4": "6",
+      "col_5": "NILO\n(directly, no PM needed)",
+      "col_6": "None — this is Nilo + Claude",
+      "col_7": "FIRST\n(Week 0-1)",
+      "col_8": "Nilo's full time"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-1",
+      "col_2": "PEOPLE &\nCULTURE",
+      "col_3": "S2: Labor Architecture\nS6: Recruiting Engine\nS7: MC System\nS8: Series Production\nS9: Expert Network\nS10: PM Co-Founder System\nS11: Participant UX\nS12: Career Booster\nS13: Culture & Values",
+      "col_4": "9",
+      "col_5": "LIBRARIAN\n(they know the people system\nbecause they run it)",
+      "col_6": "HR/Ops consultant or\norganizational design expert",
+      "col_7": "HIGH\n(Week 1-3)",
+      "col_8": "3-5"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-2",
+      "col_2": "STUDIO\nOPERATIONS",
+      "col_3": "S14: Cluster Operations\nS15: Advertorial Engine\nS18: Studio Tech Stack\nS19: Knowledge Management\nS20: Studio Analytics\nS39: Execution Rhythms\nS40: Command Center",
+      "col_4": "7",
+      "col_5": "ADMIN\n(they run studio ops\nday-to-day)",
+      "col_6": "Operations generalist or\nventure studio ops person",
+      "col_7": "MEDIUM\n(Week 3-5)",
+      "col_8": "3-5"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-3",
+      "col_2": "STUDIO MONEY\n& LEGAL",
+      "col_3": "S16: Studio Financial Model\nS17: Studio Entity & Legal\nS29: Studio Fundraise\nS30: Investor Relations\nS38: Risk Management",
+      "col_4": "5",
+      "col_5": "PM CO-FOUNDER\n(finance/legal background)\nOR Nilo directly",
+      "col_6": "Startup lawyer +\nfractional CFO",
+      "col_7": "HIGH\n(Week 2-4)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-4",
+      "col_2": "CONTENT &\nDISTRIBUTION",
+      "col_3": "S21: Content Strategy\nS22: Site Architecture\nS23: Community\nS35: Trade-to-Textbook",
+      "col_4": "4",
+      "col_5": "SERIES PRODUCER\n(they own the content layer)",
+      "col_6": "Content strategist or\nmedia executive",
+      "col_7": "MEDIUM\n(Week 3-5)",
+      "col_8": "5-10"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SCL-5",
+      "col_2": "PORTFOLIO &\nSCALING",
+      "col_3": "S24: Portfolio Thesis\nS25: Business Selection\nS26: Operator Matching\nS27: Portfolio Monitoring\nS28: Cross-Pollination\nS31: Competitive Intel\nS32: School Model\nS36: Trade-to-SaaS\nS37: Studio Scaling",
+      "col_4": "9",
+      "col_5": "PM CO-FOUNDER\n(venture/portfolio background)\nOR deferred post-funding",
+      "col_6": "Venture studio operator or\nportfolio manager",
+      "col_7": "LOWER\n(Week 6-8)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "█ BUSINESS LEVEL (M0-M40) — 8 CLUSTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Cluster",
+      "col_2": "Name",
+      "col_3": "Models",
+      "col_4": "Model Count",
+      "col_5": "Owner",
+      "col_6": "Expert Type",
+      "col_7": "Priority",
+      "col_8": "Hrs/Week"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-0",
+      "col_2": "THESIS &\nMETA",
+      "col_3": "M0: Trade Thesis\nM34: Trade Architecture\nM38: Strategic Frameworks\nM39: Conceptual\nM40: Navigation & Command",
+      "col_4": "5",
+      "col_5": "NILO\n(directly)",
+      "col_6": "None — Nilo + Claude",
+      "col_7": "FIRST\n(Week 0-1)",
+      "col_8": "Nilo's full time"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-1",
+      "col_2": "PRODUCT &\nSCIENCE",
+      "col_3": "M5: Formulation\nM6: Supply Chain\nM7: Regulatory\nM8: Brand Identity",
+      "col_4": "4",
+      "col_5": "PM CO-FOUNDER\n(CPG/science background)",
+      "col_6": "Supplement formulator or\nfood scientist",
+      "col_7": "HIGH\n(Week 2-3)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-2",
+      "col_2": "MONEY &\nLEGAL",
+      "col_3": "M2: Entity & Legal\nM3: Financial Model\nM4: Fundraising\nM25: Bookkeeping",
+      "col_4": "4",
+      "col_5": "PM CO-FOUNDER\n(finance/legal background)\nCan share with SCL-3 owner",
+      "col_6": "Startup lawyer +\nfractional CFO",
+      "col_7": "HIGH\n(Week 2-3)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-3",
+      "col_2": "DR &\nCREATIVE",
+      "col_3": "M11: VSL Production\nM12: Ad Creative\nM13: Media Buying\nM14: Testing\nM15: Landing Pages",
+      "col_4": "5",
+      "col_5": "PM CO-FOUNDER\n(DR/performance marketing)",
+      "col_6": "DR marketer who has\nspent $1M+",
+      "col_7": "MEDIUM\n(Week 4-5)",
+      "col_8": "15-20"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-4",
+      "col_2": "RETENTION &\nLIFECYCLE",
+      "col_3": "M17: Email\nM18: SMS\nM19: Customer Lifecycle\nM20: Support\nM21: Subscriptions\nM22: Referral",
+      "col_4": "6",
+      "col_5": "PM CO-FOUNDER\n(lifecycle/CRM background)",
+      "col_6": "Lifecycle marketer or\nKlaviyo expert",
+      "col_7": "MEDIUM\n(Week 4-5)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-5",
+      "col_2": "GROWTH &\nMARKET",
+      "col_3": "M10: Pricing & Offer\nM16: Content & SEO\nM23: Influencer & Creator\nM26: Competitive Intel\nM27: Customer Research\nM28: Market Expansion\nM29: PR & Communications",
+      "col_4": "7",
+      "col_5": "PM CO-FOUNDER\n(growth/strategy background)",
+      "col_6": "Growth marketer or\nbrand strategist",
+      "col_7": "MEDIUM\n(Week 5-6)",
+      "col_8": "15-20"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-6",
+      "col_2": "OPERATIONS\n& INFRA",
+      "col_3": "M1: Labor Deployment\nM9: Ecommerce Infra\nM24: Fulfillment\nM30: Analytics\nM31: Hiring\nM35: Execution Plans\nM36: Operational Infra\nM37: AI & Automation",
+      "col_4": "8",
+      "col_5": "PM CO-FOUNDER\n(ops/logistics background)",
+      "col_6": "Operations generalist\nwho has built D2C backend",
+      "col_7": "LOWER\n(Week 6-7)",
+      "col_8": "15-20"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "BCL-7",
+      "col_2": "GOVERNANCE\n& SCHOOL",
+      "col_3": "M32: School Model\nM33: Governance & CM",
+      "col_4": "2",
+      "col_5": "PM CO-FOUNDER\n(systems thinker)\nOR Nilo directly",
+      "col_6": "None standard —\nNilo + PM together",
+      "col_7": "LOWER\n(Week 7-8)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "█ FUNNEL LEVEL (F0-F20) — 4 CLUSTERS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Cluster",
+      "col_2": "Name",
+      "col_3": "Models",
+      "col_4": "Model Count",
+      "col_5": "Owner",
+      "col_6": "Expert Type",
+      "col_7": "Priority",
+      "col_8": "Hrs/Week"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "FCL-0",
+      "col_2": "BRAND &\nCONTENT",
+      "col_3": "F0: Funnel Thesis\nF1: Personal Brand\nF2: Content Strategy\nF3: YouTube Playbook\nF17: Podcast/Interview",
+      "col_4": "5",
+      "col_5": "DAN JAMES\n(Thakos)",
+      "col_6": "None — Dan James IS\nthe expert here",
+      "col_7": "FIRST\n(Week 1-2)",
+      "col_8": "15-20"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "FCL-1",
+      "col_2": "FUNNEL\nINFRASTRUCTURE",
+      "col_3": "F4: Lead Magnets\nF5: Opt-In & Landing Pages\nF6: Email Sequences\nF10: Application System\nF13: Funnel Analytics",
+      "col_4": "5",
+      "col_5": "DAN JAMES\n(Thakos)",
+      "col_6": "Funnel builder or\nconversion specialist",
+      "col_7": "HIGH\n(Week 2-4)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "FCL-2",
+      "col_2": "OUTBOUND &\nPLATFORMS",
+      "col_3": "F7: Cold Email System\nF8: Platform Recruiting\nF9: Pass-the-Bottom\nF11: MC Conversation System\nF18: Social Proof System",
+      "col_4": "5",
+      "col_5": "ADMIN\n(sends cold emails,\nposts on platforms)\nDan James designs templates",
+      "col_6": "Cold email specialist\n(optional)",
+      "col_7": "HIGH\n(Week 2-3)",
+      "col_8": "5-10"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "FCL-3",
+      "col_2": "MONETIZATION\n& SCALING",
+      "col_3": "F12: Investor Funnel\nF14: Course/Info Product\nF15: Done-For-You Service\nF16: Community\nF19: Funnel Operations\nF20: Funnel Scaling",
+      "col_4": "6",
+      "col_5": "DAN JAMES\n(Thakos)\nWith Nilo on F12 (investor)",
+      "col_6": "Course creator or\ninfo product expert",
+      "col_7": "LOWER\n(Week 6+)",
+      "col_8": "10-15"
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SUMMARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": null,
+      "col_2": "Studio Level",
+      "col_3": "Business Level",
+      "col_4": "Funnel Level",
+      "col_5": "TOTAL",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Clusters",
+      "col_2": "6 (SCL-0 to SCL-5)",
+      "col_3": "8 (BCL-0 to BCL-7)",
+      "col_4": "4 (FCL-0 to FCL-3)",
+      "col_5": "18",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Models",
+      "col_2": "41 (S0-S40)",
+      "col_3": "41 (M0-M40)",
+      "col_4": "21 (F0-F20)",
+      "col_5": "103",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Tabs",
+      "col_2": "~300",
+      "col_3": "~500",
+      "col_4": "~126",
+      "col_5": "926",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "OWNER ROSTER — EVERY PERSON, EVERY CLUSTER, EVERY MODEL",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Owner",
+      "col_2": "Clusters Owned",
+      "col_3": "Models Owned",
+      "col_4": "Total Models",
+      "col_5": "Notes",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "NILO",
+      "col_2": "SCL-0 (Studio Thesis)\nBCL-0 (Business Thesis)",
+      "col_3": "S0,S1,S4,S5,S33,S34\nM0,M34,M38,M39,M40",
+      "col_4": "11",
+      "col_5": "Produces with Claude directly. No PM needed. Also final sign-off on ALL V-tabs.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "LIBRARIAN",
+      "col_2": "SCL-1 (People & Culture)",
+      "col_3": "S2,S6,S7,S8,S9,S10,S11,S12,S13",
+      "col_4": "9",
+      "col_5": "Produces these models BECAUSE they run the people system. They know it best.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "ADMIN",
+      "col_2": "SCL-2 (Studio Ops)\nFCL-2 (Outbound & Platforms)",
+      "col_3": "S14,S15,S18,S19,S20,S39,S40\nF7,F8,F9,F11,F18",
+      "col_4": "12",
+      "col_5": "Studio ops + outbound execution. Dan James designs templates, admin executes.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "SERIES PRODUCER",
+      "col_2": "SCL-4 (Content & Distribution)",
+      "col_3": "S21,S22,S23,S35",
+      "col_4": "4",
+      "col_5": "Owns the content layer. Site architecture, community, textbook evolution.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Finance/Legal)",
+      "col_2": "SCL-3 (Studio Money)\nBCL-2 (Business Money)",
+      "col_3": "S16,S17,S29,S30,S38\nM2,M3,M4,M25",
+      "col_4": "9",
+      "col_5": "Same person can own both studio AND business finance clusters. Shared expert (lawyer + CFO).",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Product/Science)",
+      "col_2": "BCL-1 (Product & Science)",
+      "col_3": "M5,M6,M7,M8",
+      "col_4": "4",
+      "col_5": "CPG/science background. Expert: supplement formulator.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(DR/Creative)",
+      "col_2": "BCL-3 (DR & Creative)",
+      "col_3": "M11,M12,M13,M14,M15",
+      "col_4": "5",
+      "col_5": "Performance marketing background. Expert: DR marketer who has spent $1M+.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Lifecycle/CRM)",
+      "col_2": "BCL-4 (Retention)",
+      "col_3": "M17,M18,M19,M20,M21,M22",
+      "col_4": "6",
+      "col_5": "Lifecycle marketing background. Expert: Klaviyo expert.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Growth/Strategy)",
+      "col_2": "BCL-5 (Growth & Market)",
+      "col_3": "M10,M16,M23,M26,M27,M28,M29",
+      "col_4": "7",
+      "col_5": "Growth or brand strategy background. Expert: growth marketer.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Operations)",
+      "col_2": "BCL-6 (Ops & Infra)",
+      "col_3": "M1,M9,M24,M30,M31,M35,M36,M37",
+      "col_4": "8",
+      "col_5": "D2C ops background. Expert: operations generalist.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM CO-FOUNDER\n(Systems/Governance)",
+      "col_2": "BCL-7 (Governance)\nSCL-5 (Portfolio & Scaling)",
+      "col_3": "M32,M33\nS24,S25,S26,S27,S28,S31,S32,S36,S37",
+      "col_4": "11",
+      "col_5": "Systems thinker. Most intellectually demanding. Can own both governance + portfolio.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "DAN JAMES\n(Thakos)",
+      "col_2": "FCL-0 (Brand & Content)\nFCL-1 (Funnel Infra)\nFCL-3 (Monetization)",
+      "col_3": "F0,F1,F2,F3,F4,F5,F6,F10,F12,F13,F14,F15,F16,F17,F19,F20",
+      "col_4": "16",
+      "col_5": "Owns 3 of 4 funnel clusters. Admin handles FCL-2 execution but Dan James designs it.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "MC",
+      "col_2": "None (not a cluster owner)",
+      "col_3": "None (produces conversations, not models)",
+      "col_4": "0",
+      "col_5": "The MC produces CONTENT, not models. Their work lives on the site, not in the Trade.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PRODUCT PERSON",
+      "col_2": "None (not a cluster owner)",
+      "col_3": "None (builds the site, not models)",
+      "col_4": "0",
+      "col_5": "Builds the site. Their input to S22 (Site Architecture) is via the Series Producer.",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "HEADCOUNT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Unique people needed:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Nilo                           — 1 person (already exists)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Librarian                      — 1 person (FIRST HIRE)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Admin                          — 1 person",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "MC                             — 1 person",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Series Producer                — 1 person",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Dan James (Thakos)             — 1 person (or his team)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Product Person                 — 1 person",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Finance/Legal)  — 1 person (owns SCL-3 + BCL-2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Product/Science)— 1 person (owns BCL-1)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (DR/Creative)    — 1 person (owns BCL-3)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Lifecycle/CRM)  — 1 person (owns BCL-4)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Growth/Strategy)— 1 person (owns BCL-5)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Operations)     — 1 person (owns BCL-6)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "PM Co-Founder (Systems/Gov)    — 1 person (owns BCL-7 + SCL-5)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Expert Reviewers               — 8-12 people (1-2 per cluster that needs one)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "TOTAL: 14 core + 8-12 experts = 22-26 people",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Some PM Co-Founders own 2 clusters (finance owns studio + business money,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "systems owns governance + portfolio). This reduces headcount.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Without doubling up: 16 core + 8-12 experts = 24-28 people.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "103 models / 14 core people = ~7.4 models per person on average.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "103 models / 18 clusters = ~5.7 models per cluster on average.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "UNOWNED MODELS: ZERO",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Every model has an owner. Every cluster has an owner. No orphans.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Verification: 11 + 9 + 12 + 4 + 9 + 4 + 5 + 6 + 7 + 8 + 11 + 16 = 102",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "Plus M0 (Nilo, counted in BCL-0) = 103. ✓",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "MC and Product Person own 0 models but are essential roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "MASTER CLUSTER MAP — ALL CLUSTERS, ALL OWNERS": "They produce content and infrastructure, not Trade models.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 75,
+  "sheet_name": "Master Cluster Map",
+  "sheet_index": 30
+}

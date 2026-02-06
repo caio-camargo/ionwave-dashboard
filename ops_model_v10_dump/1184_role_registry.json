@@ -1,0 +1,2587 @@
+{
+  "headers": [
+    "ROLE REGISTRY — CANONICAL REFERENCE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "One name per role. All aliases mapped. Every other tab points here. If it's not in this registry, it's not a role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "THE RULE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Every tab in the Trade that references a role must use the CANONICAL NAME from this registry.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "If an old tab says 'Actor/Host' — that's the MC. If it says 'VA' — that's the Admin. If it says 'Lead PM' — that's a PM Co-Founder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases exist because the model evolved. This registry freezes the vocabulary. The Conceptual Index should import these definitions.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "PERSISTENT ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Stay for the full production cycle. The connective tissue. Without these three, the Trade can't coordinate.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "1. NILO (FOUNDER / TRADE AUTHOR)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Nilo",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Dean, Founder, Studio, Danilo, On-call SME, Trade Author",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — but NOT day-to-day after initial conditions set",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Produces M0 (thesis). Sets initial conditions. Writes specific essays when asked by a PM. Final sign-off authority on V-tabs. Greenlight on all equity grants. Does NOT manage production, scheduling, routing, or daily operations.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "SCL-0 + BCL-0 (thesis clusters). Greenlight authority on everything. Override authority on grades (logged, rare).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nobody (founder)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Librarian, Conductor, MC (persistent roles). But 'reports to' is loose — the artifact coordinates, not Nilo.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 0 (Pre-Imagination): builds the Trade. Phase 3 (Expert Review): final sign-off. On-call otherwise.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "Majority equity holder",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Permanent. But the experiment tests whether Nilo's involvement can approach zero during production.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "N/A — this is Nilo's company",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Dean), Role Index (Nilo section), Revised Roles, Labor Architecture v3",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "2. LIBRARIAN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Librarian (Elaine) — CONFIRMED",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Elaine, Registrar, Trade Custodian, Information Architect, First Hire. NOTE: Elaine is now a real person, not a placeholder.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — first hire, full production cycle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Maintains both Passets (Imagination + Implementation). Distributes tab slices to each person's Google Drive folder. Updates master when graded work returns. Tracks status of every TUP (not started / in production / in review / verified / locked). Routes cross-TUP dependencies. Answers 'where is X' instantly. Does NOT judge content, grade work, or make strategic decisions.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "SCL-1: People & Culture (9 models) + custody of entire Trade. Owns the file system, not the content.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (loosely). Day-to-day works with Conductor on sequencing.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Nobody reports TO them. Everyone reports THROUGH them — work goes in and out via the librarian.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 1-4 (all imagination phases): routing, QA, tracking. Phase 5: extracts implementation tasks.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.5% equity. No cash. Equity-only. Hiring a believer.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Full cycle (12+ weeks). May convert to permanent ops role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "'I was the information architect for a 1,100-tab venture studio launch coordinating 40+ contributors.'",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Detail-oriented. Comfortable with spreadsheets. Library science student, executive assistant, project coordinator, virtual assistant. Does NOT need business strategy understanding.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "Librarian Role, S4-Taxonomy (Registrar), Role Index (Librarian section), Flash Teams Model",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Vicioso equivalent",
+      "col_2": "No direct equivalent in Vicioso model — Vicioso has the 'Platform' doing this function. The Librarian is the human instantiation of platform custody.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "3. CONDUCTOR",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Conductor",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Ops backbone, Studio coordinator, Pipeline manager. Sometimes overlaps with 'Admin' in older tabs.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — full production cycle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Manages logistics — scheduling, onboarding prep, tool access. Sequences production — which clusters activate when, who's available, what's blocked. Builds ops site + Shopify storefront using AI tools. Does NOT source people (Recruiter does that). Does NOT produce content or grade work.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "SCL-2: Studio Operations (if applicable). Owns the production schedule and people pipeline.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (loosely). Works daily with Librarian on sequencing.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Flash roles (PMs, experts) report logistics to Conductor. Conductor manages their scheduling, not their work quality.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 0-1: sourcing people. Phase 2: scheduling reviews. Phase 5: scheduling implementation handoffs.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.3% equity. No cash. Equity-only. Hiring a believer.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Full cycle (12+ weeks).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "'I coordinated 40+ flash contributors across 10 clusters for a venture studio production.'",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Operations-minded. Recruiter instincts. Comfortable managing multiple concurrent pipelines. Think: production coordinator, talent coordinator, ops associate.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "Revised Roles, Flash Teams Model (step 2: FIND), Launch Narrative, People Track",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "NOTE: Conductor vs Admin",
+      "col_2": "Older tabs use 'Admin' or 'VA' for some Conductor functions. The Admin/VA role (cold email, filings, screening) is now ABSORBED into the Conductor. If a tab says 'VA sources candidates' — that's the Conductor.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "4. MC (MASTER OF CEREMONIES)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "MC",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Full Name",
+      "col_2": "Master of Ceremonies",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Actor/Host, Host, Daily Update Person, On-camera talent, Content person. In Labor Chain v2: 'Actor' is an older alias for MC.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — full production cycle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "PRODUCES A LIVE SHOW documenting the company being born in real time.\n\nTWO CONTENT FORMATS:\n• LONG-FORM CONVERSATIONS (2-3 per week, run as long as they run — 1-3 hours each). Joe Rogan style. Onboarding new people, expert reviews, PM check-ins, milestone celebrations, failures, pivots. These ARE the episodes. Don't cut them short.\n• DAILY HIGHLIGHT (15 min, ESPN SportsCenter energy). Recap of whatever happened that day — who joined, what got graded, what broke, what shipped. MC doesn't need to be on every call. Gets debrief from Librarian/Conductor and riffs on it.\n\nMC does NOT need to be present for everything. Shows up for key moments (long-form) and synthesizes the rest (daily highlight).\n\nWorkload: ~10-12 hours/week. ~120-150 hours over 12 weeks. Doable with a full-time job.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "0 TUPs (produces content, not models). ALL TUPs are storylines — the MC has narrative access to everything.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Series Producer (for narrative quality). Nilo (for strategic direction).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Nobody. But everyone participates in their show — PMs, experts, Nilo all appear as cast members.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "All phases. The show runs from Day 1 to graduation. The show IS the company's origin story.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "10% equity + content rights (they own their reel). No cash. Equity-only. Hiring a believer, not a contractor.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Full cycle (12+ weeks). Possibly permanent — the show doesn't end when the Trade locks.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "'I produced 120-150 hours of hosted content — long-form interviews + daily highlights — documenting the birth of a funded company from zero.'",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Good on camera. Genuinely curious. Asks the obvious questions that experts skip. Not a journalist — more like a podcast host who happens to be embedded in the production. Think: hot ones energy, not CNBC energy.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "The show structure",
+      "col_2": "• Season = the full production cycle (12+ weeks)\n• Long-Form Episode = one key conversation (1-3 hours raw, can edit or release full)\n• Daily Highlight = 15-min ESPN-style recap (what happened today)\n• Cast Page = every person who's appeared, with their episodes\n• Story Arc = the company going from 0 to funded to operating\n• Frequency = 2-3 long-form per week + daily 15-min highlight = ~10-12 hrs/week",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Host), Labor Architecture v3 (MC section), Flash Teams Model (steps 3 and 7), Launch Narrative, Revised Roles, Labor Chain v2 (Actor/Host)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Vicioso equivalent",
+      "col_2": "No direct equivalent. Vicioso has 'validation conversations' — the MC turns those into a live show. The MC is what happens when you take the Vicioso validation requirement (16+ conversations) and make it content.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "FLASH ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Come in for one sprint. Produce a specific deliverable. Dissolve. May never interact with anyone except MC and Librarian.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "5. PM CO-FOUNDER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "PM Co-Founder",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Cluster PM, Cluster Lead, Lead PM, PM, Project Manager, Co-Founder, Builder. NOTE: 'Lead PM' in Expanded Labor Sequence = the first PM Co-Founder hired (PM CL-1), not a separate role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "FLASH — 2-3 week sprint per cluster",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Owns one cluster of 4-8 TUPs. Runs it like a production. Uses Claude as co-pilot to produce content tabs. Coordinates with expert reviewer. Drives milestones. Makes decisions within M0 constraints. Does NOT navigate the raw 1,100-tab spreadsheet — works from their extracted Google Drive folder.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "ONE cluster only. 4-8 TUPs with clear boundaries. Their name goes on the docs.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Librarian (for routing). Conductor (for scheduling). Nilo (for thesis questions). MC (for on-air conversations).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Expert reviewer (loosely — they coordinate review timing, not the expert's judgment).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 1 (Imagination AI Draft): produces content. Phase 2 (Internal Review): responds to librarian QA.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.5% equity. No cash. Equity-only. Hiring a believer.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "2-3 weeks per sprint. May do multiple sprints across different clusters.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "'I was co-founder on [cluster domain] for a funded venture studio launch. Built [X] TUPs, graded [grade] by domain expert.'",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "How many",
+      "col_2": "7-10 across the full production. One per cluster. Some clusters may need 2 sprints.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Organized, relentless, comfortable using Claude as primary tool. Does NOT need domain expertise — that's what the expert reviewer provides. Needs: project management instinct, quality taste, speed.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (PM Co-Founder), Role Index (PM sections by cluster), Flash Teams Model, Labor Architecture v3, Labor Chain v2, Revised Roles, Course Template",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Vicioso equivalent",
+      "col_2": "Maps to 'Owner' in Vicioso model — the person who runs a trade. But scoped to one cluster, not the whole trade. Multiple PM Co-Founders = distributed ownership.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "6. EXPERT REVIEWER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Expert Reviewer",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Expert, Domain Validator, Domain Expert, Grader (when in grading context), Venture Partner (in Expanded Labor Sequence — VPs who go deeper than review)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "FLASH / ADVISOR — 10-20 hours over 2 weeks per cluster. Advisor relationship, not contractor.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Reviews and grades TUPs in their domain. Reads through tabs. Applies ACP criteria: Attestation (is it true?), Completeness (is everything there?), Plausibility (could it work?). Marks what's wrong. Provides calibration. Their name goes on the verified TUP. THIS IS THE GRADING AUTHORITY — expert grade is 60% of TUP cumulative grade.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "0 TUPs. They grade, they don't own. Their authority is the grade, not the content.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nobody. Their grade is independent. PM Co-Founder coordinates timing, not judgment.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "PM Co-Founder receives their grade and remediation notes.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 3 (Expert Review) only. Flash in, grade, flash out.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.1-0.25% equity per cluster reviewed. No cash. Advisor framing — their name on the verified TUP + show appearance is the compensation. Credit, content, and equity.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "10-20 hours total. Spread over 2 weeks. Not a quick phone call.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "'Domain validator on [X] for a venture studio operating model. My name is on the verified docs.'",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "How many",
+      "col_2": "8-12 across the full production. 1-2 per cluster. High-stakes TUPs may get a primary + secondary reviewer.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Actual domain expertise. Has done the thing the TUP describes. Media buyer reviews media buying TUP. Supplement formulator reviews product spec TUP. They don't need to understand the Trade — just their domain.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Expert Reviewer), Flash Teams Model, Labor Architecture v3, Grading System, Course Template",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Vicioso equivalent",
+      "col_2": "Maps to 'Regulatory Body' function in Vicioso model — independent grading. In IonWave, expert reviewers ARE the proto-regulatory body.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "7. SERIES PRODUCER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Series Producer",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Content producer, Show runner, Narrative architect",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "FLASH — 1-2 week sprint, may recur",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Plans the narrative arc of the MC's live show. Story bible. Episode calendar. Cast management. Production quality oversight. Ensures the show has structure — not just random conversations but an unfolding story with arcs, tension, resolution. Manages the MC's output quality.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "SCL-4: Content & Distribution (4 models). Owns the show's structure, not the business content.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (for strategic narrative direction).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "MC (for production quality and narrative structure).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 0-1: plans show structure. Throughout: quality checks on narrative arc.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.3-0.5% equity + content rights",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "1-2 week sprint for setup. May recur for narrative check-ins.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Documentary producer instincts. Understands story structure. Can see the arc in real events.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Series Producer), Revised Roles, Flash Teams Model",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "8. PRODUCT PERSON — REMOVED",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "REMOVED. Site builds (launchionwave.com + Shopify storefront) moved to Conductor + AI. No dedicated product hire needed. Conductor uses AI tools (Webflow/Shopify templates + Claude) to build functional sites. Saves 2-4% equity.",
+      "col_2": "Product Person",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Site Builder, Web Developer, Designer",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "FLASH — 2-3 week sprint",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Builds the site(s). Sets up CMS so MC can post without code. Consumer-grade, cinematic quality. Does NOT own models — builds infrastructure that the content lives on.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "0 TUPs. Project-based deliverable.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Conductor (for scheduling). PM Co-Founder or Nilo (for spec).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 1 only. Build, deliver, dissolve.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "2-4% equity + paid from raise if funded + portfolio rights",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "2-3 week sprint. Full-time during sprint.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "NOTE: Two sites",
+      "col_2": "launchionwave.com (ops/coordination — password-protected, investor/team facing) and customer domain TBD (Shopify storefront — public, customer-facing). These may be built by different people or same person, different sprints.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Product Person), Labor Architecture v3, Labor Chain v2, Revised Roles",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "POST-FUNDING ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Activated after capital is raised. These roles execute the Implementation Passet.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "9. CoS (CHIEF OF STAFF → OPERATOR)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "CoS",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Full Name",
+      "col_2": "Chief of Staff / IonWave Operator",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Operator, CEO (in some contexts), IonWave GM. NOTE: in Expanded Labor Sequence, 'CoS' appears at link D2 as an earlier-stage role — that's the Conductor in current vocabulary.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "POST-FUNDING — full-time after raise",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Runs IonWave day-to-day. Inherits the verified Trade as operating system. Executes the Implementation Passet. First real operator hire. May be a PM Co-Founder who performed well and wants to stay.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "All M-level models (41) in implementation mode. The actual business.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (as board/founder).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 5+ (Implementation and Execution). Not active during imagination production.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "5-15% equity + salary from raise",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "When hired",
+      "col_2": "Week 8+ (pipeline starts earlier via Conductor). Enough verified clusters must exist to be compelling.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (CoS), Labor Architecture v3, Labor Chain v2, Expanded Labor Sequence (D9), Phase 0 - Trade Setup",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Vicioso equivalent",
+      "col_2": "Maps to 'Founder' in Vicioso model — the person who runs the company that the OOUP created.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "SPECIAL / ONE-TIME ROLES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "10. STEWARD (INITIAL CONDITIONS AUDITOR)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Steward",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Caio, Initial Conditions Auditor, Week 0 cleanup",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "ONE-TIME — Week 0 only",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Audits the Trade structure before production begins. Organizes tabs. Verifies initial conditions. May help hire the Librarian. The 10-point structural audit from S41 research design.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "1 week (Week 0)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "Initial Conditions Audit, Revised Roles, S41-White Paper (Section 6)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "11. DAN JAMES / THAKOS (FUNNEL BUILDER)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Funnel Builder (Dan James is a specific candidate, not the role name)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Dan James, Thakos, YouTube person, Content builder",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "FLASH — 2-3 week sprint, may recur for funnel clusters",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Builds and runs the funnel level. YouTube, lead magnets, email sequences, landing pages. Reference model for funnel production quality.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "FCL-0 + FCL-1 + FCL-3 (16 models across funnel clusters)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "S4-Taxonomy (Dan James/Thakos), Revised Roles, Role Index",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "12. RECRUITER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Recruiter",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Talent Sourcer, Hiring Lead. NOTE: This is NOT the old Conductor. Recruiter is a dedicated sourcing role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — full production cycle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Finds everyone. PMs, Conductor, Expert Advisors, Series Producer, Funnel Builder, Steward. Cold sources from Upwork, LinkedIn, job boards, communities. Writes compelling posts that attract A-players for equity-only roles. Screens candidates. Passes qualified people to Nilo for final yes/no on persistent roles, or directly to Librarian for flash role onboarding. Does NOT manage people after they're hired — that's the Conductor's job. The Recruiter fills seats. The Conductor coordinates the people in them.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "0 TUPs. Owns the candidate pipeline and hiring funnel.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (for hiring priorities and final approvals).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Nobody. They source and screen. Hiring decisions are Nilo's.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Phase 0 (sourcing first wave) through Phase 2 (sourcing flash roles as clusters activate). Front-loaded — heaviest work is Weeks 0-4.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.5% equity. No cash. Equity-only. The person who builds the team gets upside in what the team builds.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Full cycle (12+ weeks). May reduce to part-time after initial wave is hired (Weeks 4-6).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "\"I recruited and assembled a 30+ person flash team for a venture studio launch. Zero budget. Equity-only roles. Built the entire talent pipeline from scratch.\"",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Resourceful. Comfortable cold-messaging strangers. Good writer — the Upwork post and LinkedIn outreach IS the recruiting. Doesn't need domain expertise in any field — needs to know how to find and pitch people. Think: startup recruiter, talent sourcer, community builder, someone who's run a Discord or community before.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Tabs that define this role",
+      "col_2": "Role Registry (this entry), Recruiting Chain, Continuity Protocol (backup registry)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "KEY DISTINCTION: Recruiter vs Conductor",
+      "col_2": "Recruiter FINDS people. Conductor COORDINATES people after they're found. Recruiter fills the pipeline. Conductor manages scheduling, sequencing, tool access, and two-key counter-signing. Both are persistent. Both are equity-only. Different jobs.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "ALIAS RECONCILIATION TABLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "When you see THIS in an old tab, it means THIS canonical role.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Old Name / Alias",
+      "col_2": "→ Canonical Role",
+      "col_3": "Context / Notes",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Dean",
+      "col_2": "Nilo",
+      "col_3": "S4-Taxonomy university analogy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Founder",
+      "col_2": "Nilo",
+      "col_3": "Generic references",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Studio",
+      "col_2": "Nilo",
+      "col_3": "When referring to 'Studio does X'",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "On-call SME",
+      "col_2": "Nilo",
+      "col_3": "Revised Roles — Nilo writes essays when asked",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Danilo",
+      "col_2": "Nilo",
+      "col_3": "Full first name",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Elaine",
+      "col_2": "Librarian",
+      "col_3": "Placeholder name from early design",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Registrar",
+      "col_2": "Librarian",
+      "col_3": "S4-Taxonomy university analogy",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Trade Custodian",
+      "col_2": "Librarian",
+      "col_3": "Librarian Role tab",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "First Hire",
+      "col_2": "Librarian",
+      "col_3": "Sequence reference — librarian is hired first",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Information Architect",
+      "col_2": "Librarian",
+      "col_3": "Career booster framing",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "VA",
+      "col_2": "Conductor",
+      "col_3": "Old role — VA's recruiting/sourcing functions now Conductor",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Virtual Assistant",
+      "col_2": "Conductor",
+      "col_3": "Old role — absorbed into Conductor",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Admin",
+      "col_2": "Conductor",
+      "col_3": "Partial overlap — admin's operational functions now Conductor",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Ops backbone",
+      "col_2": "Conductor",
+      "col_3": "Labor Architecture v3 description",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Pipeline manager",
+      "col_2": "Conductor",
+      "col_3": "Functional description",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Actor",
+      "col_2": "MC",
+      "col_3": "Labor Chain v2 — 'Actor/Host' was the old MC name",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Host",
+      "col_2": "MC",
+      "col_3": "S4-Taxonomy and other tabs",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Actor/Host",
+      "col_2": "MC",
+      "col_3": "Labor Chain v2 combined alias",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Daily Update Person",
+      "col_2": "MC",
+      "col_3": "Functional description from early design",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "On-camera talent",
+      "col_2": "MC",
+      "col_3": "Labor Chain v2 description",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Cluster PM",
+      "col_2": "PM Co-Founder",
+      "col_3": "Shortened reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Cluster Lead",
+      "col_2": "PM Co-Founder",
+      "col_3": "Shortened reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Lead PM",
+      "col_2": "PM Co-Founder",
+      "col_3": "Expanded Labor Sequence — specifically the FIRST PM Co-Founder hired",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "PM",
+      "col_2": "PM Co-Founder",
+      "col_3": "Shortened reference (context-dependent — sometimes means 'project management')",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Project Manager",
+      "col_2": "PM Co-Founder",
+      "col_3": "Labor Chain v2 — but 'this is a co-founder, not a project manager'",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Builder",
+      "col_2": "PM Co-Founder",
+      "col_3": "Revised Roles, Builder Playbook context",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Expert",
+      "col_2": "Expert Reviewer",
+      "col_3": "Shortened reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Domain Validator",
+      "col_2": "Expert Reviewer",
+      "col_3": "Labor Architecture v3",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Domain Expert",
+      "col_2": "Expert Reviewer",
+      "col_3": "Generic reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Grader",
+      "col_2": "Expert Reviewer",
+      "col_3": "When in grading context — expert does the grading",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Venture Partner",
+      "col_2": "Expert Reviewer (elevated)",
+      "col_3": "Expanded Labor Sequence — VPs go deeper than standard review, also intro investors",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Show runner",
+      "col_2": "Series Producer",
+      "col_3": "Industry term",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Content producer",
+      "col_2": "Series Producer",
+      "col_3": "Generic reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Site Builder",
+      "col_2": "Product Person",
+      "col_3": "Functional description",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Operator",
+      "col_2": "CoS",
+      "col_3": "Post-funding role — the person who runs the business",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "CEO",
+      "col_2": "CoS",
+      "col_3": "Some tabs use CEO for the post-funding operator",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "IonWave GM",
+      "col_2": "CoS",
+      "col_3": "General manager framing",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Caio",
+      "col_2": "Steward",
+      "col_3": "Specific person for Week 0 audit",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Dan James",
+      "col_2": "Funnel Builder",
+      "col_3": "Specific candidate — role is Funnel Builder",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Thakos",
+      "col_2": "Funnel Builder",
+      "col_3": "Brand/agency reference for Dan James",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Recruiter",
+      "col_2": "Conductor",
+      "col_3": "Expanded Labor Sequence — recruiting IS the Conductor's job",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Chief of Staff (early)",
+      "col_2": "Conductor",
+      "col_3": "Expanded Labor Sequence D2 — early-stage CoS = Conductor in current vocab",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Talent Sourcer",
+      "col_2": "Recruiter",
+      "col_3": "Generic reference",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Hiring Lead",
+      "col_2": "Recruiter",
+      "col_3": "Functional description",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "REPORTING STRUCTURE (simplified)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Nilo",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── Librarian (custody of Trade, routes everything)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── Conductor (sources people, manages pipeline, sequences production)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── Recruiter (finds all people, fills pipeline)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── MC → Series Producer (produces the live show)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── PM Co-Founders ×7-10 (one per cluster, flash sprints)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "│     └── Expert Reviewers ×8-12 (grade PMs' work, independent judgment)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── Product Person (builds sites, flash sprint)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "├── Funnel Builder (builds funnel level, flash sprint)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "└── [Post-funding] CoS / Operator (runs the business)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "KEY INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "The reporting structure is weak on purpose. The ARTIFACT coordinates, not the hierarchy.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "The Librarian routes work. The Conductor sources people. The MC documents everything.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "But the TABS tell each person what to do, what done looks like, and who they're handing off to.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "This is the core claim of the research paper: the coordination artifact replaces management.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "12. RECRUITER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Canonical Name",
+      "col_2": "Recruiter",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Aliases in other tabs",
+      "col_2": "Talent sourcer, People finder. NOTE: was partially absorbed into Conductor in earlier specs. Now separated as dedicated role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Type",
+      "col_2": "PERSISTENT — full production cycle",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they do",
+      "col_2": "Sources PMs and Conductor. 5-8 hires total. Does NOT source expert advisors — PMs find their own domain experts. Does NOT source MC — Nilo finds MC. Owns the recruiting pipeline, candidate tracking, initial screening. Hands qualified candidates to Nilo for final decision.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "What they own",
+      "col_2": "Recruiting pipeline. Candidate tracker (shared doc). Screening criteria per role.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Reports to",
+      "col_2": "Nilo (for hiring decisions). Works with Conductor (for scheduling once people are hired).",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Who reports to them",
+      "col_2": "Nobody. Recruiter sources, doesn't manage.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Active phases",
+      "col_2": "Week 0 through Week 6. Front-loaded — most hiring happens early. Tapers as production fills up.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Comp",
+      "col_2": "0.3% equity. No cash. Equity-only.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Duration",
+      "col_2": "Active recruiting for 6-8 weeks. On-call after that for replacement sourcing.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Career booster",
+      "col_2": "\"I recruited the founding team for a venture studio launch — 5-8 hires across ops, content, and project management, all equity-only.\"",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Profile",
+      "col_2": "Scrappy sourcer. Comfortable on Upwork, LinkedIn, Discord communities. Can write compelling outreach. Doesn't need HR experience — needs hustle and judgment about people.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "How Nilo finds this person",
+      "col_2": "From your network. Tabs team. Fund network. Someone who's good at finding people and would do it for equity because they believe in what you're building.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "DISTRIBUTED RECRUITING CHAIN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Nilo finds →",
+      "col_2": "Recruiter, MC, Elaine (Librarian) ✓ DONE",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Recruiter finds →",
+      "col_2": "PMs (5-8), Conductor",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "PMs find →",
+      "col_2": "Their own Expert Advisors (from their domain network)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "MC attracts →",
+      "col_2": "Future hires via the show (once running, the show is a recruiting magnet)",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "Nobody finds 30 people.",
+      "col_2": "Everyone finds 2-3 from their own world.",
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "AMENDMENT: ROLLING 2-WEEK COMMITMENTS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "All roles — including persistent roles — operate on rolling 2-week commitments. Nobody commits to 12 weeks upfront.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "ROLE REGISTRY — CANONICAL REFERENCE": "See Commitment Protocol tab for: commitment units per role, daily check-in format, tripwires, re-up ritual.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    }
+  ],
+  "row_count": 257,
+  "sheet_name": "Role Registry",
+  "sheet_index": 1184
+}

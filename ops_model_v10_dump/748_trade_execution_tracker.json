@@ -1,0 +1,657 @@
+{
+  "headers": [
+    "IONWAVE TRADE EXECUTION TRACKER",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "rows": [
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "Single view. Where does the whole thing stand. How do we know it's done.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "HOW TO READ THIS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "This is the master tracker for the entire IonWave Trade.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "Every major milestone lives here. One row = one thing that needs to happen.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "The VERIFICATION column is the most important column. It answers: how does a stranger know this is done?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "Status: Not Started → In Progress → Done → Verified",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "Verified means someone checked the output against the verification criteria and it passed.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "PHASE 0: BUILD THE LABOR CHAIN (Weeks 1-11)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "#",
+      "col_2": "Task",
+      "col_3": "Owner",
+      "col_4": "Start",
+      "col_5": "End",
+      "col_6": "Status",
+      "col_7": "Verified By",
+      "col_8": "Verification: How We Know It’s Done"
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.1",
+      "col_2": "Post VA job on Upwork",
+      "col_3": "Nilo",
+      "col_4": "W1 D1",
+      "col_5": "W1 D1",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "Job is live on Upwork. Test task is attached. Screening criteria match VA Hiring Kit tab 2."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.2",
+      "col_2": "Screen VA applicants (5-10)",
+      "col_3": "Nilo",
+      "col_4": "W1 D2",
+      "col_5": "W1 D4",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "5+ applicants reviewed against checklist. Test task sent to top 3. Results logged in pipeline tracker."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.3",
+      "col_2": "Hire VA",
+      "col_3": "Nilo",
+      "col_4": "W1 D5",
+      "col_5": "W1 D5",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "VA contracted. Handoff Checklist (Kit tab 7) sent. VA confirms receipt and understanding. Kickoff call done."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.4",
+      "col_2": "VA posts CoS job",
+      "col_3": "VA",
+      "col_4": "W2 D1",
+      "col_5": "W2 D2",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Job live on target platforms. Posting matches CoS JD. Test task attached. VA confirms in daily update."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.5",
+      "col_2": "VA screens CoS applicants",
+      "col_3": "VA",
+      "col_4": "W2",
+      "col_5": "W4",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Pipeline tracker updated daily. Screening checklist applied to each. 5+ candidates advanced to interview. Zero unqualified candidates slipped through."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.6",
+      "col_2": "Nilo interviews CoS finalists (3-5)",
+      "col_3": "Nilo",
+      "col_4": "W3",
+      "col_5": "W4",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "Assessment Workbook completed per candidate. Decision log has rationale. References checked."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.7",
+      "col_2": "Hire CoS",
+      "col_3": "Nilo",
+      "col_4": "W5",
+      "col_5": "W5",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "Offer accepted. Contract signed. Start date confirmed. Onboarding packet sent."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.8",
+      "col_2": "CoS hires Recruiter",
+      "col_3": "CoS",
+      "col_4": "W5",
+      "col_5": "W7",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Recruiter contracted. Retainer paid. Recruiter has Operator JD + assessment rubric + onboarding packet. Kickoff call done."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.9",
+      "col_2": "Recruiter sources Operator candidates",
+      "col_3": "Recruiter",
+      "col_4": "W7",
+      "col_5": "W9",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Pipeline of 10+ qualified candidates. Each screened against Operator rubric. Top 3-5 advanced to Nilo interview."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.10",
+      "col_2": "Nilo interviews Operator finalists",
+      "col_3": "Nilo",
+      "col_4": "W9",
+      "col_5": "W10",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "Assessment completed per candidate. Essay response reviewed. Culture fit evaluated. Decision log updated."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.11",
+      "col_2": "Hire Operator",
+      "col_3": "Nilo",
+      "col_4": "W10",
+      "col_5": "W10",
+      "col_6": null,
+      "col_7": "Self",
+      "col_8": "Contract signed (equity, vesting, milestones, IP, termination). Start date confirmed. Start Here Complete sent."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "0.12",
+      "col_2": "Operator onboards using Start Here Complete",
+      "col_3": "Operator",
+      "col_4": "W11",
+      "col_5": "W11",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Operator has read Start Here Complete. Can explain the business in own words. Has access to all systems. Onboarding checklist 100% complete."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "PHASE 1: TABLE SET — Everything Ready to Launch (Weeks 11-15)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "#",
+      "col_2": "Task",
+      "col_3": "Owner",
+      "col_4": "Start",
+      "col_5": "End",
+      "col_6": "Status",
+      "col_7": "Verified By",
+      "col_8": "Verification: How We Know It’s Done"
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.1",
+      "col_2": "Entity formed (LLC filed, EIN, bank account)",
+      "col_3": "Operator",
+      "col_4": "W11",
+      "col_5": "W12",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "LLC formation docs in hand. EIN letter received. Bank account open with Operator as signer. Cap table matches contract."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.2",
+      "col_2": "Product samples finalized",
+      "col_3": "Operator",
+      "col_4": "W11",
+      "col_5": "W13",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Final formula approved. Taste/dissolution test passed. Certificate of analysis from manufacturer. 3 team members tried it."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.3",
+      "col_2": "Packaging designed and ordered",
+      "col_3": "Operator",
+      "col_4": "W12",
+      "col_5": "W14",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Label compliant (FDA supplement facts, required disclaimers). Design matches brand. Print proof approved. Initial run ordered."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.4",
+      "col_2": "Initial inventory received",
+      "col_3": "Operator",
+      "col_4": "W13",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Units in warehouse or 3PL. QC check on 5% of units. SKUs in Shopify. Inventory count matches PO."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.5",
+      "col_2": "Shopify store live",
+      "col_3": "Operator",
+      "col_4": "W12",
+      "col_5": "W14",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Domain connected. Product pages with photos and copy. Checkout flow tested (place test order). Payment processing confirmed. Pixel firing."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.6",
+      "col_2": "Authority figure contracted",
+      "col_3": "Operator",
+      "col_4": "W11",
+      "col_5": "W13",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Signed agreement. Credential verified. Available for VSL production. Agreed to likeness usage terms."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.7",
+      "col_2": "VSL script written (2 variants)",
+      "col_3": "Operator",
+      "col_4": "W12",
+      "col_5": "W14",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Both scripts follow 12-block architecture. Read-aloud test passed (<4 min or <15 min depending on format). Nilo approved."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.8",
+      "col_2": "VSL produced (2 variants)",
+      "col_3": "Operator",
+      "col_4": "W14",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "Nilo",
+      "col_8": "Videos finished. Captions burned in. CTA clear. 9:16 + 1:1 + 16:9 exports. Quality above minimum bar."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.9",
+      "col_2": "Advertorial page built",
+      "col_3": "Operator",
+      "col_4": "W13",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Page live. Looks like content not ad. Educates on problem. Links to VSL/sales page. Mobile-optimized."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.10",
+      "col_2": "5 ad creatives produced (hook variants)",
+      "col_3": "Operator",
+      "col_4": "W14",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "5 distinct hooks. Each follows a framework from Hook Library. Short-form (<30s). Thumbnail selected. Ready to upload."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.11",
+      "col_2": "Klaviyo account set up, core flows built",
+      "col_3": "Operator",
+      "col_4": "W13",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Welcome, Abandoned Cart, Post-Purchase, and Replenishment flows live. Each has 3+ emails with copy written. Test sends passed."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.12",
+      "col_2": "Meta Ads account configured",
+      "col_3": "Operator",
+      "col_4": "W14",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Business Manager set up. Pixel installed and firing (test confirmed). Payment method added. Campaign structure ready."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "1.13",
+      "col_2": "TABLE SET COMPLETE",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "Nilo + CoS",
+      "col_8": "ALL items 1.1-1.12 verified. Could take a real order today and fulfill it. A stranger could click an ad, watch the VSL, buy, and receive product."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "PHASE 2: FIRST BLOOD — First Sales (Weeks 15-19)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "#",
+      "col_2": "Task",
+      "col_3": "Owner",
+      "col_4": "Start",
+      "col_5": "End",
+      "col_6": "Status",
+      "col_7": "Verified By",
+      "col_8": "Verification: How We Know It’s Done"
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.1",
+      "col_2": "Launch ads ($50-100/day)",
+      "col_3": "Operator",
+      "col_4": "W15",
+      "col_5": "W15",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Campaigns live. 2 VSL variants running. 2 ad sets each (broad + interest). Budget confirmed. Monitoring hourly Day 1."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.2",
+      "col_2": "First 50 orders fulfilled",
+      "col_3": "Operator",
+      "col_4": "W15",
+      "col_5": "W17",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "50 orders shipped within SLA. Zero fulfillment errors. Tracking sent to all customers. Post-purchase email triggered."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.3",
+      "col_2": "Hook test round 1 complete",
+      "col_3": "Operator",
+      "col_4": "W15",
+      "col_5": "W17",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "5 hooks tested at $20-30 each. Hook rates logged in VSL Iteration Log. Winner identified (>25% hook rate). Losers killed."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.4",
+      "col_2": "CPA at or below 2x target",
+      "col_3": "Operator",
+      "col_4": "W17",
+      "col_5": "W19",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "CPA trending toward target. If >2x after $500 spend, body test or offer test initiated per VSL Testing Protocol."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.5",
+      "col_2": "First customer reviews collected (5+)",
+      "col_3": "Operator",
+      "col_4": "W17",
+      "col_5": "W19",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "5+ reviews on site via Loox/Judge.me. Review solicitation flow firing. Photo reviews bonus."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.6",
+      "col_2": "First repeat purchase",
+      "col_3": "Operator",
+      "col_4": "W18",
+      "col_5": "W19",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "At least 1 customer bought twice. Replenishment flow firing. Subscription offer sent."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "2.7",
+      "col_2": "FIRST BLOOD COMPLETE",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": "W19",
+      "col_6": null,
+      "col_7": "Nilo + CM",
+      "col_8": "Revenue confirmed. Funnel works end to end. CPA trending toward viable. Customers exist and are being retained."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "PHASE 3: WINNER FOUND — Profitable Unit Economics (Weeks 19-27)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "#",
+      "col_2": "Task",
+      "col_3": "Owner",
+      "col_4": "Start",
+      "col_5": "End",
+      "col_6": "Status",
+      "col_7": "Verified By",
+      "col_8": "Verification: How We Know It’s Done"
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.1",
+      "col_2": "Winning VSL identified",
+      "col_3": "Operator",
+      "col_4": "W19",
+      "col_5": "W21",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "One VSL variant has CPA at target with >25% hook rate at $200/day spend. Logged in Iteration Log."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.2",
+      "col_2": "Offer stack optimized",
+      "col_3": "Operator",
+      "col_4": "W19",
+      "col_5": "W23",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "Multi-bottle tiers live. AOV meets target. Upsell flow converting at >5%. Best offer locked."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.3",
+      "col_2": "CPA at target at $200/day",
+      "col_3": "Operator",
+      "col_4": "W21",
+      "col_5": "W25",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "CPA at or below target sustained for 7+ days at $200/day. ROAS >2.5x. Logged in weekly report."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.4",
+      "col_2": "Subscription program live",
+      "col_3": "Operator",
+      "col_4": "W20",
+      "col_5": "W23",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "ReCharge configured. Subscribe-and-save on product pages. Subscription offer in email flows. First subscribers active."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.5",
+      "col_2": "LTV:CAC >2:1 projected",
+      "col_3": "Operator",
+      "col_4": "W23",
+      "col_5": "W27",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "60-day cohort data shows repeat rate >20%. LTV projection exceeds 2x CAC. Logged in CRM Metrics Dashboard."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.6",
+      "col_2": "Retargeting live",
+      "col_3": "Operator",
+      "col_4": "W20",
+      "col_5": "W23",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Audiences built by lifecycle stage. Stage-specific creative running. Retargeting CPA measured separately."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "3.7",
+      "col_2": "WINNER FOUND COMPLETE",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": "W27",
+      "col_6": null,
+      "col_7": "Nilo + CM",
+      "col_8": "Profitable unit economics at $200/day. Winning creative, winning offer, winning audience identified. Ready to scale."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "PHASE 4: SCALE — Path to $100K MRR (Weeks 27-48)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "#",
+      "col_2": "Task",
+      "col_3": "Owner",
+      "col_4": "Start",
+      "col_5": "End",
+      "col_6": "Status",
+      "col_7": "Verified By",
+      "col_8": "Verification: How We Know It’s Done"
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.1",
+      "col_2": "Scale ad spend to $500/day",
+      "col_3": "Operator",
+      "col_4": "W27",
+      "col_5": "W32",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "CPA stays within 20% of test CPA at higher spend. Revenue scaling proportionally. Creative fatigue monitored."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.2",
+      "col_2": "New VSL produced (creative refresh)",
+      "col_3": "Operator",
+      "col_4": "W28",
+      "col_5": "W32",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "New VSL with new angle. Prevents creative fatigue. Tests against incumbent. Winner takes over."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.3",
+      "col_2": "Team hires (2-3 people under Operator)",
+      "col_3": "Operator",
+      "col_4": "W27",
+      "col_5": "W36",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Roles engineered per 7-dimension framework. Growth person, retention person, ops person. Enrolled in School Model."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.4",
+      "col_2": "All 12 lifecycle automations live",
+      "col_3": "Operator",
+      "col_4": "W27",
+      "col_5": "W36",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Every automation in Lifecycle Automations tab is built, tested, and firing in Klaviyo. Metrics tracked per automation."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.5",
+      "col_2": "Referral program launched",
+      "col_3": "Operator",
+      "col_4": "W30",
+      "col_5": "W36",
+      "col_6": null,
+      "col_7": "CoS",
+      "col_8": "Referral mechanism live. VIP customers invited. Share rate >10%. First referred purchases tracked."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.6",
+      "col_2": "$50K MRR milestone",
+      "col_3": "Operator",
+      "col_4": "W32",
+      "col_5": "W40",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "Shopify shows $50K+ in trailing 30 days. Margin positive. Not a spike — sustained over 2+ months."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.7",
+      "col_2": "$100K MRR milestone",
+      "col_3": "Operator",
+      "col_4": "W40",
+      "col_5": "W48",
+      "col_6": null,
+      "col_7": "CM",
+      "col_8": "Shopify shows $100K+ in trailing 30 days. Positive net margin for 2+ consecutive months. Team running all 6 programs."
+    },
+    {
+      "IONWAVE TRADE EXECUTION TRACKER": "4.8",
+      "col_2": "GRADUATION",
+      "col_3": "Operator",
+      "col_4": null,
+      "col_5": "W48+",
+      "col_6": null,
+      "col_7": "Nilo + CM",
+      "col_8": "All Graduation Criteria tab thresholds met. Trade Grade A sustained 2 semesters. Business runs without Studio input."
+    }
+  ],
+  "row_count": 64,
+  "sheet_name": "Trade Execution Tracker",
+  "sheet_index": 748
+}

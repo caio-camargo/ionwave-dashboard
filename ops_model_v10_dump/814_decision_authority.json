@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "DECISION AUTHORITY MATRIX",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "DECISION AUTHORITY MATRIX": "Decision",
+      "col_2": "Operator",
+      "col_3": "CM",
+      "col_4": "Studio"
+    },
+    {
+      "DECISION AUTHORITY MATRIX": "Daily ad spend <$200",
+      "col_2": "Decide",
+      "col_3": "Informed",
+      "col_4": "—"
+    },
+    {
+      "DECISION AUTHORITY MATRIX": "Ad spend $200-500",
+      "col_2": "Recommend",
+      "col_3": "Approve",
+      "col_4": "Informed"
+    },
+    {
+      "DECISION AUTHORITY MATRIX": "Supplier change",
+      "col_2": "Recommend",
+      "col_3": "Approve",
+      "col_4": "Approve"
+    },
+    {
+      "DECISION AUTHORITY MATRIX": "Pricing change",
+      "col_2": "Recommend",
+      "col_3": "Recommend",
+      "col_4": "Approve"
+    },
+    {
+      "DECISION AUTHORITY MATRIX": "New product launch",
+      "col_2": "Research",
+      "col_3": "Recommend",
+      "col_4": "Approve"
+    }
+  ],
+  "row_count": 6,
+  "sheet_name": "Decision Authority",
+  "sheet_index": 814
+}

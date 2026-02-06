@@ -1,0 +1,151 @@
+{
+  "headers": [
+    "CREATOR PIPELINE",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8",
+    "col_9",
+    "col_10"
+  ],
+  "rows": [
+    {
+      "CREATOR PIPELINE": "PIPELINE STAGES",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Stage",
+      "col_2": "Action",
+      "col_3": "Criteria",
+      "col_4": "SLA",
+      "col_5": "Move To Next When",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Identified",
+      "col_2": "Found via hashtags, competitor tags, creator marketplaces",
+      "col_3": "Matches brand aesthetic, audience alignment, engagement rate > 2%",
+      "col_4": "—",
+      "col_5": "Added to outreach list",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Outreach Sent",
+      "col_2": "DM or email with brief + offer",
+      "col_3": "Template from Creator Brief tab",
+      "col_4": "Send within 48hrs of identification",
+      "col_5": "Creator responds",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Responded",
+      "col_2": "Conversation, negotiate terms, share brief",
+      "col_3": "Interested and available, rate within budget",
+      "col_4": "Respond within 24hrs",
+      "col_5": "Terms agreed",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Test Content",
+      "col_2": "First piece of content delivered",
+      "col_3": "Meets brief requirements, authentic feel, usable quality",
+      "col_4": "Content delivered within 7 days",
+      "col_5": "Content approved",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Contracted",
+      "col_2": "Ongoing agreement signed, regular content",
+      "col_3": "Contract signed, payment terms set, exclusivity defined",
+      "col_4": "Contract within 48hrs of approval",
+      "col_5": "Ongoing delivery",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Scaling",
+      "col_2": "Multiple content types, higher volume",
+      "col_3": "Consistently delivers, content performs well",
+      "col_4": "—",
+      "col_5": "Performance review",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Alumni",
+      "col_2": "No longer active, but positive relationship",
+      "col_3": "Exited gracefully",
+      "col_4": "—",
+      "col_5": "Potential reactivation",
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "CREATOR TRACKER",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null,
+      "col_7": null,
+      "col_8": null,
+      "col_9": null,
+      "col_10": null
+    },
+    {
+      "CREATOR PIPELINE": "Name",
+      "col_2": "Platform",
+      "col_3": "Followers",
+      "col_4": "Engagement",
+      "col_5": "Stage",
+      "col_6": "Outreach Date",
+      "col_7": "Content Type",
+      "col_8": "Rate",
+      "col_9": "Performance",
+      "col_10": "Notes"
+    }
+  ],
+  "row_count": 11,
+  "sheet_name": "Creator Pipeline",
+  "sheet_index": 514
+}

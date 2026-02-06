@@ -1,0 +1,103 @@
+{
+  "headers": [
+    "Type",
+    "Copy",
+    "Angle",
+    "Use Case"
+  ],
+  "rows": [
+    {
+      "Type": "Headline",
+      "Copy": "Your Supplements Are Synthetic. This Isnt.",
+      "Angle": "Natural vs synthetic",
+      "Use Case": "Primary - all ads"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "78 Minerals. 30 Seconds. Zero BS.",
+      "Angle": "Simplicity",
+      "Use Case": "Product-focused"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "The Mineral Hack Biohackers Dont Share",
+      "Angle": "Curiosity/insider",
+      "Use Case": "Cold traffic"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "Why Your Electrolytes Arent Working",
+      "Angle": "Problem aware",
+      "Use Case": "Retargeting"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "Same Minerals as LMNT. 40% Less.",
+      "Angle": "Comparison",
+      "Use Case": "Competitor aware"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "I Stopped Needing Afternoon Coffee",
+      "Angle": "Transformation",
+      "Use Case": "UGC style"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "Your Blood Is 98% Seawater. Coincidence?",
+      "Angle": "Science/curiosity",
+      "Use Case": "Authority play"
+    },
+    {
+      "Type": "Headline",
+      "Copy": "The $2/Day Energy Fix",
+      "Angle": "Value",
+      "Use Case": "Price conscious"
+    },
+    {
+      "Type": "Primary Text",
+      "Copy": "Most supplements are made in factories. Ours comes from 30 meters below the ocean surface. 78 ionic minerals in the exact ratios your body evolved to use. No synthetic fillers. No artificial anything. Just pure marine plasma.",
+      "Angle": "Origin story",
+      "Use Case": "Long-form ads"
+    },
+    {
+      "Type": "Primary Text",
+      "Copy": "I spent $200/month on supplements. Pills, powders, drops. Then I found out my body was absorbing maybe 10% of it. Switched to marine plasma - 78 minerals, 98% absorption. $59/month. Wish I knew sooner.",
+      "Angle": "Personal journey",
+      "Use Case": "UGC ads"
+    },
+    {
+      "Type": "Primary Text",
+      "Copy": "Your filtered water has zero minerals. Your vegetables are grown in depleted soil. Your body is running on empty. One sachet. 78 minerals. 30 seconds. Problem solved.",
+      "Angle": "Problem/solution",
+      "Use Case": "Problem aware"
+    },
+    {
+      "Type": "CTA",
+      "Copy": "Try Risk-Free →",
+      "Angle": "Low commitment",
+      "Use Case": "Cold traffic"
+    },
+    {
+      "Type": "CTA",
+      "Copy": "Subscribe & Save 20%",
+      "Angle": "Value",
+      "Use Case": "Warm traffic"
+    },
+    {
+      "Type": "CTA",
+      "Copy": "Get Your First Box",
+      "Angle": "Action",
+      "Use Case": "General"
+    },
+    {
+      "Type": "CTA",
+      "Copy": "See Why 10,000+ Switched",
+      "Angle": "Social proof",
+      "Use Case": "Retargeting"
+    }
+  ],
+  "row_count": 15,
+  "sheet_name": "Ad Copy Bank",
+  "sheet_index": 329
+}

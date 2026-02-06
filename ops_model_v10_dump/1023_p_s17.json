@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "P-S17: Studio Entity & Legal — PROJECT PLAN",
+    "col_2"
+  ],
+  "rows": [
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Cluster: SCL-3 | Owner: PM (Finance)",
+      "col_2": null
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Entity structure. DAO formation. Jurisdiction. Two-company model. Legal compliance.",
+      "col_2": null
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Section",
+      "col_2": "Content"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "TUP",
+      "col_2": "S17: Studio Entity & Legal"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Cluster",
+      "col_2": "SCL-3"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Owner",
+      "col_2": "PM (Finance)"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Description",
+      "col_2": "Entity structure. DAO formation. Jurisdiction. Two-company model. Legal compliance."
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Deliverables",
+      "col_2": "[List specific outputs this sprint produces]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Done Criteria",
+      "col_2": "[What does \"done\" look like? Be specific enough that a stranger knows.]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Timeline",
+      "col_2": "[X weeks. Start date. End date.]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Dependencies",
+      "col_2": "[Which other TUPs must be complete or in progress before this one?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Inputs Needed",
+      "col_2": "[What does this person need to have before starting?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "AI Co-Pilot",
+      "col_2": "[Can Claude draft this? What prompts would produce a good first pass?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Key Decisions Already Made",
+      "col_2": "[What has already been decided that constrains this TUP?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Key Decisions Still Open",
+      "col_2": "[What does this sprint need to figure out?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Expert Reviewer Profile",
+      "col_2": "[What kind of expert grades this? What credentials?]"
+    },
+    {
+      "P-S17: Studio Entity & Legal — PROJECT PLAN": "Career Booster Statement",
+      "col_2": "[How does this sprint look on a resume? \"I produced the Studio Entity & Legal model for a 103-TUP venture studio Trade.\"]"
+    }
+  ],
+  "row_count": 17,
+  "sheet_name": "P-S17",
+  "sheet_index": 1023
+}

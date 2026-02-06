@@ -1,0 +1,357 @@
+{
+  "headers": [
+    "ROLE ENGINEERING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "ROLE ENGINEERING": "Designing what something IS to unlock coordination patterns",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "THE CORE INSIGHT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Most hiring failures aren't talent failures — they're role failures.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "You hire a 'Chief of Staff' but need a 'Program Manager'.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "You hire a 'COO' but need an 'Operator'.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "You hire a 'CEO' but need a 'Deal Maker'.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "The person fails not because they're bad, but because the ROLE was wrong.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Role Engineering is designing the role BEFORE finding the person.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "ROLE ENGINEERING PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "1. WHAT COORDINATION PATTERN DO YOU NEED?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What information needs to flow where?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What decisions need to be made by whom?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What outputs need to be produced?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "2. WHAT ROLE ARCHETYPE FITS?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• See Role Archetype Matrix below",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• Match coordination need to role type",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "3. WHAT ARE THE ROLE BOUNDARIES?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What is IN scope?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What is OUT of scope?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What are the interfaces with other roles?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "4. WHAT DOES SUCCESS LOOK LIKE?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What does this role produce?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• How do you know it's working?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• What are the failure modes?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "ROLE ARCHETYPE MATRIX",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Core Function",
+      "col_3": "Coordination Pattern",
+      "col_4": "Decision Authority",
+      "col_5": "Success Metric"
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Execute playbook",
+      "col_3": "Info flows IN, results flow OUT",
+      "col_4": "Tactical only",
+      "col_5": "KPIs hit"
+    },
+    {
+      "ROLE ENGINEERING": "CEO (Deal Maker)",
+      "col_2": "Create opportunities",
+      "col_3": "External relationships",
+      "col_4": "Strategic + deals",
+      "col_5": "Pipeline, closes"
+    },
+    {
+      "ROLE ENGINEERING": "CEO (Operator)",
+      "col_2": "Run the machine",
+      "col_3": "Internal execution",
+      "col_4": "All operational",
+      "col_5": "Company metrics"
+    },
+    {
+      "ROLE ENGINEERING": "COO",
+      "col_2": "Build/run systems",
+      "col_3": "Internal processes",
+      "col_4": "Process design",
+      "col_5": "Efficiency, scale"
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Extend executive",
+      "col_3": "Info to/from CEO",
+      "col_4": "Delegated only",
+      "col_5": "CEO leverage"
+    },
+    {
+      "ROLE ENGINEERING": "Program Manager",
+      "col_2": "Deliver outcomes",
+      "col_3": "Cross-team coordination",
+      "col_4": "Project scope",
+      "col_5": "Deliverable shipped"
+    },
+    {
+      "ROLE ENGINEERING": "Fractional COO",
+      "col_2": "Part-time systems",
+      "col_3": "Periodic process work",
+      "col_4": "Advisory",
+      "col_5": "Systems built"
+    },
+    {
+      "ROLE ENGINEERING": "Trustee",
+      "col_2": "Protect interests",
+      "col_3": "Oversight + reporting",
+      "col_4": "Fiduciary",
+      "col_5": "Compliance, returns"
+    },
+    {
+      "ROLE ENGINEERING": "COMMON ROLE CONFUSIONS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "You Say",
+      "col_2": "You Actually Need",
+      "col_3": "The Confusion",
+      "col_4": "Cost of Mistake",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Program Manager",
+      "col_3": "CoS extends CEO; PM delivers projects",
+      "col_4": "Wrong skills, wrong focus",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "COO",
+      "col_2": "Operator",
+      "col_3": "COO builds systems; Operator runs playbook",
+      "col_4": "Overpay, over-scope",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "CEO",
+      "col_2": "Operator",
+      "col_3": "CEO does deals; Operator executes",
+      "col_4": "Entrepreneur in executor role",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Advisor",
+      "col_2": "Fractional Exec",
+      "col_3": "Advisor gives opinions; Frac does work",
+      "col_4": "Advice without execution",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Co-founder",
+      "col_2": "Early Employee",
+      "col_3": "Co-founder shares risk; Employee wants salary",
+      "col_4": "Equity wasted, misalignment",
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "ROLE INTERFACE DESIGN",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Every role has INTERFACES — how it connects to other roles.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "For each role, define:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• INPUTS: What information/decisions does this role receive?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• OUTPUTS: What does this role produce for others?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• ESCALATIONS: When does this role hand off to another?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "• DEPENDENCIES: What does this role need to function?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "ROLE ENGINEERING": "Clear interfaces = clear accountability = less coordination debt.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    }
+  ],
+  "row_count": 49,
+  "sheet_name": "Role Engineering Framework",
+  "sheet_index": 143
+}

@@ -1,0 +1,406 @@
+{
+  "headers": [
+    "WORK BREAKDOWN STRUCTURE (WBS)",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Hierarchical decomposition of all work - from PMBOK",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "WHAT IS WBS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "WBS = Break down ALL work into manageable pieces",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Level 1: Major phases (what)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Level 2: Deliverables (outputs)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Level 3: Work packages (actual tasks)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Rule: If it's not in the WBS, it doesn't exist.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "Everything that needs to happen should be here.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "IONWAVE WBS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "WBS #",
+      "col_2": "Level",
+      "col_3": "Item",
+      "col_4": "Owner",
+      "col_5": "Status"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1",
+      "col_2": "Phase",
+      "col_3": "PRE-LAUNCH",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1",
+      "col_2": "Deliverable",
+      "col_3": "Product Ready",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1.1",
+      "col_2": "Work Package",
+      "col_3": "Finalize formulation",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1.2",
+      "col_2": "Work Package",
+      "col_3": "Select supplier",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1.3",
+      "col_2": "Work Package",
+      "col_3": "Order first batch",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1.4",
+      "col_2": "Work Package",
+      "col_3": "Design packaging",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.1.5",
+      "col_2": "Work Package",
+      "col_3": "Receive and QC inventory",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2",
+      "col_2": "Deliverable",
+      "col_3": "Store Ready",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2.1",
+      "col_2": "Work Package",
+      "col_3": "Set up Shopify store",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2.2",
+      "col_2": "Work Package",
+      "col_3": "Build product pages",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2.3",
+      "col_2": "Work Package",
+      "col_3": "Configure payments",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2.4",
+      "col_2": "Work Package",
+      "col_3": "Set up shipping",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.2.5",
+      "col_2": "Work Package",
+      "col_3": "Test checkout flow",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3",
+      "col_2": "Deliverable",
+      "col_3": "Marketing Ready",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3.1",
+      "col_2": "Work Package",
+      "col_3": "Build landing page",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3.2",
+      "col_2": "Work Package",
+      "col_3": "Set up Meta ad account",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3.3",
+      "col_2": "Work Package",
+      "col_3": "Create first 10 ads",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3.4",
+      "col_2": "Work Package",
+      "col_3": "Set up tracking/pixels",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.3.5",
+      "col_2": "Work Package",
+      "col_3": "Build email flows",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.4",
+      "col_2": "Deliverable",
+      "col_3": "Operations Ready",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.4.1",
+      "col_2": "Work Package",
+      "col_3": "Select 3PL",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.4.2",
+      "col_2": "Work Package",
+      "col_3": "Send inventory to 3PL",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.4.3",
+      "col_2": "Work Package",
+      "col_3": "Test fulfillment",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.4.4",
+      "col_2": "Work Package",
+      "col_3": "Set up support system",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.5",
+      "col_2": "Deliverable",
+      "col_3": "Finance Ready",
+      "col_4": "Studio",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.5.1",
+      "col_2": "Work Package",
+      "col_3": "Secure capital",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.5.2",
+      "col_2": "Work Package",
+      "col_3": "Set up banking",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "1.5.3",
+      "col_2": "Work Package",
+      "col_3": "Define kill criteria",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2",
+      "col_2": "Phase",
+      "col_3": "LAUNCH",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.1",
+      "col_2": "Deliverable",
+      "col_3": "First Sales",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.1.1",
+      "col_2": "Work Package",
+      "col_3": "Launch ads",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.1.2",
+      "col_2": "Work Package",
+      "col_3": "Monitor and optimize",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.1.3",
+      "col_2": "Work Package",
+      "col_3": "Fulfill first orders",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.1.4",
+      "col_2": "Work Package",
+      "col_3": "Collect feedback",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.2",
+      "col_2": "Deliverable",
+      "col_3": "Validated Learning",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.2.1",
+      "col_2": "Work Package",
+      "col_3": "Measure actual CAC",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.2.2",
+      "col_2": "Work Package",
+      "col_3": "Measure actual COGS",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "2.2.3",
+      "col_2": "Work Package",
+      "col_3": "Document learnings",
+      "col_4": null,
+      "col_5": "☐"
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "3",
+      "col_2": "Phase",
+      "col_3": "PMF",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "3.1",
+      "col_2": "Deliverable",
+      "col_3": "Winning Ads",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "3.2",
+      "col_2": "Deliverable",
+      "col_3": "Profitable Unit Economics",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "3.3",
+      "col_2": "Deliverable",
+      "col_3": "Retention System",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "4",
+      "col_2": "Phase",
+      "col_3": "SCALE",
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "4.1",
+      "col_2": "Deliverable",
+      "col_3": "Scaled Acquisition",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "4.2",
+      "col_2": "Deliverable",
+      "col_3": "Operational Excellence",
+      "col_4": "Operator",
+      "col_5": null
+    },
+    {
+      "WORK BREAKDOWN STRUCTURE (WBS)": "4.3",
+      "col_2": "Deliverable",
+      "col_3": "$100K MRR",
+      "col_4": "Operator",
+      "col_5": null
+    }
+  ],
+  "row_count": 56,
+  "sheet_name": "Work Breakdown Structure",
+  "sheet_index": 839
+}

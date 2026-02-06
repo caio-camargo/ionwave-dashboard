@@ -1,0 +1,25 @@
+{
+  "headers": [
+    "REFERENCE CHECK QUESTIONS"
+  ],
+  "rows": [
+    {
+      "REFERENCE CHECK QUESTIONS": "How would you describe their working style?"
+    },
+    {
+      "REFERENCE CHECK QUESTIONS": "What were their biggest strengths?"
+    },
+    {
+      "REFERENCE CHECK QUESTIONS": "Where did they struggle or need support?"
+    },
+    {
+      "REFERENCE CHECK QUESTIONS": "Would you work with them again? Why or why not?"
+    },
+    {
+      "REFERENCE CHECK QUESTIONS": "How did they handle ambiguity and pressure?"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Reference Interview",
+  "sheet_index": 654
+}

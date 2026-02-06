@@ -1,0 +1,55 @@
+{
+  "headers": [
+    "OPERATOR SEARCH DASHBOARD",
+    "col_2",
+    "col_3",
+    "col_4"
+  ],
+  "rows": [
+    {
+      "OPERATOR SEARCH DASHBOARD": "Stage",
+      "col_2": "Count",
+      "col_3": "Conversion",
+      "col_4": "Target"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Sourced",
+      "col_2": "[TBD]",
+      "col_3": "—",
+      "col_4": "50"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Screened",
+      "col_2": "[TBD]",
+      "col_3": "30%",
+      "col_4": "15"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Interviewed",
+      "col_2": "[TBD]",
+      "col_3": "40%",
+      "col_4": "6"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Final Round",
+      "col_2": "[TBD]",
+      "col_3": "50%",
+      "col_4": "3"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Offer",
+      "col_2": "[TBD]",
+      "col_3": "66%",
+      "col_4": "2"
+    },
+    {
+      "OPERATOR SEARCH DASHBOARD": "Hired",
+      "col_2": "[TBD]",
+      "col_3": "50%",
+      "col_4": "1"
+    }
+  ],
+  "row_count": 7,
+  "sheet_name": "Operator Search Dashboard",
+  "sheet_index": 649
+}

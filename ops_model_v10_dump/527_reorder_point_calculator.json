@@ -1,0 +1,49 @@
+{
+  "headers": [
+    "REORDER POINT CALCULATOR",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5"
+  ],
+  "rows": [
+    {
+      "REORDER POINT CALCULATOR": "Automatic trigger: when to reorder.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null
+    },
+    {
+      "REORDER POINT CALCULATOR": "Scenario",
+      "col_2": "Daily Sales",
+      "col_3": "Lead Time",
+      "col_4": "Safety",
+      "col_5": "Reorder At"
+    },
+    {
+      "REORDER POINT CALCULATOR": "Conservative",
+      "col_2": "5/day",
+      "col_3": "35 days",
+      "col_4": "14 days",
+      "col_5": "245 units"
+    },
+    {
+      "REORDER POINT CALCULATOR": "Growing",
+      "col_2": "15/day",
+      "col_3": "35 days",
+      "col_4": "14 days",
+      "col_5": "735 units"
+    },
+    {
+      "REORDER POINT CALCULATOR": "Scaling",
+      "col_2": "30/day",
+      "col_3": "35 days",
+      "col_4": "14 days",
+      "col_5": "1,470 units"
+    }
+  ],
+  "row_count": 5,
+  "sheet_name": "Reorder Point Calculator",
+  "sheet_index": 527
+}

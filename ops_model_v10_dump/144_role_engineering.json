@@ -1,0 +1,1111 @@
+{
+  "headers": [
+    "ROLE ENGINEERING",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6"
+  ],
+  "rows": [
+    {
+      "ROLE ENGINEERING": "Design the role before you find the person. Separate role failure from talent failure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "THE CONCEPT",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Most hiring failures are misdiagnosed. People say 'we hired the wrong person'",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "when the real problem is 'we never defined the role.' Role Engineering is the",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "practice of fully specifying a role BEFORE searching for the person who fills it.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "A role is not a job description. A job description is marketing. A role is architecture.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "It answers: what decisions does this person make, what are they measured on,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "who do they interact with, what can they spend, when do they escalate,",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "how deep in the delegation chain do they sit, and what documents encode",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "the judgment they need to execute.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "When a role is properly engineered, two things become separable:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• ROLE FAILURE: The role was designed wrong (bad scope, wrong authority, missing tools)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• TALENT FAILURE: The person couldn't do the job (wrong skills, wrong mindset)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Without role engineering, every failure looks like talent failure.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "With it, you can diagnose and fix the actual problem.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "THE SEVEN DIMENSIONS OF A ROLE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Dimension",
+      "col_2": "What It Specifies",
+      "col_3": "If Missing...",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "1. Delegation Depth",
+      "col_2": "Where this role sits in the judgment propagation chain, and what depth it delegates to",
+      "col_3": "Role either does too much (bottleneck) or too little (overhead)",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "2. Decision Authority",
+      "col_2": "What this role can decide alone, what requires approval, what is forbidden",
+      "col_3": "Constant escalation OR rogue decisions — both kill velocity",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "3. Performance Surface",
+      "col_2": "Milestones, metrics, and success criteria — what \"winning\" looks like",
+      "col_3": "No accountability, no way to distinguish good from bad performance",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "4. Compensation Architecture",
+      "col_2": "Base, equity, bonuses, and how each component aligns to which behavior",
+      "col_3": "Misaligned incentives — person optimizes for wrong outcomes",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "5. Interface Map",
+      "col_2": "Who this role talks to, how often, through what channels, about what",
+      "col_3": "Communication gaps, duplicated work, coordination debt",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "6. Fidelity Mechanisms",
+      "col_2": "Documents, rubrics, templates, and checklists that encode judgment for this role",
+      "col_3": "Role depends on tribal knowledge — breaks when person leaves",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "7. Escalation Architecture",
+      "col_2": "Triggers, paths, SLAs, and thresholds for when to pass decisions up",
+      "col_3": "Problems fester OR everything escalates — both destroy leverage",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 1: DELEGATION DEPTH",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Where the role sits in the judgment propagation chain",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Delegation Depth is the number of abstraction layers between the principal",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "and the terminal executor. The recursive insight: at Depth 2+, you are not",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "delegating work — you are delegating the act of delegation itself.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Your judgment propagates through documents, not conversations.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "This is what distinguishes Delegation Depth from an org chart.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "An org chart describes reporting relationships.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Delegation Depth describes JUDGMENT PROPAGATION.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "IONWAVE DEPTH MAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Depth",
+      "col_2": "Role",
+      "col_3": "Delegates To",
+      "col_4": "Judgment Encoded In",
+      "col_5": "Cost",
+      "col_6": "Leverage"
+    },
+    {
+      "ROLE ENGINEERING": "D0",
+      "col_2": "Nilo",
+      "col_3": "VA",
+      "col_4": "VA Hiring Kit, Screening Checklist, Test Task",
+      "col_5": "90 min",
+      "col_6": "Sets all initial conditions"
+    },
+    {
+      "ROLE ENGINEERING": "D1",
+      "col_2": "VA",
+      "col_3": "CoS candidates",
+      "col_4": "CoS JD, Email Templates, Pipeline Tracker",
+      "col_5": "$500-800/mo",
+      "col_6": "Frees scheduling + admin"
+    },
+    {
+      "ROLE ENGINEERING": "D2",
+      "col_2": "Chief of Staff",
+      "col_3": "Recruiter",
+      "col_4": "Recruiter JD, Assessment Rubrics, Project Plan",
+      "col_5": "$3-5K/mo",
+      "col_6": "Frees process management"
+    },
+    {
+      "ROLE ENGINEERING": "D3",
+      "col_2": "Recruiter",
+      "col_3": "Operator candidates",
+      "col_4": "Operator JD, Evaluation Matrix, Screening Guide",
+      "col_5": "$5K project",
+      "col_6": "Frees sourcing + screening"
+    },
+    {
+      "ROLE ENGINEERING": "D4",
+      "col_2": "Operator",
+      "col_3": "The Business",
+      "col_4": "633-tab ODD, Milestones, Escalation Paths",
+      "col_5": "$4K/mo + 15%",
+      "col_6": "Frees execution entirely"
+    },
+    {
+      "ROLE ENGINEERING": "DEPTH TRADEOFFS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Depth",
+      "col_2": "Leverage",
+      "col_3": "Latency",
+      "col_4": "Fidelity",
+      "col_5": "Prerequisite",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "D0",
+      "col_2": "None — you are the bottleneck",
+      "col_3": "Zero",
+      "col_4": "Perfect",
+      "col_5": "Nothing",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "D1",
+      "col_2": "Low — frees time",
+      "col_3": "1-2 weeks",
+      "col_4": "High",
+      "col_5": "Task documentation",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "D2",
+      "col_2": "Medium — frees time + judgment",
+      "col_3": "3-4 weeks",
+      "col_4": "Good",
+      "col_5": "Process documentation + rubrics",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "D3",
+      "col_2": "High — multiplicative",
+      "col_3": "6-8 weeks",
+      "col_4": "Acceptable",
+      "col_5": "Full hiring system documented",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "D4",
+      "col_2": "Maximum — self-sustaining",
+      "col_3": "10-12 weeks",
+      "col_4": "Variable",
+      "col_5": "Complete ODD",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "RULES:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Never add depth without documentation for that layer",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Never stack untested layers (validate D1 before building D2)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Delegation without documentation is abdication",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Each layer requires: JD, rubric, templates, authority matrix, escalation path",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• First hire at each depth: founder stays in loop to calibrate the system",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 2: DECISION AUTHORITY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Autonomous (Green)",
+      "col_3": "Needs Approval (Yellow)",
+      "col_4": "Forbidden (Red)",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Reject obvious misfits, schedule calls, send templates, update tracker",
+      "col_3": "Advance borderline candidates, modify templates",
+      "col_4": "Make offers, change JD, set comp",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Hire/fire recruiter, set process timelines, reject below-threshold candidates",
+      "col_3": "Final Operator selection, budget changes, scope changes",
+      "col_4": "Change equity terms, rebrand, strategic pivots",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Source channels, outreach messaging, reject below-7 candidates",
+      "col_3": "Advance borderline (7-8) candidates, change sourcing strategy",
+      "col_4": "Make offers, change comp, represent company externally",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Spend up to $500, daily ad optimization, email sequences, vendor selection",
+      "col_3": "Spend $500+, pricing changes, major partnerships",
+      "col_4": "Equity decisions, brand positioning changes, hiring beyond budget",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 3: PERFORMANCE SURFACE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Win Condition",
+      "col_3": "Milestones",
+      "col_4": "Kill Criteria",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "CoS hired within 4 weeks",
+      "col_3": "W1: Job posted + apps coming. W2: 5 screens scheduled. W3: 3 interviews done. W4: Offer out.",
+      "col_4": "Zero qualified candidates after 2 weeks",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Operator hired + onboarded",
+      "col_3": "W2: Recruiter hired. W5: 3 Operator finalists. W6: Operator signed.",
+      "col_4": "No Recruiter after 2 weeks. No Operator pipeline after 4 weeks.",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "3 qualified candidates → 1 hire",
+      "col_3": "W1: 20 sourced. W2: 8 screened. W3: 5 interviewed. W4: 3 finalists.",
+      "col_4": "Zero qualified candidates (7+) after 3 weeks",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "$100K MRR in 12 months",
+      "col_3": "W4: Table Set. W8: First Blood (100 customers). W12: Winner Found. M12: $100K MRR.",
+      "col_4": "No Table Set by W6. No First Blood by W12. Negative unit economics at W12.",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 4: COMPENSATION ARCHITECTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Every comp component aligns a specific behavior:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Base cash → Shows up and does the work (retention)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Equity → Cares about long-term outcome (alignment)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Milestone bonus → Hits specific targets (execution)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Success fee → Delivers specific output (completion)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "• Retainer → Commits bandwidth (availability)",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Bad comp architecture: all base (no alignment) or all equity (no retention).",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Good comp architecture: each component pulls a different lever.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Base",
+      "col_3": "Equity",
+      "col_4": "Bonuses",
+      "col_5": "Alignment Logic",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "$500-800/mo",
+      "col_3": "None",
+      "col_4": "$100 completion bonus",
+      "col_5": "Short project, no long-term alignment needed — just execution",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "$3-5K/mo",
+      "col_3": "1-3% Studio (3yr vest)",
+      "col_4": "$1K per placement, $2.5K at $100K MRR",
+      "col_5": "Medium-term, cares about Studio success not just one brand",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "$2K retainer",
+      "col_3": "None",
+      "col_4": "$3K success fee",
+      "col_5": "Project-based, output-driven — paid for results not time",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "$4K/mo → $8K",
+      "col_3": "15% IonWave (4yr vest)",
+      "col_4": "$5K/$10K/$25K at milestones",
+      "col_5": "Deep alignment — below-market cash forces equity mindset",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 5: INTERFACE MAP",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Reports To",
+      "col_3": "Manages",
+      "col_4": "Channel",
+      "col_5": "Cadence",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Nilo",
+      "col_3": "Nobody",
+      "col_4": "Slack DM",
+      "col_5": "Daily 2-3 sentence update",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Nilo",
+      "col_3": "VA (handoff), Recruiter, CM",
+      "col_4": "Slack channel + weekly call",
+      "col_5": "Daily async + weekly 30-min sync",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Chief of Staff",
+      "col_3": "Nobody",
+      "col_4": "Slack + email",
+      "col_5": "Weekly pipeline update",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Studio (via CoS/CM)",
+      "col_3": "Vendors, creators, CS",
+      "col_4": "Slack + weekly report",
+      "col_5": "Daily metrics + weekly report + monthly review",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CM",
+      "col_2": "Studio",
+      "col_3": "Nobody (monitors Operators)",
+      "col_4": "Slack + compliance log",
+      "col_5": "Daily review + monthly grade",
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 6: FIDELITY MECHANISMS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Documents That Encode Judgment",
+      "col_3": "What These Replace",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Screening Checklist, Test Task, Email Templates, Pipeline Tracker, Decision Authority Matrix",
+      "col_3": "You personally reviewing every app, writing every email, tracking every candidate",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Chief of Staff",
+      "col_2": "Assessment Rubrics, Project Plan, Onboarding Packets, Escalation & SLAs",
+      "col_3": "You personally managing the recruiter and overseeing the hiring process",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Evaluation Matrix, Screening Guide, Outreach Scripts, Score Thresholds",
+      "col_3": "You personally sourcing, cold emailing, and screening 50+ candidates",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "633-tab ODD, Onboarding Checklist, Start Here Complete, Milestone Framework",
+      "col_3": "You personally running ads, managing Shopify, emailing customers",
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "DIMENSION 7: ESCALATION ARCHITECTURE",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role",
+      "col_2": "Escalation Trigger",
+      "col_3": "Escalates To",
+      "col_4": "SLA",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Borderline candidate (unclear if qualified)",
+      "col_3": "Nilo",
+      "col_4": "24 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Zero qualified candidates after 1 week",
+      "col_3": "Nilo",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "VA",
+      "col_2": "Candidate asks about comp/equity details",
+      "col_3": "Nilo",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CoS",
+      "col_2": "No recruiter hired after 2 weeks",
+      "col_3": "Nilo",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CoS",
+      "col_2": "Recruiter underperforming",
+      "col_3": "Nilo",
+      "col_4": "48 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CoS",
+      "col_2": "Operator finalist ready for approval",
+      "col_3": "Nilo",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Borderline candidate (score 7-8)",
+      "col_3": "CoS",
+      "col_4": "24 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Exceptional candidate (score 9+)",
+      "col_3": "CoS",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Recruiter",
+      "col_2": "Competing offer on finalist",
+      "col_3": "CoS → Nilo",
+      "col_4": "4 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Spend over $500",
+      "col_3": "Studio",
+      "col_4": "24 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Strategic/brand decision",
+      "col_3": "Studio",
+      "col_4": "48 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Operator",
+      "col_2": "Urgent (supplier issue, PR, legal)",
+      "col_3": "Studio",
+      "col_4": "4 hrs",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CM",
+      "col_2": "Operator grade drops to CCC or below",
+      "col_3": "Studio",
+      "col_4": "Same day",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "CM",
+      "col_2": "Suspected fraud or misrepresentation",
+      "col_3": "Studio",
+      "col_4": "Immediate",
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "THE ROLE ENGINEERING PROCESS",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Before hiring ANYONE, complete these steps:",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "1. SET DELEGATION DEPTH: Where does this role sit? What depth does it delegate to?",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "2. DEFINE DECISION AUTHORITY: Green/Yellow/Red for every decision type",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "3. SPECIFY PERFORMANCE SURFACE: Win condition, milestones, kill criteria",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "4. DESIGN COMPENSATION: Each component aligned to a specific behavior",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "5. MAP INTERFACES: Who do they talk to, how, how often",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "6. BUILD FIDELITY MECHANISMS: Documents that encode your judgment for this role",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "7. ARCHITECT ESCALATION: Every trigger, every path, every SLA",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Only THEN write the job description.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Only THEN start searching for people.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The JD is output of role engineering, not input.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The rubric is output of role engineering, not input.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The contract is output of role engineering, not input.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "If you can't specify all seven dimensions, the role isn't ready to fill.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "WHY THIS IS PROPRIETARY",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Standard hiring: write JD → post → screen → interview → hire → hope",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role Engineering: specify 7 dimensions → documents propagate judgment →",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "hiring becomes execution of a system → talent failure separable from",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "role failure → each role is an engineered component of a larger machine",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The difference is structural. In standard hiring, the founder is the system.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "In Role Engineering, the documents are the system. The founder is the architect.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "This is why we can run Delegation Depth 4 — four layers between Nilo and",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "the Operator — and still expect fidelity. Each layer was role-engineered.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Each layer has its seven dimensions specified. Each layer's judgment is",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "encoded in documents that survive the absence of the layer above.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The ops model isn't preparation for the business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "The ops model IS the business.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    },
+    {
+      "ROLE ENGINEERING": "Role Engineering is how you make that true for people, not just processes.",
+      "col_2": null,
+      "col_3": null,
+      "col_4": null,
+      "col_5": null,
+      "col_6": null
+    }
+  ],
+  "row_count": 137,
+  "sheet_name": "Role Engineering",
+  "sheet_index": 144
+}

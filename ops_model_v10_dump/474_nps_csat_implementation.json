@@ -1,0 +1,27 @@
+{
+  "headers": [
+    "NPS & CSAT IMPLEMENTATION",
+    "col_2",
+    "col_3"
+  ],
+  "rows": [
+    {
+      "NPS & CSAT IMPLEMENTATION": "NPS Survey",
+      "col_2": "Post-purchase Day 14",
+      "col_3": "Delighted or Fairing"
+    },
+    {
+      "NPS & CSAT IMPLEMENTATION": "CSAT Survey",
+      "col_2": "After support ticket",
+      "col_3": "Gorgias or Zendesk"
+    },
+    {
+      "NPS & CSAT IMPLEMENTATION": "Review Request",
+      "col_2": "Post-purchase Day 21",
+      "col_3": "Judge.me or Okendo"
+    }
+  ],
+  "row_count": 3,
+  "sheet_name": "NPS CSAT Implementation",
+  "sheet_index": 474
+}
