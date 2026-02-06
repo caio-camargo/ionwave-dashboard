@@ -91,7 +91,8 @@ dashboard/
 │   ├── data-loader.js            ← Fetches and caches JSON data
 │   └── renderers.js              ← Auto-renders content by data_type
 └── views/
-    ├── hypotheses-tracker.html   ← 🧪 Hypotheses system tracker (NEW)
+    ├── tup-navigator.html        ← 🗺️ TUP/Cluster system navigator (NEW)
+    ├── hypotheses-tracker.html   ← 🧪 Hypotheses system tracker
     ├── financial-forecast.html   ← 📊 Financial model scenarios
     ├── strategic-foundation.html
     ├── market-intelligence.html
@@ -102,7 +103,8 @@ dashboard/
 **Repo:** https://github.com/caio-camargo/ionwave-dashboard
 
 **Key Dashboard Views:**
-- **Mission Control** - Project overview, file status, dependency chains, analysis deliverables, critical questions
+- **Mission Control** - Project overview, cluster map, file status, dependency chains, analysis deliverables, critical questions
+- **🗺️ TUP Navigator** - Cluster/TUP hierarchy, ontological primitives, reconciliation status, file-to-TUP mapping
 - **🧪 Hypotheses Tracker** - 8 core business hypotheses with confidence grades, validation status, dependencies
 - **📊 Financial Forecast** - 3-scenario financial model, timeline analysis, go/no-go frameworks
 - **File Views** - Dynamic rendering of migrated JSON data by file (01-03B currently available)
@@ -130,7 +132,7 @@ archive/        → Deprecated/historical files (including migrated XLSX files)
 ### Version Control — Git / GitHub
 
 **Repo:** https://github.com/caio-camargo/ionwave-dashboard
-**Branch:** `main` (deployed to GitHub Pages), `master` (local working branch)
+**Branch:** `main` (single branch, deployed to GitHub Pages)
 
 **`.gitignore` policy:**
 - `*.xlsx` — XLSX files are NOT version-controlled. JSON is source of truth for migrated files; non-migrated XLSX remain local only.
@@ -416,12 +418,35 @@ Now applying established frameworks to:
 - Log decisions and their rationale
 - Note any issues or blockers encountered
 
-### At the end of the session:
-- Mark the session entry status as `Complete`
-- Update the "Next Steps" section with outstanding work
-- Ensure every file touched is listed in the Actions table
+### Session Closing Protocol (End of Every Session):
 
-**Why:** Claude Code sessions don't share context. The session log is the only way to maintain continuity between sessions. If you skip this, the next session starts blind.
+Run through this checklist before ending a session:
+
+1. **Update SESSION_LOG.md**
+   - Mark session status as `Complete`
+   - List every file created/modified/deleted in the Actions table
+   - Log all decisions and their rationale
+   - Write clear "Next Steps" for the next session
+
+2. **Check startup docs for staleness**
+   - Does `00_START_HERE.md` still reflect reality? (file structure, branch names, dashboard views, current phase)
+   - Does `DOCUMENTATION_INDEX.md` list any new files created this session?
+   - Does `data/manifest.json` reflect any new data files or status changes?
+
+3. **Commit and push**
+   - Stage all relevant changes (data, dashboard, docs, tracking)
+   - Commit with descriptive message
+   - Push to `origin/main` to deploy dashboard updates
+   - Verify no untracked files that should be committed
+
+4. **Reconciliation check** (if applicable)
+   - Are any new reconciliation decisions made? Update `tracking/Reconciliation_Decision_Log.md`
+   - Does `IonWave/Reconciliation_Audit.md` need a version bump?
+   - Does `data/crosswalk.json` need updates?
+
+5. **Pending items** — explicitly note anything left unfinished in SESSION_LOG next steps
+
+**Why:** Claude Code sessions don't share context. The session log and up-to-date docs are the only way to maintain continuity. If you skip this, the next session starts blind.
 
 ---
 

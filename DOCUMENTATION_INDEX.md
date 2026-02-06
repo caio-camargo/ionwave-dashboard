@@ -90,6 +90,10 @@ archive/        → Deprecated/historical files (including migrated XLSX)
 | dashboard/css/styles.css | ✅ | Shared dark theme stylesheet | Styling changes |
 | dashboard/js/data-loader.js | ✅ | Fetches and caches JSON data files | Data loading changes |
 | dashboard/js/renderers.js | ✅ | Auto-renders content by data_type | Rendering logic changes |
+| dashboard/views/tup-navigator.html | ✅ | TUP/Cluster system navigator, ontological primitives, reconciliation status | Navigating TUP hierarchy |
+| dashboard/views/hypotheses-tracker.html | ✅ | Hypotheses system tracker (8 hypotheses, confidence grades) | Viewing hypothesis status |
+| dashboard/views/hypothesis-detail.html | ✅ | Individual hypothesis detail view | Drilling into one hypothesis |
+| dashboard/views/financial-forecast.html | ✅ | 3-scenario financial model and timeline analysis | Viewing financial projections |
 | dashboard/views/strategic-foundation.html | ✅ | Trade file 01 detail view | Viewing Strategic Foundation |
 | dashboard/views/market-intelligence.html | ✅ | Trade file 02 detail view | Viewing Market Intelligence |
 | dashboard/views/customer-research.html | ✅ | Trade files 03A + 03B combined view | Viewing Customer Research |
