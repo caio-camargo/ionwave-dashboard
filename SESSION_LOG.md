@@ -35,6 +35,50 @@
 
 ---
 
+## Session 2026-02-05 #5 — TUP System Dashboard Integration & Reconciliation Completion
+**Source**: Claude Code
+**Status**: Complete
+
+### Summary
+Continued from prior session (context compacted). Integrated the TUP/Cluster system from Danilo's `IonWave_Ops_Model_v10_Protocol.xlsx` reconciliation into the live dashboard. Created a new TUP Navigator view, added cluster overview to Mission Control, updated all nav bars, fixed a Google Drive-induced git corruption issue, consolidated git branches from master+main to main only, added a Session Closing Protocol to 00_START_HERE.md, and updated DOCUMENTATION_INDEX.md with all missing dashboard views.
+
+### Decisions Made
+- TUP Navigator created as a dedicated dashboard view (not merged into Mission Control — it's substantial enough to warrant its own page)
+- Mission Control gets a compact 4-column cluster map as a quick overview with link to full navigator
+- Each cluster assigned a distinct color for visual identification across all views
+- Git branches consolidated: deleted remote `master`, renamed local to `main`, single branch going forward
+- Session Closing Protocol formalized as a 5-step checklist in 00_START_HERE.md
+- Google Drive `desktop.ini` corruption fixed by grafting history and rewriting with filter-branch
+
+### Actions Taken
+| # | Action | File(s) | Detail |
+|---|--------|---------|--------|
+| 1 | created | `dashboard/views/tup-navigator.html` | Full TUP Navigator: stats ribbon, ontological primitives (6 cards), 8 cluster cards, per-cluster TUP tables, reconciliation status with decision distribution and coverage gaps |
+| 2 | edited | `dashboard/index.html` | Added TUP Navigator to nav bar, added Cluster Map section (4-col grid), added TUP/cluster badges to file cards |
+| 3 | edited | `dashboard/css/styles.css` | Added `.grid-4` layout, `.cluster-card` and `.cluster-card-mini` hover styles |
+| 4 | edited | `dashboard/views/strategic-foundation.html` | Updated nav bar (added TUP Navigator, fixed `../../` path to `../`) |
+| 5 | edited | `dashboard/views/market-intelligence.html` | Updated nav bar (added TUP Navigator, fixed `../../` path to `../`) |
+| 6 | edited | `dashboard/views/customer-research.html` | Updated nav bar (added TUP Navigator, fixed `../../` path to `../`) |
+| 7 | edited | `dashboard/views/financial-forecast.html` | Updated nav bar (added TUP Navigator) |
+| 8 | edited | `dashboard/views/hypotheses-tracker.html` | Updated nav bar (added TUP Navigator) |
+| 9 | edited | `dashboard/views/hypothesis-detail.html` | Updated nav bar (added TUP Navigator) |
+| 10 | edited | `00_START_HERE.md` | Fixed branch ref (master→main), added TUP Navigator to dashboard views, added Session Closing Protocol |
+| 11 | edited | `DOCUMENTATION_INDEX.md` | Added 4 missing dashboard views (tup-navigator, hypotheses-tracker, hypothesis-detail, financial-forecast) |
+| 12 | fixed | `.git/` | Removed Google Drive desktop.ini files from git objects/refs, grafted corrupt ancestor, rewrote history with filter-branch |
+| 13 | deleted | `origin/master` | Consolidated to single `main` branch |
+| 14 | committed+pushed | All above | Commit `25b5740` (dashboard+data), commit `2e59927` (docs) — both pushed to `origin/main` |
+
+### Next Steps
+- [ ] REC-001 (BCL-2 Money & Legal) — still PENDING. Margin crisis: Danilo's model shows 40% margin vs Bootstrap's assumed 67%. Needs dedicated reconciliation session.
+- [ ] Formalize Controller, Observer, OpKit, Metric schemas in a systems architecture doc (per REC-002c)
+- [ ] Reconcile bifurcation parameters with hypothesis kill thresholds (per REC-002a)
+- [ ] Register OpKit associations per TUP in data layer (per REC-002c)
+- [ ] Formalize 10 PMF signals as individual Metrics (per REC-002b)
+- [ ] Consider removing debug logging from data-loader.js (carried from session #4)
+- [ ] Continue Tier 2 file JSON migration
+
+---
+
 ## Session 2026-02-05 #4 — Dashboard Troubleshooting & Jekyll Fix
 **Source**: Claude Code
 **Status**: Complete

@@ -12,6 +12,10 @@ const DataLoader = {
     const pathSegments = window.location.pathname.split('/').filter(s => s);
     const repoName = pathSegments.length > 0 && !pathSegments[0].endsWith('.html') ? pathSegments[0] : '';
     const base = repoName ? `/${repoName}` : '';
+    console.log('[DataLoader] pathname:', window.location.pathname);
+    console.log('[DataLoader] pathSegments:', pathSegments);
+    console.log('[DataLoader] repoName:', repoName);
+    console.log('[DataLoader] base path:', `${base}/data`);
     return `${base}/data`;
   },
   get _basePath() {
@@ -24,17 +28,23 @@ const DataLoader = {
    * @returns {Promise<Object>}
    */
   async load(path) {
-    if (this._cache[path]) return this._cache[path];
+    if (this._cache[path]) {
+      console.log('[DataLoader] Cache hit:', path);
+      return this._cache[path];
+    }
 
     const url = `${this._basePath}/${path}`;
+    console.log('[DataLoader] Fetching:', url);
     try {
       const response = await fetch(url);
+      console.log('[DataLoader] Response status:', response.status, 'for', url);
       if (!response.ok) throw new Error(`HTTP ${response.status}: ${url}`);
       const data = await response.json();
       this._cache[path] = data;
+      console.log('[DataLoader] Successfully loaded:', path);
       return data;
     } catch (err) {
-      console.error(`DataLoader: Failed to load ${url}`, err);
+      console.error(`[DataLoader] FAILED to load ${url}`, err);
       return null;
     }
   },
