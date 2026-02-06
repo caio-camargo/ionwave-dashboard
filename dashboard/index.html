@@ -30,6 +30,7 @@
 
   <nav class="nav-bar">
     <a href="index.html" class="active">Mission Control</a>
+    <a href="views/tup-navigator.html">🗺️ TUP Navigator</a>
     <a href="views/hypotheses-tracker.html">🧪 Hypotheses Tracker</a>
     <a href="views/financial-forecast.html">📊 Financial Forecast</a>
     <a href="views/strategic-foundation.html">01 Strategic Foundation</a>
@@ -42,6 +43,19 @@
   </div>
 
   <div class="page-content">
+
+    <!-- TUP / Cluster Overview -->
+    <div class="section-divider">
+      <h2 class="section-title">🗺️ Cluster Map (TUP System)</h2>
+    </div>
+
+    <div id="cluster-overview" class="section-grid grid-4">
+      <div class="loading">Loading clusters...</div>
+    </div>
+
+    <div style="text-align:right; margin-top:var(--gap-sm); margin-bottom:var(--gap-lg);">
+      <a href="views/tup-navigator.html" class="btn-primary" style="font-size:var(--font-size-xs);">Full TUP Navigator &rarr;</a>
+    </div>
 
     <div class="section-divider">
       <h2 class="section-title">Trade Files Overview</h2>
@@ -199,6 +213,57 @@
 
       document.getElementById('last-updated').textContent = manifest.last_updated || '--';
 
+      // ── Cluster Overview ──
+      const crosswalk = await DataLoader.load('crosswalk.json');
+      const clusterEl = document.getElementById('cluster-overview');
+
+      if (crosswalk) {
+        const CLUSTER_COLORS = {
+          'BCL-0': { accent: 'var(--color-info)',    bg: 'var(--color-info-bg)' },
+          'BCL-1': { accent: 'var(--color-success)',  bg: 'var(--color-success-bg)' },
+          'BCL-2': { accent: 'var(--color-critical)', bg: 'var(--color-critical-bg)' },
+          'BCL-3': { accent: 'var(--color-review)',   bg: 'var(--color-review-bg)' },
+          'BCL-4': { accent: 'var(--color-warning)',  bg: 'var(--color-warning-bg)' },
+          'BCL-5': { accent: '#06b6d4',              bg: '#042f2e' },
+          'BCL-6': { accent: '#64748b',              bg: '#1e293b' },
+          'BCL-7': { accent: '#f472b6',              bg: '#500724' }
+        };
+
+        let clusterHtml = '';
+        for (const [clusterId, cluster] of Object.entries(crosswalk.clusters)) {
+          const colors = CLUSTER_COLORS[clusterId] || CLUSTER_COLORS['BCL-6'];
+          const isPending = cluster.decision.includes('PENDING');
+          const isDeferred = cluster.decision.includes('DEFER');
+          const tupCount = cluster.tups.length;
+          const fileCount = Object.values(crosswalk.file_to_tup).filter(m => m.cluster === clusterId).length;
+
+          let statusBadge;
+          if (isPending) statusBadge = '<span class="badge badge-critical">PENDING</span>';
+          else if (isDeferred) statusBadge = '<span class="badge badge-neutral">DEFERRED</span>';
+          else if (cluster.decision.includes('MERGE')) statusBadge = '<span class="badge badge-info">MERGE</span>';
+          else statusBadge = '<span class="badge badge-success">RESOLVED</span>';
+
+          clusterHtml += `
+            <div class="card cluster-card-mini" style="border-left:3px solid ${colors.accent};">
+              <div class="card-header" style="background:${colors.bg}; padding:var(--gap-xs) var(--gap-sm);">
+                <span style="font-weight:600; color:${colors.accent}; font-size:var(--font-size-xs);">${clusterId}</span>
+                ${statusBadge}
+              </div>
+              <div class="card-body" style="padding:var(--gap-sm);">
+                <div style="font-size:var(--font-size-sm); font-weight:600; color:var(--text-primary); margin-bottom:var(--gap-xs);">
+                  ${Renderers.escapeHtml(cluster.name)}
+                </div>
+                <div style="font-size:0.65rem; color:var(--text-dim);">
+                  ${tupCount} TUPs &middot; ${fileCount} files
+                </div>
+              </div>
+            </div>`;
+        }
+        clusterEl.innerHTML = clusterHtml;
+      } else {
+        clusterEl.innerHTML = Renderers.emptyState('Crosswalk data not available');
+      }
+
       // ── Trade Files Grid ──
       const filesGrid = document.getElementById('files-grid');
       let filesHtml = '';
@@ -228,6 +293,8 @@
               </div>
               <div style="font-size:var(--font-size-xs); color:var(--text-dim); margin-bottom:var(--gap-sm);">
                 ${file.sheet_count} sheets
+                ${file.danilo_tup ? `<span style="margin-left:var(--gap-sm); padding:1px 6px; border-radius:3px; background:var(--color-info-bg); color:var(--color-info); font-size:0.6rem;">${file.danilo_tup}</span>` : ''}
+                ${file.danilo_cluster ? `<span style="margin-left:2px; padding:1px 6px; border-radius:3px; background:var(--bg-tertiary); color:var(--text-dim); font-size:0.6rem;">${file.danilo_cluster}</span>` : ''}
               </div>
               ${file.feeds_into && file.feeds_into.length > 0 ? `
                 <div style="font-size:var(--font-size-xs); color:var(--text-dim); margin-bottom:var(--gap-xs);">Feeds into:</div>

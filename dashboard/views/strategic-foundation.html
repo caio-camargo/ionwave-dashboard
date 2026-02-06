@@ -29,7 +29,8 @@
   </header>
 
   <nav class="nav-bar">
-    <a href="../../index.html">Mission Control</a>
+    <a href="../index.html">Mission Control</a>
+    <a href="tup-navigator.html">TUP Navigator</a>
     <a href="strategic-foundation.html" class="active">01 Strategic Foundation</a>
     <a href="market-intelligence.html">02 Market Intelligence</a>
     <a href="customer-research.html">03 Customer Research</a>
@@ -60,8 +61,11 @@
   <script src="../js/renderers.js"></script>
   <script>
     const FILE_ID = '01_strategic_foundation';
+    console.log('[View] Script loaded for:', FILE_ID);
 
     document.addEventListener('DOMContentLoaded', async function() {
+      console.log('[View] DOMContentLoaded fired');
+      console.log('[View] DataLoader available?', typeof DataLoader !== 'undefined');
       // Load metadata
       const meta = await DataLoader.loadFileMeta(FILE_ID);
       if (!meta) {

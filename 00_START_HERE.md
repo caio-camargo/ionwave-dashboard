@@ -1,5 +1,5 @@
 # START HERE - Studio 3 Imagination Generation System
-**Version**: v2.1.0
+**Version**: v2.2.0
 **Author**: Caio, Claude (collaborative)
 **Date Created**: 2026-02-03
 **Last Updated**: 2026-02-05
@@ -262,8 +262,39 @@ See `processes/Dependency_Map.md` for:
 - Workflow sequences (recommended order of work)
 - Which files must be updated together
 
+### TUP / Cluster Navigation
+
+Files are mapped to Danilo's TUP (Trade Unit Project) and Cluster hierarchy via `data/crosswalk.json`. Each file in `manifest.json` now has `danilo_tup`, `danilo_cluster`, and `passet` fields.
+
+| Cluster | Name | TUPs | Our Files | Decision |
+|---------|------|------|-----------|----------|
+| BCL-0 | Thesis & Meta | M0, M34, M38, M39, M40 | 01, 24, 29, 34, 37 | MERGE (Bootstrap canon for analytics, Danilo for frameworks) |
+| BCL-1 | Product & Science | M5, M6, M7, M8 | 05A, 05B, 09, 17, 36 | Danilo canon |
+| BCL-2 | Money & Legal | M2, M3, M4, M25 | 06, 08, 17, 20, 33 | PENDING |
+| BCL-3 | DR & Creative | M11-M15 | 09, 10A, 10B, 11A, 11B, 12 | Danilo canon |
+| BCL-4 | Retention & Lifecycle | M17-M22 | 07, 11B, 14, 27, 30 | Danilo canon |
+| BCL-5 | Growth & Market | M10, M16, M23, M26-M29 | 02, 03A, 03B, 07, 13, 21, 22, 25 | Danilo canon (analytical layer preserved) |
+| BCL-6 | Operations & Infra | M1, M9, M24, M30-M31, M35-M37 | 04, 15, 16, 18, 19, 28, 31 | Danilo canon |
+| BCL-7 | Governance & School | M32, M33 | 23, 30, 32, 33, 35 | Deferred |
+
+**To find a TUP's OpKit or content:** Ask Claude. Claude navigates `crosswalk.json` and `manifest.json` to locate the right files.
+**Full reconciliation log:** `tracking/Reconciliation_Decision_Log.md`
+**Reconciliation audit:** `IonWave/Reconciliation_Audit.md`
+
+### Ontological Primitives
+
+The system's formal entities:
+- **Hypothesis** — testable business assumption with confidence grades and validation lifecycle (registry: `data/hypotheses/`)
+- **TUP** — Trade Unit Project, the fundamental unit of knowledge about one subject
+- **Controller** — feedback mechanism with parameters (thresholds), metrics (measured values), reactive protocols (responses)
+- **Observer** — composite state estimator (e.g., Computational PMF: 10 signals, weighted score, diagnostic patterns)
+- **OpKit** — collection of documents scaffolding the generation of a deliverable (Reference Models, templates, checklists)
+- **Metric** — formalized individual measure feeding Controllers and Observers
+
 ### Finding Things
 - **Full project orientation (Claude)?** → `data/manifest.json` (load first every session)
+- **TUP/Cluster mapping?** → `data/crosswalk.json` (maps file numbers to Danilo's TUP codes)
+- **Reconciliation decisions?** → `tracking/Reconciliation_Decision_Log.md`
 - **Project status at a glance (human)?** → [Dashboard](https://caio-camargo.github.io/ionwave-dashboard/) — see DASHBOARD_UPDATE_GUIDE.md
 - **Business hypotheses/assumptions?** → `data/hypotheses/registry.json` or [Hypotheses Tracker](https://caio-camargo.github.io/ionwave-dashboard/views/hypotheses-tracker.html)
 - **Hypothesis evidence mapping?** → `data/hypotheses/index.json` or `IonWave/Hypothesis_Dependency_Audit.md`
@@ -395,6 +426,15 @@ Now applying established frameworks to:
 ---
 
 ## Version History
+
+**v2.2.0 (2026-02-05):**
+- Added TUP/Cluster navigation section with crosswalk table
+- Added Ontological Primitives section (Hypothesis, TUP, Controller, Observer, OpKit, Metric)
+- Created `data/crosswalk.json` mapping 38 files to Danilo's 41 Business Level TUPs and 8 clusters
+- Added `danilo_tup`, `danilo_cluster`, `passet` fields to every file entry in `manifest.json`
+- Added Finding Things entries for crosswalk and reconciliation log
+- All content marked as Imagination Passet scope
+- Reconciliation with `IonWave_Ops_Model_v10_Protocol.xlsx` — 10 of 11 decisions resolved (see `tracking/Reconciliation_Decision_Log.md`)
 
 **v2.1.0 (2026-02-05):**
 - Added Hypotheses Architecture system to data layer (`data/hypotheses/`)
