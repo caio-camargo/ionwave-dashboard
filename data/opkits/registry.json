@@ -1,0 +1,195 @@
+{
+  "_meta": {
+    "description": "OpKit Registry - Maps TUPs to their associated OpKits (production support bundles)",
+    "created": "2026-02-06",
+    "version": "1.0.0",
+    "authority": "Reconciliation Decision Log (REC-002c, REC-002f)",
+    "notes": [
+      "OpKits scaffold deliverable creation: Reference Models, Templates, Checklists, Graded Examples",
+      "Each TUP may have one or more associated OpKits",
+      "OpKits stored in ops_model_v10_dump/ and will be migrated to opkits/ directory",
+      "Navigation: Given any TUP code, Claude can locate its OpKit(s)"
+    ]
+  },
+  "opkit_types": {
+    "production": {
+      "description": "For repeatedly created deliverables across multiple Trades",
+      "contains": ["Instructions", "Template", "Graded Examples (A/B/C)", "Rubric"],
+      "example": "Strategic Thesis OpKit, Market Landscape Map OpKit"
+    },
+    "foundation": {
+      "description": "For singular evolving foundational documents",
+      "contains": ["Target document", "Brief", "Design rationale", "Historical record"],
+      "example": "Documentation Standards OpKit, Protocol Creation OpKit"
+    }
+  },
+  "tup_to_opkit": {
+    "m0": {
+      "tup_name": "Trade Thesis",
+      "opkits": [
+        {
+          "opkit_id": "opkit_m0_thesis_structure",
+          "name": "Thesis Structure Checklist",
+          "type": "production",
+          "source_file": "ops_model_v10_dump/1204_m0_thesis_structure.json",
+          "description": "Decision-forcing checklist: 16 required fields across ICP (3), Positioning (3), Product (3), Distribution (2), Finance (2), Kill Criteria (2)",
+          "components": {
+            "checklist": "16-field thesis structure forcing explicit answers",
+            "downstream_map": "ops_model_v10_dump/1205_m0_thesis_downstream.json - shows which clusters consume which thesis fields"
+          },
+          "status": "adopted",
+          "decision": "REC-002f",
+          "notes": "Bootstrap thesis.json fills most fields but scattered. This OpKit provides single unified checklist."
+        },
+        {
+          "opkit_id": "opkit_m0_computational_pmf",
+          "name": "Computational PMF Observer",
+          "type": "foundation",
+          "source_file": "ops_model_v10_dump/137_computational_pmf.json",
+          "description": "Composite state estimator: 10 signals → weighted score → PMF assessment (No PMF/Early/Achieved/Strong)",
+          "components": {
+            "signals": "10 PMF signals (Sean Ellis >40%, Retention M2 >40%, Organic >30%, NPS >50, CAC trend, Referral >10%, Explanation <30s, Price sensitivity, Inbound, Time to value <7d)",
+            "weights": "Sean Ellis 25%, Retention 20%, Organic 15%, NPS 15%, CAC Trend 10%, Referral 5%",
+            "score_bands": "0-30 No PMF, 30-50 Early, 50-70 Achieved, 70+ Strong",
+            "diagnostic_patterns": "5 fault-tree patterns for diagnosing PMF failures"
+          },
+          "status": "adopted",
+          "decision": "REC-002b",
+          "notes": "This is an Observer, not traditional OpKit, but serves similar scaffolding function for PMF assessment"
+        },
+        {
+          "opkit_id": "opkit_m0_anti_goals",
+          "name": "Anti-Goals Boundary Conditions",
+          "type": "production",
+          "source_file": "ops_model_v10_dump/115_anti_goals.json",
+          "description": "8 constraints defining what IonWave is NOT, with specific temptation triggers",
+          "components": {
+            "constraints": "8 anti-goals (e.g., no new flavor until $50K MRR)",
+            "temptation_triggers": "Parameters defining when rule can be broken"
+          },
+          "status": "adopted",
+          "decision": "REC-002d",
+          "notes": "Boundary conditions that define solution space"
+        },
+        {
+          "opkit_id": "opkit_m0_bifurcation_points",
+          "name": "Bifurcation Points Controller Stack",
+          "type": "foundation",
+          "source_file": "ops_model_v10_dump/131_bifurcation_points.json",
+          "description": "Controller stack: Early Warning (80% of bifurcation) → Bifurcation (investigate/intervene) → Kill (stop business)",
+          "components": {
+            "parameters": "8 bifurcation thresholds (CAC, Churn, Margin, etc.)",
+            "severity_levels": "Early Warning, Bifurcation, Kill - three severity levels per metric",
+            "reactive_protocols": "Defined responses when metrics cross thresholds"
+          },
+          "status": "adopted",
+          "decision": "REC-002a",
+          "notes": "This is a Controller, not traditional OpKit, but provides scaffolding for monitoring"
+        }
+      ]
+    },
+    "m26": {
+      "tup_name": "Competitive Intel",
+      "opkits": [
+        {
+          "opkit_id": "opkit_m26_ci_protocol",
+          "name": "Competitive Intelligence Protocol",
+          "type": "production",
+          "source_file": "ci-protocol/",
+          "description": "Complete CI workflow with 7 frameworks and graded examples",
+          "components": {
+            "frameworks": "Porter's Five Forces, Market Landscape Map, SWOT, Competitor Analysis, etc.",
+            "templates": "Structured templates for each framework",
+            "graded_examples": "Real examples at A/B/C quality levels",
+            "process": "00_INDEX.md - complete workflow"
+          },
+          "status": "bootstrap_canon",
+          "decision": "REC-007 (Danilo canon cluster, but Bootstrap CI protocol is superior)",
+          "notes": "Bootstrap-created protocol is production-ready and contains worked examples"
+        }
+      ]
+    },
+    "m27": {
+      "tup_name": "Customer Research",
+      "opkits": [
+        {
+          "opkit_id": "opkit_m27_icp_analysis",
+          "name": "ICP Analysis Framework",
+          "type": "production",
+          "source_file": "data/m27_customer_research/icp.json",
+          "description": "ICP definition framework with segmentation, archetypes, psychographics",
+          "components": {
+            "segmentation": "Market segmentation matrix",
+            "archetypes": "Customer archetype definitions",
+            "psychographics": "Deep psychographic profiles",
+            "analysis_deliverable": "IonWave/ICP_Analysis.md"
+          },
+          "status": "bootstrap_canon",
+          "decision": "Implicit from REC-007",
+          "notes": "Bootstrap-created framework, validated through persona dialogue"
+        },
+        {
+          "opkit_id": "opkit_m27_voc_protocol",
+          "name": "Voice of Customer Collection Protocol",
+          "type": "production",
+          "source_file": "data/m27_customer_research/",
+          "description": "Mom Test-based interview protocol with playbook, script, questions",
+          "components": {
+            "playbook": "interview_playbook.json - consolidated interview methodology",
+            "script": "interview_script.json - Mom Test-based script",
+            "questions": "interview_questions.json - 28 structured questions",
+            "database": "voc_database.json - quote collection structure"
+          },
+          "status": "bootstrap_canon",
+          "decision": "Implicit from REC-007",
+          "notes": "Mom Test methodology applied, 31 LMNT quotes at saturation"
+        }
+      ]
+    }
+  },
+  "unmapped_tups": {
+    "m1": {"name": "Labor Deployment", "opkits": "TBD - pending migration"},
+    "m2": {"name": "Entity & Legal", "opkits": "TBD - pending migration"},
+    "m3": {"name": "Financial Model", "opkits": "TBD - pending migration"},
+    "m4": {"name": "Fundraising", "opkits": "TBD - pending migration"},
+    "m5": {"name": "Formulation", "opkits": "TBD - pending migration"},
+    "m6": {"name": "Supply Chain", "opkits": "TBD - pending migration"},
+    "m7": {"name": "Regulatory", "opkits": "TBD - pending migration"},
+    "m8": {"name": "Brand Identity", "opkits": "TBD - pending migration"},
+    "m9": {"name": "Ecommerce Infra", "opkits": "TBD - pending migration"},
+    "m10": {"name": "Pricing & Offer", "opkits": "TBD - pending migration"},
+    "m11": {"name": "VSL Production", "opkits": "TBD - pending migration"},
+    "m12": {"name": "Ad Creative", "opkits": "TBD - pending migration"},
+    "m13": {"name": "Media Buying", "opkits": "TBD - pending migration"},
+    "m14": {"name": "Testing", "opkits": "TBD - pending migration"},
+    "m15": {"name": "Landing Pages", "opkits": "TBD - pending migration"},
+    "m16": {"name": "Content & SEO", "opkits": "TBD - pending migration"},
+    "m17": {"name": "Email", "opkits": "TBD - pending migration"},
+    "m18": {"name": "SMS", "opkits": "TBD - net-new from Danilo, no Bootstrap equivalent"},
+    "m19": {"name": "Customer Lifecycle", "opkits": "TBD - pending migration"},
+    "m20": {"name": "Support", "opkits": "TBD - pending migration"},
+    "m21": {"name": "Subscriptions", "opkits": "TBD - pending migration"},
+    "m22": {"name": "Referral", "opkits": "TBD - pending migration"},
+    "m23": {"name": "Influencer & Creator", "opkits": "TBD - pending migration"},
+    "m24": {"name": "Fulfillment", "opkits": "TBD - pending migration"},
+    "m25": {"name": "Bookkeeping", "opkits": "TBD - pending migration"},
+    "m28": {"name": "Market Expansion", "opkits": "TBD - pending migration"},
+    "m29": {"name": "PR & Communications", "opkits": "TBD - pending migration"},
+    "m30": {"name": "Analytics", "opkits": "TBD - pending migration"},
+    "m31": {"name": "Hiring", "opkits": "TBD - pending migration"},
+    "m32": {"name": "School Model", "opkits": "TBD - pending migration"},
+    "m33": {"name": "Governance & CM", "opkits": "TBD - pending migration"},
+    "m34": {"name": "Trade Architecture", "opkits": "TBD - pending migration"},
+    "m35": {"name": "Execution Plans", "opkits": "TBD - pending migration"},
+    "m36": {"name": "Operational Infra", "opkits": "TBD - pending migration"},
+    "m37": {"name": "AI & Automation", "opkits": "TBD - pending migration"},
+    "m38": {"name": "Strategic Frameworks", "opkits": "TBD - pending migration"},
+    "m39": {"name": "Conceptual", "opkits": "TBD - pending migration"},
+    "m40": {"name": "Navigation & Command", "opkits": "TBD - pending migration"}
+  },
+  "migration_notes": {
+    "phase_1_complete": "M0, M26, M27 OpKits registered",
+    "next_phase": "As each TUP is migrated, register its associated OpKits from ops_model_v10_dump/",
+    "extraction_strategy": "OpKits will be extracted from ops_model_v10_dump/ and moved to data/opkits/{tup_id}/ during TUP migration"
+  }
+}

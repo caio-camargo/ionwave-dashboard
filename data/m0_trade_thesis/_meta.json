@@ -61,5 +61,36 @@
     "date": "2026-02-06",
     "description": "TUP migration: Renamed from 01_strategic_foundation to M0 Trade Thesis",
     "bootstrap_file": "01_strategic_foundation"
-  }
+  },
+  "opkits": [
+    {
+      "opkit_id": "opkit_m0_thesis_structure",
+      "name": "Thesis Structure Checklist",
+      "source": "ops_model_v10_dump/1204_m0_thesis_structure.json",
+      "description": "16-field decision-forcing checklist (ICP, Positioning, Product, Distribution, Finance, Kill Criteria)",
+      "decision": "REC-002f"
+    },
+    {
+      "opkit_id": "opkit_m0_computational_pmf",
+      "name": "Computational PMF Observer",
+      "source": "ops_model_v10_dump/137_computational_pmf.json",
+      "description": "10 signals → weighted PMF assessment (No PMF/Early/Achieved/Strong)",
+      "decision": "REC-002b"
+    },
+    {
+      "opkit_id": "opkit_m0_anti_goals",
+      "name": "Anti-Goals Boundary Conditions",
+      "source": "ops_model_v10_dump/115_anti_goals.json",
+      "description": "8 constraints defining what IonWave is NOT",
+      "decision": "REC-002d"
+    },
+    {
+      "opkit_id": "opkit_m0_bifurcation_points",
+      "name": "Bifurcation Points Controller Stack",
+      "source": "ops_model_v10_dump/131_bifurcation_points.json",
+      "description": "Early Warning → Bifurcation → Kill controller stack for 8 metrics",
+      "decision": "REC-002a"
+    }
+  ],
+  "opkit_registry": "See data/opkits/registry.json for complete OpKit definitions and navigation"
 }

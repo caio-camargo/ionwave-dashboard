@@ -35,18 +35,21 @@
 
 ---
 
-## Session 2026-02-06 #6 — Architecture Formalization & MAJOR TUP Migration
+## Session 2026-02-06 #6 — Architecture Formalization & MAJOR TUP Migration & OpKit Registry
 **Source**: Claude Code
 **Status**: Complete
 
 ### Summary
-**Two major accomplishments in one session:**
+**Three major accomplishments in one session:**
 
 **Part 1 - Architecture Formalization:**
 Established CLAUDE.md for automatic session startup. Extracted formal definitions of 11 ontological primitives from Sprint_STAGE_5 document into `standards/Systems_Architecture_Standards.md`. Updated 00_START_HERE.md v2.3.0 with expanded primitives.
 
 **Part 2 - TUP Migration (MAJOR):**
 Completed full migration from Bootstrap file numbering (01-38) to TUP-based organization (M0-M40). Deprecated Bootstrap files, migrated 3 TUPs to JSON, rebuilt manifest.json with TUP codes as primary keys, updated entire dashboard to TUP navigation, updated all documentation. This is a fundamental architectural shift in how the project organizes knowledge.
+
+**Part 3 - OpKit Registry:**
+Created comprehensive OpKit registry linking TUPs to their production support bundles. Registered 9 OpKits across M0 (4 OpKits), M26 (1 OpKit), M27 (2 OpKits). Updated all TUP _meta.json files with OpKit associations. Completed REC-002c requirement to "register OpKit associations per TUP in data layer".
 
 ### Decisions Made
 
@@ -97,14 +100,20 @@ Completed full migration from Bootstrap file numbering (01-38) to TUP-based orga
 | **DOCUMENTATION UPDATES** |
 | 23 | edited | `00_start_here.md` | v2.3.0 → v2.4.0: Complete rewrite of Data Layer section (TUP-based), added Archived Bootstrap Files section, updated Dashboard section (TUP views), updated Finding Things (TUP references), updated Current Work Focus (TUP Migration), added v2.4.0 to version history |
 | 24 | edited | `SESSION_LOG.md` | Created comprehensive session #6 summary with TUP migration details |
+| **OPKIT REGISTRY** |
+| 25 | created | `data/opkits/registry.json` | Complete OpKit registry: 9 OpKits mapped to M0 (4), M26 (1), M27 (2), plus 38 unmapped TUPs. Includes OpKit types (Production/Foundation), component definitions, source file locations |
+| 26 | edited | `data/m0_trade_thesis/_meta.json` | Added opkits array: 4 OpKits (Thesis Structure Checklist, Computational PMF Observer, Anti-Goals, Bifurcation Points) with sources and decisions |
+| 27 | edited | `data/m26_competitive_intel/_meta.json` | Added opkits array: CI Protocol OpKit (Bootstrap canon, superior to Danilo's) |
+| 28 | edited | `data/m27_customer_research/_meta.json` | Added opkits array: ICP Analysis Framework, VOC Protocol (both Bootstrap canon) |
+| 29 | edited | `SESSION_LOG.md` | Updated session #6 with OpKit registry completion |
 
 ### Next Steps
-- [ ] Commit all TUP migration changes and push to origin/main (dashboard will auto-deploy)
+- [ ] Commit OpKit registry and TUP metadata updates
 - [ ] Session #5 remaining items:
   - REC-001 (BCL-2 Money & Legal) — PENDING (margin crisis: 40% vs 67%)
   - Formalize Controller/Observer/OpKit schemas ← **DONE** via Systems_Architecture_Standards.md
   - Reconcile bifurcation parameters with hypothesis kill thresholds
-  - Register OpKit associations per TUP in data layer
+  - Register OpKit associations per TUP in data layer ← **DONE** via data/opkits/registry.json
   - Formalize 10 PMF signals as individual Metrics
 - [ ] Continue migrating remaining 38 TUPs (M1-M40, excluding M0/M26/M27)
 - [ ] Update DOCUMENTATION_INDEX.md with new standards document and TUP migration notes

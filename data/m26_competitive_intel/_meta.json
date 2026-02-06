@@ -45,5 +45,15 @@
     "date": "2026-02-06",
     "description": "TUP migration: Renamed from 02_market_intelligence to M26 Competitive Intel",
     "bootstrap_file": "02_market_intelligence"
-  }
+  },
+  "opkits": [
+    {
+      "opkit_id": "opkit_m26_ci_protocol",
+      "name": "Competitive Intelligence Protocol",
+      "source": "ci-protocol/",
+      "description": "Complete CI workflow: Porter's Five Forces, Market Landscape Map, SWOT, with graded examples",
+      "decision": "Bootstrap canon (REC-007 - Danilo canon cluster, but Bootstrap CI protocol is superior)"
+    }
+  ],
+  "opkit_registry": "See data/opkits/registry.json for complete OpKit definitions and navigation"
 }

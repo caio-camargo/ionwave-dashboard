@@ -86,5 +86,22 @@
       "description": "03A ICP audit and analysis",
       "updated_by": "claude-opus-4.5"
     }
-  ]
+  ],
+  "opkits": [
+    {
+      "opkit_id": "opkit_m27_icp_analysis",
+      "name": "ICP Analysis Framework",
+      "source": "data/m27_customer_research/icp.json",
+      "description": "ICP definition framework with segmentation, archetypes, psychographics",
+      "decision": "Bootstrap canon (implicit from REC-007)"
+    },
+    {
+      "opkit_id": "opkit_m27_voc_protocol",
+      "name": "Voice of Customer Collection Protocol",
+      "source": "data/m27_customer_research/",
+      "description": "Mom Test-based interview protocol with playbook, script, 28 questions, database structure",
+      "decision": "Bootstrap canon (implicit from REC-007)"
+    }
+  ],
+  "opkit_registry": "See data/opkits/registry.json for complete OpKit definitions and navigation"
 }
